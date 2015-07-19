@@ -1,42 +1,0 @@
-Date: Sat, 30 Jul 2005 22:17:42 -0400
-From: <craig.loerzel(-at-)adelphia.net>
-To: type2(-at-)type2.com
-Subject: Camper Converter Issues
-
-I have a 1977 Westfalia that I recently acquired and ran into some auxiliary
-battery trouble on our 2nd camping trip. It appears to be a virtually stock,
-though there is a hook-up for a trailer (..as if I could pull one here in
-Colorado).
-I ran the diagnostics that I could find from bBartno Tekb and may have
-identified the problem, but I wanted run the voltages by folks and see what
-anyone else thought.
-The auxiliary battery in a Marine Deep Cycle battery. Herebs the various
-voltages I recorded with a multimeter:
-
-I plugged into 110V.
-
-City Power on.
-Fridge off.
-Recharge Timer off.
-Battery test shows Good (..multimeter across the terminals of auxillary
-battery 13.8)
-Converter breaker switch on.
-------Voltage from red wire coming out of converter 14.4
-
-Now turn on the charging timer and the same wire tested read 15.2
-
-Keep the timer on and then turn on the fridge, the voltage drops to 11.8
-
-These are all the voltages coming directly from the converter.
-
-So though the manual says you can run the fridge and charge at the same time,
-I think this was the root of my problem. The battery had a higher voltage than
-what was coming from the converter, and so the current ran downhill and
-actually drained the battery.
-
-According to what I could find at bBartno Tekb, when running the fridge
-and charging, I should have 16.5 coming from the converter and heading to the
-battery, and 14.5 heading to the fridge.
-
-So, am I to assume the converter is bad? By the way, I did replace that fuse
-in the back of the coverter to be sure that wasnbt the problem.
