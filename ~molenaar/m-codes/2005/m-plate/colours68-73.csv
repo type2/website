@@ -1,0 +1,45 @@
+;0101..;L 53 H;-;orientblau;-;orient blue;-
+upper;0106..;L 53 H;L 90 D;orientblau;pastellweiß;orient blue;pastel white
+;0202..;L 620;-;savannenbeige;-;savanna beige;-
+;0202..;L 30 B;-;kasanrot;-;kasan red;-
+upper;0206..;L 30 B;L 90 D;kasanrot;pastellweiß;kasan red;pastel white
+roof;0261..;L 620;L 581;savannenbeige;wolkenweiß;savanna beige;cloud white
+;0303..;L 31 H;-;chiantirot;-;chianti red;-
+upper;0306..;L 31 H;L 90 D;chiantirot;pastellweiß;chianti red;pastel white
+upper;0310..;L 31 H;L 041;chiantirot;schwarz;chianti red;black
+;0404..;L 11 H;-;sierragelb;-;sierra yellow;-
+upper;0406..;L 11 H;L 90 D;sierragelb;pastellweiß;sierra yellow;pastel white
+upper;0410..;L 11 H;L 041;sierragelb;schwarz;sierra yellow;black
+;0505..;L 53 D;-;niagarablau;-;niagara blue;-
+upper;0506..;L 53 D;L 90 D;niagarablau;pastellweiß;niagara blue;pastel white
+upper;0510..;L 53 D;L 041;niagarablau;schwarz;niagara blue;black
+;0606..;L 90 D;-;pastellweiß;-;pastel white;-
+upper;0610..;L 90 D;L 041;pastellweiß;schwarz;pastel white;black;
+upper;0706..;L 20 B;L 90 D;leuchtorange;pastellweiß;brilliant orange;pastel white;
+;0707..;L 20 B;-;leuchtorange;-;brilliant orange;-;
+;0909..;L 60 D;-;ulmengrün;-;elm green;-;
+upper;0906..;L 60 D;L 90 D;ulmengrün;pastellweiß;elm green;pastel white;
+upper;0910..;L 60 D;L 041;ulmengrün;schwarz;elm green;black;
+;1313..;L 87;-;perlweiß;-;pearl white;-;available until VIN 218 059 934 of model year 1968
+upper;1706..;L 61 B ;L 90 D;sumatragrün;pastellweiß;sumatra green;pastel white;
+;1717..;L 61 B ;-;sumatragrün;-;sumatra green;-;
+upper;2006..;L 13 H;L 90 D;ceylonbeige;pastellweiß;ceylon beige;pastel white;
+;2020..;L 13 H;-;ceylonbeige;-;ceylon beige;-;
+;2222..;L 610;-;deltagrün;-;delta green;-;
+roof;2261..;L 610;L 581;deltagrün;wolkenweiß;delta green;cloud white;
+;3838..;L 512;-;samtgrün;-;velvet green;-;
+;4141..;L 345;-;lichtgrau;-;light grey;-;
+;4242..;L 282;-;lotosweiß;-;lotus white;-;
+;4343..;L 555;-;tizianrot;-;titian red;-
+roof;4361..;L 555;L 581;tizianrot;wolkenweiß;titian red;cloud white
+;4646..;L 567;-;elfenbein;-;ivory;-
+;4747..;L 50 K;-;neptunblau;-;neptune blue;-
+roof;4761..;L 50 K;L 581;neptunblau;wolkenweiß;neptune blue;cloud white
+;4949..;?;-;grundiert;-;primered;-
+;6565..;L 91 D;-;kansasbeige;-;kansas beige;-
+upper;6506..;L 91 D;L 90 D;kansasbeige;pastellweiß;kansas beige;pastel white
+upper;6510..;L 91 D;L 041;kansasbeige;schwarz;kansas beige;black
+roof;6761..;L 50 H;L 581;brillantblau;wolkenweiß;briliant blue;cloud white
+;6767..;L 50 H;-;brillantblau;-;briliant blue;-
+roof;6861..;L 30 H;L 581;montanarot;wolkenweiß;montana red;cloud white
+;6868..;L 30 H;-;montanarot;-;montana red;-

@@ -1,0 +1,101 @@
+WorkDir: /home/keen/public_html/mrtg/lenti
+IconDir: /
+WriteExpires: Yes
+
+
+XZoom[lenti.type2.com.1]: 1.8
+YZoom[lenti.type2.com.1]: 1.8
+Options[lenti.type2.com.1]: bits
+WithPeak[lenti.type2.com.1]: mywd
+Target[lenti.type2.com.1]: 1:public@lenti.type2.com
+MaxBytes[lenti.type2.com.1]: 1250000
+Title[lenti.type2.com.1]: pon.type2.com xl0
+PageTop[lenti.type2.com.1]: <H1>Traffic Analysis for xl0
+ </H1>
+ <TABLE>
+   <TR><TD>System:</TD><TD>pon.type2.com at verio, Seattle WA</TD></TR>
+   <TR><TD>Maintainer:</TD><TD>root@type2.com</TD></TR>
+   <TR><TD>Interface:</TD><TD>xl0 (1)</TD></TR>
+   <TR><TD>Max Speed:</TD>
+       <TD>1250.0 kBytes/s</TD></TR>
+  </TABLE>
+
+#----------------
+
+Target[lenti.type2.com.cpu]: 1.3.6.1.4.1.2021.10.1.5.1&1.3.6.1.4.1.2021.10.1.5.2:public@lenti.type2.com
+XZoom[lenti.type2.com.cpu]: 1.8
+YZoom[lenti.type2.com.cpu]: 1.8
+MaxBytes[lenti.type2.com.cpu]: 100
+AbsMax[lenti.type2.com.cpu]: 5000
+Title[lenti.type2.com.cpu]: Load Average, 1 minute vs 5 minute
+WithPeak[lenti.type2.com.cpu]: mywd
+Options[lenti.type2.com.cpu]: gauge 
+YLegend[lenti.type2.com.cpu]: Load x100
+ShortLegend[lenti.type2.com.cpu]: .
+Legend1[lenti.type2.com.cpu]: Load Average 1 minute
+Legend2[lenti.type2.com.cpu]: Load Average 5 minutes
+Legend3[lenti.type2.com.cpu]: 1 minute peaks
+Legend4[lenti.type2.com.cpu]: 5 minute peaks
+LegendI[lenti.type2.com.cpu]: 1 Min:
+LegendO[lenti.type2.com.cpu]: 5 Min:
+PageTop[lenti.type2.com.cpu]: <H1>Load Average, 1 minute vs 5 minutes (x100)
+ </H1>
+ <TABLE>
+   <TR><TD>System:</TD><TD>lenti.type2.com at verio, Seattle WA</TD></TR>
+   <TR><TD>Maintainer:</TD><TD>root@type2.com</TD></TR>
+  </TABLE>
+
+
+##--------
+
+Target[lenti.type2.com.cpu1]: 1.3.6.1.4.1.2021.11.9.0&1.3.6.1.4.1.2021.11.10.0:public@lenti.type2.com
+XZoom[lenti.type2.com.cpu1]: 1.8
+YZoom[lenti.type2.com.cpu1]: 1.8
+MaxBytes[lenti.type2.com.cpu1]: 100
+AbsMax[lenti.type2.com.cpu1]: 5000
+Title[lenti.type2.com.cpu1]: Percent of CPU Usage, User vs System
+WithPeak[lenti.type2.com.cpu1]: mywd
+Options[lenti.type2.com.cpu1]: gauge
+YLegend[lenti.type2.com.cpu1]: % CPU Usage
+ShortLegend[lenti.type2.com.cpu1]: %
+Legend1[lenti.type2.com.cpu1]: Percentage of CPU Used by Users
+Legend2[lenti.type2.com.cpu1]: Percentage of CPU Used by System
+Legend3[lenti.type2.com.cpu1]: User Peaks 
+Legend4[lenti.type2.com.cpu1]: System Peaks
+LegendI[lenti.type2.com.cpu1]: User: 
+LegendO[lenti.type2.com.cpu1]: System: 
+PageTop[lenti.type2.com.cpu1]: <H1>CPU Usage, User vs System
+ </H1>
+ <TABLE>
+   <TR><TD>System:</TD><TD>lenti.type2.com at verio, Seattle WA</TD></TR>
+   <TR><TD>Maintainer:</TD><TD>root@type2.com</TD></TR>
+  </TABLE>
+
+#####
+
+Target[lenti.type2.com.msgs]: `ssh keen@pon.type2.com sh ~keen/bin/chkmsgs-t2`
+#Suppress[lenti.type2.com.msgs]: ymw
+Step[lenti.type2.com.msgs]: 1
+XZoom[lenti.type2.com.msgs]: 1.8
+YZoom[lenti.type2.com.msgs]: 1.8
+MaxBytes[lenti.type2.com.msgs]: 1000
+#AbsMax[lenti.type2.com.msgs]: 5000
+Title[lenti.type2.com.msgs]: Type2.com mailing list messages vintagebus vs type2
+WithPeak[lenti.type2.com.msgs]: mywd
+Options[lenti.type2.com.msgs]: gauge 
+#absolute
+YLegend[lenti.type2.com.msgs]: Messages Today
+ShortLegend[lenti.type2.com.msgs]: msgs
+Legend1[lenti.type2.com.msgs]: Number of messages to vintagebus since midnight
+Legend2[lenti.type2.com.msgs]: Number of messages to vintagebus since midnight
+Legend3[lenti.type2.com.msgs]: Vintagebus Peaks 
+Legend4[lenti.type2.com.msgs]: Type2 Peaks
+LegendI[lenti.type2.com.msgs]: Vintagebus: 
+LegendO[lenti.type2.com.msgs]: Type2: 
+PageTop[lenti.type2.com.msgs]: <H1>Vintagebus vs Type2
+ </H1>
+ <TABLE>
+   <TR><TD>System:</TD><TD>pon.type2.com at verio, Seattle WA</TD></TR>
+   <TR><TD>Maintainer:</TD><TD>root@type2.com</TD></TR>
+  </TABLE>
+

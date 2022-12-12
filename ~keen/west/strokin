@@ -1,0 +1,45 @@
+Date: Sun, 8 Dec 1996 19:56:35 -0800 (PST)
+From: Mike West <mwest@cdsnet.net>
+Subject: Strokin' and engines
+
+ I will tell you what I've turned and it fits Bobs description of
+2 stroke 4 cycle. He can nod or ignore us as he is wont to do. :-)
+
+ The only place in engine calcs that "stroke" is a value is in 
+"Indicated Horsepower". ihp = PLAN/33,000.
+
+ Where "P" = mean effective pressure of exploded gases in psi
+
+       "L" = length of STROKE in feet
+
+       "A" = area of cylinder in square inches
+
+       "N" = number of POWER STROKES per minute.
+
+ 
+ It goes on to say: In a four cycle engine an explosion takes place
+on alternate down strokes of each piston. 
+
+ This means the crankshaft makes 2 revolutions for each power stroke.
+
+ Then if we are considering a four cylinder, four cycle engine,there
+will be 4 times 1/2 = 2 power strokes per revolution.
+
+ In an eight cylinder engine there will be 4 power strokes per rev.
+ (end quote)
+
+ Nowhere else will a definition of "stroke" mean squat.
+
+ I know I have been in error, one that carries over from the 8 cylinder
+cars. They are truly "4 stroke".
+
+ Our favorite beastie is a 2 stroke 4 cycle in the engineering sense
+of the word. Knowing that I can calculate a value.
+
+ OTOH many of you will prefer to keep your definitions and that's 
+OK by me.
+
+ west
+
+ 
+

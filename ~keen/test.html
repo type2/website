@@ -1,0 +1,31 @@
+<form method="POST" action="$action?redirect=$redirect">
+<table border=0 cellpadding=5 cellspacing=0>
+<tr>
+  <td>Welcome to $GatewayName.</td>
+</tr>
+<tr>
+     <td align=center height="23">Login: <input type="text" 
+name="user"></td>
+</tr>
+<tr>
+      <td align=center height="23">Password: <input type="password" 
+name="pass"></td>
+</tr>
+<tr>
+      <td align=center height="23"><input type="image" name="mode_login" 
+src="images/login.gif" width="55" height="17" border="0"></td>
+</tr>
+</table>
+
+    <input type="hidden" name="redirect" value="$redirect">
+</form>
+ <p><img src="/images/auth_logo.gif">
+<p>
+<p>
+Login as guest
+<form method="POST" action="$action">
+    <input type="hidden" name="redirect" value="$redirect">
+      <input type="image" name="mode_login" src="images/login.gif" 
+width="55" height="17" border="0">
+</form>
+
