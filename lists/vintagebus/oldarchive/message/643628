@@ -1,0 +1,289 @@
+<html>
+<head>
+<title>vintagebus - The Turkis Turd goes to Detroit</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/643628 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/643628" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/643628" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>The Turkis Turd goes to Detroit</h1>
+   <b>&quot;Brian M. Wittling&quot; &lt;kdfmotors_at_primary_dot_net&gt;</b><br/>
+   <i>1999-06-16 20:42:04+00</i><br/>
+   <br/>
+   <pre>For as long as I've been into VW's, I've wanted to get up to the show in
+Auburn Hills for the Volkswagen of America Headquarters show.   I'd see
+pictures in the rags every year with lots of kewl stuff, and listen to the
+stories of the rockin' good time had the night before with free eats and
+beer provided by VW, live bands, etc.  Every year though, something would
+keep me from going...  unable to get time off work, no money, bus broken,
+etc.  So, with all this free time I've had lately, I vowed that this would
+be the year I make it!  And with the 'Return to the Fatherland" tour
+stopping buy, there couldn't be a better year to do it!
+
+First order of business would be to whip the turkis Turd into shape...
+there was no way I was going to trust that weak, overheating Single-Port
+motor to make the trip (it would be about 1,200 miles round-trip).  I
+decided to put the old Dual-Port engine back in, and just deal with the
+herky-jerky ways of a DP motor for a little while longer.  I started on
+Wednesday afternoon, and planned on leaving Friday.   I pulled the SP motor
+out of the bus, and stripped it down, as I would be needing to use the
+exhaust, fuel pump, some tin, etc from it on the new (old) engine.  I also
+had to prep and paint several new pieces of tin, including a new fan housing
+with working flaps, and head tin pieces.  With the motor out, I wriggled it
+>from the jack and onto a big bucket to use as a platform for mantling.  I
+managed to get the SP long block off, and the DP long block on the bucket by
+myself.  As I was cleaning and assembling as much of the engine as I could,
+I set about painting the new tin.  It was getting to be one of those typical
+St. Louis 98% humidity days though, and after 10 hours under lamps and with
+a fan blowing, the tin STILL wasn't dry!!   The fan housing was the worst..
+still very tacky.  There were also other problems to contend with. I had to
+wait until Thursday to run down to archway, as I was out of gasket sets, and
+I needed a few other odds and ends that I didn't have on hand for a
+dual-port.
+
+So it's now Thursday afternoon, I've got a half-assembled motor, and I'm
+still waiting for the fan housing to dry.  In a marathon overnight session,
+I finished mantling the engine, complete with still sticky fan housing.  One
+problem however, was that it was quite late when I finally finished the
+engine, and I had no help to get the turn-key engine off the bucket and down
+onto the jack!  So I developed an intricate contraption of old 2x4 scraps,
+plywood and levers to get the motor off the bucket, and then dropped it on
+the floor anyway...  I also got quite anal with the fit of the tin, and even
+went to Home Depot for foam insulating tape to refurbish the foam around the
+oil cooler, and seal up the tin around it.   I got the motor in, all the
+electrical hooked back up, the throttle and heat cables, ducts, air cleaner,
+and so on.  At 3 AM, I finally set out on a victory test drive.  20 miles on
+the highway revealed great power, and my heads never went over 350 degrees,
+and my oil was running a full 40 degrees cooler than it used to in this
+engine with all the tin sealed up nice and neat!
+
+Back home I began packing, gave the dog a bath, as he would be going with me
+on this journey, did some last minute laundry, and get as much as I could
+into the bus. With that all said and done, I grab a quick nap for a couple
+hours, and head out to the grocery store, and run a few errands before I
+leave.  My plans were to catch up with the Fatherland tour guys and the DBG
+in Kalamazoo that night, and figure things out from there.  I knew some
+folks were planning on camping at Pontiac Lake recreation area, so I could
+always catch up with them there.
+
+I finally got on the road, and out of St. Louis about 1:00PM.  Weather was
+cloudy and overcast, but at least it was cool out.  At about 4 or 5 though,
+things really cleared up, and got a little warm out in the sun.  I was
+making pretty good time, being able to sustain 60mph quite easily now, and
+even found a couple of semi's driving rather conservatively, and was able to
+draft them for quite  a while.  I appeared to be getting great gas mileage
+too!   Just south of the Chicago area, I stopped for my 1st fill up, and I
+was getting about 25mpg! Woohoo!!  Happy days are here again!   I arrived in
+the Chicago area about 6PM, in near record time for me, and just in time for
+Friday night rush-hour traffic.  The tollway into Indiana was the worst of
+it, driving for I would guess 10 miles or more in 1st gear only, and for no
+apparent reason... no accidents or nothing were to be seen.
+
+I stopped for a light dinner (tuna salad and crackers) at the Michigan
+welcome center about 8PM.  ( I hadn't realized yet that I had crossed into a
+new time-zone).  After un-tangling the dog from a light post he had wrapped
+himself around a few dozen times, I set back on the journey.  My plans were
+to hopefully meet up with the Fatherland Tour folks in Kalamazoo, where they
+were staying at a hotel that wasn't on any of my maps.  Well, Kalamazoo came
+and went, and I never saw any signs or anything for the elusive hotel.  I
+decided the best course of action would be to drive past Kalamazoo and stay
+at a rest area for the night, and surely I would catch them in the morning
+when they drove past.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F643628" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F643628" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F643628" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

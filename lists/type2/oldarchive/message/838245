@@ -1,0 +1,265 @@
+<html>
+<head>
+<title>type2 - Official cry for help.......</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/838245 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/838245" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/838245" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Official cry for help.......</h1>
+   <b>francois cyr <frankcyr45(-at-)hotmail.com></b><br/>
+   <i>2012-05-21 15:31:49+00</i><br/>
+   <br/>
+   <pre>Hello all, ego is bruised, need help..
+i am frank, i am an aircraft mechanic(why ego is bruized, these vw's kicking
+my a$$)
+
+2 x 1979 buses; both 2.0L FI.  2 problems. Ill refer to each as green monster
+and grey westie (its what i normally call them...)
+green monster; backround; complete rebuild (new heads, cyl, pistons,
+CAM.....all is new except case, well crank has brought to machine shop,
+balanced and bearing surfaces polished) i thought it was golden, easy rebuild
+but here is what happened. Go to fire it and realize numnuts who who had it
+before thought he would try to fire it up, story short everything was in the
+wrong place and i came to realize this after many hours with wiring diagram.
+i should mention i put everything back to stock setup, took the time to
+measure my combustion chamber volume and adjust my compression ratio to i
+think it was 7.3 or was it 7.8;1, should have wrote it down...but i know it is
+what the book said i should be at...(aircraft mechanic, book is gospel)
+okay as of yesterday, rewired everything and made sure all is plugged in the
+correct spot, got a new batt, made sure i had a good grn, fired, well started
+with a a lot lifter noise(i figured it was normal since they most likly have
+bleed down over winter after 20 min first cam run)
+he starts, fuel pressure good, 12,56 to coil, double relay doing what he
+should, then i hook up strobe to cyl 1 lead and timing is like 50
+degrees(vaccum line on) and move the dizzy clockwise and try to get timing to
+up....i can barely get it onto the scale!! i then got and awesome idea to play
+with the screw on the mass air flow to try to get a high idle so i can fill my
+lifters as to properly adjst valves.....got him running for 2 min and then got
+a low idle , it would surge(up and down, up and down) and stall. Would then
+restart pretty good and do the same.....runing stock points (electronic points
+coming in the mail) bosch blue coil, fuel pr is 38 psi , 30ish runing. spark
+plug gap and point gap as per bently green book...(oh and dual batt setup)
+question; why is timing so off, why is the engine idle so messed up?
+grey westy; this guy was bought as a parts van but after looking at him good i
+decided to replaced seals on the motor and run him a bit. (honestly i wanted
+to do a diesel swap into this guy) Engine came out, pulled the heads (there
+was a lot of carbon build -up) cleaned the heads, inspected. Jugs pulled off
+to inspect rings, all looked good. So clean, paint, shine, re install, but
+this guy won't start now. Started with fuel, pr is good. Cold start valve, you
+can hear him spraying on start. i figure all vacumm lines are good(got richard
+atwell's vacumm diagram on the garage wall, thanks ratwell!!)
+here's where it get wierd, go to start him yesterday, as i start him all
+lights on the dash go out - crap i got a short. i figured out that as soon as
+i plug my dizzy (green wire to terminal 1 on coil) is when everything goes
+out.....
+question; Has anyone seen this before (i imagine, there is like 1000 years
+experience here.... totally awesome!) dizzy is shorting everything....tried
+the dizzy from the other one and i am getting only 10.5v at term 15. (but when
+i would unplug green wire from dizzy i would get 12.54 v. - reason i tried the
+other dizzy)
+i am going back in the garage later and working on the rats nest of wires in
+the grey westy dash and looking at conections......
+Any ideas on both? i would love to take the family camping once these guys are
+up and running good....... Thanks in advance
+ps/ i have been reading for 2 years now in my emails but never had enough gut
+(and pride)  to ask anyone here for help, this is my first time
+asking...please go easy on me.....</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F838245" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F838245" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F838245" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

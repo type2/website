@@ -1,0 +1,271 @@
+<html>
+<head>
+<title>type2 - trip(long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/463660 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/463660" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/463660" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>trip(long)</h1>
+   <b>Oly &lt;olyo_at_imt_dot_net&gt;</b><br/>
+   <i>2013-05-28 17:18:08+00</i><br/>
+   <br/>
+   <pre>A brief rundown of the trip my sons and I took in our '69 Dormobile over Easter.
+- 10 Apr, planning to leave Great Falls about 5pm, we finally cruise out of
+town at 7:30,    typical.
+- arrive at friend Huw's house in Calgary at approx 0230, a head-wind,
+general uphill grade and not wanting to push the newly broken-in 1600DP, I
+really tested my enthusiasm for my new hobby/lifestyle/vehicle.  I used to
+make GF to Calgary in 4.5hrs in my Ch***kee.
+-Saturday, pick up my mum(she rode the GrayDog down from Edmonton) and head
+out for Edgewater, B.C. on the TransCanada Hwy, #1.
+- Bus is doing well, the uphill challenges to Banff are tough but she takes
+them in stride.  The big test will be after we turn off the #1...A little
+while after passing Banff, there is an exit for Hwy 93, as soon as you clear
+the overpass you know you're in for a haul.  The Green beast makes it up,
+third gear, 30mph, but we make it.  then it's a mixture of up and down
+accross some of the most scenic mountains I've ever witnessed.  
+- Next pass is the hardest pull on the way to Radium Hot Springs, only once
+did I need to drop to second gear, but I did pass two semi's and an S-10 !
+-  After topping out on that hill, you'd better be absolutely sure your
+brakes are tip top, or it's Toad's Wild Ride!
+-My boys finally get to field test the bunks in the Dormobile, to my suprise
+no running in the house in the middle of the night, and they gave the best
+approval possible for the comfort of the bunks, they asked to sleep in there
+the next two nights!  I can't wait to get a camper interior put in there so
+I can participate. (it was gutted when found)
+-  After an awesome turkey dinner in celebration of Easter, a couple of
+trips to the Hot Pools at Radium, a few nature walks and more than enough
+cribbage lessons from my Grandfather, we left Tues a.m. back to Calgary. 
+-  We sailed into Calgary about lunch time, by design, so we can patronize
+the deli co-owned by my high school buddy Craig Watson.  It's Spolumbo's and
+it's awesome!  The Ponzerotti and meatloaf sandwiches are simply incredible.
+-Weds we head to Edmonton, my sister was graduated from the NAITcomputer
+program on the 18th , president of the student association!  The boys and I
+hit the discovery zone, wave pool and various Malls(but not the BIG one.  )
+-Sunday the 19th we have to make the trip all the way back to GF from
+Edmonton, (Iowa tests start Monday). 
+-Smooth sailing 'til Lethbridge, I start to notice a hesitation or 'buck' at
+speed.  especially on an uphill grade.  Nothing obvious jumps out at me when
+I check the engine area, so I press on.  By the time we get home it's
+gradually worsened and I'm too tired to care.
+-I call my guru down in Butte monday morning and he tells me the advance
+plate is likely stuck, I had already checked to see if it was holding
+vacuum.  so I loosen it up with a screw driver and WD-40 per his advice and
+head into town on errands.  It's still running bad, but now gets worse until
+it dies in traffic and won't restart.  I fiddle and looks and fart around
+for twenty minutes and call the Girlfriend to come get me.  While waiting I
+decide to check the points/gap. 
+-Closed!, not even touching the cam in the dizzy!  I must have knocked it
+loose when fooling with the advance.  So I reset the gap, tighten everything
+up and had it running before the Girlfriend arrives!  Another minor lesson
+learned, I'll check stuff like that sooner next time, I was thinking I had a
+fuel problem.
+- the low-down on the big trip, 1700 plus miles, no major malfunctions,
+averaged about 19-20 miles per gallon on the whole trip.  -Any suggestions
+why it's not up in the 25 + range?   
+We love our new/old Dormobile.
+thanks for the indulgence,
+Oly Olsen
+'69 Dormobile 
+olyo_at_imt_dot_net
+or olsens_at_malmstrom.af_dot_mil
+http://www.imt_dot_net/~olyo/index.htm</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F463660" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F463660" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F463660" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

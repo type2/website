@@ -1,0 +1,322 @@
+<html>
+<head>
+<title>type2 - Germany trip report + oil cooler query</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/527069 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/527069" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/527069" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Germany trip report + oil cooler query</h1>
+   <b>&quot;Michael Benthin (MUTS)&quot; &lt;benthin_at_prodigy_dot_net&gt;</b><br/>
+   <i>2001-08-16 03:09:18+00</i><br/>
+   <br/>
+   <pre>John, et al, I got back from Germany visiting my Berlin based sister a
+week ago, and drove enough in 14 days (in a Golf) for 6 tankfuls at like
+80 marks per.  The Golf is pretty peppy (yes I was doing 160kph) and
+steers nicely.  Did hit Wolfsburg, and visited Martin Peitz, who is on
+this list and just moved back after 5 yrs in the States. I couldn't
+believe his full collection of all VW manuals.  He bought a defunct
+winery (buildings) and has lots of room to weld VW busses.   I saw about
+2 bay busses, one splitty,  and lots of Vanagons (at least 2 an hour),
+virtually all with high-tops.  The vacationers must dust off the
+campers, for they were out in force visiting the north shore.  Drove
+through Switzerland also, where there are van campers I never heard of
+(Renault?).  I did take my tent, but at the value of the dollar, I could
+stay in nice hotels with full breakfast for less than what the full
+service campgrounds cost here! 
+Bus  content- my high milage Westy has developed a significant leak that
+looks like oil cooler- looking at a parter engine, it looks pretty tough
+to do the cooler disengaging with engine in- has anyone done this and
+can claim it was easier??   MB 78 Westy
+
+John Anderson wrote:
+> 
+> Well the short form at least regarding Wolfsburg. I had been warned and
+> it comes to bear that the new Autostadt (sp?) display is pretty lame, and
+> it is. Now I don't speak a word of German but from looking at people and
+> body language it seems to me that it is pretty lame to all. Problem is the
+> following you got to do it to see a number of cars that used to be in the
+> museum (the car display in the first building on the left is the only one
+> worth looking at, well the commercial truck display is OK too.) But hey it's
+> only $12 so don't fret too much, just don't blow that much time anywhere
+> else there. You also have to do it to take the plant tour (you ride in a
+> little
+> train thing) which is pretty cool, takes an hour, available in English, all
+> in all
+> worth the $12 I guess.
+> 
+> Now the real museum, here is where it gets good, the transporter highlights
+> IMHO, the 1st handbuilt prototype. A number of fire trucks of various years.
+> The only surviving '78 syncro westy prototype, which I took scores of
+> pictures
+> of how they did (oh some day folks, I've got a lot of the parts already.)
+> This
+> bus was the highlight for me as it is what I went to look at. Oddly it is NOT
+> the yellow bus that was pictured on Derek's old syncro website. It is a beige
+> '78, and is really beat to a pulp and badly rusted, somebody (program
+> manager?)
+> must have enjoyed the heck out of this thing. It rolls on 7x16 truck tires
+> that
+> fit under the stock bodywork with a bit of a lift. Uses U-joints and
+> splined slider
+> axle shafts not CV's. A regular 091 nose shifted tranny modified for power
+> takeoff. A one off front diff for all I can tell, probably housing a stock
+> T2 R&P
+> by the size of it. The steering was able to remain which suprised me but
+> I couldn't tell/see how cause a massive skidplate under the front. T4
+> engined,
+> could not tell what type or induction (decklid locked, but hey I opened up
+> the
+> one on a GAS TURBINE bay for a pic) drum brakes all round. The rear axle
+> was deeply U'd in the center to accomadate the power take off. A '67 bay
+> with splitty front end etc, probably about the oldest bay existant? Lots of
+> neat
+> vanagons, a leather interior lengthened luxury '98 south american bus still
+> pushed by a 1600 amazingly enough. Other commercial VW's. And of course
+> tons of bugs, polo's, passats (the 1st), scirrocos, jetta (the first), and
+> a bunch
+> of neat prototypes (the T3 ghia prototype uglier than even the production
+> version if that is possible.) A 4wd '46 sedan, a kubel and a schwim, but the
+> example in the Deutche Museum in Munich was better ( a GREAT museum,
+> the German "Smithsonian" with great car, aircraft, machinery, sections, the
+> highlight of the trip actually. Neat stainless steel 911, 959 pan and
+> drivetrain,
+> MBZ SS from the day, 300 SLK, auto union racers, and a whole bunch of
+> cool cars.)
+> 
+> Anyway I'd plan at least 2 hours in the real museum, and maybe an 2 in the
+> car and commercial portions of the Autostadt if I needed to do it again,
+> with an
+> hour for the factory tour as well. Someone interested in bugs might take a
+> lot
+> longer, I looked at them quickly. One last highlight of the Autostadt was
+> the fact
+> that incredible rubber floormats for the EV were only $36 the set, with nice
+> prices on mats for all cars, and mudflaps as well. Unfortunately no Vanagon
+> mats. Wolfsburg is in the middle of absolutely nowhere as well, there is
+> nothing
+> in the middle north worth seeing on a short trip and you are still too far
+> away
+> from the maritime museums up at the port cities. But it is well enough
+> situated
+> between the Rhein valley and Berlin. I was based out of Frankfurt and did
+> it on
+> a day trip leaving early and getting back late, would have been better to
+> have
+> gone up, stayed somewhere, and just continued on the way to Berlin, wouldn't
+> be out of the way then.
+> 
+> All in all pretty cool to see the 4 smokestacks of the old powerplant for
+> yourself.
+> Somewhat awe inspiring in a corney VW sort of way.
+> 
+> FWIW on the rest of the trip saw no more than 10 bays, 10 bugs, few Vanagons
+> even oddly enough as well. I take it the TUV gets stuff more than about 12
+> years
+> old off the roads. As a rule across the board Germans were not driving
+> anything
+> older than late 80's. Apparently if you want something cheap you buy a VW
+> Lupo
+> or Opel Corsa or whatever, but you buy it new.
+> 
+> John
+> jander14_at_wvu_dot_edu
+> </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F527069" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F527069" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F527069" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

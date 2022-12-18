@@ -1,0 +1,326 @@
+<html>
+<head>
+<title>type2 - trip report: Seattle to Canadian Rockies</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/530825 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/530825" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/530825" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>trip report: Seattle to Canadian Rockies</h1>
+   <b>rickgo_at_HALCYON.COM (Rick Gordon)</b><br/>
+   <i>1996-07-31 07:08:53+00</i><br/>
+   <br/>
+   <pre>A somewhat longwinded account of the recent week-long I took the EV on.
+Pictures will be posted to the Web page soon. VW content is sparse, but
+present.
+
+Technical Details:
+Total miles: 1761
+Total fuel: 87.6 gals (US)
+Total fuel cost: US$143.76
+Total breakdowns: 0
+Oil consumed: 0
+Miles per day: ranged from 95 to 230.
+Average mpg: 21 (range was 16.5 to 25.3)
+(Best mileage along Hwy 1 from Revelstoke to Golden - probably due to
+nonstop freeway driving; worst was between Osoyoos and Nelson where there
+was a lot of stop and go and big hills; in the Rockies themselves we did
+about 19 mpg.)
+
+The route: from Seattle we took SR2 over Steven's Pass, then north on SR97
+to cross the border at Osooyoos, BC. From there, we took #3 to Castlegar,
+then #22 to Nelson, then #6 to Kaslo. From there we turned west onto #31A
+crossing the pass up near Sandon, then headed north again on #6 until
+Nakusp. From there, northward on #23 until Galena Bay, where to took the
+free ferry across to Shelter Bay and continued #23 north to Revelstoke.
+=46rom there it was a straight shot out #1 to Lake Louise, where we took #93
+(the Icefields Parkway) up to the Columbia Icefield. From there we turned
+around and headed back south to Lake Louise, then south on #93/95 to
+Cranbrook, then west on #3/95 to Yahk, then west on #3 to #6, where we
+turned south and crossed the border back into Washington. From there, we
+continued south on SR31 to SR20, then followed that all the way across the
+state, taking the Keystone ferry to Port Townsend and heading home there
+along 19, 3 and 305.
+
+Where we camped:
+Conconully Lake, Sugarloaf campground (WA) - mosquito ridden, have to
+scrounge for wood, mainly a place for fishermen, free is main virtue.
+Nancy Greene Provincial Park (BC) - by road, nice lake and trail though.
+Convenient when everything else around Christina Lake was full. Lots of
+squirrels.
+Davis Creek Campground - north of Kaslo, nicest place we stayed, right on
+lake. Hot in the daytime. Not much else there though.
+Upper Arrow Lake area  - 23 km south of Revelstoke,mosquito ridden, not
+much there.
+Mosquito Creek Campground, Banff NP - not bad, nice creek
+Wilcox Creek Campground, Jasper NP - nice, near trail and icefield.
+McLeod Meadows Campground, Kootenay NP - hot, mosquito-ridden (worst yet),
+nice creek, trail to Dog Lake which was too hot to go to.
+Curlew Lake State Park (WA) - relatively crowded but enough space between
+spots to make it reasonable. Lots of walkin sites too. Hot showers!
+
+Some miscellaneous observations:
+- - Although I didn't see any oil consumption, I did see fluctuating coolant
+levels, and I seem to have lost a slight amount. The level varied with
+pressure (and I always checked it in the morning), but not in the way I
+expected: it was lower at higher altitudes! It never got more than halfway
+between max/min.
+- - I saw lots of Vanagons, quite a few EVs some of which were campers (even
+a Rialta), and a few buses. I waved at everyone, but only 50-60% waved
+back. Vanagon drivers were the worst. The bus drivers usually flashed me
+the "peace sign". Most EV drivers waved heartily.
+- - Climbing those grades in the Rockies was a real test. Worst cases were on
+th 8% grades where I would have to shift down the 3rd and plug along at
+about 40 mph. That didn't last long though - I usually just popped it into
+4th and pulled the hills at 50+. Considering the conditions, I think the
+van did fine - I very rarely had anyone fuming behind me, and when I did it
+was usually because *I* was behind someone that couldn't drive that fast.
+- - I don't think I saw a single policeman (or woman) the whole time I was in
+Canada. I hadn't really noticed until I got back into the US and kept
+seeing sheriff cars.
+- - I don't think Canadians have an accent, they just correctly pronounce the
+"ou" sound in all the words that we either leave it silent in or take it
+out entirely!
+- - In the inner Kootenay region, apart from Nelson, it was pretty much just
+Canadians vacationing there. That whole area was pretty nice country,
+relatively undeveloped, and relatively unpretentious in its pricing.
+- - Banff/Jasper National Parks are certainly beautiful places, but the
+townsites are awfully crowded. Its kind of frenetic, and everything costs
+extra $ of course.
+- - I collected lots of tourist info from the different areas, much of which
+was pretty useless. A few good maps and campground listings though.
+- - Next time I'll bring an axe. The firewood provided in the Provincial
+Parks is nice, but its unsplit cottonwood and needs to be split to get the
+hotter fire it needs to really get going. My hatchet just wouldn't do it
+sometimes.
+- - Also I'll bring an extra water can: the EV only holds 12 gals and some
+campgrounds did not have potable water supplies. We never really ran out
+but we had to hunt around a couple of times for someplace to refill.
+- - I saw lots of people with rental RVs up there. Don't know what they cost.
+- - Local (Okanagan) paper reporting on how local businesses are leaving an
+Okanagan BC Internet service provider because he provides services for
+white supremacy movements as well. (So I guess those people made it up into
+BC as well.) (But see my comments on Twisp et al below: its not all bad out
+here!)
+
+And finally notes from the trip:
+Crossed mtns via Highway 2, then north to Okanagan. EV made good time.
+Upon leaving headed up through Oroville, take advantage of the cheap hot
+showers at Osoyoos State Park just south of Canadian border. Noticed that
+all the vehicles had BC plates.
+At border crossing, the Sinead O'Conner lookalike customs agent decided she
+wanted to search the van. This after a 20-minute wait. I think this was
+because I said "I hope not" when she asked if I had any pets or animals
+with me. (I was thinking about the mouse droppings we had found in the van
+just before the previous trip.)
+We tried to stay at Texas Creek but after this long meandering road we
+found it to be quite full. (They could of posted a sign!)
+Next stop was some dirt road just east of Paulson Pass. But then we saw
+something that looked enough like it could have been bear scat that we
+decided to push on, and ended up at Nancy Greene. In hindsight, we were
+probably too paranoid.
+Interesting thing - while we were checking out the woods, some Mercedes
+camper van decided to camp just down the road.
+On the 2-meter, via the Nelson repeater I spoke with the first of many
+German tourists, this one some fellow named Wolfgang who flew into
+Vancouver, rented a car there and was driving it to Calgary. Also spoke
+with a local fellow (VE7HEG I think). I was pretty far away but at 4000 ft
+elevation had a good line of sight to the repeater.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F530825" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F530825" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F530825" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

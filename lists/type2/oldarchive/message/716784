@@ -1,0 +1,337 @@
+<html>
+<head>
+<title>type2 - Possible FAQ?  (warning: kinda long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/716784 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/716784" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/716784" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Possible FAQ?  (warning: kinda long)</h1>
+   <b>bachmanb_at_smtpgw1.plk.af_dot_mil</b><br/>
+   <i>1997-08-19 19:06:12+00</i><br/>
+   <br/>
+   <pre>
+     Ron-
+     
+     Here's an idea for another FAQ.   I've taken the basic information 
+     that Ken Lewis (kdlewis_at_juno_dot_com)  posted on Aug 18, and added a 
+     detailed explanation based on my experience (and early-June post) 
+     troubleshooting MY system.
+     
+     ******************************************************************
+     
+     How works the "Dynamic Oil Pressure Sensing" System
+     by Blaine Bachman (blaineoftrains_at_earthling_dot_net) 
+     and Ken Lewis (kdlewis_at_juno_dot_com)
+     
+     PREFACE
+     This is not intended to be a complete guide to troubleshooting the 
+     Dynamic Oil Pressure Sensing System.  Rather, it is intended to 
+     familiarize the reader with the essential pieces of, and logical 
+     operation of the system.  The idea is that once you understand what's 
+     happening (or supposed to happen), you can get out the Vanagon Bentley 
+     Service Manual and follow the troubleshooting steps which span several 
+     pages.
+     
+     BASICALLY...
+     The Wasserboxer engine is similar to most other VW watercooled engines 
+     in that it has two oil pressure switches electrically connected to a 
+     circuit board (behind the tach or clock - often referred to as the "L" 
+     board) which controls the idiot light on the dash.
+     
+     The low pressure switch is located on the left side of the Wasserboxer 
+     engine case, between and below cylinder 3 and 4 and hidden by some 
+     engine tin.  This switch operates similarly to the single switch many 
+     of us are used to from our air-cooled days: when the pressure is low 
+     or zero, the circuit is "made" (closed).  When this happens in the old 
+     Beetle, the ground circuit is made to the idiot light, causing it to 
+     light if the ignition is on.  When the pressure rises above the preset 
+     level, the switch opens, extinguishing the light.
+     
+     On the Wasserboxer, this switch, when functioning properly, opens 
+     between 2.2 and 6.5 psi.  Rather than go directly to an idiot light, 
+     this switch connects to the "L" board.
+     
+     The high pressure switch looks pretty much like the low pressure one 
+     (except for having a different color of plastic end) and is located at 
+     the rear of the engine, above and slightly to the left of the oil 
+     pump.  It's pretty hard to see, and almost impossible to get at, but 
+     it can be replaced with a little work.  This switch works just the 
+     opposite of the typical oil pressure switch in that it is normally 
+     open (does not make contact) until the pressure rises above a certain 
+     level.  On the Wasserboxer, this switch must CLOSE between 10.9 and 
+     14.8 psi.  It also connects to the "L" board.
+     
+     The "L" board takes the input status of the two sensors, plus the 
+     "count" from the tach input and causes the LED to flash and the buzzer 
+     to sound based on an internal "truth table".  The various combinations 
+     are pretty well illustrated in the Bentley Manual, but here's a brief 
+     synopsis:
+     
+     1. When the key is on but the engine not running, the LED should 
+     flash.  If it does not, the circuit to the low pressure switch 
+     (including the switch itself) should be checked.  Problems with the 
+     LED, "L" board, or voltage stabilizer are also a possibility.
+     
+     2. Shortly after the engine is started, the LED should stop flashing 
+     and turn off.  If the pressure at the low pressure switch drops below 
+     the switch's limit (closing the circuit) at any time while the engine 
+     is running below ~ 2000 RPM, the LED should flash.
+     
+     3. Whenever the RPMs pass above ~2000, the high pressure switch is the 
+     focus of the system.  When the "L" board senses the revs above ~2000 
+     and the high pressure switch shut off, it believes that the oil 
+     pressure has dropped below the limit needed to guarantee safe 
+     operation.  To get your attention, it flashes the LED and sounds the 
+     buzzer.
+     
+     If you're having problems with condition 1 or 2 above, probably the 
+     easiest thing to do is to change the oil and filter (reams have been 
+     written on problems with U.S.  made filters on the Wasserboxer - go 
+     with the Mann, Mahle, or VW filter) and the switch.  While you're at 
+     it, do a simple test on the wire by grounding it to the engine case 
+     and checking to see that the LED flashes while the key is turned on, 
+     and that it stops flashing when the wire is ungrounded.
+     
+     Problems with condition 3 are a bit trickier, and can be compounded by 
+     problems with conditions 1 and/or 2.  The first step, is to probably 
+     do the oil/filter change recommended above.  The problem may go away, 
+     but maybe it won't.  Either way, since the high pressure system is so 
+     critical, you should complete the remainder of the troubleshooting 
+     process found in the Bentley Manual.  At any rate, if your LED/buzzer 
+     come on immediately and consistently once the engine revs over ~2000 
+     RPM, you either have a serious oil pressure problem, a faulty high 
+     pressure switch, a bad connection, or a bad "L" board.  If it only 
+     comes on when the engine is hot, you MAY have an overheating problem, 
+     either alone, or in combination with others.
+     
+     PRESSURE SWITCH NOTES
+     
+     In theory at least, all points of a pressurized system should have the 
+     same pressure.  This is generally true in the Wasserboxer, however it 
+     doesn't take a total failure to render a pressure switch faulty.  
+     Weakening of the spring loaded contacts and clogging can also occur.  
+     Both situations are bad for either pressure switch and can cause 
+     erroneous readings at the "L" board and subsequent "false" alarms.
+     
+     As already noted, replacing the low pressure switch is a "piece of 
+     cake".  The high pressure switch is another story.  You pretty much 
+     have to have a 24mm socket.  (Sears' deep socket is too long to fit in 
+     the cramped space, and the normal one is too short to fit on the 
+     switch when the ratchet is inserted - a "half long" socket would be 
+     perfect, but we'll show how you can use the short one).  Further 
+     "icing on the cake" is provided by Bentley's rather cryptic comment to 
+     slide some piece of tin aside to get at the switch - this didn't bear 
+     any relation to reality on Blaine's '91, but may with earlier models.
+     
+     Best way to start is to first remove all the V-belts.  Disconnect the 
+     wire from the switch.  Put the shallow socket on the switch.  Put the 
+     3/8" to  1/2" adaptor on the 3/8" drive ratchet; Grab a hold of 
+     "killer" (the  big, long Craftsman screwdriver that can double as a 
+     pry bar) and use it to push the socket as far out on the switch as 
+     possible but still allow the socket to catch the switch.  Stick the 
+     ratchet/adaptor on the drive end (again, just part way on, because the 
+     terminal is sticking into the drive hole); turn.
+     
+     With any luck it won't fight you on the way out.  The insert may come 
+     out with the switch, but that's a quick fix; just remove it carefully 
+     and thread it on the new switch.  Get the whole thing rethreaded and 
+     tight.  Wire on and belts tight and you're done!</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F716784" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F716784" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F716784" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

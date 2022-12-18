@@ -1,0 +1,321 @@
+<html>
+<head>
+<title>type2 - Love Bug's maiden voyage to EB 2001 VERY LONG!</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/457629 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/457629" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/457629" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Love Bug's maiden voyage to EB 2001 VERY LONG!</h1>
+   <b>Jamie Auch &lt;jamie_at_acvw_dot_com&gt;</b><br/>
+   <i>2001-04-26 01:22:05+00</i><br/>
+   <br/>
+   <pre>    I wasn't going to post a trip report but I had a few inquiring minds
+want to know how the Love Bug's first camping event went.  For those of
+you who are new to the list,  or for any who are interested, The Love
+Bug is a trailer similar to a Puck more like a Cassitta (am I right
+Rick?) which one tows behind a vehicle to camp with.  It was built in'73
+by a company called Tri-Fab in Tripoli, Iowa.  You can see pics at
+http://www.home.earthlink_dot_net/~theauchs/Lovebug.htm.  The trailer weighs
+900 lbs GVW.  My trip started on Thursday evening.  For the two years
+before this years event, I had planned to attend Everybus.  Nothing was
+going to stop me this year.  I told Casey my 5 year old that we would
+hike to the camp out if the bus didn't make it ;0)  Everything was set
+to take off early Thursday and arrive in Harpers Ferry, WV where my wife
+currently resides (I'll follow with my girls this summer, that's a whole
+nother story).  Tuesday the plane start to change.  My lacrosse team's
+game was postponed til Thursday at 4:30.  I was fuming!  Well, after the
+game I hitched up The Love Bug and loaded Casey into Woody my '70
+westy.  The bus pulled the trailer very well for only having a 1600 DP.
+Hills were a bit of a strain but 50-55 mph over hills wasn't too bad.
+After 3-4 hours of childrens tapes I was ready to be in my wife's arms.
+    I got up early, and finished my last minute preparing before I
+headed for Round Hill to meet Jeff S. and the Canadian Connection.  I
+made it there at 10:05 am and they were chomping at the bit to go.  I
+finally got to meet Dave Ireland face to face after about three years of
+correspondence over the net.  We said our hellos and got going to Opal
+for the scheduled meeting place.  After the stop and meeting up with a
+few more buses, we now totaled 11 strong!  This was quite a sight as we
+drove through the Virginia countryside.  We stopped in Charlottesville
+at the Walmart to get goodies and any supplies that we forgot.  Jamie
+Rivers took a quick temperature reading of my bus.  210 degrees, not to
+bad after towing the trailer 3 hours.  I got to buy a HW drag bus while
+we were there!  We loaded up at 2:00 and took off down 29 S.  The drag
+on the Love Bug was quite noticeable as we hit some pretty hefty hills.
+Jeff S. was losing power while pulling his trailer so we ended up
+stopping a couple times to see if a correction could be made.
+    We finally got to Lynchburg where we we scheduled to have a gas
+stop.  I radioed that I was very low and that I needed to fuel up ASAP.
+I was told the gas station was a mile up the road.  I was 1 mile shy as
+Woody stalled out in the middle of an intersection in Lynchburg Rush
+hour traffic.  Tom from PA in his red and black bus stopped and was
+planning to tow me out of the intersection.  Tom's starter stuck, but we
+got it going to back up to Woody and The Love Bug.  I wish I had some
+pictures of a Baywindow towing a baywindow towing a Love Bug! Tom got me
+to the next intersection off the highway, when Sean B. arrived.  Sean
+went to get gas while Tom and I shot the shit and we Casey's photograph
+models.  Sean arrived, gassed up the bus and off we went to meet the
+others.
+    We arrived and discovered that Steve was still not running right.  I
+thought I was losing a little power also, so Sean and Jamie check my
+timing.  Of course I haven't put on my degree wheel yet for my 009 so
+trying to set the timing was a crap shoot!  We headed off and stopped at
+the very next gas station.  I have done a lot of bar hopping in my days
+but gas station hopping?  Steve was still dragging ;0(  I look around
+and there was my wife!  Boy did I ever get ribbed about how we had a 4.5
+hour start on her and she caught up to us <LOL>.  We we ready once again
+to get going and the next thing I heard was that Tom's steering box
+snapped off of his front axle.  Tom had found a good ole boy to rent him
+his shop to do some welding and he said that he would catch up with us
+later.  Well, a couple hours later and only a few miles down the road,
+we were still in Lynchburg.  We ended getting kicked of some guys
+parking lot who said he did not want any press or photos taken.  Who
+knows what he was hiding?
+    We finally headed south again. By that time, we were all ready to be
+there and I went ahead od the pack to use some trucker style driving to
+help get over the hills.  The 1600 pulls well, and Gordon brightened my
+day when he told me how impressed he was at my buses ability to tow the
+Love bug.  I was still having trouble on the hills and it was slowly
+getting worse.  My accelerator pedal had come apart and I radioed the
+carabus to take off without me.  I had my wife following just in case.
+Steve Dolan also stopped, he missed my transmission to go on.  The
+diagnosis was that the hinge pin was rusted in place, there was no
+spring and we just had to wing it.  We got it rigged up and low and
+behold. here rolls in Tom.  He welded up his bus and caught up to us!
+Three buses and a Camry rolled on in the North Carolina night.  We
+arrived at Everybus around 10:00 PM, twelve and a half hours after Casey
+and I took off from Harpers Ferry.  What a day!  But, the camaraderie
+was great and the company a lot of fun.  We rolled into Hagan Stone Park
+to wall to wall buses.  There wasn't much room for many more buses and I
+was afraid we were going to be one of the unfortunate. Jamie River's
+daughter Vicky waved us down and showed us where our carabus set up
+their elaborate camp.  On the way there, I stopped to talk to Dave
+Parsons and Emmet McGovern. The graciously offered me some space but
+maneuvering the Love Bug at night and after the day we had was a bit
+much for this kooky math teacher.(later Dave told me that I was actually
+twitching while talking to him  ;0)  We pulled up along the outskirts of
+our partners on the road and got ready to bed down.  What a pleasure it
+was just to open the Love Bugs door and be ready to camp!
+    Saturday morning came way to early.  I stumbled out of The Love Bug,
+and had my breath taken away by the sight of buses, buses, buses!  Old
+ones, new ones, red ones , blue ones, green ones, yellow ones and two
+tones.  You get my drift.  It was a wondrous sight.  I met some old and
+new friends and the karma was amazing.  Casey and Frannie Potts were
+stuck together like glue all weekend, that made it easy on Christina and
+me. Saturday evening was a blast, with awesome chili and great folks.
+Casey beamed as she received a Coca-Cola splittie HW donated by Dave
+Parsons. The Blue grass band was excellent to end the evenings
+festivities.  I did finally get to retrieve my side tent from Den
+Joliffe after a year and a half.  I was supposed to pick it up at the
+last Everybus but I did not make it.
+This was an incredible experience and I want to thank all for the
+wonderful company especially The Canadian Connection ( Jamie Rivers and
+family, Colli, Greg Potts and family, Dave Ireland, Den and Ev
+Jolliffe), Jeff S. and family, Tom from PA, Howard, Sean B., H. Steve
+Dolan, Emmet and Tracy McGovern and my good buddy Dave Parsons. The
+biggest thank you goes to Chris who should be very proud of organizing
+this incredible event and who I finally got to meet face to face.
+
+What would I do different next year?  Put in a two liter ;0)
+
+Thanks all,
+Jamie Auch
+kooky math teacher</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F457629" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F457629" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F457629" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

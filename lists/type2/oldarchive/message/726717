@@ -1,0 +1,280 @@
+<html>
+<head>
+<title>type2 - GNATT fuel log</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/726717 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/726717" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/726717" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>GNATT fuel log</h1>
+   <b>David Schwarze &lt;des_at_teleport_dot_com&gt;</b><br/>
+   <i>1995-06-24 05:59:38+00</i><br/>
+   <br/>
+   <pre>
+Volks,
+	This is a fuel log from GNATT - hopefully the first in a series of
+summary posts.  I know this probably won't interest anyone except Joel, =)
+but here it is.  I had to squeeze the last two columns into one to fit it
+into an 80 column page, and some info is missing, but the totals are
+accurate.  Noteworthy facts:  1800cc engine, 100% stock with dual solex
+carbs, van weighed 4400 lbs.  Oh, and the first tank of gas was not filled
+all the way to the top, and thus the first mpg figure (15.08) is artificially
+low and not used in the summaries.  It should also be noted that there was
+a lot of driving in high elevations and over steep roads, which was
+responsible for some of the lower mpg figures.
+
+Mileage	gallons	miles	mpg	Average	Price	Octane	Total	Brand location
+						E = Ethanol
+91517 								San Diego, CA
+91683	11.01	166	15.08		1.349		$14.85 		Yuma, AZ
+91871	9.9	188	18.99	18.99	1.339	92U	$13.26 	Exxon Phnix, AZ
+92050	8.07	179	22.18	20.42	1.239		$10.00 Navajo, AZ
+92211	9.7	161	16.60	19.08	1.299	87R	$12.60 	Shell Gallup, NM
+92488	15.34	277	18.06	18.72	1.229	89R	$18.85 Galisteo, NM
+92748	14.75	260	17.63	18.44	1.239	90U	$18.28 Amarillo, TX
+92993	14.14	245	17.33	18.22	1.199	91U	$16.95 	Citgo Ok.C , OK
+93245	13.86	252	18.18	18.21	1.159	91U	$16.06 Joplin, MO
+93486	13.74	241	17.54	18.12	1.219	89U	$16.75 	66 St. Clair, MO
+93638	9.11	152	16.68	18.00	1.169	89U	$10.65 O'Fallon, MO
+93778	9.25	140	15.14	17.78	1.249	89U	$11.55 	Shell O'Flln, MO
+93968	10.7	190	17.76	17.77	1.199	89.5U	$12.83 O'Fallon, MO
+94202	13.18	234	17.75	17.77	1.189		$15.67 Guttenburg, IA
+94468	15.15	266	17.56	17.75	1.239	90UE	$18.77 Jackson, MN
+94726	14.65	258	17.61	17.74	1.239	E	$18.15 Chamberlain, SD
+94900	9.85	174	17.66	17.74	1.439	91U	$14.17 	Amoco Wall, SD
+95096	11.4	196	17.19	17.70	1.389	91U	$15.83
+95303	13.95	207	14.84	17.51	1.319	87.5	$18.40 Near SW SD border
+95554	13.23	251	18.97	17.60	1.209	91U	$16.00 	Cenex Shridn, WY
+95696	7.77	142	18.28	17.62	1.289	88U	$10.02 	Conoco Cody, WY
+95935	3.68	239			1.359	85.5	$5.00 	Exxon Ennis, MT
+96013	14.19	78			1.339	88	$19.00 Butte, MT
+96263	13.87	250	18.02	17.65	1.399	91U	$19.40 	Conoco Klspl, MT
+96419	9.34	156	16.70	17.62	1.399	87U	$13.07 	Exxon St.Mry, MT
+96627	12.64	208	16.46	17.57	1.664	89U	$21.03 	Esso Alberta
+96848	12.09	221	18.28	17.59	1.643	87U	$19.86 	Chevron Gldn, BC
+97057	10	209	20.90	17.70	1.82	Prem	$18.20 	??
+97198	7.7	141	18.31	17.72	1.614	92U	$12.43 Hope, BC
+97356	9.67	158	16.34	17.68	1.189	88R	$11.50 	Gull Pt.Angl, WA
+	10.36				1.159	88R	$12.01 	Arco Olympia, WA
+97777	12.95				1.389	88R	$17.99 BP Newport, OR
+97999	13.55	222	16.38	17.65	1.399	89U	$18.96 Crescent City, CA
+98216	13.33	217	16.28	17.60	1.249	89U	$16.65 Redding, CA
+98416	11.95	200	16.74	17.58	1.259	89U	$15.05 Arco Williams, CA
+98552	7.96	136	17.09	17.57	1.159	87U	$9.23 Arco Manteca, CA
+98759	13.06	207	15.85	17.51	1.199	89U	$15.66 Beacon Route 120
+98923	9.5	164	17.26	17.51	1.269	87U	$12.06 Arco Tracy, CA
+99174	12.85	251	19.53	17.57	1.209	87U	$15.54 Flying J	Lebec,CA
+99374		200
+
+Total miles driven: 	7857	
+Gallons of gas used: 	437.44			
+Average MPG: 		17.57	
+Average Price per Gal: 	1.30821		
+Total gas expense: 	$572.26
+
+-David
+
+============================================================================
+David Schwarze                     '73 VW Safare Custom Camper  (Da Boat)
+San Diego, California, USA         '73 Capri GT 2800            (Da Beast)
+e-mail: des_at_teleport_dot_com           '87 Mustang Lx 5.0           (Da Sleeper)
+http://www.teleport_dot_com/~des       '93 Weber WG-50              (Da Piano)
+============================================================================</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F726717" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F726717" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F726717" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

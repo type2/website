@@ -1,0 +1,338 @@
+<html>
+<head>
+<title>type2 - Trip Report - week III</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/849680 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/849680" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/849680" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Trip Report - week III</h1>
+   <b>J Stafford <sunbus(-at-)sbcglobal.net></b><br/>
+   <i>2009-06-06 00:30:19+00</i><br/>
+   <br/>
+   <pre>20090530 Yellowstone to Grand Tetons
+AM DXing last night pulled in my home station from Los Angeles, KFI.
+West Thumb to South entrance is snowbound.  Lewis L. is closed
+due to 2-4' of snow.  20 mi S. of Yelowstone's South entrance has
+road repair & a mix of bad asphalt and wet dirt/gravel surfaces.
+Stop (-at-) Jackson Lake Lodge for a couple hours.  This place is a
+historical resort with all amenities.  I asked the front desk about
+the weather South of here (Flaming Gorge & Dino.N.M.) and was met
+with the utmost in hospitality and service.  I went up to the grand
+room on the 2nd floor and set about getting caught back up on the
+'net.  30' ceiling, two hearths, bar, grill, restaurant and coffee
+barista, all with full wall size picture window showing the Tetons.
+Put this one on your must-see list if you pass through the area.
+I had lunch in the diner off the main room.  Beautiful cashier from
+Ukraine served me.  She is here for the summer and must go back at
+the end of the season.  Many of the staff here, and Yelowstone, are
+from other states or nations.  Spotted an orange VW Type181 parked
+near the Jenny Lake boat ramp.  Walk around part of Jenny Lake.
+Found tent-only camp (-at-) Jenny L. where tent is mandatory - no vans.
+Camped in Gros Ventre campground $19/basic camp amenities.  Gravel
+patch for parking in cottonwood grove next to Gros Ventre R.  A & C
+loops are open, with the others closed.  Host says moose are camped
+in the E loop and nearby are places to find big horn sheep, bison.
+Natl elk preserve on other side of river.  Rain last night to rinse
+the bus.
+   
+20090531 89, 191 Grand Teton to Rock Springs, WY
+Took the long way back to 89.   NW to Kelley, then N to Antelope
+Flats Rd. Herd of 12? bison 100yds from road.  Cool & wet, no dust.
+Hoback River area is the end of the alpine forest.  Ok 2-lane hwy
+w/passing lanes and turnouts.   Snow capped mountains to the East
+of 191, rolling hills & mesas to the West.  Having left behind the
+pine forest to the N. for a high desert w/sagebrush and few trees.
+Yellow TypeI sighting in Pinedale, WY.  
+HARD rain shower in Eden, WY.  Love the smell of a fresh rain in
+the desert.  The rain brings out the smell of sage and it's cooler.
+Rock Springs KOA reminds me of an RV storage lot (w/hookups). Sad.
+warm in spite of the occasional shower.  Lots of "Simpson's clouds".
+
+20090601 I-80, 40, 189, 89, Rock Springs, WY to Panguitch, UT
+I-80 West sighted a sage green Westfalia going the other way near
+the WY/UT state line.  My 1st bird strike West of Heber City, UT.
+I saw the bird dive in, *donk*, bird went up past the rt winshield
+wiper & over the roof.  POI sht metal betw headlight & turn signal.
+4lane divided hwy of concrete.  Hwy 40, then 189 which has some
+scenic and steep descents into Provo.  I-15, 6 and then 89 south.
+Hwy 89 is two lane & has at least 25 miles of constuction near
+Thistle/Indianola.  Road is in valleys between two mountain ranges.
+Took a break in Manti.  Crossed an immense lawn to photo the LDS
+temple & statuary of J.Smith.  Hungry mosquitos rise from the lawn
+with every step. I thought they were tiny grasshoppers.  10+ bites.
+Took a break in lt rain and as I left Manti, I noticed banners on
+light standards with Rat Rink Reunion & R.F. in all his green glory.
+The reunion is this weekend.  I just missed it by only a few days.
+http://www.ratfink.org/events/
+http://www.bigdaddyroth.com/nonflash/Events/
+I was eager to get away after donating blood on the temple lawn.
+Stopped in Panguitch KOA for the night.  Nice camp, but next to a
+residential area.  Hosts have clamped down everything, incl combo
+lock on the restrooms and encrypted the internet access.  A tight
+ship.  Checking engine ign timing & it's retarded.  Dwell is 55,
+so I file the points gap flat and set it to 0.4mm.  Timing 7deg
+w/timing light ('78 2.0L GE engine) and it's a bit more "frisky".
+Noone complains about my auto maintenance in camp, so perhaps the
+camp hosts are more tolerant than at first thought.
+More AM DXing, picking up KNX (L.A.) and KOA (Denver) tonight.
+Going to explore Bryce, Kodachrome Basin, and Zion tomorrow.
+
+20090602  89, 12, 9, I-15 Panguitch, UT to Las Vegas, NV
+Up and out shortly after sunrise, as usual.  Air up tires and refuel.
+Decided to hit Bryce Canyon NP first & it's a good call.  $25 entry
+fee.  Most of the vistas are with 0-4 tourists.  Until the buses
+show up after 9am. Loads of tourists pour out of tour bus after tour
+bus.  Gladly, I have seen the vast majority of the park.  Two bikers
+take an interest in the bus.  They are originally from Germany,
+now living in NC.  They flew in and rented the bikes.  One said he
+had a white '73 Westy in Germany and that many put the painted MBZ
+hubcaps on, because they fit.  He owned many buses and the last as
+a T4.  Also, he commented that while in Tunisia, he found the T2 bus
+was one of the favored vehicles there for their utility/durability.
+Heading East on 12 to Kodachrome Basin SP.  I took one dirt-road
+adventure and came upon a bicyclist and her 3 dogs.  She told me
+that I was lost.  I told her I was not in that I had found what I
+was looking for - a place without asphalt & power lines. I think she
+may have not wanted to share this place & I can't blame her.  We bid
+each other a good day and went our ways.  I soon found a place with
+seemingly few living residents.  Georgetown, UT est 1877.  Graveyard.
+Heading back toward Bryce on 12, I found a small stream near the
+Mossy Cave trail.  Forded the stream barefoot and had a nice solice
+on the other side with noone around.  Very peaceful with only the
+sound of the running stream, sunshine, clouds, rocks.  I need to
+come back to this area and explore it more thoroughly.  
+Zion N.P. dropped another $25 on park entry fees. (Wonder of this
+is a tax deductible expense?  I suppose it's for a good cause, for
+future gen.) There have been alot of changes since I was here in the
+early '90s.  You can no longer drive your car to the deepest parts
+of the canyons in this park.  You have to park (-at-) the visitor center
+and board a tram.  Temp was in the 90s and I decided to forego the
+tram ride and had my fill after traversing as much of the park as
+I needed.  Made hiking trips using the turnouts as trail heads.
+On the way to Las Vegas, there was a gusty cross wind.  Found 20 mi
+from Vegas was the hwy 93 exit.  This is route I took over two weeks
+ago on my way to MT.  It's hot as hell in Vegas, so I cave and stay
+(-at-) the hotel I stayed at before.  It's near Nellis AFB nd I cannot
+miss the B-1s and F-18s flying around - loud. Making one last leg of
+this journey in the early AM to hopefully beat the predicted high
+heat & crosswinds.
+
+20090603 I-15 Las Vegas, NV to Costa Mesa, CA
+Southbound at 6am.  Lots of I-15 construction in N.Vegas.  I find a
+blessing in the heavy overcast sky and 75F temps.  Little to no
+crosswinds and no stopping for 200 miles.  Ice/hail falling as I take
+the grade down the Cajon pass near Rancho Cucamonga, CA.  I can see
+thunderheads and their dump of rain in the distance.  Also, 500' or
+so off the ground is a cork colored cloud - smog.  As I get down off
+the pass, I can smell it.  Like entering a smoke-filled room I sense
+smoke, b.o. and chemicals.  An icky, greasy feeling that makes me
+want a Silkwood shower when I get home.  Turns out some harsh storms
+have come through the SanBernardino mts overnight.  Lightening has
+touched off some brush fires.  Took the 210 fwy to the 57, 5, 55 &
+405.  Right thru the 'Orange Crush', a tangle of freeways in Orange
+County.  No traffic here at 11:am, which is also a blessing.  All
+in all, this has been a pretty troublefree an enjoyable journey.
+Now at home in Costa Mesa, I can get settled back in.  Download over
+900 photos, unload the bus, do some laundry and get my act together
+for work in the am.  Welcome home my friend the bus.
+
+-Jack '73 Westfalia</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F849680" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F849680" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F849680" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

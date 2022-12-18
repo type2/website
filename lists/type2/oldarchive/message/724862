@@ -1,0 +1,376 @@
+<html>
+<head>
+<title>type2 - Re: response as promised</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/724862 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/724862" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/724862" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: response as promised</h1>
+   <b>Barbara Sutton/Cris Torlasco &lt;bsutton_at_gladstone.uoregon_dot_edu&gt;</b><br/>
+   <i>1997-06-19 06:14:27+00</i><br/>
+   <br/>
+   <pre>Martha wrote:
+> 
+> Editorial - note: you have free will, at least in your own mail
+> box.  If you don't want to read this, I assume you can choose
+> to hit the delete key. J:)...
+> 
+> Firstly, thanks to many of you who sent what info you had to the
+> mailing lists, and to me privately.  As adamant and with good
+> support as many of you were about why it's not OK to burn plastic
+> bags, I must tell you that an equal amount of mail came to
+> me (more privately than on the list) citing reasons for why
+> the burning of plastic bags is not particularly significant.  Extra
+> points to those of you who kept your arguments objective.  :)  An
+> odd thing was the inverse proportion of loud rambling to
+> back up statistics, but that's not for now.
+> 
+> I promised publically and privately I'd respond to what came in.
+> I'd like to point out that I'm a musician, not a scientist, but
+> I've tried to be as left-brained as possible in understanding
+> the info you sent.  Thanks to all who
+> contributed, both publically and privately.  People as I who question
+> whether a seeming politically correct philosophy might be hyporitical
+> are bound not to be popular.  Please be mindful that I
+> was putting out food for thought, not trying to put
+> someone down.  For whomever's feathers were ruffled by
+> this, I'm sorry; it was not my intent.  I embarked on this only to explain
+> my own philosophy and to question what I saw as a paradox.
+> 
+> Firstly, I should have made clear what kind of
+> plastics I was talking about specifically.  It seems that burning
+> styrofoam is about a 10 on the richter scale, but that these bags
+> are about a 1.  I'd also like to point out that I don't believe
+> any styro burning took place at our campout, nor can I recall that
+> any of us have brought these kinds of cups particularly to
+> past campouts.  I was not aware that plastic utensils do
+> not fall into the same category as plastic bags, am now
+> educated about that, and therefore won't burn them.
+> 
+> Secondly, I'd like to remind 2 of you that I did not post
+> that I felt because one sort of pollution was taking place, that
+> it was OK for another one to.  My comment had to do with
+> questioning the paradox - of honestly wanting to know
+> how significant burning plastic bags is in comparison to
+> burning fossil fuels, using vehicles recreationally, and/or
+> burning campfires.
+> 
+> One argument which surfaced with heated emotion was that
+> it's acceptable to pollute the environment a little if we
+> derive pleasure and fun from it - like it's OK to drive a
+> car, have a campfire, and burn magnesium.  But that since we
+> don't HAVE to burn plastic bags, it should not be done.  I'm still
+> thinking about this:  if the politically correct concern here
+> is for the environment, then we should be hiking and backpacking
+> in, not driving.  And there should be no campfire.  And we
+> should all be burying our bowel movements, no?
+> 
+> That a few didn't like the smell is a point I hadn't considered
+> and I apologize if our burning of plastic invaded your
+> ohlfactory sensitivities.  On those grounds, I'm happy not
+> to burn plastic bags around you.
+> 
+> If burning these bags destroys the ozone, this is not good - but
+> make sure if you don't burn bags for this reason that you also don't use
+> anything else which contributes to the problem like enjoying
+> all but ultra-modern air-conditioning, or charcoal lighter fluid.
+> 
+> A strong point was made by 2 other people that burning plastic bags,
+> indeed several other types of "garbage" becomes more
+> non-hazardous at high temperatures.  Perhaps we should
+> burn our trash on the magnesium, which burns at 5KF?  Dunno.  I'm
+> interested in finding out more about this, since the entire
+> city of Munich, Germany, apparnently produces much electrical
+> power by burning trash at high temps in town, much like they heat
+> their homes burning wood at high temps in masonry heaters.  And I
+> learned that Denmark makes enough hot water for the entire
+> country solely by burning trash, including plastics.  Again,
+> both are done at high temps.  It seems that if burning these
+> materials causes cancer "without a doubt" as one person posted,
+> that large cities in Europe will be quite vacant very soon.  Again,
+> I would like to know more.  The fact that people do something
+> in large groups doesn't make it right, it's just not to be ignored
+> that their cancer rates are not higher than places
+> where this is not done.  Again, maybe this is time-related.  But
+> if so, won't our cars and woodsmoke get us, then, too?
+> 
+> Some of you echoed that putting the plastic in the
+> landfill could be worse for the environment than burning it
+> at high temps.  As I said, and as some of you did, too, recycling
+> it would be fine, especially if we can prove that this is
+> preferable to burning it at high temps.
+> 
+> It was brought to my attention that a few people do not
+> wish to attend future CCC's campouts if I plan to be there.  My
+> suggestion to this is that I'll be clear about which activities
+> I plan to attend, or not (have I ever been otherwise?).  If I
+> do plan to attend, I'll try to remember to put out a disclaimer
+> that our group has been known in the past to contribute to
+> polluting the environment - by burning campfires, driving
+> vehicles, burning magnesium, and plastic bag incineration.  If
+> that's offensive, perhaps we'll have to have campfires on
+> opposite ends of the grounds, or just 2 trips?  The "we can
+> tolerate busgirl group," and the opposers.
+> 
+> Yes, people,
+> I invited the group to fireworks.  The audience will be
+> 10K people.  They will make sewage.  They will undoubtedly
+> impact the ozone in some way or another.  Particulate
+> matter will spew in your air.  Oops, sorry, maybe that
+> one is OK, because fireworks are "fun?"  :)
+> 
+> One person felt my arguments had no validity and that I simply
+> was posting simply out of being stubborn.  Apparently I
+> exhibited stubborn-ness on one other CCC's event, too.  I
+> suppose anything I do to address that issue will simply
+> add fuel to the fire, so I won't.
+> 
+> Let's be honest, volks - are some of you standing under one
+> arm of a branch of political correctness, when the REAL issue
+> here is one of restricting personal choice?  If the argument is
+> that you don't want to be doing this to avoid harming the
+> environment, you shouldn't be driving and having campfires, either.
+> I can't stop any of you from doing with things whatever you
+> wish, nor would I if I could.  If you don't like what I'm
+> doing to the environment, make damned sure a finger can't
+> be pointed at you, and next time please pick an issue
+> a lot bigger than plastic bags.  This threatens to
+> turn into a case of political correctness out of control.
+> Can it be that it's considered acceptable to jump on
+> the bandwagon of political correctness, without stopping to
+> think about it?  Is it truly OK to damage the air with
+> one thing for fun, but not another which isn't?
+> 
+> The bottom line is:
+> if the end is to not impact the environement, a LOTJof the group
+> is guilty of things much worse than burning plastic bags, and
+> much of it not at our campouts.   Reminds
+> me of the story I told a few of you - of the person insisting
+> on becoming a vegetarian because of being opposed to animal
+> cruelty.  Then looked down and saw their leather shoes.
+> 
+> I suggest,too, that we not start a military patrol over this.  If
+> this starts, you won't have to ask me not camp with you.  I too suggest
+> that any burning of "offensives" be done late at night over the high
+> heat of magnesium to offer the possibility of more complete
+> combustion.  I for one will agree not to burn plastic bags in
+> the daytime, and not to burn them around children or food.  If
+> you are offended at the proposed late-nite burning, it seems
+> to me you could park your van farther away, not sit by
+> the fire, not stay up late, or simply do as 2 others have
+> promised:  not go camping when I'm there.
+> 
+> /m
+Hi Martha:
+I've been in the CCC list for the last couple of months, hoping to some
+day, when you guys decided to camp on the very north side of California,
+I could join you. (I live in Eugene, OR.) The group sounds like fun, and
+share two of my biggest hobbies, camping and VW's. However, reading
+about your views about the plastic burning issue made me change my mind.
+Without even considering the scientific data that puts plastic burning
+as a bad idea for the environment, consider the following: If there is
+even a small doubt that burning plastics in a campground will pollute
+the environment and create unwanted odors, why do it? It can be THAT
+much fun... I don't think I would enjoy being part of a group that
+allows such irresponsible acts to happen, just for the fun(?) of it.
+Sincerely,
+Cris.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F724862" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F724862" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F724862" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

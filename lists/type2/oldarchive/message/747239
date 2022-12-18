@@ -1,0 +1,289 @@
+<html>
+<head>
+<title>type2 - Do You Love Your Bus? (VL, very soppy, paean of praise to my dead bus)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/747239 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/747239" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/747239" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Do You Love Your Bus? (VL, very soppy, paean of praise to my dead bus)</h1>
+   <b>dworkin_at_ari_dot_net (H Steven Dolan)</b><br/>
+   <i>1996-05-11 17:59:28+00</i><br/>
+   <br/>
+   <pre>Went over to my folks this evening (Mothers Day tomorrow, and they are going
+to my bro's) to have dinner with them.  While dinner was cooking I was
+talking with the folks about my new ('73) bus and my mother asked "So, do
+you love this bus as much as you did your old one?  Well, that, brought on a
+reverie on "The Luggage", my old ('78) bus, that died recently and the
+intermediate '79 that I used to get my near-new engine back from the
+accident scene in St. Augustine, FL, and the '73 Westy I am now the owner
+of.  Mostly we talked about the process of bonding with a car.  I know this
+is a bit long, but I thought I would share some of it with y'all.  
+
+The Luggage was a yard bus when first I saw her, parked across the street
+from my folks place, at the top of a very steep driveway.  She sat there for
+4 years that I know of.  The PO had failed to adjust his rear brakes and the
+poor beast had backed herself down the hill into a tree some time before I
+first saw her.  That did in the rear end pretty thoroughly, to the point of
+crushing the air box on the back if the engine.  The PO would come across
+the street from time to time as I worked on my bug and pitch her virtues to
+me from time to time (low miles, no rust, easy to fix), but I was always a
+bit too broke and happy with Joseph, my  "bug of many colors" (a completely
+different story).  
+
+Finally, he came over, said he was moving and if I wanted her, she was mine
+for $200, but I had to get her out of there in a month.  I bit.  Scrounged
+up a junk engine, put the air box and exhaust system on her, a little WD-40
+down each spark plug hole, and she started!  Took her home and began a
+thorough going over.  Right at the beginning I zero'ed all the maintainance
+items and replaced both rear doors.  Took care of the bent rear middle bar
+by the rather simple expedient of attaching a cable to a tree and driving
+away. BANG! and it was straighter! Three or four trips away from the tree,
+and the rear door latched pretty good (though it always did leak a bit).
+
+In the next six years I put over 100K miles on The Luggage.  Good miles.
+Great miles.  We went 'round the country twice, both times without major
+problems (who counts clutch cable breakage as a problem?)  I got to know her
+ways, she got to know mine, and we had a damn fine relationship.  Certainly
+the best I have ever had with a car, maybe the best anyone has had with a
+car (maybe you think otherwise?  Wanna fight?)  Drove her to the top of the
+coastal range just west of Ferndale, CA, opened the sliding door and sat
+there watching the eagles soar in the pass.  Drove up a dirt road to the top
+of butte over looking Zion NP and saw not only the park, but "a little
+western flower, once white, now purple with love's wound".  Drove her to the
+top of Reddish Knob on the VA/WV border and laughed at the 4-wheelers who
+said that wasn't possible, then drove down a stream bed into WV that was too
+rough for them.  Drove throught the Badlands at -40 in January with my down
+sleeping bag unzipped at the bottom to work the gas and tucked under my arms
+at the top.  I did damn near everything you can do in a car in that car and
+enjoyed the hell out of every minute of it.  Even at the last, she skidded
+left to crush the passenger side nose and save me from broken legs.  Loved
+that car!
+
+The intermediate bus, a '79, was bought in a rush.  I wanted to save the
+engine, the tires, and a couple of near-new replacements I had recently
+made, but was unhappy with this body even as I bought it.  Though the frame
+turned out to be solid, this bus was a rust bucket from get-go.  Bought
+under duress, loaded with gewgaws, this was not a bus I would have bought
+under normal circumstances.  Worse, as I pulled out of the shop, the front
+brakes siezed and I had to go back amd have The Luggage's calipers switched
+onto it.  The drive back from Florida was hell.  The gas tank turned out to
+be full of rust and clogged the fuel lines.  Drive 30 miles, rest 30 minutes
+at the start, it got worse and worse as I travelled north.  The poor thing
+finally died 50 miles south of DC, and I had to call for assistance.  I got
+home 30 hours after leaving Florida, in a friend's car.  By that time, had
+it been pristine, low mileage, and gold plated; I still would not have had
+that car.
+
+Finally the current question, "Do I love this bus as much as my old one?"
+Well, I don't think I do.  I don't think I can.  Over time I may get to know
+and love this car too, but not as much, and not in the same way.  First she
+hasn't named herself, yet.  I don't name 'em, they do that themselves, and
+if they don't, they are just cars.  Second, my financial situation is
+nowhere near as good this time around and she is on the road held together
+by duct tape and baling wire at this point, though I have promised her a
+complete going-over ASAP, and she has been understanding beyond all reason,
+so far.  To an extent, she is closer to the car of my dreams (she's a
+Westy!), but the wrinkles in her floor remind me of what I could have done
+for the Luggage, had I been closer to home.  Maybe over time, I will get her
+out west and show her around.  Certainly the bed will be more comfortable
+than the rubber floor mat with my feet tucked between the front seats.  I
+dunno, give me a year or two to find out.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F747239" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F747239" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F747239" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

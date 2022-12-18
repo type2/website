@@ -1,0 +1,309 @@
+<html>
+<head>
+<title>type2 - Convoy travel safety</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/693083 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/693083" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/693083" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Convoy travel safety</h1>
+   <b>Lawrence Johnson &lt;ljohnson_at_halhinet.on_dot_ca&gt;</b><br/>
+   <i>1997-02-11 21:54:26+00</i><br/>
+   <br/>
+   <pre>To all Listees:
+Last year I found an article that discussed travelling in convoys. It
+was so good that I saved it. With all the talk recently on group trips,
+I thought it may be of interest.
+Larry
+'86 Syncro Westy
+__________________________________________________________________
+"Trying to follow someone along an unknown route can be dangerous"
+TORONTO STAR OCT 12, 1996 
+Author is freelance journalist Jim Kenzie, Toronto Star Wheels'chief
+automotive reviewer.
+	"Follow that car!" A movie cliche, to be sure.  But something we have
+all experienced, either as the follower, the followee, or both.
+	Have you ever considered it a potential disaster?
+    	At a driving safety conference organized by the Automobile
+Journalists Association of Canada a few years ago, Sue MacNeill, a
+driver trainer and driving psychology expert from Ottawa, related a sad
+follow-the-leader story. 	One of her driving students got her licence so
+she could work for a car dealership in a nearby town.  One of her
+responsibilities was to ferry cars back and forth between the company's
+two stores, a couple of hundred kilometres apart. 	On her first such
+assignment, she and another member of the staff were, delivering two
+cars.  The young girl had never driven this route before; the more
+experienced staffer simply said, "Follow me!"
+   	MacNeill described the young girl as "timid" to begin with. Add in
+the fact that she didn't know where she was going, was driving a
+brand-new, large, extremely powerful and entirely unfamiliar car and her
+desire to do a good job, and her nervousness quadrupled.
+	On the road, she obviously worried about losing touch with her leader. 
+If a car passed her and separated them, she then felt compelled to pass,
+to keep the other car in her sight. 	On one occasion, she pulled out to
+pass - right into the path of an 18-wheeler which, in MacNeill's's own
+words, "flattened her".
+	When MacNeill put on her psychologist's hat, she noted the girl's
+"perceived" risk - that of getting lost overwhelmed her "objective"
+risk  - that of having a collision. 	MacNeill said she'll never again
+conduct a driver training program without emphasizing the difference
+between these two categories of risk.
+	There is a lifetime of Carte Blanches (ed. Column Title) to be written
+on driving risk perception and management I want to concentrate today on
+the follow-the-leader issue.
+	I've personally played Mother Duck to hosts of ducklings on my driving
+tours to Europe. Perfect scenario for danger. The guests are driving
+unfamiliar, fast cars in cities they've never been in - and the street
+signs aren't even in their language.
+	A number of strategies have evolved to deal with this danger, if you're
+ever in a follow-the-leader situation, perhaps these can help.
+		First: increase knowledge.
+	Go over the planned route, preferably with detailed maps.  In cities,
+count the traffic lights as accurately as you can, and supply estimated
+distances between major turns.  Note landmarks, such as parks or large
+buildings. If at all possible, it helps to have a navigator in the
+ducklings' cars, so the driver can concentrate on dealing with - yes,
+the "objective" risk - avoiding a crash.
+	In daytime situations, make sure everyone has their headlights on.  In
+Canada, most cars have daytime running lights, but since these are
+usually low intensity high beam without taillights, switching on the
+regular lights will make it easier still to distinguish members of your
+fleet from the run-of-the-mill.
+	The most fail-safe following strategy is the so-called convoy
+procedure.
+	Every car is responsible for keeping the car behind in full view in the
+rear-view mirror.  Theoretically, any car that is held up for any reason
+will cause the convoy to gradually slow down until they're all in sight
+again. Problem: In my experience, it's a rare group of drivers who have
+the discipline and faith in their fellow pilots necessary to make this
+work. Plus, forcing drivers to focus so much on what's behind takes away
+scarce attention-span resources from what's ahead.
+Considerable - perhaps the entire - responsibility falls on the
+shoulders of the leader.  You must abandon any hope of driving briskly. 
+This isn't about fun; This is about getting a bunch of people safely
+through foreign territory.
+	For example, if there's any doubt at all that you can make it though a
+green traffic light, slow down and wait for it to change to red.  If you
+can't do this without endangering non-convoy traffic, get through the
+intersection, pause at the next available safe and legal stopping point,
+throw on your four-way flashers and wait until your convoy catches up to
+you.
+	Likewise with lane-changing on the freeway.  It's tempting to make a
+move to gain a few car lengths.  But if your entire convoy can't make
+the same move with ease, one or more of them may panic and get out into
+the passing lane just as you're signalling a turn to make an exit. 
+Yikes.
+	Most important, let your convoy know in advance that you're going to
+follow these strategies.  Convince them that you won't abandon them, and
+tell them that if they do get delayed, you encourage them to continue to
+employ proper driving practices - look well down the road (this way
+they'll probably be spotting convoy members two or three cars ahead of
+them, rather than fixating on the rear bumper of the guy directly in
+front).
+	Also, make sure they maintain proper distance between cars.  While they
+may fear - as MacNell's student did - that another car may pop in
+between, and separate them from the convoy, they should have enough
+confidence in your leadership that they'll know you won't leave them
+behind.
+	So far on my tours, only a few ducklings have become temporarily lost. 
+But they've all returned eventually, damage to neither car nor body. 
+Because if you employ proper driving techniques, safety just, um,
+follows.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F693083" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F693083" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F693083" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

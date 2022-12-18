@@ -1,0 +1,337 @@
+<html>
+<head>
+<title>vintagebus - Orange DC in San Jose</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/672137 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/672137" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/672137" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Orange DC in San Jose</h1>
+   <b>Harry Houck &lt;harry.houck_at_comcast_dot_net&gt;</b><br/>
+   <i>2004-08-22 18:21:50+00</i><br/>
+   <br/>
+   <pre>The '63 orange doublecab I've been driving daily for 5 years is now with 
+a new owner in the San Jose area. He'll keep some of the orange and add 
+a two tone scheme. It was a good truck and made many trips to shows in 
+addition to the daily drives. I hope to see it again. Four vintage buses 
+have shared the driveway with it, a '60 DC, a '65 21 window and a '66 
+camper, now there are none. Next project is to finish the '74 Thing and 
+sell it to make room to finish the '79 Deluxe Westy.
+I inherited a farm truck from my father-in-law, big enough to tow a bus 
+with it's propane powered V8. Oh, and it's orange/yellow too.
+
+Here's an amusing toy, www.googlism_dot_com, with output for "Volkswagen". 
+Try it with your name.
+
+Googlism for: volkswagen
+
+volkswagen is at vw
+volkswagen is ready to rock with nationwide college music ed
+volkswagen is
+volkswagen is the leading exporter of vehicles from south africa
+volkswagen is tops with european fleet buyers
+volkswagen is also introducing a completely new six
+volkswagen is redefining customer relations? "volkswagen heads towards 
+emotionalization
+volkswagen is participating in johannesburg
+volkswagen is about to launch an 'e
+volkswagen is actively involved in dialogue with environmental 
+organizations and in joint business initiatives
+volkswagen is also committed to other upcoming sponsorships with 
+atomfilms that reinforce the type of carefree and fun lifestyle that it 
+provides to the vw
+volkswagen is also a co
+volkswagen is offering free alloy wheels on golf gl and gle as part of a pre
+volkswagen is inviting the public to the launch of the much anticipated 
+new beetle
+volkswagen is connected to the following things
+volkswagen is entering the luxury car market
+volkswagen is an individual one
+volkswagen is not yet a reality here in north america
+volkswagen is setting its expectations accordingly
+volkswagen is a business competing in one of the industrial world's most 
+complex industries
+volkswagen is used
+volkswagen is attempting to see if it can move its brand up into the 
+luxury segment
+volkswagen is synonymous with personality and differentiation
+volkswagen is the first automobile manufacturer to draw up a complete 
+itemised material balance for its golf a3 and the lupo 3l tdi models
+volkswagen is in the process of reinventing itself
+volkswagen is offering a free extended warranty on all transporters sold 
+between 1 february 2001 and 31 march 2001
+volkswagen is doing today
+volkswagen is one of the most active participants among the main global 
+car makers at the world summit
+volkswagen is surpassed only by the pleasure of driving one
+volkswagen is still a volkswagen
+volkswagen is even said to be mulling a four
+volkswagen is just such a leader
+volkswagen is currently the only manufacturer in america to offer a 
+diesel engine in a passenger car
+volkswagen is the
+volkswagen is the newest volkswagen dealership in houston
+volkswagen is the top european car brand sold in america
+volkswagen is the knowledge exchange
+volkswagen is conducting a voluntary recall campaign involving all new 
+beetles sold to date or in dealer inventory in the united states
+volkswagen is one of the vehicles affected by this action
+volkswagen is a vw. parts and repair shop in fort lauderdale
+volkswagen is participating in johannes
+volkswagen is to grant handicapped car drivers a 15 percent discount 
+when they purchase a new lupo
+volkswagen is aiming to become a full line
+volkswagen is a crossover vehicle
+volkswagen is a genuine global player
+volkswagen is joining the global compact initiated by un secretary
+volkswagen is located at 601 s
+volkswagen is saying it won?t bring its hot new golf
+volkswagen is also supporting the spirit of ada torch relay 2000 by 
+donating cars for the torch relay caravan
+volkswagen is preparing for its first
+volkswagen is the fourth
+volkswagen is in the north american market
+volkswagen is mostly owned and run by volkswagen
+volkswagen is europe's number one best
+volkswagen is mispelled "volkswagon" on the boxes
+volkswagen is reinforcing its commitment to offer safety as standard 
+on all models  as well as continuing its pledge to give customers more 
+value for
+volkswagen is in need of a professional restoration or just some 
+replacement parts
+volkswagen is rushing
+volkswagen is a way of life
+volkswagen is dependent upon the integrity
+volkswagen is initially interested in the production of synthetic fuels
+volkswagen is not a car for everyone
+volkswagen is hoping to boost jetta sales
+volkswagen is proud to be doing quite well
+volkswagen is now seen as taking a position to help lead dealers into a 
+successful
+volkswagen is hip
+volkswagen is performing ground
+volkswagen is selling passats that are essentially carried over from 2000
+volkswagen is an understated but highly competent prestige contender
+volkswagen is exhibiting the aac off
+volkswagen is new
+volkswagen is the legal trade name of volkswagen of america
+volkswagen is a familiar name associated with
+volkswagen is going these days
+volkswagen is eliminating lots of colors and options in its 2003 north 
+american line
+volkswagen is breaking new ground by adding a luxury series to its 
+product range
+volkswagen is druk bezig in het topsegment
+volkswagen is coming
+volkswagen is competing with established luxury marques with a base 
+price flirting with 40 grand
+volkswagen is a registered trademark in the united states and other 
+countries
+volkswagen is the largest producer of automobiles in europe and
+volkswagen is expected to have a tough 2002
+volkswagen is well
+volkswagen is cooler than ever
+volkswagen is also consolidating its presence in familiar segments
+volkswagen is unbelievable
+volkswagen is running and what may be causing problems
+volkswagen is reported to have said it is recalling 130
+volkswagen is going to have a record year in 1 996
+volkswagen is selling iffy new plastic on the merits of reliable old metal</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F672137" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F672137" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F672137" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,312 @@
+<html>
+<head>
+<title>vintagebus - [VB] 1600 saga (long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/673241 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/673241" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/673241" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>[VB] 1600 saga (long)</h1>
+   <b>soundex_at_eden_dot_com (craig k)</b><br/>
+   <i>1999-11-26 06:46:15+00</i><br/>
+   <br/>
+   <pre>OK, so here's the tale of the case:
+  The 1600 I rebuilt came with my bus 10 years ago; PO had receipts for
+rebuilt heads and Monza exhaust. Bus barely made it the 150 miles to Austin
+when I moved -  found out that the rebuilder had failed to shim the 3/4
+head, resulting in those pistons striking it, and pushing the heads off the
+top of the jugs. Shimmimg was required because someone had clearanced the
+case for hotrodding and also cut the cylinder seats for a longer stroke
+crank! Have no idea how many miles it had on it that way. Took it to
+Motormania here in Austin and had it 'repaired' - I don't consider the job
+he did a 'rebuild'  due to the number of used parts put in,  but I can't
+complain as it ran w/out problem for 20,000 miles.
+
+   Decided the case was having problems because the ratio of RPMs to speed
+had begun to climb, as well as temp. My local guru thought it was just
+wonky gauge electrics (he don't like gauges), but #3 was down to 85 psi,
+and I found metal bits in the oil, so out it came. Teardown revealed that a
+lifter  was coming apart (and spreading metal chunks throughout the case).
+Motormania had used reground lifters to save me some bucks; something I
+obviously now think was foolish of me.  Distro gear lash was looking weird,
+too, which accounted for the odd whirring noise the engine made. Thought,
+'let's do it right!'
+Well, within reason - no budget for new case, Berg crank, etc!!
+
+   The case is a doghouse Mexican B w/ dual reliefs, AS 41 - no serial #,
+so I don't know anything else. Rebuilt once or twice?  Odometer reads
+82,000 and I assume there is a one in front of that,  so who knows?
+Motormania cut it to 40 over, and the saddles were still in great shape, so
+we elected to simply clean it up. Found a good standard crank in the pile;
+looks low miles, shiny,  and was still well within spec (forget the exact
+measurement).
+Pulled a clean pair of 311 101 373A singleport heads out and had my friend
+Lewis replace seats, valves, 3 angle cut 'em, etc.
+
+   Meanwhile, I ordered some items from Gene Berg... 311 401B rods,
+balanced and machined center-to-center; 'pick-of-the-litter' 85.5 pistons
+and cylinders, honed and balanced  to within .5 grams of each other;
+doublethrust cam bearings; and lifters modified with an oiling groove.
+Added cost for the niceties was a little over $100, and I consider it
+insurance.  Almost got the GB full-ride SP heads w/ heavy springs, fullflow
+job and swivelfeet, as Clyde was very persuasive (friendly and helpful, too
+- even before they had my card #!), but decided to try those later, AFTER I
+save for them :P.
+
+  Case assembly was nerve-wracking, but fairly easy. Put in a T3 distro and
+set the play while the case was still split. New cam and new Schadek oil
+pump. Used the Permatex aircraft sealant (brown gunk) on the case halves.
+Cleaned ALL the threads spotless before torquing (used primeNkleen, too).
+Make SURE you have everything ready to go when you start to put it
+together!  Read EVERY book I had, all the archive posts I could find and
+Hoover - must have done it right, as the crank turned w/ no binding. Whew!
+Buttoned it all up and started on the heads.
+   All the head chambers were cut to 54-56CC, as close as I could get them
+and on spec. Put .060 worth of spacers under each jug to give me a deck
+height of .09," a deck volume of 13.13cc and a compression ratio around
+6.8:1. If I measured it all correctly :). Painted the jugs w/ diluted black
+enamel and then wire brushed any thick spots off. Wanted to use T3 tin, but
+Lewis (who was helping me that day) was already torquing one head by the
+time I found some bailing wire to tie them on! He set the valves and took
+off, and I went to work on the fan housing.  I had a fuel-injected b*g
+housing, which has the MOST  cooling flow, but needed to clean it - dunked
+it in a homemade electrolysis tank made out of a garbage can. REALLY worked
+well. Painted it and drilled it for the throttle tube, as it's location is
+different on an FI housing. Spent a day cleaning the crap outta the heat
+risers on the manifold... a tip: DON'T screw w/ carb cleaners, torches,
+clutch cables etcetc. Simply drill a hole where the riser first starts to
+bend and run a clothes hanger thru it until you can blow thru it; then
+braze some brass into the hole to close it. Time it took me to clean up a
+6v-bus manifold the day before: 6 hours, only to discover the carb wouldn't
+clear the 12v generator. Time to drill hole, clean and braze up a
+late-model bug manifold: 1 hour. Can blow thru it like a shofar!! Painted
+it silver and slapped it on. Finished putting on all the tin work (all
+cleaned and painted, natch - even the Hoover bit) and applied silicone
+sealer to every spot air could escape. Checked and set the thermostat and
+flaps. Set the end play; three .010" shims gave me .004" which is dead on.
+
+    Got out my boofull NOS heater boxes and muffler from Bus Depot, sloshed
+some phosphoric acid thru em and coated them with 3 cans of Krylon BBQ
+paint (Hunter Green, which is a nice complement to the Delta Green of the
+bus); muffler paint prolly won't last, but the heater boxes should look
+good for a while. Painted the generator pulley as well - looks like an ME
+109 nose!
+Filled it full of non-detergent 10-weight and rocked it from side-to-side
+to lube the rockers; attached the starter/bellhousing doohickey and a fresh
+battery. Cranked with the coil disconnected for 20 secs at a time until the
+oil light went out, then a bit more. Attached the coil and let it rip...
+caught after about 6 tries and came to life!! I ran it at 2500, up and down
+a bit, for around 12 minutes - the scooter fuel tank I was using only held
+mebbee 2 quarts of gas, so ran out before I was really ready to quit. No
+bad noises (except a possible bum generator bearing) . Not even hot to the
+touch. No oil leaks obvious, but I did later find one small drop on the
+head fins between 3 and 4; I may have a leaky cooler or stand. Drained the
+oil; some chunks of black gook (carbon or permatex?) and VERY tiny amounts
+of metal shavings, but no chunks. Let it cool and checked the valves; they
+had dropped to zero, which I gather is ok as it means they have seated in
+the seats.....  Reset them at .006 and refilled w/ 30weight. This weekend I
+plan to run it at 2500 for another few minutes, and then start breaking in
+the rings: revving it to 2500 and letting go of the throttle arm and
+dropping it to idle several times for about 20 minutes. After that, I am
+contemplating swapping gen bearings and checking on the doghouse while I;m
+at it.
+If all goes well, it should be back in the bus before Xmas, and broken in
+by New Years.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F673241" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F673241" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F673241" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

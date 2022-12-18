@@ -1,0 +1,303 @@
+<html>
+<head>
+<title>type2 - Heater activity in 82 Vanagon diesel</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/721079 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/721079" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/721079" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Heater activity in 82 Vanagon diesel</h1>
+   <b>&quot;T. HOEKMAN&quot; &lt;THOEKMAN_at_hsd.uvic_dot_ca&gt;</b><br/>
+   <i>1994-09-13 00:09:03+00</i><br/>
+   <br/>
+   <pre>I too have a (former) 82 vanagon diesel now with an 86 Jetta GLI 
+gasburner in place. It also exhibits the inappropriate heat syndrome 
+and in my case the problem is a kink in the the control cable.  The 
+regulator valve which is manipulated by the control lever via wire in 
+housing cable is just above edge of the dashboard on the right hand 
+side of the heater core console.  If you reach up under and find the 
+lever with wire-end hooked to it and rotate it additionally clockwise 
+it may now go to full stop.  However if there is a real kink in the 
+wire at the control lever end, you may have to remove the radio and 
+straighten out the kink, or in a worst case scenario replace the 
+cable completely.   There are a couple screws that attach the plastic 
+cover to the dashboard, when removed the whole cover pulls off 
+revealing heater core hoses and valve.  Once you have straightened a 
+bent control wire, a careful steady hand is required when TURNING THE 
+HEAT OFF, otherwise you will kink it again. 
+
+Incidentally I am now resident in Victoria, B.C. having made the trek
+across the contintent from St. John's, Newfoundland in my Westy. My
+trip was pleasant with some interludes with family and colleagues
+along the way about 15 days and 5300 miles in transit.  No major
+difficulties with my converted diesel, it ran like a fine watch the
+whole trip, however I had to replace the exhaust pipe enroute (a
+victim of Nfld. salt and corrosion).  I reached Boston and detected
+the crack and leakage, obtained a replacement pipe, but because I
+had to get a fitting welded to it for the oxygen sensor, and was due
+in Montreal at McGill the next day, decided to just have it patched,
+and do the full job when I got to my parents place in NW Iowa(In
+hindsight, a bad decision!)  Well I made it to Montreal the exhaust
+getting progessively noisier as I drove, but the next evening on my
+way out heading west toward Toronto, suddenly it went from a low
+level buzz to a roar.  When I pulled off the highway into a gas
+station in a suburb of Montreal to evaluate, the entire pipe from
+manifold flange to flex pipe half-way to the muffler had dropped off
+and was hanging by the now frayed wires to the oxy sensor at this
+point with the engine still running smoke started to pour out so I
+killed the engine and popped the engine lid.  The oxy sensor in the
+CIS-E system has a heater circuit and the frayed power wires to the
+heater element had shorted out cooking the insulation, so I
+disconnected the sensor and removed the broken pipe +sensor, fired
+her up and moved to the empty parking lot across the street, but
+smoke emission began enroute and the engine died as I completed the
+transit.  Turns out the fried power leads had melted the insulation
+and fused above the connector and I now spent the next hour picking
+apart the surrounding wiring harness and reconstructing insulation
+with electrical tape when all this was done, I said a small prayer
+to the god of VWs that my computer had been spared, and fired her
+up.  Ran loud but smooth.  I then set about removing the remainder
+of the flange, and the other end of the exhaust pipe, managing to
+conserve 2 of the 4 studs and then tried to put the pipe in place. 
+I knew from all the discussion on the list that the fuel injection
+would run albeit less efficiently without the oxy sensor.  My new
+pipe was just a tad too long, and would you believe, I didn't have a
+hacksaw in my toolbox, so I walked over to the gas-bar across the
+street, to see if there was a station with a service bay that might
+be open (It was now after 10PM) no luck, but then they remembered
+there was a production welding shop that ran all night about two
+block away.  I walk into this place with my pipe in hand, and there's 
+nobody in sight, but I wait and make noises and in few minutes the 
+workers come back from coffee break, and I get queried in French what 
+I want, when I explain my French is non-existent we carry on in 
+intellible but broken english to find out that the boss has said NO 
+JOBS FROM THE STREET.  I had already seen that they had production 
+grade electric hacksaw, and looked really disappointed and explained 
+that I could drive my car till the next day if I didn't get 1/2" 
+trimmed off the pipe and started to walk away.  Fortunately he 
+relented and I passed him a few Yankee dollars and walked back to put 
+my exhaust pipe in place.  By 11:30 I was done, cleaned up an on the 
+road for a hour or two until I found proper place to pull off and 
+catch some Zs.   I couldn't really tell any difference in my gas 
+mileage with or without the oxy sensor.  I was pulling a small camper 
+trailer with lots of stuff for my kids and for my housekeeping on my 
+sabbatical (Over 1000 lbs)  running at or just over posted speed 
+limits, and mileage varied from a low of about 17 mpg to a high of 
+20.  The only correllation seems to be speed.  Mileage went low on 
+sections where I was cruising between 65 + 75 mph, and picked up 
+notably when I dropped to 55-60 mph.
+
+Incidentally, somebody remind me how to remove myself from the
+mailing list back in Newfoundland, and re-up from here in Victoria
+in digest mode, so I don't have to read the list by Telneting in to
+my account back East.    I still can't believe how many VW vans
+there are here, walking around the 3 or 4 blocks adjacent to where
+I'm living I can sight 8 vanagons, 5 older vans, and 4 Eurovans.
+I don't think VW has any Eurovans left for the USA, they're all here 
+in Victoria ;)
+
+Cheers,
+
+Ted Hoekman
+School of Health Informatin Science     Faculty of Medicine
+U. Victoria                             Memorial Univ. Newfoundland
+Victoria, B.C.                          St. John's, NF
+</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F721079" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F721079" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F721079" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

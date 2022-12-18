@@ -1,0 +1,341 @@
+<html>
+<head>
+<title>type2 - My German Trip (and Diesel Beetles)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/713659 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/713659" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/713659" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>My German Trip (and Diesel Beetles)</h1>
+   <b>RGOLEN_at_umassd_dot_edu</b><br/>
+   <i>1997-07-01 00:28:18+00</i><br/>
+   <br/>
+   <pre> 
+ 
+                    My Latest Trip To VW-land 
+ 
+ 
+As promised, here is the story of my latest trip to Germany. Last
+summer, I applied for a grant from the German government to bring
+a group of my students to Germany for an informational visit. In
+January I found out that I received the grant. And so the 
+planning began. 
+ 
+The plan was to bring the students to various German companies 
+and organizations located in Munich, Stuttgart and Frankfurt. Of
+course we HAD to visit Porsche, BMW and Mercedes. Given that 
+Frankfurt was fairly close (compared to Munich and Stuttgart) to
+Wolfsburg, I organized a quick side trip for me and a couple of 
+students to VW. So here's the story..... 
+ 
+The first part of my trip to Germany was spent in Stuttgart. 
+Brian Verbeek from the Netherlands sent me a callendar of VW 
+events in Germany. Lo and behold there was a VW Treffen at the 
+Porsche factory the first full day I spent in Germany. Off I went
+with one of my students (a VW novice...he owns a Fox). This was 
+the second day of the show, and attendance was down. However, 
+there were a dozen or so oval window bugs to be found. So I spent
+most of the time talking to the owners. I also got some great 
+shots. Also while there I managed to pick up a couple of old (56
+& 57) issues of Gute Fahrt, the German VW magazine. One of these
+had the first ad for the Karmann Ghia to appear in Germany. 
+ 
+The next day we had a tour of the Porsche factory. We were to 
+meet our tour guide in the Porsche museum. As I walked into the 
+museum, the first car that came into view was a black 1952 split
+window bug. I couldn't understand why a 52 splittie would be in 
+the museum, but non-the-less I decided to check it out.  
+ 
+As I was peering into the interior, I looked at the dash and 
+found something rather interesting. Down on the dash where the 
+radio should be was a glowplug indicator and starter knob. Could
+it be? 
+ 
+I walked over to an older gentleman who was standing near the 
+tour desk and asked in my "best" German: "Is this a Diesel 
+Kaefer?" 
+ 
+All of a sudden there was a broad smile on the gentleman's face.
+"You are the first visitor to recognize this car." It turns out 
+that Porsche was contracted by VW in the early 50s to design a 
+diesel-air-cooled motor for VW. Porsche built two prototypes, one
+for a beetle and one for a Typ2. The man explained that he had 
+started to work for Porsche in 1958 as a mechanical engineer, and
+had driven the Typ2 and the bug (which were retained by Porsche 
+as company cars)! Needless to say, I got him to open up the 
+engine lid to examine the motor, and he had some great stories to
+tell about his experiences with the Typ2. For those folks who 
+thought that the Vanagon was the first diesel Typ2 (myself 
+included), Porsche had done it at least 30 years prior. 
+ 
+Ten days later, I was on my way to Wolfsburg. I had written the 
+Visitor's Bureau, or actually to the guide I had on my trip in 
+January 1994 and figured I could get another VIP tour. For those
+of you who were not on the list in 1994, I had a full VIP tour 
+with a chauffer, gifts, etc. But that was in January when the 
+factory does not have as many visitors. 
+ 
+We (myself and 3 students) arrived at the Visitor's Bureau at 
+9:00 am (after a 3 hr train-ride from Frankfurt). I brough my 
+letter of invitation to the main desk. As I was standing there I
+heard a voice from behind me say "Welcome to VW Mr. Golen". I 
+turned around and it was my guide/chauffer from my first trip, 
+Hans-Jurgen Klar. 
+ 
+Can you believe it, he remembered me. Actually he remembered me,
+my wife and Alex. We talked for a few minutes, and then he 
+excused himself. He is now in charge of the gift shop at the 
+visitor's bureau. A couple of minutes later I was greeted by Paul
+Holdsworth, our guide for the day. He explained that we would be
+having a private tour, but that we would be sharing the tour with
+a group of "trainees" from VW UK. Not a problem. 
+ 
+The tour was great, about two hours of walking in and out of the
+assembly line, seeing Golfs and Polos being built. It was then 
+time for lunch. The Brits went one way, and Paul went with us to
+the Visitor's Cafeteria. During lunch I found out that Paul is a
+Typ2-guy. He owns a 72 Double-cab pick-up, and he has e-mail. It
+is possible that Paul may be showing up on the lists this summer.
+
+After lunch we went back to the gift shop. All of my carefully 
+guarded spending money, or at least a good portion of it ( we 
+still had to do the museum) changed hands. I bought a couple of 
+Kaefer watches, a tie with the artwork from the 50's catalogues 
+and a white T4 van. As we were about to leave Paul came back with
+a bag of goodies (key chains, HO scale vans, etc.). Not to be out
+done, Hans came by with a bag with some more HO cars and a "VW- 
+Pink Floyd" hat for my son Alex. 
+ 
+All in all it was a great visit to the factory. 
+ 
+Next we went off to the museum. I had written the museum before I
+left and inquired about the availability of a KdF saver's book. 
+The museum shop director wrote back saying he had one waiting for
+me. I took that to mean that maybe it was a gift. Well, it wasn't
+free, but it was worth the $$ I paid to get a piece of VW 
+history. The book was the third to be filled by a fellow who 
+lived on Adolf Hitler Strasse. There are 50 stamps, all cancelled
+by the KdF folks on June 20, 1944. It amazes me that after two 
+years of heavy bombing and two weeks after the invasion in 
+Normandy, this person (as well as others) still had confidence in
+the Beetle (and I guess their government) to keep buying savings
+stamps. Besides the savings book, I managed to get a bunch of 
+"New Beetle" posters as well. 
+ 
+The museum collection, as before, was magnificent. There were a 
+couple of new additions including a "cut-away" 49 beetle. On the
+way out I visited the museum shop, and blew away the remainder of
+my budget. Got the 60 year Kaefer CD, a pair of socks with a VW 
+convertible on it, some coffee cups, etc. 
+ 
+As I was about to leave, I recalled someone from the VintagVW 
+list mentioning the museum producing a "formal birth certificate"
+for 10 DM. I found the office, gave them 10 DMs and my serial 
+number (which has been committed to memory for over 20 years - 
+1226221). Late last week the birth certificate arrived. I thought
+I knew everything about my '56 by now, but the birth certificate
+held a new surprise. It seems my VW was delivered to San 
+Fransisco... 
+ 
+ 
+That's it for now. As I remember more stuff, I'll post it. 
+ 
+Ric</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F713659" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F713659" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F713659" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

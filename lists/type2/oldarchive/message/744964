@@ -1,0 +1,309 @@
+<html>
+<head>
+<title>type2 - Unca Joel goes West: Part 2</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/744964 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/744964" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/744964" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Unca Joel goes West: Part 2</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1996-09-27 20:08:43+00</i><br/>
+   <br/>
+   <pre>Part 2: the Fuzzy Weekend.
+
+The Day Dawns. it is the Crack of Noon. someone is inconsiderately
+breathing and talking outside. people are moving around. there is
+this light blue sky poking and prodding my eyeballs. groan.
+
+so here it is Friday, and i'm in Mammoth Lakes, California, in some
+dusty little place called Pumice Flats Group Campground, or, at signs
+would later describe it, CCC Central. there are other buses here, and
+a Honda (gasp!) and a filthy dusty little black Passat station wagon.
+hmmmm. how'd THAT get in here. :)
+
+i don't recall much of that first day. seems like a lot of folks showed
+up or were already here. food and sustenance must have surely been
+brought or sought out ... i.e., i didn't starve. :) but it's all kinda
+hazy in my mind. at sometime or other, someone mentioned hot showers
+and off we went in Martha's little Passat. hot them showers were, too,
+i tell you! bubbling up somewhere from under the ground and piped into
+some really prison-looking "showers". ;)  well, hell ... i've used
+some that were LOTS worse looking than this! and besides, anybody that
+that is preverted enuff to look in MY shower window deserves what they
+get! :)  but they were hot. hot water. yessireebob. hot hot hot. which
+kinda makes me think: ya know, we wuz kinda like maybe sitting on top
+of some like volcano-stuff??? hmmmmm. how about Florida for the next
+trip?? :) all we have to worry about there is sand fleas and hurricanes.
+
+since i can't remember what, if anything, we "did" that day, i'll just
+put the folks that i think i recall showing up:
+
+Me. of course. otherwise, how would i remember being there?? :)
+Dave Schwarze. he slept upstairs. where it was warm. had to be. cause
+   it was cold downstairs. he doesn't snore. but the clock in his bus
+   makes this incessant clicking!!! :)
+Martha "wanna drive my new car" Rubin. over in the newly-painted
+   Westfalia condo parked next door. lots of screaming and giggling
+   from over there. she looks like Beverly Sills, the opera singer.
+Sarah. Martha's daughter. the only one with any real legal claims of
+   "adolescence". the rest of us just acted that way.
+Bradley "burn, baby, burn" Magnesium. severely hampered by an injured
+   wrist, he could manage only mildly abuse and torture Sarah and
+   Martha. Dave had to help at times. looks like a skinny Peter Ustinov.
+Scott Harvey and Alice. he looks like somebody in Top Gun (val kilmer's
+   backseater). everybody looks like someone else.
+Brett (?). scott's cousin? well, that's what someone told me and i was
+   punchy enough to write it down. i think that's my writing.
+Jeff Schneiter. camping in the tent down by the Honda. primitive.
+   some people. :)  something scribbled here about dogs?
+Eric and wife? no bus. Jetta?? looks like Robert DeNiro. works in
+   Mojave, with/on/near airplanes. i like airplanes. :)
+Bren, kid Kyle, dog Sallie. Sallie is outweighed by the golden
+   retrievers Bianca and Calvin, but she seems to be having fun.
+   i think they showed up in a Honda Civic. hmmmmmmmmmmm.
+Ron Lussier, Ely, and Den all crammed into a pristine white 91 camper.
+   a bunch of mountain bikes on the back. some people are just gluttons
+   for punishment! he reminds me of Neamiah Persov (a dramatic actor
+   back in the 50's and 60's). Ely and Den are kids. Beavis and Butthead
+   but with manners. they keep calling me "Sir". irritating. ;)
+Steve Johnson and wife Linda. he looks like Teddy Roosevelt. must be
+   the hat. ;)
+Scott Allred and Maggie showed up in their 71 camperized bus. 8 hours
+   from Las Vegas. they came the "civilized route" further north of
+   the torture trail we took over the mountain. he looks like the
+   hubby on "Unhappily Ever After" or something like that. where the
+   character talks to a stuffed bunny with the voice of Bobcat
+   Goldthwaite. she looks like Ellen of the Ellen show. with red hair.
+Jack Stafford (who looks like Richard Attenborough) in his orange 73
+   camper. had lots of neat pictures of the Inuvik trip.
+Al Hubbard. camping out of a Jetta. more primitive gluttons for
+   punishment. ;)
+Dennis Gentry and Shelia in an 81 camper. Grizzly Adams. he has to
+   sleep with his feet on the dashboard. :) <he's a little taller
+   that the rest of humanity>
+Beth and Lisa, from Los Angeles. Wannabusers. came to see just what
+   sort of idiots they'd been talking to. ;) Beth reminds me of someone
+   on a tv show, but i can't recall who ... sort of like Barbie, but
+   not that close. more primitive tent campers. they were smarter,
+   however, and got closer to the toilets.
+Jim Davis and family. the only Syncro to show up. didn't help much
+   cause there wasn't any mud for him to play in. :)
+Monty and Hallie with kids Jackson and Charlie, in their Country Homes
+   camper. charlie was just scoping everything out. quiet kid. gonna
+   be governor some day. ;)
+Kayty Myers and Mark Blanchard in Her Majesty (i thought that was the
+   dog's name!), a bright shiney purple 68 bus with the interior of a
+   fancy living room. no kidding. plush upscale interior. the dog's
+   name was Bianca (i think). oh, yeah. i think they had a blue
+   Subaru wagon, too. four-wheel-drive skateboard. ;) they were from
+   Mammoth Lakes, a whole twenty minutes away. :)
+John Huguenard and Carol and Jill (the kid). another quiet kid. don't
+   you Californians every have screaming kids?? sheesh! he reminds me
+   of Frank Oz (the Muppets).
+Malcolm Holser, Mollie, and kids Dylan, Colin, and Ian. another 81
+   camper.
+Kevin (visits) (looks like Charlton Heston) and his blue/white 63
+   split window bus with gauges all over the dash and a huge oil cooler
+   on the roof.
+Beth, Mary, and somebody else with some dogs. in a brown 80 camper.
+   we ran into them at Devil's Postpile and they camped Saturday night.
+   they'd only had the bus for about a week.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F744964" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F744964" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F744964" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,394 @@
+<html>
+<head>
+<title>type2 - Area Codes</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/706259 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/706259" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/706259" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Area Codes</h1>
+   <b>QuanYinLyn_at_aol_dot_com</b><br/>
+   <i>1996-12-14 05:44:32+00</i><br/>
+   <br/>
+   <pre>Here They Are!
+Area codes and their corresponding geographical locations are listed below. 
+
+201 - New Jersey (major cities: Hackensack, Jersey City, Newark)
+202 - Washington, DC (all locations)
+203 - Connecticut (major city: New Haven)
+204 - Manitoba (all locations)
+205 - Alabama (major cities: Birmingham, Huntsville)
+206 - Washington (major cities: Seattle, Tacoma)
+207 - Maine (all locations)
+208 - Idaho (all locations)
+209 - California (major cities: Fresno, Modesto)
+210 - Texas (major cities: Laredo, San Antonio)
+212 - New York (major city: New York City)
+213 - California (major city: Los Angeles)
+214 - Texas (major cities: Dallas, Tyler)
+215 - Pennsylvania (major city: Philadelphia)
+216 - Ohio (major cities: Akron, Canton, Cleveland, Youngstown)
+217 - Illinois (major cities: Champaign-Urbana, Springfield)
+218 - Minnesota (major city: Duluth)
+219 - Indiana (major cities: Gary, Hammond, South Bend)
+242 - Bahamas (all locations)
+246 - Barbados (all locations)
+250 - British Columbia (Interior of British Columbia, Vancouver Island)
+268 - Antigua and Barbuda (all locations)
+281 - Texas (major city: Houston "layover" - NOT IN USE)
+301 - Maryland (major cities: Hagerstown, Rockville)
+302 - Delaware (all locations)
+303 - Colorado (major cities: Boulder, Denver)
+304 - West Virginia (all locations)
+305 - Florida (major cities: Key West, Miami)
+306 - Saskatchewan (all locations)
+307 - Wyoming (all locations)
+308 - Nebraska (major cities: Grand Island, North Platte, Scottsbluff)
+309 - Illinois (major cities: Peoria, Rock Island)
+310 - California (major city: Long Beach)
+312 - Illinois (major city: Chicago)
+313 - Michigan (major cities: Ann Arbor, Detroit)
+314 - Missouri (major cities: Columbia, Jefferson, St. Louis)
+315 - New York (major cities: Syracuse, Utica)
+316 - Kansas (major cities: Dodge City, Hutchinson, Wichita)
+317 - Indiana (major cities: Indianapolis, Kokomo)
+318 - Louisiana (major cities: Lake Charles, Shreveport)
+319 - Iowa (major cities: Cedar Rapids, Davenport, Dubuque)
+320 - Minnesota (major cities: Alexandria, St. Cloud)
+330 - Ohio (Eastern Ohio)
+334 - Alabama (major cities: Montgomery, Mobile)
+345 - Cayman Islands (all locations)
+352 - Florida (major city: Gainesville)
+360 - Washington (major cities: Bellingham, Olympia, Vancouver)
+401 - Rhode Island (all locations)
+402 - Nebraska (major cities: Lincoln, Omaha)
+403 - Alberta (all locations)
+404 - Georgia (major city: Atlanta)
+405 - Oklahoma (major cities: Enid, Oklahoma City)
+406 - Montana (all locations)
+407 - Florida (major cities: Orlando, West Palm Beach)
+408 - California (major cities: Monterey, San Jose)
+409 - Texas (major cities: Beaumont, Galveston)
+410 - Maryland (major cities: Annapolis, Baltimore)
+412 - Pennsylvania (major city: Pittsburgh)
+413 - Massachusetts (major cities: Pittsfield, Springfield)
+414 - Wisconsin (major cities: Green Bay, Milwaukee, Racine)
+415 - California (major city: San Francisco)
+416 - Ontario (major city: Toronto)
+417 - Missouri (major cities: Joplin, Springfield)
+418 - Quebec (major city: Quebec)
+419 - Ohio (major city: Toledo)
+423 - Tennessee (major cities: Chattanooga, Knoxville)
+441 - Bermuda (all locations)
+501 - Arkansas (all locations)
+502 - Kentucky (major cities: Bowling Green, Louisville, Paducah)
+503 - Oregon (major cities: Portland, Salem)
+504 - Louisiana (major cities: Baton Rouge, New Orleans)
+505 - New Mexico (all locations)
+506 - New Brunswick (all locations)
+507 - Minnesota (major city: Rochester)
+508 - Massachusetts (major cities: Lowell, New Bedford, Worcester)
+509 - Washington (major cities: Spokane, Walla Walla, Yakima)
+510 - California (major cities: Oakland, Berkeley)
+512 - Texas (major cities: Austin, Corpus Christi)
+513 - Ohio (major cities: Cincinnati, Dayton)
+514 - Quebec (major city: Montreal)
+515 - Iowa (major city: Des Moines)
+516 - New York (major cities: Hempstead, Long Island)
+517 - Michigan (major cities: Bay City, Jackson, Lansing)
+518 - New York (major cities: Albany, Schenectady, Troy)
+519 - Ontario (major city: Windsor)
+520 - Arizona (major cities: Flagstaff, Tucson, Yuma)
+540 - Virginia (major city: Roanoke)
+541 - Oregon (Southern and Eastern Oregon)
+561 - Florida (major cities: Boca Raton, Sebastian)
+562 - California (Southern California - NOT IN USE)
+573 - Missouri (Major cities: Columbia, Jefferson City)
+601 - Mississippi (all locations)
+602 - Arizona (major city: Phoenix)
+603 - New Hampshire (all locations)
+604 - British Columbia (all locations)
+605 - South Dakota (all locations)
+606 - Kentucky (major cities: Ashland, Lexington, Winchester)
+607 - New York (major cities: Binghamtom, Elmira, Ithaca)
+608 - Wisconsin (major cities: La Crosse, Madison)
+609 - New Jersey (major cities: Atlantic City, Camden, Trenton)
+610 - Pennsylvania (major cities: Philadelphia suburbs, Allentown)
+612 - Minnesota (major cities: Minneapolis, St. Paul, Saint Cloud)
+613 - Ontario (major cities: Kingston, Ottawa)
+614 - Ohio (major cities: Columbus, Steubenville)
+615 - Tennessee (major city: Nashville)
+616 - Michigan (major cities: Battle Creek, Grand Rapids, Kalamazoo)
+617 - Massachusetts (major cities: Boston, Cambridge, Winchester)
+618 - Illinois (major cities: Alton, Cairo, East St. Louis)
+619 - California (major cities: Barstow, Palm Springs, San Diego)
+630 - Illinois (major cities: Aurora, Naperville, Oak Brook)
+664 - Montserrat (all locations)
+701 - North Dakota (all locations)
+702 - Nevada (all locations)
+703 - Virginia (major cities: Alexandria, Arlington)
+704 - North Carolina (major cities: Asheville, Charlotte)
+705 - Ontario (major city: Sault Ste. Marie)
+706 - Georgia (major cities: Augusta, Columbus, Rome)
+707 - California (major cities: Eureka, Santa Rosa)
+708 - Illinois (major cities: Chicago suburbs, Evanston, Waukegan)
+709 - Newfoundland (major cities: Labrador City, St. John's)
+712 - Iowa (major cities: Council Bluffs, Sioux City)
+713 - Texas (major city: Houston)
+714 - California (major city: Anaheim)
+715 - Wisconsin (major cities: Eau Claire, Wausau)
+716 - New York (major cities: Buffalo, Niagara Falls, Rochester)
+717 - Pennsylvania (major cities: Harrisburg, Scranton, Wilkes-Barre)
+718 - New York (major cities: Bronx, Brooklyn, Queens, Staten Island)
+719 - Colorado (major cities: Colorado Springs, Pueblo)
+757 - Virginia (major city: Norfolk)
+758 - St. Lucia (all locations)
+770 - Georgia (major cities: Atlanta suburbs)
+773 - Illinois (major city: Chicago)
+787 - Puerto Rico (all locations)
+800 - Toll-Free (free for caller)
+801 - Utah (all locations)
+802 - Vermont (all locations)
+803 - South Carolina (major cities: Charleston, Columbia, Florence)
+804 - Virginia (major cities: Newport News, Richmond)
+805 - California (major cities: Bakersfield, Santa Barbara)
+806 - Texas (major cities: Amarillo, Lubbock)
+807 - Ontario (major city: Fort William)
+808 - Hawaii (all locations)
+809 - Caribbean Islands, Jamaica, Virgin Islands, and more...
+810 - Michigan (major cities: Flint, Northern Detroit suburbs)
+812 - Indiana (major city: Evansville)
+813 - Florida (major cities: St. Petersburg, Tampa)
+814 - Pennsylvania (major cities: Altoona, Erie)
+815 - Illinois (major cities: Joliet, La Salle, Rockford)
+816 - Missouri (major cities: Independence, Kansas City, St. Joseph)
+817 - Texas (major cities: Fort Worth, Waco)
+818 - California (major city: Pasadena)
+819 - Quebec (major city: Noranda)
+847 - Illinois (major cities: Chicago - northern suburbs)
+860 - Connecticut (major city: Hartford)
+864 - South Carolina (major city: Greenville)
+869 - St. Kitts and Nevis (all locations)
+888 - Toll-Free (free for caller)
+900 - Pay-Per-Call (caller pays)
+901 - Tennessee (major city: Memphis)
+902 - Nova Scotia (all locations)
+903 - Texas (major cities: Texarkana, Tyler)
+904 - Florida (major cities: Jacksonville, Pensacola, Tallahassee)
+905 - Ontario (major city: Mississauga)
+906 - Michigan (major cities: Marquette, Sault Ste. Marie)
+907 - Alaska (all locations)
+908 - New Jersey (major cities: Elizabeth, New Brunswick)
+909 - California (major cities: Riverside, San Bernardino)
+910 - North Carolina (major cities: Greensboro, Winston-Salem)
+912 - Georgia (major cities: Albany, Macon, Savannah)
+913 - Kansas (major cities: Lawrence, Salina, Topeka)
+914 - New York (major cities: Peekskill, White Plains, Yonkers)
+915 - Texas (major cities: Abilene, El Paso)
+916 - California (major city: Sacramento)
+917 - New York (major city: New York City - cellular)
+918 - Oklahoma (major city: Tulsa)
+919 - North Carolina (major cities: Fayetteville, Raleigh)
+937 - Ohio (area north of, but not including Cincinnati)
+941 - Florida (major cities: Ft. Myers, Naples, Sarasota)
+954 - Florida (major city: Fort Lauderdale)
+970 - Colorado (major cities: Aspen, Fort Collins, Grand Junction)
+972 - Texas (major city: Dallas suburbs, Irving)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F706259" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F706259" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F706259" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

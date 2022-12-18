@@ -1,0 +1,223 @@
+<html>
+<head>
+<title>type2 - Up In Smoke!</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/904722 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/904722" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/904722" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Up In Smoke!</h1>
+   <b>Busahaulic <busahaulic01(-at-)yahoo.com></b><br/>
+   <i>2009-01-31 16:57:43+00</i><br/>
+   <br/>
+   <pre>Yes, I'll admit it - it's one of my favorite movies, too, but I'm writing about a burning van and I'm the dope! (It all ended well, BTW!) My hazard warning light switch has been defective for years. Whenever I used it, the turn signals would fail to flash afterwards unless I slammed the switch in really hard. I made an effort to replace it years ago. There were none at any of the wrecking yards I frequented so, seeing (ACdotnet) had them in the catalog, I ordered one. I always respected John, still do, but after a month, I inquired as to why I had received nothing and heard nothing, and was quite nastily chewed out because apparently I should have known that he only got them in once in a while... That's John, but he's good at everything but communicating, I guess!
+
+The hazard warning light switch was well wrapped and seemed to only have that one fault, so I did not go shopping for another (had a bad  feeling about buying one, I guess.) So, last week, after all those little things that needed attention in my previous post, and getting "stranded" at the post office at night with no fuel pressure... Oh yeah - I didn't tell you guys about that one! I got my mail, came out and started the bus - it spun over and attempted to start running with a chug here and a chug there, but would not stay running after releasing the starter. I checked for anything obviously hanging loose in the engine compartment; there was nothing. I did, however, shine the flashlight on the fuel pressure gauge and it was bottomed out! Just a couple weeks ago I had checked it and it was running at 36 and holding for hours, so what could have changed so suddenly, at the end of an hour+ drive?
+
+I changed clothes and got the tarp and trouble light out. I got my fuel line clamps out of the toolbox and partially clamped off the return line after the regulator. Nuthin'! I clamped it all the way tight - nuthin'! So, I dug in the spares bin and got out the old fuel pump that I got at a wrecking yard twenty years ago and has been dry ever since [THIS THING isn't gonna work!!] and began devising a plan to change it out. I had forgotten I had an electrical multi-meter stashed away in a cabinet. I did look at fuses, so chalk me up a credit for that! I was underneath the side and looking at where I would put my clamps, what tools I would need, and I pulled on one of the rubber boots that covers the wire connectors. It simply fell off! - wire included! I plugged it back on the terminal, pulled it off again (came off hard this time!) and decided that this could be the problem! Sure enough, it started right up, but rougher than heck (still had the clamp on
+ the return line - pressure gauge was pegged at somewhere over 100psi!) 
+
+Back to the hazard warning light switch - I drove to work, up over the hills to avoid the freeway, and there is one especially bad hairpin turn with steep downers on both sides, out in the middle of nowhere - and it was a sheet of black ice! As I continued on, I flashed my hazard warning lights at oncoming cars to warn them of the hazard ahead. Each immediately applied their brakes, so it was a duty well done! After the second one, I could not get the turn signals to come back, so I hit and twisted the hazard warning light switch until I gave up. Shortly thereafter, I smelled smoke - that nasty, electrical wiring smoke! It was pouring out from under the dashboard in a plume about eight inches in diameter - a real gusher! I pulled off the road and shut the engine down and lights off and tried to figure a course of action. There was nothing available to do! I sat there until the smoke started to die down and eventually stopped.
+
+I was only 100 feet from a fire station but never thought of that - and I'm glad I didn't cuz I wudda really had a mess!
+
+I had "lucked out" in that everything that was gonna burn, did burn and my bus was still intact! I decided to see what still works (I know - very risky!) and was able to drive back home without dash lights or turn signals. I got a replacement hazard warning light switch from Ken at The Bus Company in Duvall after work and proceeded to tear into the dashboard.
+Upon removing the panel, there was one lone frazzled wire - the gray/red for all the instrument lights (and the light inside the hazard warning light switch.) I pulled that loose and was delighted to see that the little instrument light holders simply unplugged from it! I had a hunch and went in the tent to look at Bus2 and there it was, right out in the opening in the dash all by itself, a nice, new gray/red wire, as if to say, "Here I am!" I took it and plugged it in and hooked the battery back up and the dash lights did not work. Bummer! (This was after plugging in the replacement hazard warning light switch - the old one WAS NOT going back in!) I checked circuits and the rheostat was burned out on the headlight switch. Since Bus2 had suffered a similar electrical fire under a P.O., I decided there may be a new headlight switch as well, and lucked out again! Hooked everything up and it all worked!</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F904722" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F904722" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F904722" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,472 @@
+<html>
+<head>
+<title>type2 - copyright myths</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/738818 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/738818" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/738818" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>copyright myths</h1>
+   <b>Derek Drew &lt;drew_at_interport_dot_net&gt;</b><br/>
+   <i>1996-01-08 20:32:55+00</i><br/>
+   <br/>
+   <pre>http://www.clarinet_dot_com/brad/copymyths.html
+
+
+   ClariNet * Brad Templeton Home Page * Copyright Myths
+  =20
+                    10 BIG MYTHS ABOUT COPYRIGHT EXPLAINED
+                                      =20
+   By Brad Templeton
+  =20
+  AN ATTEMPT TO ANSWER COMMON MYTHS ABOUT COPYRIGHT SEEN ON THE NET AND=
+ COVER
+  ISSUES RELATED TO COPYRIGHT AND USENET POSTING.
+ =20
+  =20
+  =20
+   1) "If it doesn't have a copyright notice, it's not copyrighted."
+  =20
+   This was true in the past, but today almost all major nations follow
+   the Berne copyright convention. For example, in the USA, almost
+   everything created privately and originally after April 1, 1989 is
+   copyrighted and protected whether it has a notice or not. The default
+   you should assume for other people's works is that they are
+   copyrighted and may not be copied unless you know otherwise. There are
+   some old works that lost protection without notice, but frankly you
+   should not risk it unless you know for sure.
+  =20
+   It is true that a notice strengthens the protection, by warning
+   people, and by allowing one to get more and different damages, but it
+   is not necessary. If it looks copyrighted, you should assume it is.
+   This applies to pictures, too. You may not scan pictures from
+   magazines and post them to the net, and if you come upon something
+   unknown, you shouldn't post that either.
+  =20
+   The correct form for a notice is:
+  =20
+
+        "Copyright [dates] by [author/owner]"
+
+   You can use C in a circle =A9 instead of "Copyright" but "(C)" has never
+   been given legal force. The phrase "All Rights Reserved" used to be
+   required in some nations but is now not needed.
+  =20
+  =20
+  =20
+   2) "If I don't charge for it, it's not a violation."
+  =20
+   False. Whether you charge can affect the damages awarded in court, but
+   that's essentially the only difference. It's still a violation if you
+   give it away -- and there can still be heavy damages if you hurt the
+   commercial value of the property.
+  =20
+   3) "If it's posted to Usenet it's in the public domain."
+  =20
+   False. Nothing is in the public domain anymore unless the owner
+   explicitly puts it in the public domain(*). Explicitly, as in you have
+   a note from the author/owner saying, "I grant this to the public
+   domain." Those exact words or words very much like them.
+  =20
+   Some argue that posting to Usenet implicitly grants permission to
+   everybody to copy the posting within fairly wide bounds, and others
+   feel that Usenet is an automatic store and forward network where all
+   the thousands of copies made are done at the command (rather than the
+   consent) of the poster. This is a matter of some debate, but even if
+   the former is true (and in this writer's opinion we should all pray it
+   isn't true) it simply would suggest posters are implicitly granting
+   permissions "for the sort of copying one might expect when one posts
+   to Usenet" and in no case is this a placement of material into the
+   public domain. Furthermore it is very difficult for an implicit
+   licence to supersede an explicitly stated licence that the copier was
+   aware of.
+  =20
+   Note that all this assumes the poster had the right to post the item
+   in the first place. If the poster didn't, then all the copies are
+   pirate, and no implied licence or theoretical reduction of the
+   copyright can take place.
+  =20
+   (*) Copyrights can expire after a long time, putting someting into the
+   public domain, and there are some fine points on this issue regarding
+   older copyright law versions. However, none of this applies to an
+   original article posted to USENET.
+  =20
+   Note that granting something to the public domain is a complete
+   abandonment of all rights. You can't make something "PD for
+   non-commercial use." If your work is PD, other people can even modify
+   one byte and put their name on it.
+  =20
+   4) "My posting was just fair use!"
+  =20
+   See other notes on fair use for a detailed answer, but bear the
+   following in mind:
+  =20
+   The "fair use" exemption to copyright law was created to allow things
+   such as commentary, parody, news reporting, research and education
+   about copyrighted works without the permission of the author. Intent,
+   and damage to the commercial value of the work are important
+   considerations. Are you reproducing an article from the New York Times
+   because you needed to in order to criticise the quality of the New
+   York Times, or because you couldn't find time to write your own story,
+   or didn't want your readers to have to pay to log onto the online
+   services with the story or buy a copy of the paper? The first is
+   probably fair use, the others probably aren't.
+  =20
+   Fair use is almost always a short excerpt and almost always
+   attributed. (One should not use more of the work than is necessary to
+   make the commentary.) It should not harm the commercial value of the
+   work -- in the sense of people no longer needing to buy it (which is
+   another reason why reproduction of the entire work is generally
+   forbidden.)
+  =20
+   Note that most inclusion of text in Usenet followups is for commentary
+   and reply, and it doesn't damage the commercial value of the original
+   posting (if it has any) and as such it is fair use. Fair use isn't an
+   exact doctrine, either. The court decides if the right to comment
+   overrides the copyright on an indidvidual basis in each case. There
+   have been cases that go beyond the bounds of what I say above, but in
+   general they don't apply to the typical net misclaim of fair use. It's
+   a risky defence to attempt.
+  =20
+   5) "If you don't defend your copyright you lose it."
+  =20
+   False. Copyright is effectively never lost these days, unless
+   explicitly given away. You may be thinking of trade marks, which can
+   be weakened or lost if not defended.
+  =20
+   6) "Somebody has that name copyrighted!"
+  =20
+   You can't "copyright a name," or anything short like that. Titles
+   usually don't qualify, but I doubt you could write a song entitled
+   "Everybody's got something to hide except for me and my monkey."
+   (J.Lennon/P.McCartney)
+  =20
+   You can't copyright words, but you can trademark them, generally by
+   using them to refer to your brand of a generic type of product or
+   service. Like an "Apple" computer. Apple Computer "owns" that word
+   applied to computers, even though it is also an ordinary word. Apple
+   Records owns it when applied to music. Neither owns the word on its
+   own, only in context, and owning a mark doesn't mean complete control
+   -- see a more detailed treatise on this law for details.
+  =20
+   You can't use somebody else's trademark in a way that would unfairly
+   hurt the value of the mark, or in a way that might make people confuse
+   you with the real owner of the mark, or which might allow you to
+   profit from the mark's good name. For example, if I were giving advice
+   on music videos, I would be very wary of trying to label my works with
+   a name like "mtv." :-)
+  =20
+   7) "They can't get me, defendants in court have powerful rights!"
+  =20
+   Copyright law is mostly civil law. If you violate copyright you would
+   usually get sued, not charged with a crime. "Innocent until proven
+   guilty" is a principle of criminal law, as is "proof beyond a
+   reasonable doubt." Sorry, but in copyright suits, these don't apply
+   the same way or at all. It's mostly which side and set of evidence the
+   judge or jury accepts or believes more, though the rules vary based on
+   the type of infringement. In civil cases you can even be made to
+   testify against your own interests.
+  =20
+   8) "Oh, so copyright violation isn't a crime or anything?"
+  =20
+   Actually, recently in the USA commercial copyright violation involving
+   more than 10 copies and value over $2500 was made a felony. So watch
+   out. (At least you get the protections of criminal law.) On the other
+   hand, don't think you're going to get people thrown in jail for
+   posting your E-mail. The courts have much better things to do than
+   that. This is a fairly new, untested statute.
+  =20
+   9) "It doesn't hurt anybody -- in fact it's free advertising."
+  =20
+   It's up to the owner to decide if they want the free ads or not. If
+   they want them, they will be sure to contact you. Don't rationalize
+   whether it hurts the owner or not, ask them. Usually that's not too
+   hard to do. Time past, ClariNet published the very funny Dave Barry
+   column to a large and appreciative Usenet audience for a fee, but some
+   person didn't ask, and forwarded it to a mailing list, got caught, and
+   the newspaper chain that employs Dave Barry pulled the column from the
+   net, pissing off everybody who enjoyed it. Even if you can't think of
+   how the author or owner gets hurt, think about the fact that piracy on
+   the net hurts everybody who wants a chance to use this wonderful new
+   technology to do more than read other people's flamewars.
+  =20
+   10) "They e-mailed me a copy, so I can post it."
+  =20
+   To have a copy is not to have the copyright. All the E-mail you write
+   is copyrighted. However, E-mail is not, unless previously agreed,
+   secret. So you can certainly report on what E-mail you are sent, and
+   reveal what it says. You can even quote parts of it to demonstrate.
+   Frankly, somebody who sues over an ordinary message might well get no
+   damages, because the message has no commercial value, but if you want
+   to stay strictly in the law, you should ask first. On the other hand,
+   don't go nuts if somebody posts your E-mail. If it was an ordinary
+   non-secret personal letter of minimal commercial value with no
+   copyright notice (like 99.9% of all E-mail), you probably won't get
+   any damages if you sue them. Note as well that the law aside, keeping
+   private correspondence private is a courtesy one should usually
+   honour.
+  =20
+  =20
+  =20
+  =20
+     _________________________________________________________________
+  =20
+  IN SUMMARY
+     * These days, almost all things are copyrighted the moment they are
+       written, and no copyright notice is required.
+     * Copyright is still violated whether you charged money or not, only
+       damages are affected by that.
+     * Postings to the net are not granted to the public domain, and
+       don't grant you any permission to do further copying except
+       perhaps the sort of copying the poster might have expected in
+       the ordinary flow of the net.
+     * Fair use is a complex doctrine meant to allow certain valuable
+       social purposes. Ask yourself why you are republishing what you
+       are posting and why you couldn't have just rewritten it in your
+       own words.
+     * Copyright is not lost because you don't defend it; that's a
+       concept from trademark law. The ownership of names is also from
+       trademark law, so don't say somebody has a name copyrighted.
+     * Copyright law is mostly civil law where the special rights of
+       criminal defendants you hear so much about don't apply. Watch out,
+       however, as new laws are moving copyright violation into the
+       criminal realm.
+     * Don't rationalize that you are helping the copyright holder; often
+       it's not that hard to ask permission.
+     * Posting E-mail is technically a violation, but revealing facts
+       from E-mail isn't, and for almost all typical E-mail, nobody could
+       wring any damages from you for posting it.
+      =20
+  =20
+     _________________________________________________________________
+  =20
+  =20
+  =20
+   Permission is granted to freely copy (unmodified) this document in
+   electronic form, or in print if you're not selling it. On the WWW,
+   however, you must link here rather than copy it. If you had not seen
+   a notice like this on the document, you would have to assume you did
+   not have permission to copy it. This document is still protected by
+   you-know-what even though it has no copyright notice.
+     _________________________________________________________________
+  =20
+  =20
+  =20
+   It should be noted that the author, as publisher of an electronic
+   newspaper on the net, makes his living by publishing copyrighted
+   material in electronic form and has the associated biases. However, DO
+   NOT E-MAIL HIM FOR LEGAL ADVICE; for that use other resources or
+   consult a lawyer. Also note that while most of these principles are
+   universal in Berne copyright signatory nations, some are derived from
+   Canadian and U.S. law. This document is provided to clear up some
+   common misconceptions about intellectual property law that are often
+   seen on the net. It is not intended to be a complete treatise on all
+   the nuances of the subject. A more detailed copyright FAQ, covering
+   other issues including compilation copyright and more intricacies of
+   fair use is available in the same places you found this note, or here.
+   Also consider gopher://marvel.loc_dot_gov/11/copyright for actual
+   statutes. Another useful document is the EFF's IP law primer.
+  =20
+  =20
+   Other net articles on my Home Page
+  =20
+   Up to ClariNet e.News home page
+</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F738818" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F738818" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F738818" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

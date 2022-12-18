@@ -1,0 +1,435 @@
+<html>
+<head>
+<title>type2 - Re: No Subject</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/730874 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/730874" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/730874" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: No Subject</h1>
+   <b>dubber_at_gnn_dot_com (Warren Tuttle)</b><br/>
+   <i>1996-02-24 15:36:41+00</i><br/>
+   <br/>
+   <pre>How do you get off of this mail list?  Can anyone help? Thanks.
+>Date:	Fri, 23 Feb 1996 23:34:14 -0600
+>From:	DHaynes57_at_aol_dot_com
+>Sender:	vanagon_at_lenti.med.umn_dot_edu
+>To:	Multiple recipients of list <vanagon_at_lenti.med.umn_dot_edu>
+>Subject:	Re: No Subject
+>
+>In a message dated 96-02-22 02:51:08 EST, DavidAdair_at_aol_dot_com=20
+writes:
+>
+>>
+>>ked and slithered in the background for long enough, at long=20
+last,
+>>I write.  My girlfriend Whitney and I have just purchased our=20
+first VW, an
+>>=9188 Westy with 98,000 miles (great condition) with the intention=20
+of
+> driving
+>>it from San Francisco through Mexico at least as far as=20
+Guatemala.  We=92re
+>>heading south in about a week and plan on traveling for about six=20
+months
+> or
+>>so.  What we=92d really like to do is drive it to Panama, then put=20
+it on a
+>boat
+>>to Alaska and drive it back from there, or to Florida and drive=20
+home
+>>cross-country.
+>>
+>>I=92ve traveled a bit, but not with a vehicle, and I=92ve never owned=20
+or
+> worked
+>>on a VW.  As a result, I=92m quite confident when I say that I have=20
+no idea
+>>what we=92re getting into.  We=92ve had the van thoroughly
+>>inspected/tuned/prepped at Gandalf=92s Garage in South San Francisco (a=
+nd
+>>they=92ve been really great) and it seems to be pretty road worthy, but=
+ I=92ve
+>>got some questions about a long road trip like this in Mexico.
+>>
+>>1.  What kind of tools should I bring?  I=92m mechanically inclined, bu=
+t
+>pretty
+>>much clueless about working on the van.  I=92m thinking about getting a=
+ good
+>>harness and length of rope so I can strap myself like a sled dog to the
+>front
+>>bumper and tow it to a garage when I need to.  Don=92t tell me to bring=
+ a
+>>super-twisto-double-spanner-wizzlethorp because I wouldn=92t know what =
+to do
+>>with it.
+>>
+>>2.  What kind of spare parts should I bring?  Someone said the tires ar=
+e
+>hard
+>>to get in that size if they need replacing.  Should I have both a good
+> spare
+>>and an extra (6th) tire, or is that overkill?
+>>
+>>3.  I=92ve been told that the catalytic converter can plug up and cause
+>>problems with Mexican gas.  I=92ve gotten a converter that is just a tu=
+be
+> with
+>>no insides that I could put on after we=92re over the border, then swit=
+ch it
+>>back before we come back to California.  Is that either necessary or a =
+bad
+>>idea for any reason?
+>>
+>>4.  I=92ve read various comments about over-heating brakes.  This weeke=
+nd on
+>>the way back from Yosemite, going down Old Priest Grade (Old Mill Grade=
+??)
+>on
+>>Highway 120 (it=92s a VERY steep section) the brakes faded and the fron=
+t
+>brakes
+>>got so hot there was smoke pouring from them before I realized what was
+>>happening.  Is that normal for this car or do I have a problem?
+>>
+>>5.  What have I forgotten to ask??  I know about sulfate-free coolant; =
+I
+> can
+>>only assume that=92s available in Mexico.  Anything special about oil?
+>> Anything else?
+>>
+>>Thanks in advance for anyone=92s helpful comments.  I=92m on digest, so=
+ if you
+>>could also mail comments to me directly I=92d really appreciate it.=20
+>>
+>>An additional note:  when the list gets split as it inevitably will (qu=
+it
+>>fighting it, you whiners, it's just a matter of time), please sign me u=
+p
+> for
+>>the white-=9288-Westy/Northern-California/not-really-a-mechanic version=
+..
+>> That=92s not too much to ask, is it?  (Did anyone get apoplectic befor=
+e
+> they
+>>got it?  Passions do tend to run high in this group.)
+>>
+>>And another note:  we=92re taking an old =91386 portable computer with =
+us and
+>>using AOL=92s Mexico service to send and receive e-mail on the road.  W=
+e=92re
+>>planning to have a web site that our friend will be posting our e-maile=
+d
+>>newsletters to.  I=92ll let you know the address of it when I know it.
+>>
+>>Dave Adair & Whitney Mortimer
+>>=9288 Westy=20
+>>DavidAdair_at_aol_dot_com
+>>
+>>
+>
+>Inresponse to all of the above, I offer the following tidbits:
+>
+>You don't say whether your van is an auto, manual, or syncro.  The trans=
+'
+>should be serviced.  The most common cause of auto trans failure is the
+> final
+>drive running low on gear oil and then self destructing.  I do recomend
+>synthetic oils for the engine and transmisions.  I would also have the C=
+V
+>joints insected and packed with fresh grease. Get the gfrease from the
+> dealer
+>or use AMSOIL synthetic Moly Heavy duty grease.  The wheel bearings shou=
+ld
+>also be greased. The rears can be greased by removing the wheel hub and
+> using
+>a needle inserted between the rollers, fill the cavity with fresh grease=
+.=20
+>
+>For the engine, I recomend 20-50 for the service you will be putting it
+>through.  See owners manual.  I use Mobil-1 15-50 all year and have had
+> very
+>good results.  My wifes Rabbit has almost 240K on the original engine.  =
+I
+>would consider adding an oil temparature gauge.  This will tell you when=
+ to
+>back off the throttle when going up hills or traveling at high speed.  T=
+he
+>water cooling is ideal in this vehicle,  Oil temps however can push 280 =
+or
+>better.  This will destroy seals.  I use an oil cooler on my Vanagons.=20
+> Also,
+>oil level is extremely important.  Never, never, never, overfill.  Keep =
+oil
+>between the lines for best lubrication.  Check with engine warm, van lev=
+el,
+>and let oil return to pan before checking,(about 5 minutes).  1extra cup
+>raises oil temp by 20 or 30 degrees, even with large auxillary cooler.  =
+Do
+>not be tempted that more is better.  Drain excess if you make a mistake.
+>I wouls also change the power steering fluid.  Have the system flushed t=
+o
+>remove al the old junk.
+>
+>Change the brake fluid also.  Speaking of brakes, the pads and shoes fro=
+m
+> the
+>dealer work best for stopping ability and fade resistance.  The factory
+> rears
+>are mettalic. I have not found an after market source that does it right=
+.=20
+> My
+>camper has 126K with the original shoes.  I will replace with same.  My
+>fronts were repalced at 87 with aftermarket "silver supremes". Van does =
+not
+>stop well and rotors are now warped.  Didn't save much money either.
+>
+>How old is water pump?  Expect 60K or so to be replacement territiry.  K=
+eep
+>spare.  Primary coolant bottle is another failure ite, (the one with the
+>pressure cap).  If yellow, replace.  How about alternator?  Remove
+> regulator
+>and check brushes.  Replae if brushes are worn.  Also check bearings.  T=
+hey
+>have a nasty habit of failing.  If they go, you are stuck as this belt a=
+lso
+>drives the water pump.  If alternator is original, replace bearings and
+>regulator/ brush assembly before trip.=20
+>
+>As for tires, if replacing before trip, consider a size that is readily
+>available.  Actually consider brand.  If national brand, they can shipp
+>anywhere you need them.  Goodyear or sears maybe good choices.  Consider
+>215-70/14 with standard load ratings.  The extra size will hold the wieg=
+ht
+>with no problem,(1554lbs each), and provide better ride and handling.
+> During
+>travel to Alaska, you will travel many unpaved roads.  I did it in 93. Y=
+ou
+>need a tire with strong sidwalls to resist the rocks.  I used Bridgeston=
+e
+>HP-41 potenza's.  They worked great, no flats in 12,000 miles.=20
+> Unforunately,
+>they are no longer available. Turanza is new replacement in that size.=20
+> Great
+>tire except not as good in snow.  Goodyear GSA or Pirelli APT-400 should=
+ be
+>excelent tires for this trip.
+>
+>As far as oyur CAT question, I do not know what gas is available.  If yo=
+u
+>eliminate the CAT, you still need the O2 sensor.  It will also be destro=
+yed
+>by leaded fuel.  Bring a spare.  Unleaded fuel should be available in
+> Mexico.
+>
+>For spare parts, consider water pump, fuel pump. ignition wires,(or at
+> least
+>the spark plug connectors, they tend to short out, especially if they ar=
+e
+>aftermarket),  Oil and oil filters. Air filter due to the dust, and belt=
+s.
+> Some pieces of hose and clamps for the cooling system may be a god idea
+>also.
+>
+>I hope this answered some of your questions.
+>Good Luck, and keep on Busin'
+>Dennis H.  =20</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F730874" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F730874" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F730874" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,339 @@
+<html>
+<head>
+<title>type2 - more stoopid statz ... 83-85 watercooled :)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/716552 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/716552" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/716552" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>more stoopid statz ... 83-85 watercooled :)</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1997-04-04 05:24:15+00</i><br/>
+   <br/>
+   <pre>
+ 83 Vanagon                  Phillip Kenney       PKENNY17_at_SPRINTMAIL.COM
+ 83 Vanagon                  Robert Mantha        ROBERT.MANTHA_at_FSA.ULAVAL.CA
+ 83 Vanagon                  Rich Cebra           RICHARD_at_NEWS.NET3.NET
+ 83 Vanagon                  Kenneth Crawford     CRAWFORD_at_CEBAF.GOV
+ 83 Vanagon Camper           John Grazul          GRAZUL_at_BIOLOGY.RUTGERS.EDU
+ 83 Vanagon Camper           Charles Earl         CDEARL_at_CATS.UCSC.EDU
+ 83 Vanagon Camper           David Sidote         SIDOTE_at_EDEN.RUTGERS.EDU
+ 83 Vanagon Camper           Bill Carson          BC_at_PIXAR.COM
+ 83 Vanagon Camper           Mike D               VWMIKED_at_AOL.COM
+ 83 Vanagon Camper           David Richoux        TUBAMAN_at_HOOKED.NET
+ 83 Vanagon Camper           Byron Peratoner      BYRON.PERATONER_at_BANGATE1.TEK.C
+ 83 Vanagon Camper GL        Mike Wynn            LMF1_at_GPU.SRV.ALBERTA.CA
+ 83 Vanagon 9-passenger      James Cohen          JSCOHEN_at_SPRYNET.COM
+
+ 84 Vanagon                  Sheila Lawless       SLAW7868_at_URIACC.URI.EDU
+ 84 Vanagon                  Sudhir Desai         CDES_at_WELCHLINK.WELCH.JHU.EDU
+ 84 Vanagon                  Myles Moritz         MRMORITZ_at_UNITY.NCSU.EDU
+ 84 Vanagon                  Jean McNaughton      JEAN.MCNAUGHTON_at_GARFIELD.SCBE.
+ 84 Vanagon                  Fred Dyen            FFFDD_at_AURORA.ALASKA.EDU
+ 84 Vanagon                  Fred Dyen            FFFDD_at_AURORA.ALASKA.EDU
+ 84 Vanagon                  Bill Collins         WB6OTG_at_INTREX.NET
+ 84 Vanagon                  Ed Buzz              EDBUZZ_at_AOL.COM
+ 84 Vanagon                  Rudy Bardales        RUDYB_at_SONIC.NET
+ 84 Vanagon                  Gerald Skerbitz      GSKER_at_LENTI.MED.UMN.EDU*#
+ 84 Vanagon                  Mike Davis           MDAVIS_at_UA1VM.UA.EDU
+ 84 Vanagon                  Pavneet Arora        PAVNEET_at_CYANTIC.COM
+ 84 Vanagon                  Michael Radtke       M.RADTKE_at_BULL.COM
+ 84 Vanagon                  Booker Bense         BBENSE_at_NETWORKING.STANFORD.EDU
+ 84 Vanagon automatic <bones Jon Christensen      VVWCA_at_PRIMENET.COM
+ 84 Vanagon Camper           Sean Morrison        GUZZI1_at_IX.NETCOM.COM
+ 84 Vanagon Camper           Thomas Hanlon        HANRAN.INC_at_INTERNETMCI.COM
+ 84 Vanagon Camper           Ken Gee              GEE_at_COL.HP.COM
+ 84 Vanagon Camper           Scott Walker         71674.16_at_COMPUSERVE.COM
+ 84 Vanagon Camper           Garrick Chang        GARRICK409_at_AOL.COM
+ 84 Vanagon Camper           Blake Thornton       THORNTON_at_MATH.UTAH.EDU
+ 84 Vanagon Camper           Chris Braymen        BONEHEAD_at_COMPUSERVE.COM
+ 84 Vanagon Camper           Scott Chen           MAC.CHEN_at_POPD.NETCRUISER
+ 84 Vanagon Camper           Shelby Brumelle      SHELBY_at_BRUMELLE.COMMERCE.UBC.C
+ 84 Vanagon Camper           Don Kane             DON_KANE_at_MAIL.ARC.NASA.GOV
+ 84 Vanagon Camper           James Wetzel         JRWETZ_at_PLANTEX.BLOOMU.EDU
+ 84 Vanagon Camper           Tom Vargo            TJVARGO_at_EFAWEST.NAVFAC.NAVY.MI
+ 84 Vanagon Camper           Chris McClellan      HOUSECAL_at_PANTEK.COM
+ 84 Vanagon Camper           Nicole Palkovsky     PALKOVSK_at_SFU.CA
+ 84 Vanagon Camper           Stuart Crowell       STUARTC_at_PSC.PLYMOUTH.EDU
+ 84 Vanagon Camper           Mark Noya            MARK_at_METRICOM.COM
+ 84 Vanagon Camper           Dave Radcliff        DARADCLIFF_at_DOL.NET
+ 84 Vanagon Camper           Karen Brown          KPB_at_GNV.IFAS.UFL.EDU
+ 84 Vanagon Camper automatic Bus Boys             BUSBOYS_at_AOL.COM
+ 84 Vanagon Camper Subaru-en Phil Meyers          PMEYERS_at_HIC.NET
+ 84 Vanagon GL               Charles Vaughan      CEV_at_ROCKET.COM
+ 84 Vanagon GL               Jon Christensen      VVWCA_at_PRIMENET.COM
+ 84 Vanagon GL               Jim Digennaro        LIMBO_at_BCN.NET
+ 84 Vanagon GL               Lionel Tun           LIONEL_at_DIRCON.CO.UK
+ 84 Vanagon GL               Chris Fisher         CTFISHER_at_STUDENTS.WISC.EDU
+ 84 Vanagon GL               Matt Sanner          MSANNER_at_HOOKED.NET
+ 84 Vanagon GL               Bob Oshaughnessy     OSHAUG_at_INFINET.COM
+ 84 Vanagon GL               Richard Schmittdiel  SCHMITRW_at_SCE.COM
+ 84 Vanagon GL               Kyle Wade            PENGI_at_CRUZIO.COM
+ 84 Vanagon GL               James Ferree         JFERREE_at_PICA.ARMY.MIL
+ 84 Vanagon GL               Jim Bryant           EF0JPB1_at_MVS.CSO.NIU.EDU
+ 84 Vanagon GL               Jim Arnott           JARNOTT_at_OREDNET.ORG
+ 84 Vanagon Weekender?       Ronald Mcdonald      MICKEYD_at_ISWNET.COM
+ 84 Vanagon Wolfsburg Camper Laurie Loeb          LLOEB_at_IGC.APC.ORG
+ 84 Vanagon Wolfsburg Camper Edward Stevens       EJSTEVENS_at_EARTHLINK.NET
+ 84 Vanagon Wolfsburg GL sun Chris Turner         102660.66_at_COMPUSERVE.COM
+
+ 85 Vanagon                  Chris Getschow       RINGO_at_AERODYNE.COM
+ 85 Vanagon                  Forrest Minor        FLMINOR_at_CLARK.NET#
+ 85 Vanagon                  Gary Thaxter         GTHAXTER_at_MSDCORP.COM
+ 85 Vanagon                  Phil Pactor          PACTOR_at_COMMUNITYONLINE.NET
+ 85 Vanagon                  Charlie Callahan     CHARLIEC42_at_ILINKGN.NET
+ 85 Vanagon                  David Bradshaw       DBRADSHAW_at_MSCC.CC.TN.US
+ 85 Vanagon                  John Jones           JSJONES_at_RINCON.MFG.SGI.COM
+ 85 Vanagon                  Jesse Taylor         JTAYLOR_at_CCNET.COM
+ 85 Vanagon                  Keith Stackhouse     KASTACK_at_CLARITYCONNECT.COM
+ 85 Vanagon                  Nathan Lebron        CACIQUE_at_GLOBAL2000.NET
+ 85 Vanagon                  David Lugo           DAVID_at_RUMLIB.UPR.CLU.EDU
+ 85 Vanagon  GL              Jon Hathaway         JONREED_at_EARTHLINK.NET
+ 85 Vanagon Camper           Karen Roberts        TGMK36B_at_PRODIGY.COM
+ 85 Vanagon Camper           Peter Krogh          VW85WESTY_at_AOL.COM
+ 85 Vanagon Camper           Robert Williams      WILLIAMS_at_MTEST.TERADYNE.COM
+ 85 Vanagon Camper           Joe Beckham          JOEBECK_at_JUNO.COM
+ 85 Vanagon Camper           Rik Santos           AFN18258_at_AFN.ORG
+ 85 Vanagon Camper           James Cohen          JSCOHEN_at_SPRYNET.COM
+ 85 Vanagon Camper           Normand Gagnon       NORMANDSYLVIE_at_IBM.NET
+ 85 Vanagon Camper           T Stone              TSTONE8359_at_AOL.COM
+ 85 Vanagon Camper           Michael Dower        BETH_at_WORLDPATH.NET
+ 85 Vanagon Camper           Denis Belisle        DEBELS_at_TOTAL.NET
+ 85 Vanagon Camper           Tim Mcdermott        MCDERMOT_at_LI.NET
+ 85 Vanagon Camper           Dick Lynn            DLYNN_at_OLYMPUS.NET
+ 85 Vanagon Camper           Jeff Feldstein       JFELDSTE_at_CISCO.COM
+ 85 Vanagon Camper           Lewis Horn           Z006539B_at_BCFREENET.SEFLIN.LIB.
+ 85 Vanagon Camper           John Fleming         HELFLE8953_at_AOL.COM
+ 85 Vanagon Camper           Steve Huss           STEVIE_at_BANGATE1.TEK.COM*
+ 85 Vanagon Camper           Mike Escaravage      MESCARAV_at_FISHER.SUNNYBROOK.UTO
+ 85 Vanagon Camper           Laurel Kennedy       KENNEDY_at_CC.DENISON.EDU
+ 85 Vanagon Camper           Thomas Czerniak      SELTEN_at_MSN.COM
+ 85 Vanagon Camper           Mike Yozell          WAYWRDCYC_at_AOL.COM
+ 85 Vanagon Camper           Pat Spragge          PSPRAGGE_at_BATNET.COM
+ 85 Vanagon Camper           John Cunningham      KACUNN19_at_VIVANET.COM*
+ 85 Vanagon Camper           Rick Ferguson        RFERGUS_at_INFI.NET
+ 85 Vanagon Camper           Rob McGee            RMCGEE_at_TRIB.COM
+ 85 Vanagon Camper           Ron Salmon           EXPRES_at_GNN.COM
+ 85 Vanagon Camper automatic Gregg Carlen         GCARLEN_at_AOL.COM
+ 85 Vanagon Camper automatic Mark Pinkstone       MSP_at_PINKSTONE.COM
+ 85 Vanagon Camper GL        Kit Carter           NCARTER_at_SLONET.ORG
+ 85 Vanagon Camper GL        Vince Pappalardo     VINCE_PAPPALARDO_at_OM.CV.HP.COM
+ 85 Vanagon Double-cab Picku Tim Smith            SMITHT_at_UNB.CA
+ 85 Vanagon GL               Ken Lewis            KDLEWIS_at_JUNO.COM
+ 85 Vanagon GL               Sstones              SSTONES_at_IO.ORG
+ 85 Vanagon GL               Donald Baxter        DBAX_at_MINDSPRING.COM
+ 85 Vanagon GL               John Clavin          JJC_at_BGA.COM
+ 85 Vanagon GL               Curtis Graham        CGRAHAM_at_NOVELL.COM
+ 85 Vanagon GL               Aaron Robinson       AROBINSO_at_UNICORN.IT.WSU.EDU
+ 85 Vanagon GL               Frank Herzig         FHERZIG_at_SWRI.EDU
+ 85 Vanagon GL               Bob Oshaughnessy     OSHAUG_at_INFINET.COM
+ 85 Vanagon GL               Doug Skinner         DEBUG_at_TCSX.NET
+ 85 Vanagon GL               Jonathan Dove        JDOVE_at_GSVMS2.CC.GASOU.EDU
+ 85 Vanagon GL               Larry Stichweh       LASTIC_at_POSTOFFICE.WORLDNET.ATT
+ 85 Vanagon GL               Dwight Mattix        DMATTIX_at_QUALCOMM.COM
+ 85 Vanagon GL               Don Kane             DON_KANE_at_MAIL.ARC.NASA.GOV
+ 85 Vanagon GL               John Anderson        VWBUS_at_TCPBBS.COM
+ 85 Vanagon GL <bones>       Don Kane             DON_KANE_at_MAIL.ARC.NASA.GOV
+ 85 Vanagon GL automatic     Greg Robinson        AJAX_at_WHY.NET
+ 85 Vanagon GL Weekender     Russell Harrel       102226.2403_at_COMPUSERVE.COM
+ 85 Vanagon Kombi            Ian Kirkwood         IKIRKWOO_at_SMTPOFF.CTCC.GOV.ZA
+ 85 Vanagon Panel Camper     Perry Gauthier       CAMPVW_at_SCIENCENORTH.ON.CA
+ 85 Vanagon Wolfsburg Camper Jim Maginel          C45SSL_at_SEMOVM.SEMO.EDU</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F716552" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F716552" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F716552" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

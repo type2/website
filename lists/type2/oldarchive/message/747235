@@ -1,0 +1,299 @@
+<html>
+<head>
+<title>type2 - Stats Galore ... Who's Who in Split-Windows ...</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/747235 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/747235" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/747235" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Stats Galore ... Who's Who in Split-Windows ...</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1995-10-12 13:24:08+00</i><br/>
+   <br/>
+   <pre>and, now, the Old-Timers ...
+
+ -51 Microbus Kombi          Eric Stollsteimer    BLUESUPER_at_AOL.COM
+ -54 Microbus Kombi          Clara Williams       CLARALW_at_AOL.COM
+ -56 Microbus Deluxe         Martin Skielboe      MARTIN_SKIELBOE_at_ONLINE.POL.DK
+ *56 Microbus Double-door Pa D Baker              DABAKER_at_NAS.NASA.GOV
+ *56 Microbus Kombi          Thom Fitzpatrick     TFAB_at_NETCOM.COM
+ *57 Microbus Deluxe 23-wind Mike White           MIKE.WHITE_at_ADMN1.LAW.UTAH.EDU
+ -57 Microbus Single-cab Pic Jim Ellis            JIM_at_ATCWEB.ATC.1DC.COM
+ *58 Microbus                Dworkin Muller       DWORKIN_at_VILLAGE.ORG
+ *59 Microbus Double-door Pa David Easterwood     DEASTERW_at_SCT.EDU
+ *59 Microbus Kombi          Eric Bergstrom       EBERGSTR_at_MINES.COLORADO.EDU
+ *59 Microbus Panel          Jon Christensen      VVWCA_at_PRIMENET.COM
+ -59 Microbus Single-cab Pic Jim Walker           J.WALKER_at_IX.NETCOM.COM
+ -59 Microbus Single-cab Pic Jason Teets          SJTEETS_at_UNITY.NCSU.EDU
+ *59 Microbus Single-cab Pic L Bauer              BESTILL_at_IX.NETCOM.COM
+ -59 Microbus Single-cab Pic David Easterwood     DEASTERW_at_SCT.EDU
+ *60 Microbus                Jonny Miner          WOOF_at_ESKIMO.COM
+ -60 Microbus                Dworkin Muller       DWORKIN_at_VILLAGE.ORG
+ -60 Microbus (european)     Dave Ross            DJROSS_at_CSUPOMONA.EDU
+ *60 Microbus Camper         Danny Dayton         JRS.COM!DAN_at_JRS.COM
+ -60 Microbus Camper         David Easterwood     DEASTERW_at_SCT.EDU
+ -60 Microbus Double-cab Pic Matthew Henricks     MJHENKS_at_CSULB.EDU
+ *60 Microbus Double-cab Pic Richard Kurtz        RMK_at_SOLAR.SKY.NET
+ *60 Microbus Double-door Pa Bob Hufford          BHUFFORD_at_MAIL.ORION.ORG
+ *60 Microbus Single-cab Pic Matt Henricks        MJHENKS_at_CSULB.EDU
+ *61 Microbus                Martin Skielboe      MARTIN_SKIELBOE_at_ONLINE.POL.DK
+ -61 Microbus <bones>        Bob Hufford          BHUFFORD_at_MAIL.ORION.ORG
+ *61 Microbus Deluxe         Clara Williams       CLARALW_at_AOL.COM
+ -61 Microbus Double-cab Pic Richard Kurtz        RMK_at_SOLAR.SKY.NET
+ -61 Microbus Double-door Pa Rob Schreiner        RS6L+_at_ANDREW.CMU.EDU
+ -61 Microbus Double-door Pa John Gladu           JGLADU_at_BCM.TMC.EDU
+ -61 Microbus Single-cab Pic David Easterwood     DEASTERW_at_SCT.EDU
+ *62 Microbus Camper         Ben Ryan             BEN_at_CASE.CO.UK
+ -62 Microbus Deluxe         David Easterwood     DEASTERW_at_SCT.EDU
+ -62 Microbus Deluxe         Ronald Hutchison     RHUTCHIS_at_MAGNUS.ACS.OHIO-STATE
+ -62 Microbus Double-cab Pic David Easterwood     DEASTERW_at_SCT.EDU
+ -62 Microbus Double-cab Pic Jim Bryant           EF0JPB1_at_MVS.CSO.NIU.EDU
+ *62 Microbus Kombi          Mark Janello         MJANELLO_at_UMICH.EDU
+ -62 Microbus Kombi          Robert King          KING_at_TANELORN.AOD.DSTO.GOV.AU
+ -62 Microbus 21-window Delu Jim Bryant           EF0JPB1_at_MVS.CSO.NIU.EDU
+ -63 Microbus <bones>        Bob Hufford          BHUFFORD_at_MAIL.ORION.ORG
+ -63 Microbus Camper         Jon Christensen      VVWCA_at_PRIMENET.COM
+ -63 Microbus Deluxe 21-wind David Easterwood     DEASTERW_at_SCT.EDU
+ *63 Microbus Dormobile Camp Sl Gallagher         PL2018_at_BRISTOL.AC.UK
+ -63 Microbus Kombi          John Holland         ZZHOLAND_at_UVVM.UVIC.CA
+ -63 Microbus Kombi 15-windo Jim Ellis            JIM_at_ATCWEB.ATC.1DC.COM
+ *64 Microbus Camper (Euro v Terry Mcginnis       MCGINNIS_TERRY_at_MM.RDD.LMSC.LOC
+ -64 Microbus Deluxe 21-wind David Easterwood     DEASTERW_at_SCT.EDU
+ *64 Microbus Devon Camper   Lee Griffiths        L.S.GRIFFITHS_at_PHYSICS.SALFORD.
+ -64 Microbus Safari         Frank Krauch         AFK3_at_FRED.NET
+ -64 Microbus Single-cab Pic Richard Kurtz        RMK_at_SOLAR.SKY.NET
+ *65 Microbus                Doug Stout           DSTOUT_at_ELDEC.COM
+ *65 Microbus                Cecil Turner         CECIL_TURNER_at_HP-ROSEVILLE.OM1.
+ *65 Microbus roofrack       Robert Hoover        VEEDUBER_at_AOL.COM
+ *65 Microbus Camper         David Atherton       AFN26200_at_FREENET.UFL.EDU
+ *65 Microbus Camper         Michael Heron        MICHAEL.HERON_at_UTORONTO.CA
+ *65 Microbus Camper         Jim Walker           J.WALKER_at_IX.NETCOM.COM
+ *65 Microbus Camper         Rob Schreiner        RS6L+_at_ANDREW.CMU.EDU
+ -65 Microbus Deluxe 21-wind Erik Soule           ERIK_at_HENRIES.NSC.COM
+ *65 Microbus Deluxe 21-wind Christian Krahforst  7039CKRAH_at_UMBSKY.CC.UMB.EDU
+ *65 Microbus EZ Camper      Roland Wilhelmy      ROLANDWIL_at_AOL.COM
+ -65 Microbus Panel Van      Michael Heron        MICHAEL.HERON_at_UTORONTO.CA
+ -65 Microbus Single-cab Pic Richard Palmer       RAPALMER_at_UNITY.NCSU.EDU
+ *66 Microbus                John Croteau         JT_at_WINTERNET.COM
+ *66 Microbus Camper         Brad Winemiller      BWINEMIL_at_MAGNUS.ACS.OHIO-STATE
+ *66 Microbus Camper         Markus Benne         MBENNE_at_NEWBRIDGE.COM
+ -66 Microbus Camper         David Easterwood     DEASTERW_at_SCT.EDU
+ -66 Microbus Camper         Erik Robinson        EROBINSO_at_SUFFOLK.LIB.NY.US
+ *66 Microbus Camper RHD     Gary Gibson          YVONNER_at_CCIT.ARIZONA.EDU
+ -66 Microbus Deluxe         David Easterwood     DEASTERW_at_SCT.EDU
+ *66 Microbus Deluxe 15-wind Dave Dula            DDULA_at_ST6000.SCT.EDU
+ -66 Microbus Deluxe 21-wind David Easterwood     DEASTERW_at_SCT.EDU
+ *66 Microbus Kombi          Lisa Demmy           FREDSDM_at_NERVM.NERDC.UFL.EDU
+ *66 Microbus Kombi          Hal Wigoda           HWIGODA_at_MCS.COM
+ *66 Microbus Kombi          Ray Hale             RAY.HALE_at_SANTAFE.CC.FL.US
+ *66 Microbus Kombi          Bradley Prunehead    BRADLEYM_at_NETCOM.COM
+ -66 Microbus Single-cab Pic Frederic Scharf      VWCAMEL_at_IX.NETCOM.COM
+ -67 Microbus                Gary Gibson          YVONNER_at_CCIT.ARIZONA.EDU
+ -67 Microbus <bones>        Bob Hufford          BHUFFORD_at_MAIL.ORION.ORG
+ -67 Microbus <bones>        John Gladu           JGLADU_at_BCM.TMC.EDU
+ *67 Microbus camperized     Matthew Davy         MDAVY_at_SAINTJOE.EDU
+ -67 Microbus Camper         Jim Walker           J.WALKER_at_IX.NETCOM.COM
+ -67 Microbus Camper         Rob Schreiner        RS6L+_at_ANDREW.CMU.EDU
+ *67 Microbus Camper         Josh Kline           JKK99_at_UNO.CC.GENESEO.EDU
+ -67 Microbus Camper         Jim Bryant           EF0JPB1_at_MVS.CSO.NIU.EDU
+ -67 Microbus Camper pop-top Jim Ellis            JIM_at_ATCWEB.ATC.1DC.COM
+ -67 Microbus Kombi          Richard Palmer       RAPALMER_at_UNITY.NCSU.EDU
+ *67 Microbus Panel Camper   Stephen Price        STEPHENP_at_PACIFIER.RAIN.COM</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F747235" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F747235" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F747235" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,344 @@
+<html>
+<head>
+<title>vintagebus - NQ's RMMW/Bandimere Trip Report Part 1</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/650825 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/650825" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/650825" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>NQ's RMMW/Bandimere Trip Report Part 1</h1>
+   <b>&quot;No Quarter&quot; &lt;silent_at_beatricene_dot_com&gt;</b><br/>
+   <i>2001-08-15 21:48:28+00</i><br/>
+   <br/>
+   <pre>RMMW & Bandimere Buskatour 2001
+
+ All of us had been anxiously awaiting the RMMW/Bandimere event this year
+because for the first time, a bunch of us from the Midwest and of the
+Buskatiers had planned to be there.  I had a great time and it's been
+absolutely an honor and a mind blowing experience to meet everyone (even
+those of you from a far).
+
+ Thursday afternoon at work, I was taking my break and here came Dan walking
+in with big old grin on his face.  He was 2100 miles from home and drove all
+the way here to Beatrice in his 1958 Binz.  Dan had left Sunday from Florida
+and made North Carolina Sunday's destination and then 20 miles outside of
+Dayton was Monday's stopping point.  On Tuesday however, Dan put in a full
+day and made it clear to Council Bluffs!!!  I helped Dan confirm the
+directions to Rob's house and before long, Wade, Daisy, and Kevin came over
+to hang out and meet our only Floridian Buskatier (that I'm aware of.)  I
+expected to see  Dan the next morning but had a hunch that his early arrival
+would open the door for a junkyard trip.  It did.  He traveled down to his
+former home state and got that '54 - '58 truck only rear bumper splash pan
+that he so desperately needed for his Binz.  Evidently the rust was so bad,
+that the rear bumper was removed with a pickle fork!!!  By the time Dan
+showed up where I work, he had logged another several hundred miles on the
+Binz.  In order to cruise town, I had saved an order sheet that necessitated
+that I go scout out an area to deliver a shed to.  I was able to cruise with
+Dan to the south side of town and bless the streets of Beatrice with a Binz
+Crewcab! :-)  After that little jaunt, we stopped by my house for quick tour
+and then Dan ran me back to work.  30 minutes later I showed up here at home
+and Dan was busily typing/reading email on the computer.  We finished the
+evening with me packing and Dan doing a little maintenance on the Binz.  I
+gave him a new oil pressure sending unit for his Binz as his old one didn't
+seem to be functioning correctly.  We investigated an engine noise which
+turned out to be the fan shroud and fan making a little contact with each
+other but nothing extremely serious.  I finally crashed in front of the TV
+in the basement around 10:30 or so and got up early to be at work by 7:00.
+I was out delivering shingles (driving the forklift around town) and
+happened to catch Dan stepping out of the house around 9:00.  He was leaving
+to go get Jamie.  I called up Dan once and everything was going just fine.
+Around 3:00 - 4:00, Dan and Jamie showed up.  Jamie surely knew who I was as
+I was the big guy in the overalls, carrying lumber around the yard.  We put
+Jamie to work helping unload Steve Reed's tires from my roof rack into the
+Binz and then the guys took off.  They ran to my house, grabbed some stuff,
+took care of some email, and headed out to my fabled VW promised land.  I
+arranged to meet them there after work.  I met up with them and they told me
+they had a BIG shopping list of items that I needed to go get for them.  We
+loaded up on drinks and supplies and headed off toward Steve Reed's house in
+Belleville, KS.  We made it there in good time.  Dan and I were running our
+machines wide open.  Dan could blow me away (due to an advance issue which
+was fixed later) and as I was driving my machine floored, blue smoke started
+coming out.  Dan was a bit surprised and signaled me over but as it turned
+out, it was blowby (ARGH) so my once clean engine decided to start pumping
+out of every crack and crevice.  It's my fault for not venting the valve
+covers.  After tightening the fuel pump nuts, we went on our way with Dan in
+the lead...strangely enough, Dan didn't want to be coated with oil! :-)
+Since I had an "episode" with the state patrol last year on my trip, I was
+very reluctant to speed.  Dan's Binz was running great and he pretty much
+led the way to Belleville with varying margins.  As I recall, one state
+patrolman came by in the other direction with lights flashing but he
+evidently was enroute to another more important call as he ignored both of
+us!  So as Jamie and Dan as well as Kerry and I found Belleville, we
+followed Steve Reed's directions right to his house.  We exchanged
+greetings, introduced each other to each other and unloaded 8 tires that
+Steve had purchased from me.  We met Steve's wife and then got the tour of
+the house - Steve's immaculate and extensive toy collection which he
+surrounds himself with everytime he's on the net, the VW parts stash, the
+roof clip from my old 1963 ragtop beetle, and the key stash.  Time was a
+wasting so we all met at Dairy Queen and ate up.  After a nice 30 minute or
+so lunch, we made our way to the parking lot where curious onlookers were
+commenting on the buses and so forth.  Before long, we headed out and were
+well on our way to Kanopolis, KS where Dan's friend Larry Miller lives.  We
+had a nice cruise at 70 to 75 mph on the interstate and before long, we were
+at Larry's.  It just so happened that Larry's buddy arrived at the front
+door just as we arrived at the back door so it left Larry scurrying about
+the house trying to accomodate all the sudden company.  The A/C felt good
+and it was nice to see Larry again.  He was going to go with us to RMMW but
+had a chance to hit Sturgis this year so he was getting ready to head out
+early the next morning around 5:00.  Jamie was able to check email and surf
+a little bit but by around 11:00, we were all pretty much bedded down.
+Kerry and I took the spare bedroom, Jamie took the living room, and Dan
+camped outside until the thunderstorm that night drove him indoors.  It had
+rained pretty good in the morning, just like it did back in June when we
+were here.  Funny how it rained both times!
+
+We headed to the familiar little truck stop over around Ellsworth, KS and
+had the same waitress as before.  I had pancakes and the other guys had the
+Ellsworth Explosion as it's called.  I can only wonder if the chef was
+inspired to name it that after a bad trip to the bathroom at some point in
+time. :-)  We ate and chatted and before long were well on the road to
+Colorado.  Dan navigated and took us on 2 lane backroads at 65 to 70mph.  It
+was neat seeing all the little small towns with their old gas stations, old
+burger bars, and just little roadside businesses that are very Route 66ish
+(even though we were on 66.)  This proved to be our setting all day long -
+we'd see a junkyard and whip a u-turn to go check it out, visited with an
+owner about an old Schwinn Stingray bike he ended up not wanting to sell,
+stopped and visited with a really weirdo wacked out lady about a bug she
+supposedly had but didn't, and then between all of this, we would stop for
+fuel and eats.  I was car-jacked by Jamie somewhere in Kansas and forced to
+drive the Binz as I was refusing all of Dan's offers to drive it.  I didn't
+want to wreck the Binz.  Finally Dan caught on to my game, pulled over, and
+via Jamie, ordered me into the Binz.  So Jamie drove my bus and I drove the
+Binz  I popped it out of gear right off the bat because the shifter is kind
+of messed up.  I hope Dan gets that fixed.  He drives with it okay but there
+is an issue with the ball in the shifter coming out of the shiftrod cup
+(Dan's top secret theft deterrant!)  Because of this, I ended up having Dan
+shift for me.  The Binz must be lighter than a Deluxe bus such as mine
+because with the 3.44 ring and pinion that Dan has, he could cruise 80 mph
+no problem and blow me away.  As we later found out, my timing was retarded
+too much.  After putting it where it should be, I had more zip.
+
+Somewhere around Cheyenne Wells, CO, Dan pulled over and got several great
+shots of our buses on the side of the road with nothing but cornfields and
+endless miles of road stretching before us.  For Jamie's first trip "West"of
+his life, he could not get over the vast expanse.  It's true - there's a lot
+of land out here and a lot of corn and other agrcultural products.  We even
+caught a couple of cows "doing it."  :-)
+
+Outside of Colorado Springs, we checked a junkyard that had bugs along side
+the road.  It turns out that this is the same yard that Bryant and Keith
+visted.  We found the exact same 1963 23 window that had the roof torched
+off of it.  We also found a flip seat Westy.  The body was in pretty good
+shape but the bus has seen some serious parting out.  It's a walkthrough
+with no backs on the seats.  I said it was a hack-through but Dan showed me
+that it wasn't because of the clean edges on the seat bases.  As Dan was
+trying to locate the yard owner, I had a nice visit with a German fellow
+named Kurt.  Kurt and his son were working on a 1965 Oldsmobile and were
+there getting some rear window glass.  Had a nice chat with him and had a
+lot of fun converting mph to kph and other conversions.  He new of Binz,
+understood the rarity of Dan's Binz, and was overall pleasant to talk to.
+We exchanged emails addy's and so I must make sure to email him.  I now have
+a German contact! :-)  Also we checked out the distributor on a  YUGO and
+saw how Bill May's tip of dropping the guts from the YUGO dizzy into a 009
+is a cheap way to covert to electronic igntion.  The YUGO dizzy is GERMAN
+and looks exactly like a 009.  I think you have to take the innards out and
+move them to your 009 as well as move over the ignition module.  Looks like
+it would be a fun conversion to try!</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F650825" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F650825" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F650825" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

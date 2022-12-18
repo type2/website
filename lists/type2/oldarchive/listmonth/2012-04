@@ -1,0 +1,2230 @@
+<html>
+<head>
+<title>type2 Mailing List Activity - 2012-04</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/listmonth/2012-04 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/listmonth/2012-04" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/listmonth/2012-04" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+  <div class="panel panel-primary">
+  <div class="panel-heading">type2 - 2012-04</div>
+  <table class="table">
+   <thead><tr><th>Subject</th><th>Date</th><th>From</th></tr></thead>
+   <tbody>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920741">shocks</a></td>
+        <td>Happy Jack Feder <happyfeder(-at-)yahoo.com></td>
+        <td>2012-04-01 01:41:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The more I try to research shock absorbers for my 1976 Westfalia, the more
+confused I get. From some sites I get the impression that it's almost
+impossible to obtain the proper and best shock anymore. And I don't want to
+pay through both nostrils at the sa...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920820">Re: [T2] shocks</a></td>
+        <td>Jim Arnott <jrasite(-at-)eoni.com></td>
+        <td>2012-04-01 02:15:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I got my bay window gas shocks from NAPA.  Hard to beat a lifetime  
+warranty and a store in every little podunk town.
+
+Jim
+
+You cannot force ideas. Successful ideas are the result of slow  
+growth. Ideas do not reach perfection in a day, no matter how muc...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920758">Re: [T2] shocks</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-04-01 02:41:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sat, 31 Mar 2012, Jamie wrote:
+
+> you can get OEM ,, or better a$ it look$ like they $till have $ome KONI for
+> $ale..
+
+Spend the money the KONI's are worth every penny and then some
+they are lifetime warranted and they actually are OEM optional heavy d...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920766">Re: [T2] shocks</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-04-01 02:59:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>hmm, what kind of research are you doing?
+I look at this site, and send money, and I have my shocks in a few days...
+http://busdepot.com/view.jsp?model=57&category=38&group=-1&prodgroup=-1
+
+you can get OEM ,, or better a$ it look$ like they $till have $ome...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920804">Re: Re: [T2] shocks</a></td>
+        <td>airhedz(-at-)gmail.com</td>
+        <td>2012-04-01 03:52:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I also bought the Koni shocks. One of my favorite purchases for the bus.  
+Worth every penny. I have mine set on meduim front and rear, not much in  
+the van except the third row seat. Handles like it was on rails. Best  
+handling upgrade I have done.
+
+And...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920779">massive sink hole</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-04-01 16:57:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Apparently there has been a bit of catastophe at Doc Rics place..  there was
+a small hole just behind the new shop.. and when he went to investigate it..
+he parked his Harley ,, and stepped off... and the ground gave way!
+They haven't been able to get to t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920825">RE: [T2] massive sink hole</a></td>
+        <td>"The Bus Depot" <type2(-at-)busdepot.com></td>
+        <td>2012-04-01 17:08:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> Apparently there has been a bit of catastophe at Doc Rics place..  there
+was a small
+> hole just behind the new shop.. and when he went to investigate it..
+> he parked his Harley ,, and stepped off... and the ground gave way!
+> They haven't been able to ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920839">Just what is this supposed to repair??</a></td>
+        <td>courtney hook <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-04-01 17:37:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sorry folks, too early in the morning. Can't figure what this is supposed to repair? Is it the rear shock mount?? I don't think so.
+
+http://napaonline.com/Catalog/CatalogItemDetail.aspx?A=ATM211498171A_0257205571&An=599001+101977+50074+2074027+25007&Ar=AND...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920803">Re: [T2] Just what is this supposed to repair??</a></td>
+        <td>Dan Bessom <grtfldan(-at-)gmail.com></td>
+        <td>2012-04-01 17:42:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Isnt that the center pin repair kit for late Bays?
+Dan...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920798">Re: [T2] Just what is this supposed to repair??</a></td>
+        <td>jules <jules.herr(-at-)gmail.com></td>
+        <td>2012-04-01 18:01:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sure looks like the swing lever shaft kit:
+
+http://www.busdepot.com/details.jsp?partnumber=211498171A
+
+peace
+jules
+75 78 westies
+troy ny
+
+
+On Sun, Apr 1, 2012 at 1:42 PM, Dan Bessom  wrote:
+> Isnt that the center pin repair kit for late Bays?...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920836">RE: [T2] Just what is this supposed to repair??</a></td>
+        <td>"The Bus Depot" <type2(-at-)busdepot.com></td>
+        <td>2012-04-01 18:06:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> Sure looks like the swing lever shaft kit:
+> http://www.busdepot.com/details.jsp?partnumber=211498171A
+
+
+Yup, that's the one (but almost twice the price at NAPA).
+
+- Ron Salmon
+  The Bus Depot, Inc.
+  www.busdepot.com
+  (215)  234-VWVW
+
+_________________...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920786">Re: What is this supposed to repair?</a></td>
+        <td>courtney hook <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-04-01 18:41:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks guys; the REAR suspension decscription is what threw me. Sunday morning, no coffee yet and a bogus description. I plead innocent. :-)
+Courtney...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920775">massive sink hole</a></td>
+        <td>Ric Jablonski <ricjablonski(-at-)gmail.com></td>
+        <td>2012-04-01 23:43:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm finally out. A few bruised ribs. Gonna need a new Mancave, and a
+new bus. Could have been worse.
+
+Thanks for the calls to the house. Wifey was a mess. I guess she does
+like having me alive....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920834">Re: [T2] Just what is this supposed to repair??</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-04-02 02:42:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>And it's mis-identified as for the REAR SUSP.  Someone's not paying
+attention at NAPA
+
+-- 
+Jim Thompson
+84 GL 1.9 "Gloria"
+84 Westfalia 2.1 "Ole Putt"
+72 411 Station Wagon "Pug"
+75 914 1.8 "Nancy"
+Full Timing From March 1999 To January 2012
+oldvolkshome(-a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920762">Re: [T2] massive sink hole</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2012-04-02 03:57:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Glad you're OK, Ric.  But it raised my curiosity as to where you live.  
+When I first read Jamie's post, I kept waiting for the punchline.  The I 
+figured out that he was serious. How scary!  Count your blessings, my 
+friend.  You'll find another bus.  Cia...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920789">Re: [T2] massive sink hole</a></td>
+        <td>Jason Laster <jason(-at-)fasterlaster.com></td>
+        <td>2012-04-02 05:32:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>If only it were real.
+
+Jason
+
+
+> > I'm finally out. A few bruised ribs. Gonna need a new Mancave, and a
+> > new bus. Could have been worse....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920814">RE: part to identify</a></td>
+        <td>"Ahlgrim, Kevin" <kahlgrim(-at-)iusb.edu></td>
+        <td>2012-04-02 12:22:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>You ever figure out what the part was.  Reminds me of the engine seal (about
+the same width and has a slit, is there a slit on the other side) but never
+have seen a section like that by itself.
+
+-------------------------------------------------------------...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936494">Re: [VB] rafflebus</a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-04-02 13:35:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>new pixs posted 
+ 
+ 
+In a message dated 3/21/2012 3:54:06 P.M. Eastern Daylight Time,  
+VWBrain(-at-)aol.com writes:
+
+web site  has been updated  _www.naturalbus.net_ 
+(http://www.naturalbus.net)  
+link to  trafflebus  later  mark  d
+
+---------------------...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920759">Re: Re: [T2] shocks</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-04-02 16:26:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I went ahead and bought a set of four Koni's from Bus Depot. Yes, the
+Koni's are expensive, but they are worth it.
+
+Scott B
+74 VW Transporter...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920823">Re: [T2] massive sink hole</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2012-04-03 02:42:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Well, I fell right in that sinkhole.  Seems like I did one year before.  
+One day I'll learn.  I never pay attention to the calendar.  When I 
+worked on ships all those years, you just couldn't keep track of what 
+day it was and it didn't even matter.  Eve...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842409">front brake hose</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-04-03 17:06:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>just had to replace the front flexible hose between the body and the front 
+wheel on my 78 bus.  got one from Bus Depot and it fit fine although it 
+was a bit longer than the old one.
+
+BUT
+   there is no groove in the metal ends to slide the U shaped flat ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842475">Re: [T2] front brake hose</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-03 18:36:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I think you got something you shouldn't have or you need something else Bob. 
+You need the clips, as you surmise (and new are cheap if rusted BTW.)   These
+are a pretty common initially Super Beetle part, and should defintiely have
+the grooves as pictured ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842438">Re: front brake hose</a></td>
+        <td>jrivers(-at-)globalserve.net</td>
+        <td>2012-04-03 19:07:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>accessys(-at-)smart.net writes: 
+
+> just had to replace the front flexible hose 
+> BUT
+>  there is no groove in the metal ends to slide the U shaped flat piece of 
+> metal onto that holds the hose tight 
+
+sigh,,I dunno if there is a better hose...  I had t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842452">Re: [T2] front brake hose</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2012-04-03 20:01:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bob,
+
+Definitely the wrong one. I have never seen one without the grooves in both
+sides. Definately don't modify it (or any brake line part).
+
+The holding clips are readily available. CIP1 even offers the clips and the
+hoses in stainless (not to send busin...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842422">Re: [T2] front brake hose</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-04-03 20:05:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 3 Apr 2012, John Anderson wrote:
+
+> I think you got something you shouldn't have or you need something else Bob.
+
+called the depot and Oliver was as confused as I, he went back in the 
+warehouse and the onnes he pulled down had the grooves.
+
+only t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842453">Re: [T2] front brake hose</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-03 21:09:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>As I mentioned I'd definitely always replace fronts as a set, but I think even
+that neglects 2 more hoses needing replaced.  Don't stop at even 2, if you
+don't know when last changed, replace all 4.  Then we get to hard lines...
+ 
+John
+
+
+----- Original Mes...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842391">felt in flywheel question</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-04-04 15:41:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I brought a flywheel to rimco for balancing and the removed the steel 
+felt retainer that's at the center of the flywheel (79 bus).  If you're 
+not totally sure what I'm talking about, it's a thin piece of metal, 
+shaped like a ring, about the size of a ri...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842440">flywheel?</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-04-04 20:44:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm trying to resurrect a 6V engine that was in my bus and put it into a 12V
+beetle. 
+
+ 
+
+I've swapped the 6V generator for a 12V alternator. I've got a 12V coil for
+it. I've got a carb that I think will work, and I have a 12V autostick
+starter I was plann...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842482">RE: [T2] battery tray for '69 singlecab</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-04-04 20:45:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>This is great info. They have one that is correct for a truck, I'm trying to
+complete the order now.I'll let you all know when it comes in, if it is the
+right one.
+
+ 
+
+-Kevin Guarnotta
+
+Jamaica Plain, MA
+
+ 
+
+'69 Singlecab...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842457">Re: [T2] flywheel?</a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-04-04 21:13:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>OK Kevin 2 ways to do this  leave the 6 volt flywheel and change the  
+starter to 6 volt one , you will need a special bushing to do this.  or  take a 
+12 volt flywheel and use a brake lathe to cut the outter most part on the  
+inside where the o ring goes...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842425">Re: [T2] massive sink hole</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2012-04-04 22:18:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I fell right into that one.  Again!
+
+
+
+Kevin H. Roberts
+Chattanooga, TN
+Email:  Kevin(-at-)bopsax.com
+Website:  http://www.bopsax.com
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842456">Re: [T2] felt in flywheel question</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-04-05 01:34:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>the flange on the ring faces the crank.. and the felt goes between the
+flange and the crank ,,
+so.. push the ring in from the crank side of the flywheel so the other end
+is flush with the clutch side.
+then push in the felt...
+
+Jamie
+
+----- Original Message...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936449">Re: [VB] flywheel?</a></td>
+        <td>veewee111(-at-)aol.com</td>
+        <td>2012-04-05 01:41:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code> Hi Kevin,
+Just install the engine with 6 volt starter with 12 volt solenoid on it, and
+use the conversion starter bushing.
+E&B
+
+
+
+
+
+Kevin wrote:
+>>I'm trying to resurrect a 6V engine that was in my bus and put it into a
+12Vbeetle....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842451">Re: [T2] flywheel?</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-04-05 01:59:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Wed, 4 Apr 2012, Kevin Guarnotta wrote:
+
+> I'm trying to resurrect a 6V engine that was in my bus and put it into a 12V
+> beetle.
+>
+> starter I was planning on using. I need to get a new flywheel, as the one I
+> have is 6V. I'm trying to understand what...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842442">sink hole</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-04-05 11:12:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm still waiting for pictures of the sink hole!!
+
+Bob
+
+Owned by a '78 Champagne Edition Westy and a '73 SB Sunny...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842444">RE: [T2] flywheel?</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-04-05 13:37:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I actually scored an autostick 12V starter a couple years ago. So I was
+going to use that. The vehicle this engine is going in is 12V, but the
+starter that was in there was pretty rusted apart, all connections sort of
+busted off when I tried to disconnect ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936481">Re:flywheel?</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-04-05 13:41:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey E&B,
+
+ 
+
+I don't have the 6V starter anymore.
+
+ 
+
+-Kevin Guarnotta
+
+Jamaica Plain, MA...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842412">Re: [T2] flywheel?</a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-04-05 14:51:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>maybe maybe not  the difference is the end cut on the crankshaft   6V is
+6mm  12V is 10mm   the 6v flywheel with the o ring came on  the 66 bus,ghias.
+still might not mean a 12V flywheel will fit without cutting .  bolt it up
+and then remove the gland nut ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842393">Re: [VB] RE: [T2] flywheel?</a></td>
+        <td>claralw(-at-)aol.com</td>
+        <td>2012-04-05 16:46:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>yes, flywheels can be
+-12V or 6V -  # of teeth
+-stepped or O-ring
+-large clutch or small clutch.
+
+generally you find  6V stepped small clutch, and 12V o ring large clutch, but
+there are other combos.    1500 engines used large clutches, which did come in
+l...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842458">Re: [VB] RE: [T2] flywheel?</a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-04-05 17:02:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>the difference between them is 6V is 6mm and 12V is 10mm   he  already has 
+a 12V auto starter  so if he does have the 6V crank then by  cutting off the 
+outter lip where the flywheel o ring goes it will fit. you will  then need 
+to use the paper or metal ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842396">RE: [VB] RE: [T2] flywheel?</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-04-05 18:31:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I think I am getting it.
+
+I need to figure out if my crankshaft is stepped or not. I'm thinking that
+since the flywheel I took off had an o-ring on it, then the flywheel I put
+on should be the type that takes an o-ring.
+
+ 
+
+I looked at the pics on the webs...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842473">Re: [VB] RE: [T2] flywheel?</a></td>
+        <td>claralw(-at-)aol.com</td>
+        <td>2012-04-05 19:50:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Ya, the picture I linked was of crankshafts out of a motor, which is not the
+same view as looking at one installed in the motor.
+
+Your picture looks like a non-stepped crankshaft.
+  The o-ring FW goes with the non-stepped crank.................
+
+.............</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842400">Re: [VB] RE: [T2] flywheel?</a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-04-05 19:54:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>like I said bolt the flywheel up and then remove the gland bolt and see  
+that the flywheel is mated up to the crank.  later  md
+ 
+ 
+In a message dated 4/5/2012 3:50:09 P.M. Eastern Daylight Time,  
+claralw(-at-)aol.com writes:
+
+Your picture looks like a n...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842413">RE: [T2] flywheel?</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-04-05 20:11:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Mark I appreciate the info.the problem is I don't have a 12V flywheel to
+test fit, I've been trying to figure out the type to buy.so I didn't have
+anything to judge it by. 
+
+ 
+
+Now I understand based on the info you sent, and the info from Clara et al.
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842423">Touring as an Indie (in a VW bus)</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2012-04-05 22:25:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm putting a band together and hitting the road.  OK, that's a lie.  
+I'm way too old for that kind of thing.  (50, for those who have to 
+know.)  I want to tour the US in my bus but don't have room for other 
+band members.  Besides, I'm not Indie.  I'm m...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842436">RE: [T2] Touring as an Indie (in a VW bus)</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-04-05 22:46:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Yer NEVER too old. I graduated college at the ripe old age of 50!!
+
+Besides, if yer like me you're not going to die 'till middle age. When I
+kick the bucket, people are going to say "it's too bad he died at 105 years
+old, he was only middle age!!"
+
+Bob
+Own...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842390">Re: [T2] felt in flywheel question</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-04-05 23:10:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bentley says 1g of mulit purpose grease on the pilot bearing,, just enough
+to coat the needles, and motor oil on the felt.. wipe off excess lubricant..
+
+I think it keeps the dust out, and keeps the lube in...
+
+----- Original Message ----- 
+From: "Mike
+
+
+> ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842464">Re: [T2] "Almost Friday"</a></td>
+        <td>Andy McKinley <airhedz(-at-)gmail.com></td>
+        <td>2012-04-05 23:53:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It's not a '76, but this web page might give him some idea of what he's up
+against.
+http://www.race-taxi.ch/indexx.htm
+
+Andy McKinley
+airhedz(-at-)gmail.com
+
+Love your country, but never trust its government.
+-- Robert A. Heinlein.
+
+
+On Fri, Apr 6, 2012 at...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936463">Re: flywheel?</a></td>
+        <td>veewee111(-at-)aol.com</td>
+        <td>2012-04-06 02:02:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Kevin,
+Bet you could still find one in your neck of the woods!!
+E&B
+
+
+
+I donbt have the 6V starter anymoreb&...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936533">Re: [VB] flywheel?</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-04-06 03:47:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey Kevin,
+
+Since 1977 I've run a 6V starter with a 6V solenoid with 12V. The 
+worst problem has been that the starter bushing tends to wear out a 
+little earlier.
+
+Cheers!
+Chris
+64DD Kamper Kit ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842441">Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>"Mike Jackson" <mike(-at-)cfnson.com></td>
+        <td>2012-04-06 04:20:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It's Friday, so here's an idea that I developed for my 64oz Thirst Buster
+mug, after fruitlessly trying to find a cup holder that will handle a cup of
+this size.
+
+This one does not tip over or slide around the floor, saving me the wet mess
+that ensues even...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842387">Re: [T2] Touring as an Indie (in a VW bus)</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2012-04-06 04:34:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>That's all in my back yard, Jamie.  Come on down!  I've been through 
+Lynchburg hundreds of times.  I'm from Lawrenceburg originally and have 
+family there.  We used to drive through Lynchburg every time we went 
+'home.'  My favorite, and I'm surprised you...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842418">Re: [T2] Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-04-06 05:32:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey Mike! Long time no "see"! Thanks for sharing this interesting project!
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842432">RE: [T2] Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>"Mike Jackson" <mike(-at-)cfnson.com></td>
+        <td>2012-04-06 06:18:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> Hey Mike! Long time no "see"! Thanks for sharing this interesting project!
+
+Thanks, John.  Here's another fun fact for Friday:
+
+http://www.cleveland.com/books/index.ssf/2012/03/chitty_chitty_bang_bang_fli
+es.html
+
+Chitty starts out in this book as a 1966...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842402">RIP Ferdinand Alexander Porsche...</a></td>
+        <td>Martin Mikush <martinmikush(-at-)gmail.com></td>
+        <td>2012-04-06 08:20:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The great designer , son of one of the greatest car engineer passed away.
+
+he was the creater of Porsche 911 the biggest brother of the bug and the
+greatest example of air cooled boxer rear engine powered car!
+
+http://www.dw.de/dw/article/0,,15863175,00.ht...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842385">Re: "Almost Friday"</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-04-06 09:27:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Check out my page at
+http://type2.com/dakhlia/911bus/911bus.html
+
+I reverted to VW power and so still have all the adapter parts,
+1. KEP flywheel and clutch
+2. crossbar, spacers, and rubber motormounts
+3. Custom exhaust system
+4. oil tank and oil return li...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842466">RE: [T2] Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>"Mike Jackson" <mike(-at-)cfnson.com></td>
+        <td>2012-04-06 11:56:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://www.cleveland.com/books/index.ssf/2012/03/chitty_chitty_bang_bang_fli
+es.html
+
+Sorry about that link, try this one instead:
+
+http://mcaf.ee/vbg47
+
+- Mike...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842433">Full advance for SVDA?</a></td>
+        <td>Chris Slaymaker <nurofiz(-at-)knology.net></td>
+        <td>2012-04-06 15:51:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>About 48,000 miles ago I bought a new Meximotor for Lurch.  With it, I also
+got a SVDA distributor.
+
+Recently, while chasing down a vacuum leak, I found two - one was in the brake
+booster servo, the other was in the throttle shaft of the 40-year-old 34
+PIC...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842388">Re: [T2] Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-06 15:52:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Awesome overdesigned cupholder.
+
+Unfortunatley if I had a 64oz Thirst Buster mug, I'd be needing to rig a bedpan to a "weep hose" to store under the front seat or I wouldn't get more than 60 miles in a stretch...
+
+John
+
+
+________________________________
+Fr...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842417">VW Bus coffee mugs</a></td>
+        <td>"Doyt W. Echelberger" <doyt(-at-)buckeye-express.com></td>
+        <td>2012-04-06 15:54:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I found two ceramic coffee mugs displaying vintage VW Bus images.....like 
+the grandparents of my 76 Westy.   They are fine bone china made in 
+England, and ring like a bell when you tap them. Found mine ("Grand Day 
+Out") at a TJ Max store in Cleveland Oh...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842472">Re: [T2] flywheel?</a></td>
+        <td>claralw(-at-)aol.com</td>
+        <td>2012-04-06 16:27:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The lightened FWs are to make it easier to quickly rev a motor, so you can
+accelerate quicker.    it's a go fast thing.
+You lose momentum, so the engine slows quicker as well.    In a bus a
+lightened fw is often not used, as you want the weight there.
+Anot...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842467">RE: [T2] flywheel?</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-04-06 18:42:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I was thinking the lightened flywheel had something to do with speed, but was
+also thinking maybe it put less strain on the motor. Thanks for the
+explanation. Anyway Ibve ordered a regular one, along with an o-ring.
+
+
+
+Thanks for all the help.
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842415">Re: [T2] Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>David Schwarze <dschwarze(-at-)dfwair.net></td>
+        <td>2012-04-06 22:28:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I hope you don't think I'm being a jerk for saying so, but in an 
+accident that 10lb weight could seriously injure you or a passenger in 
+your van.  Please consider another way of keeping the drink secure.
+
+Thanks,
+
+-David
+
+
+_______________________________...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842450">Safety, was: [T2] Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-06 22:50:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>David has a good point there, but if your van is like some of mine have been,
+a 10lb weight will be the LEAST of your worries.  Hmmn, what is that spare
+longblock going to be like unrestrained crashing around when I roll an '86
+vanagon.  Oh yeah, I've done...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842389">"Almost Friday"</a></td>
+        <td>"Squid" <sydclarke(-at-)shaw.ca></td>
+        <td>2012-04-06 23:39:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Cheers, and happy Full Moon!  Met a chap the other day, and he was 'turned on
+to me', by someone who told him I 'did' VW vans.  He found me and asked if I
+had any info on how to put a Porsche 911 aircooled six, into the back, of a 76
+Westy.  I said I would...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842435">Re: [T2] Safety, was: [T2] Circle K Thirst Buster 64oz DIY Cup</a></td>
+        <td>David Schwarze <dschwarze(-at-)dfwair.net></td>
+        <td>2012-04-07 00:32:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Just trying to get people to consider something they may not have 
+thought about before.  Any solid, heavy loose objects in a vehicle 
+become projectiles in an accident.  The way I see it, our busses are 
+dangerous enough as it is, why make it even worse? ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842477">RE: [T2] Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>"Mike Jackson" <mike(-at-)cfnson.com></td>
+        <td>2012-04-07 01:44:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> Please consider another way of keeping the drink secure.
+
+I drive a 1995 Astro daily.  The cup holder is down between the front seats,
+and at 55 yo, I am an exceptionally safe driver, never exceeding the speed
+limit.
+
+The worst it would probably do in an...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842398">Which oil?</a></td>
+        <td>Rob <becida(-at-)comcast.net></td>
+        <td>2012-04-07 02:02:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>An '83 air cooled VW engine in a Vanagon, what weight oil should I 
+use to change it?
+
+
+
+Rob
+becida(-at-)comcast.net...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842416">Re: [VB] RE: [T2] flywheel?</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-04-07 02:09:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I've seen mention over the years that there are resonances that can 
+develop at some speed ranges with a lightened flywheel. There are 
+solid steel pulleys to augment the flywheel. See Gene Berg web site.
+
+
+Chris
+
+Scientists seek to understand what is,
+whi...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842439">Re: [T2] Which oil?</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2012-04-07 02:17:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My preference. 20W-50. Brad Penn.
+
+Jon Stiles
+
+On Friday, April 6, 2012, Rob wrote:
+
+> An '83 air cooled VW engine in a Vanagon, what weight oil should I use to
+> change it?
+>
+>
+>
+> Rob
+> becida(-at-)comcast.net...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842447">Re: [T2] Which oil?</a></td>
+        <td>"Courtney Hook" <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-04-07 02:19:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'd use 10-40 if in a temperate climate, or 20-50 if I lived in a hotter 
+climate. Try and buy diesel oil, it has more zinc in it, which fights 
+scuffing. Use a good brand. I like Penzoil or Quaker State.
+HTH,
+Courtney...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842445">Re: [T2] Safety, was: [T2] Circle K Thirst Buster 64oz DIY Cup </a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-04-07 03:08:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Fri, 6 Apr 2012, David Schwarze wrote:
+
+> Just trying to get people to consider something they may not have thought 
+> about before.  Any solid, heavy loose objects in a vehicle become projectiles 
+> in an accident.
+
+.
+.
+..
+.
+.
+I put a safety barrier be...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842483">Re: [T2] Which oil?</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-04-07 03:11:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Fri, 6 Apr 2012, Rob wrote:
+
+> An '83 air cooled VW engine in a Vanagon, what weight oil should I use to 
+> change it?
+
+there is a long thread on the website about oil.
+but I only run Mobil 1  15W-50 in my bus
+has the highest level of the zinc compounds...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842394">Re: [T2] Which oil?</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-07 03:48:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Actually, well posted on the internet that no standard Valvoline, Penzoil, or
+Quaker Shit (oh yeah, said that) in standard weights (5W30, 10W30, 10W40) has
+much ZDDP anymore.  Some of the oddball heavier weights do, Shell Rotella T in
+30 and 15W40 diesel b...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842410">Re: [T2] Which oil?</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-04-07 04:11:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Brad Penn 20w50 for my 74 Bus.
+
+Scott B...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842401">Re: [T2] Full advance for SVDA?</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-04-07 04:23:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Chris -
+
+See my specs on:
+
+German original SVDA:
+http://www.oldvolkshome.com/ignition.htm#A1974MFD
+
+Bosch Mexico SVDA:
+http://www.oldvolkshome.com/ignition.htm#A905205ZB
+
+I've never had to re-curve a distributor for a particular carburetor
+before.  The spe...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842426">RE: [T2] Which oil?</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-04-07 11:54:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Raby Enterprises DEMANDS the use of Brad Penn oil with his engine kits.
+
+Radio Oil in Worcester, MA sells this oil. Nice people to talk to. When I
+told them I just rebuilt my engine, they suggested that I get the Brad Penn
+break in oil.
+
+Bob
+Owned by a '78...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842406">EveryBus - Charlotte NC parts</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-04-07 14:37:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I am wondering if anyone from, or passes thru Charlotte NC ,, heading to
+EveryBus ,, would bring a small box of parts ?
+At this point, I am not sure what the vendor has in mind,,
+
+Thanks
+Jamie Rivers...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842414">Question about heater parts on 79 bus</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-04-07 15:44:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm redoing the heater cables on a 79 bus and I'm needing the little 
+bushings that hold the heater cable at the engine end of the heater 
+cable.  I just wanted to confirm that these are in-fact the correct part:
+
+http://www.thesamba.com/vw/classifieds/det...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842419">Re: [T2] Which oil?</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-07 16:42:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jake is sort of a pansy on that IMO, there are lots of good choices/options
+for flat tappet engines, you just have to be smart enough to make your own if
+you need to.  He simply presumes I take it that people will not be smart
+enough to know the issue or t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842462">Re: [T2] Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2012-04-07 18:52:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>You know, we cannot protect ourselves from every possible danger.  Nor 
+should we.  I've always believed that when it's your time to go, you're 
+out of here.  We have to be sensible about things.  I'm strongly against 
+seatbelt laws.  My boss' 79 years old...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842471">Re: [T2] Circle K Thirst Buster 64oz DIY Cup Holder</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-04-08 11:38:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Fri, Apr 6, 2012 at 6:56 PM, Mike Jackson  wrote:
+
+> Sorry about that link, try this one instead:
+
+Great story. Both links work fine.
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842469">Re: [T2] Which oil?</a></td>
+        <td>Tim Frank <timros(-at-)iinet.net.au></td>
+        <td>2012-04-08 13:27:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The mechanic who built and services our 2 litre dual carb uses Fuchs  
+20w50.
+I don't know which version as that is all that is listed on the  
+invoices.
+
+I know I changed the oil/filter my self a few changes ago & used a good
+quality 30w oil.  Mechanic no...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842437">Re: [T2] 1971 Phoenix</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-04-08 19:35:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I found a picture of the phoenix I was thinking of... I forget if I sent it
+already,,
+http://www.globalserve.net/~jrivers/pictures/phx2.jpg
+
+Jamie
+
+One of the magazines did an article on a  Phoenix .. it was an orange one..
+and they made the center part in...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842408">Re: [BP] Clutch geometry question.</a></td>
+        <td>Greg Potts <greg(-at-)pottsfamily.ca></td>
+        <td>2012-04-09 00:45:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Volks,
+
+Over the weekend I was able to find time to drop the engine and replace 
+the clutch. The disk was quite a bit thinner than the new one, though 
+no-where near worn to the rivets.
+
+Once I put it back together, everything was operating as usual. Th...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842478">Re: [T2] 1971 Phoenix</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-04-09 01:41:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Wow, that's really great. What an addition to interior space!
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842399">parking brake cable</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-04-09 14:39:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Quick question-
+
+The emergency brake cable should run above, below or through the rear
+trailing arm on a '69 single cab:
+
+ 
+
+a)under
+
+b)over
+
+c)through...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842427">Oil drain plug won't tighten</a></td>
+        <td>Rob <becida(-at-)comcast.net></td>
+        <td>2012-04-09 16:20:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>This is in an air cooled 2.0l motor (my daughters).
+I pulled the oil drain plug and when I went to put it in it's just 
+not tightening up.
+
+I just looked at the book (Bentley, 68-79 Bus, page 5-25) I need to 
+see if the sealing ring (24) is still stuck to ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842455">Re: [T2] Oil drain plug won't tighten</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-04-09 16:38:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 4/9/2012 9:20 AM, Rob wrote:
+> This is in an air cooled 2.0l motor (my daughters).
+> I pulled the oil drain plug and when I went to put it in it's just not
+> tightening up.
+
+Sounds like it stripped :(
+
+>
+> I just looked at the book (Bentley, 68-79 Bus, ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842392">Exhaust leak</a></td>
+        <td>cdquirkjr(-at-)gmail.com</td>
+        <td>2012-04-09 18:40:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Well after a long wet winter in the Pacific Northwest I am finally  
+finishing installing my new engine. This is my first rebuild and I am  
+having trouble getting a good seal on my heat exchangers to the cylinder  
+head. I followed Richard Atwell's instru...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842454">Re: [T2] Oil drain plug won't tighten</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-09 18:49:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I go one step further when I do this, and slowly flush about 1 qt kerosene
+down the fill with the plug out after retapping just to rinse out shavings,
+which you may very well find in the pan.  Then I usually flush about a 1/2 qt
+of cheap (even used) oil th...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936447">Re: [VB] rafflebus</a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-04-09 21:00:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>new pixs 
+_https://plus.google.com/photos/106381215627447042651/albums/572950104358831
+4865?authkey=CK21547FwIi1Jg#photos/106381215627447042651/albums/572950104358
+8314865_ 
+(https://plus.google.com/photos/106381215627447042651/albums/5729501043588314865?a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842461">RE: [VB] rafflebus</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-04-09 21:33:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I tell anyone, but that same bus was stolen from my garage half way through
+a restoration!!! Thanks for doing the work, how much do I owe you!!!!! LOL
+
+NICE WORK. How much are the tickets again????
+
+Bob
+Owned by a '78 Champagne Edition Westy and a '73 SB S...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936509">Re: [VB] rafflebus</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-04-09 22:03:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey Mark..
+
+ 
+
+Shhh, enough about the bus already. If everyone hears about it, they are
+going to buy tickets. If they buy tickets, it makes it harder for me to win.
+
+ 
+
+So stop it already. ;)
+
+ ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842395">hydraulic lifter length</a></td>
+        <td>"Tom Ward" <tward(-at-)twcny.rr.com></td>
+        <td>2012-04-09 22:33:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have a 2.0l dual carb in a '73 Westie.  One lifter was soft so I replaced
+it with a spare I had that was never used.  The new lifter is about 1-2 mm
+taller than the one I removed.  After bench bleeding it appeared to adjust
+to spec (1-2 turns from contac...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842474">Re: [T2] hydraulic lifter length</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-04-09 23:26:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 4/9/2012 3:33 PM, Tom Ward wrote:
+> to spec (1-2 turns from contact).  The engine has less than 4,000 miles on
+> it (don't run it enough).   Does anyone see a problem in this one different
+> size lifter?
+
+It'll change your rocker geometry for that valve...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842463">Re: Exhaust leak</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-04-10 14:02:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> having trouble getting a good seal on my heat exchangers to the cylinder head.
+
+Hi Daniel,
+
+If you are talking about the seals between cylinder head and exhaust
+manifold, the place where you need oval copper gaskets, then you may
+want to make sure the he...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842397">Green Westy spotted in Rochester NY</a></td>
+        <td>Joel Cort <joel_cort(-at-)yahoo.com></td>
+        <td>2012-04-10 14:17:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On the 490 expressway heading towards Victor NY from Rochester, I spotted a
+Bay Westy, green in color heading down the road.
+
+Anyone from the this list?
+I waived by was in my reliable Volvo and heading the other way... :-)
+
+Happy
+Camping,
+Joel Cort
+Rochest...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842446">Re: [T2] Exhaust leak</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-10 18:54:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have no idea what Richards tips are but there are pretty much 3-4 things to
+gaurantee sucess.
+ 
+1. Drill out mounting bolt holes in the header flanges
+slightly.  They are hard as hell, so good bits only may apply.  Drill them to
+the next US size over wha...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936516">Re: correct title replacement question... may sound familiar</a></td>
+        <td>veewee111(-at-)aol.com</td>
+        <td>2012-04-11 13:18:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Steve,
+If the bus is a keeper, just go through the DMV and get a three year temp
+title.  Did this years ago with a nonrunner 59 bus.  Had to tow it to a state
+patrol inspection site where we had an appointment.  Was required to have a
+motor in it, so in...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842430">"The Bus" film by Damon Ristau premier</a></td>
+        <td>Mike Benthin <muts(-at-)verizon.net></td>
+        <td>2012-04-12 03:15:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>For those heading to NC, take note of Film documentary on VW busses, 
+some of you may have invested in KickstarterApril 14, 2012 (-at-) 10pm -
+
+World Premiere of THE BUS. Durham, NC as part of the Full Frame 
+Documentary Film Festival. Tickets available he...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936450">Re: [VB] Re: correct title replacement question... may sound</a></td>
+        <td>claralw(-at-)aol.com</td>
+        <td>2012-04-12 04:48:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The 3 year WA State procedure evidently would take  too long for Steve, which
+is why I pointed out that a quicker , though costlier, way is to use a title
+service.
+
+
+..............................................................
+-----Original Message-----
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842480">71 Master Brake Cylinder still good?</a></td>
+        <td>"treyjung" <treyjung(-at-)comcast.net></td>
+        <td>2012-04-13 20:31:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Installed new German master cylinder on my 71 Westy - still had problems, I
+replaced it again and found out it was the Booster all along. So is first
+master cylinder I took off still good? I bought both of them from Ron at BD
+($199 less list1e discount) 
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842476">Need to change my email</a></td>
+        <td>Ben Timmons <drben54(-at-)sbcglobal.net></td>
+        <td>2012-04-15 00:51:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Volks:
+
+After one too many battles with AT&T and I changing my email and want to 
+stay on these lists.  However for the last 10 years I've been getting 
+mail form the list via Thunderbird, not the web page.  Can you both 
+respond off list to me with ins...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842421">Question about rear brake line rubber grommets</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-04-19 07:12:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm working on a 79 bus and it's in need of rear brake line grommets. 
+On my bus (a 78) it looks like there's one grommet that holds the steel 
+line to the rear axle radius arm, then there's another grommet where the 
+line enters the axle wheel bearing hou...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842428">Re: FI Fuel Pressure</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-04-21 22:19:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I am tuning up my engine, as it has sat for a while....
+one thing I would like to confirm,, is the fuel pressure should stay when
+the engine is off..
+with a search of the archive, I found Don had noted..
+From: DurocShark
+ Engine off: 39
+Engine idling: 34
+W...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842460">Re: [T2] Re: FI Fuel Pressure</a></td>
+        <td>DurocShark <durocshark(-at-)gmail.com></td>
+        <td>2012-04-21 22:28:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sat, Apr 21, 2012 at 3:19 PM, Jamie  wrote:
+
+> How can I confirm where the check valve is,,  Bentley doesn't talk about
+> pressure in the off state at all that I can see.
+>
+>
+I would have thought it was strictly in the pump. But it makes sense
+there'd b...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842429">Re: [T2] Re: FI Fuel Pressure</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-22 01:02:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jamie I did find the spec in my "Bosch FI and Fuel Management" book which is
+at least 1 bar (14.7 psi) at 20 minutes for pulsed injection, of which L-jet
+is the second oldest Bosch form.
+
+Now something else, you have 5 more
+potential leak sources of course...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842405">Re: [T2] Re: FI Fuel Pressure</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-04-22 04:30:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>ah. yes! .. I neglected to think , and I bet it is an injector .......
+it restarts very rich,,,
+Thanks Greg , John,,
+
+Jamie
+
+----- Original Message ----- 
+From: "John Anderson"
+> Now something else, you have 5 more
+> potential leak sources of course to con...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842386">Distributor drive shaft question</a></td>
+        <td>dchase2001(-at-)comcast.net</td>
+        <td>2012-04-22 17:47:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>So I bought this '75 transporter off ebay...B 
+
+
+
+When I turn the engine so that the distributor drive shaft is approximately at
+the 12 degree offset shown in Bentley, the notch on the crank pulley is ~180
+degrees off, not at zero like it should be.B  Is i...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842411">Re: [T2] Re: FI Fuel Pressure</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-04-22 19:18:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I found my wiring wasn't correct.. altho I didn't pinpoint the exact error..
+but something was firing the injectors .. I could hear them click.. and the
+pressure would drop off.
+I went over all my connections and have been successful in getting good
+result...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842465">Re: [T2] Distributor drive shaft question</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-04-22 19:19:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 4/22/2012 10:47 AM, dchase2001(-at-)comcast.net wrote:
+> When I turn the engine so that the distributor drive shaft is approximately at
+> the 12 degree offset shown in Bentley, the notch on the crank pulley is ~180
+> degrees off, not at zero like it sho...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842403">Re: [T2] Distributor drive shaft question</a></td>
+        <td>Jason Laster <jason(-at-)fasterlaster.com></td>
+        <td>2012-04-22 22:53:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Does the bus run?  If so I would simply ensure the timing and dwell are set
+correctly and drive it.  The risk involved with potentially dropping a shim
+washer for the drive is likely greater than just wanting to align the
+distributor correctly.
+
+
+Jason
+
+
+>...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842449">Re: [T2] Distributor drive shaft question</a></td>
+        <td>dchase2001(-at-)comcast.net</td>
+        <td>2012-04-23 00:27:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks,B  I turned the engine so the notch on the pulley was at 0, both valves
+free on number 1 and the rotor was then point at 730- 8 o'clock.B  I turned
+the case of the distributor (009) so the notch is also there and rearranged
+the plug wires .B  Was ab...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842424">Re: [T2] Distributor drive shaft question</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-04-23 03:37:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 4/22/2012 5:27 PM, dchase2001(-at-)comcast.net wrote:
+> Thanks,B  I turned the engine so the notch on the pulley was at 0, both valves
+> free on number 1 and the rotor was then point at 730- 8 o'clock.B  I turned
+> the case of the distributor (009) so t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842470">Inside pull-shut door handle screw does not hold on 1977 Type</a></td>
+        <td>Carl Jorgensen <ccjorgensen(-at-)ucdavis.edu></td>
+        <td>2012-04-24 18:23:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>     Changed the lock on the driver's side door on my 1977 Westfalia 
+bus. Now can not get the screw closest to the front on the inside 
+pull-close door handle.
+     Any suggestions?
+     Screw is metric. Am not sure what size....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842484">77 Westy - Uneven brakes on front end after sitting a year.</a></td>
+        <td>courtney hook <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-04-24 18:25:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My 77 Westy was fine when I parked it last year. I recently decided to move it to start going through it, and noticed that when I drove down my driveway and put my foot on the brakes, the front passenger side disc brake skidded the tire when I applied the ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842448">Re: [T2] 77 Westy - Uneven brakes on front end after sitting a</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-24 19:08:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Courtney,
+ 
+pretty much you already know the answer, something is dragging on
+that side.  Could be caliper, or hose, your choice where to look first.  If
+the hoses are recent, I'd pull and dissasemble the caliper, probably
+reassemble without even a kit if ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842443">Re: [T2] 77 Westy - Uneven brakes on front end after sitting a</a></td>
+        <td>courtney hook <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-04-24 20:04:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>As per usual John and others, thanks for the excellent advice. I've had the
+caliper piston extended out without the brake pads in, to get a good look at
+it, and it's nicely clean. I've also moved it in and out using a c-clamp and
+it seems smooth. In any ca...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842481">Re: [WetWesties] 77 Westy - Uneven brakes on front end after</a></td>
+        <td>courtney hook <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-04-24 21:28:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code> A number of people have suggested cleaning the rotors of any rust, which they do need. I am going to give this a go and see if there is any difference. Next will be new brake hoses, and then if still a problem, new calipers.
+Thanks folks!
+Courtney...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842431">Re: [T2] Re: [WetWesties] 77 Westy - Uneven brakes on front end</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-04-25 02:45:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 4/24/2012 2:28 PM, courtney hook wrote:
+>   A number of people have suggested cleaning the rotors of any rust, which they do need.
+
+Heck, just drive and press on the brakes lightly and that'll take off 
+any surface rust.  If it's really bad, then I'd br...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842420">Cylinder gasket(s) - Head torque - #4 cylinder combustion cycle</a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-04-25 19:04:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Stock 1600 rebuilt 20,000 miles ago.
+Rebuild was meticulous, and involved brand new Mahle cylinders and pistons.
+
+Formsomemtime now, I have been hearing what I thought was an exhaust leak,
+which went away soon after the engine reached warm temp status, but...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842479">Re: [T2] Cylinder gasket(s) - Head torque - #4 cylinder</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-04-25 19:37:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Wed, 25 Apr 2012, Bob Perring wrote:
+
+> Do I need to pull the cylinder and replace the #4 cylinder gasket, or might
+> just the re-torqueing of the head solve my blow-by at the base of #4
+> cylinder?
+
+.
+.
+.
+.
+thought the gasket was discontinued???
+.
+.
+.
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842407">Re: [T2] Cylinder gasket(s) - Head torque - #4 cylinder</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-04-25 20:26:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 4/25/2012 12:04 PM, Bob Perring wrote:
+> Question:
+> Do I need to pull the cylinder and replace the #4 cylinder gasket, or might
+> just the re-torqueing of the head solve my blow-by at the base of #4
+> cylinder?
+
+I'd think you could just retorque the nu...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842434">Re: [T2] Cylinder gasket(s) - Head torque - #4 cylinder</a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-04-25 20:45:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I believe so, as well, but wanted to ask this group to see if we think same.
+
+Bob Perring
+=========   >")))> wrote:
+
+> On 4/25/2012 12:04 PM, Bob Perring wrote:
+>> Question:
+>> Do I need to pull the cylinder and replace the #4 cylinder gasket, or
+might
+>> ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842459">Re: [T2] Cylinder gasket(s) - Head torque - #4 cylinder</a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-04-25 20:47:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> I believe so, as well, but wanted to ask this group to see if we think
+same.
+>
+> Bob Perring
+> =========   >")))> (sent from my Ipad)
+>
+> On Apr 25, 2012, at 15:26, Mike Soultanian 
+wrote:
+>
+>>>
+>>>
+>>
+>> I'd think you could just retorque the nuts and se...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842404">Cylinder</a></td>
+        <td>Thomas Lapointe <earthshelterman(-at-)gmail.com></td>
+        <td>2012-04-25 22:40:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Does this engine have case savers?
+If not, studs may be pulling from case 
+
+May your day be FUN!...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/842468">Passenger seat rails (or some other approach)</a></td>
+        <td>Laurie X Wayne <lauriewayne(-at-)gmail.com></td>
+        <td>2012-04-25 23:20:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>A while back, I picked up some fluffy vanagon seats to replace the 
+vinyl-over-springs seats I had in my 78 Riviera Caper Van. I finally 
+slid the driver's side seat in yesterday - ah, how wonderful! And after 
+some elbow grease on the rails, the seat actu...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/851906">Re: [T2] Passenger seat rails (or some other approach)</a></td>
+        <td>Mike <manikmike(-at-)gmail.com></td>
+        <td>2012-04-25 23:44:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I did the same, and have the same issue. I had someone cut out the rails
+from a donor, was told by welding shop they could get them in nicely on the
+pass-side, but have procrastinated on that project mostly because it bugs
+me not to be able to put the orig...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/851972">Re: [T2] Cylinder gasket(s) - Head torque - #4 cylinder </a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-26 03:02:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>You can get leaking there, but as Mike alludes to it is at crankcase
+pressure.  Which can be significant if you have a lot of blowby (which it you
+do on a low mile rebuild, you have other issues) and/or a poor breather
+system.  If you have a stock function...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/851935">Re: [T2] Cylinder</a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-04-26 04:25:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>yes, it has casevsavers.
+I am pretty sure, after more looking, and looking, that torque correction on
+the heads will solve my problem.
+
+Bob Perring
+=========   >")))> wrote:
+
+> Does this engine have case savers?
+> If not, studs may be pulling from case...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/851949">Re: [T2] Passenger seat rails (or some other approach)</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-26 07:23:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Laurie,
+ 
+I have what I feel is a pretty good idea but...   I don't know crap
+about Rivi's and have only done this on Vanagons.
+ 
+Find a Vanagon camper
+swivel.
+ 
+Dirt common (well getting more uncommon but stil pretty common.) 
+The Vanagon swivel base (on ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/851919">Re: [T2] Passenger seat rails (or some other approach)</a></td>
+        <td>Laurie X Wayne <lauriewayne(-at-)gmail.com></td>
+        <td>2012-04-26 15:28:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey John, what a great help you are! Thank you!
+
+I wonder if it makes any sense to try to go the other way, and
+cannibalize the old seat in order to retrofit the new seat to fit into
+the existing hooky dealies (sorry for the technical jargon and lots of
+pr...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/851950">Re: [T2] Passenger seat rails (or some other approach)</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-04-26 16:07:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Laurie, you know I didn't get it originally, I just saw 1978 and presumed your
+van had the slider tracks on both sides and no partitions behind the seats,
+sorry I didn't read carefully.  I still don't get how Rivi got that setup in
+1978 but anyway.  If it ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/851888">Re: [T2] Passenger covers was seat rails (or some other</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-04-26 19:36:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 26 Apr 2012, John Anderson wrote:
+
+> You could probably take the vanagon cover and put it on a later bus seat 
+> frame, but would be defeating the whole point of the foam cushions and 
+> not having to rebuild the bus seat with new horsehair, etc.
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/851937">me with you</a></td>
+        <td>=?utf-8?B?QW5kcsOpIENvcm51dA==?= <andre.cornut(-at-)sympatico.ca></td>
+        <td>2012-04-27 11:03:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>
+
+Click here to see the attached photos...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/851979">San Luis Obispo mechanic</a></td>
+        <td>Andy McKinley <airhedz(-at-)gmail.com></td>
+        <td>2012-04-28 02:46:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey, All.
+
+My daughter has some trouble with her clutch in her '98 Cabrio. Sounds like
+a problem with the linkage or cable. Any reccomendations for a local (SLO)
+mechanic?
+
+TIA!
+
+Andy
+'79 CA emissions Kombi
+Alameda, CA
+
+-- 
+Andy McKinley
+airhedz(-at-)gmail...</code></pre></td>
+      </tr>
+    
+    </tbody>
+  </table>
+
+
+
+
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2012-04" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2012-04" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2012-04" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

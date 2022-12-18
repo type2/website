@@ -1,0 +1,337 @@
+<html>
+<head>
+<title>type2 - FS: 1968 Westy</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/535391 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/535391" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/535391" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>FS: 1968 Westy</h1>
+   <b>VW_Westy68_at_webtv_dot_net (Brian)</b><br/>
+   <i>2003-05-27 11:52:40+00</i><br/>
+   <br/>
+   <pre>Hey all, just wanted to give the list a chance at our 68 Westy which we
+are forced to sell. I will need to know very soon if there is any
+interest. I ran it on ebay, but it did not sell, I will clip in the
+auction specs here:
+
+  Location  Reading, PA  
+Hey now, you are looking at a 1968 VW Westy which we are forced to sell
+due to us moving across the country. This is a West Coast vehicle. I
+drove it here to PA in 1999, had been in WA and TX prior to that. We
+have owned it for years, and hate to see it go. This bus as of this
+second is not legal to be driven in PA, it is out of inspection, so it
+will need to be towed away. But it runs well, and is complete. It needs
+a couple things to be ready, but not much, maybe one good weekend in
+your garage. I will do my best to list all it may need. 
+What I will do is go over each section as good as I can so you can get a
+fair idea of the condition of this bus.
+WE CAN TAKE PICS OF ANYTHING YOU MAY WANT TO SEE!!!! 
+The body:very little rust, although there are bits of rust along the
+bottom of each front door due to poor window scrapers. Not too bad at
+all, I would just sand, clean and paint it for now. There are a couple
+bits under the windshield rubber. I had that replaced a few years back
+with a new windshield. There is also a little in the battery compartment
+area..not bad at all, just some. All of the rust is in my opinion not
+too bad. Definetly no rot at all, anywhere on this bus. 
+As far as the body itself goes, most of it is great, except for a few
+things. The nose had been punched a bit, like if the brakes had gone out
+sometime and something was hit. It has never been enough of an issue to
+us to have it repaired. There might be a few dings along the body, but
+besides the front, there is no other body damage to speak of. 
+The paint is nice enough for us, but you may want to repaint it. It is
+faded baby blue right now, waxes up real nice, but the paint is old and
+may need your help. 
+All the window seals down the side are in good shape. I guess as far as
+window seals go, the only thing that needs replacing is the wing window
+seals, all the rest are good. Or atleast good enough for right now. 
+All door seals are there and in good shape. 
+All glass is good.. Side louvered windows work fine. 
+Poptop is in good shape..the canvas is not as good. It is still there
+and still usable..but I believe it is original, so it is not in the best
+shape anymore. 
+Bumpers are both in fine shape. 
+The motor: I put a 1600 dp type 1 motor in it last year, with the oil
+pump style hanger. The motor runs strong. So you know, I have pretty
+much everything off of the old motor still, as well as the block which
+all these parts can go with it if you meet my opening price. On the
+motor now is a newer Bocar 36 pict3 carb, a newer coil, 009 dist, newer
+gen, newer voltage regulator, and a newer exhaust. The exhaust is almost
+brand new, as well as the gen and starter. I left the old clutch on this
+motor, I have an almost new clutch on the old motor I took out of the
+bus. 
+As far as the not so good with the motor..I didnt replace the front main
+seal right behind the clutch before I put the motor in, so, it leaks a
+little. It will need to be replaced sooner than later. But if you know
+how to pull one of these motors, it doesnt take too long, I just do not
+have that kind of time. 
+The heater boxes are fairly new if I remember correctly also. I have a
+chrome aftermarket breather on the carb. 
+Like I said, the motor runs strong, and starts right up. I have set the
+valves recently, but it may need timed and maybe a fresh tune up to be
+tip top. 
+The transmission:I put the trans that is in it now a few years back. The
+old one was popping out of 4th..since I put this trans in it, I have had
+no problems with it. I have replaced the fluid once not too long ago. 
+The cv's and boots are all brand new. 
+Undercar:Brakes are all good, as of right now they need an adjustment,
+but they work fine. The master cylinder resevoir top had broken on me,
+and since they are impossible to find, I just tape a cap on to it and
+call it good. It works fine and holds the fluid just fine. Maybe you
+might have better luck replacing it then me. 
+I have replaced a few of the wheel cylinders within the last year or so,
+too. All drums are also in fine shape. 
+As far as the front end goes, I replaced the steering box within the
+last couple hundered miles. So it is in great shape. All the rest of the
+front as far as I remember is in fine working order. The steering feels
+fine, there are no wobbles or shimmys or anything when you drive it. 
+The tires are all in great shape with almost all the tread left. 
+Wheels are old metal style with chrome hubcaps. 
+Interior:Front seats need recovering. They are in fine shape, but they
+both have some tears. Rear seats are all in great shape with no rips or
+tears. 
+The interior consists of the seat right behind the driver seat..the
+walkthru, the cabinet with the sink and ice box. The table, the rear
+seat that folds down to the bed and the side cabinet. All are in great
+shape and working properly. Even have the extra stool to match. 
+We have both the cots, one over the front seats, and the one up in the
+top. Both in fine shape. 
+No front kick panels. I pulled them out awhile back and never replaced
+them. They are like $40 new. 
+The rubber mat on the floor up front is in fine shape. the dash is in
+fine shape, only damage is it looks like there might have been a bit of
+heat in the ashtray at one point, and it damaged the bit right above the
+ashtray (maybe 1"-1 1/2" long), thats the only dash damage. 
+I have added a oil temp guage, put it to the right of the speedo, in the
+empty slot. The speedo is out of a newer bus.dont know the year. 
+It has a pullout cheapo cassette deck in it. 
+Front door panels are in great shape. I had recently replaced the risers
+in each of the front doors also. 
+In the rear cargo floor area there is linoleum, its in fine shape, but
+its not the best looking anymore. 
+The cabinet top has been replaced with some cheap linoleum. Sink works
+fine..the icebox holds the cold in also. 
+Also has the netting above the rear bed. 
+The spare tire is located in the rear of the bed, drivers side. 
+Biggest problem with the interior is the shape of the wood paneling.
+They are no longer what they used to be. They are not bad enough for me
+to worry about. They are just faded some, and in places the paneling
+starts to break..to me it is not all that bad though. 
+Only other thing to mention is awhile back, I had an electrical problem
+at the back of the ignition. It fried those wires and the horn wires. I
+have rewired in a new generic switch, which hangs right to the side of
+the column..I could not get the old switch out of there and called it
+good when I got the other switch in. I also had to rewire the horn,
+which the button is now mounted on the left side of the steering column.
+We have never had any problems with it since I did the work. 
+So thats about it for this bus..if you have any questions or want to see
+ANY pics, please email me.
+ 
+Vehicle will need to be towed away (due to currently not being inspected
+in PA)..if you need phone #'s for vehicle shippers, I have a few, so let
+me know if you need them. 
+Please email if you have any questions, or want to see pics. So you
+know, we have determined we cannot take less than $2000 for this bus..we
+have had decent offers, but if we cannot get the $2000, we will just
+keep it.  Thanks for your time!
+
+
+http://www.phishhook_dot_com/lists/SLOWAGN</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F535391" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F535391" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F535391" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

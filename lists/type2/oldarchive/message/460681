@@ -1,0 +1,293 @@
+<html>
+<head>
+<title>type2 - Vacation in my hometown (long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/460681 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/460681" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/460681" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Vacation in my hometown (long)</h1>
+   <b>Monica Reynolds &lt;monicar_at_amazon_dot_com&gt;</b><br/>
+   <i>1999-07-11 16:58:12+00</i><br/>
+   <br/>
+   <pre>Vacation Vacation  vacationed unintentionally in my home town |:<
+ I was headed to mountains in NY and PA.
+I knew the lifters had to be changed before I left. It rained for three
+days before I left. This really kind man (John) said he'd help me and
+show me how to use my new tools(i was just a little scared i'd miss some
+thing) the day I was suppose to leave it was sunny so we planned to do
+it that day, on john ball joint let loose and he was pretty much stuck
+were he lay for the day. I had good luck so far I thought why not wait
+to do the job untill I picked up a friend in PA who was to join me on
+this doomed Vaction. I got my oil professionally changed added some
+mystry oil and took off the lifters sounded pretty loud and further I
+went  15 miles on the highway 95 and the bus jerked and the oil light
+came on (I was already  on the side of the road I could feel it coming
+like you can feel a train coming before you run like hell over the
+railroad bridge) I turned the key off there was an exit 200 yds ahead i
+rested and then turned it back on punched the gas only a little to get
+momentum then turned it back off cruised down the ramp to the
+conveinently place gas station. then I proceeded to cry you know its a
+girl thing....--my dear friend john said right before I left if any
+thing happened to call him and he'd either talk me thru my problem or
+come and rescue me. 
+thank God  i wrote his # in my book cuz I found my self calling 
+He was on his way within a couple hours hitching a ride from my roomate
+when she got off work. Here I had broken down in a suburb where John use
+to live  he determined it had to be towed or the engine pulled right
+there which maybe wasn't the safest thing so I wanted to tow it and of
+course I didn't get AAA before I left |=  John knew some one called and
+got me a tow 45 miles to his house during a torrential monsoon (the kind
+you gotta wait for it to die down before proceeding, here are these two
+young men and John  fit my bus on a flat bed as wet as they'd be if they
+jumped in the bay w\their clothes on) Cost me 100 bucks and breakfast.
+Towed to John's house we took a few days of rest before the removal
+process. it was 4th of july weekend ya know... On probably the hotest
+day so far this year we yanked the engine. 3 gallons of water and 5
+hours later we got the engine resting on a 4x4 wooden block stuck
+between the engine compartment and the jack. with the jack stands maxed
+out we couldn't raise the bus anymore plus the jack was under the engine
+and we were both at the point of exhaustion.  two days later my uncle
+who has amazing brute strengh came to rescue us. all three of us
+together got it out. john and uncle lifting and I pulled the jack out.
+I orderd a long block from the bus depot and an E-brake cables. how the
+E-brake passed inspection is beyond me. I really have some resentment
+building on a daily basis for the Mech. that I first took my bus to.
+Being ripped off was to be expected but I see his whole evil plan now 
+ya know its like the old commercial for V8 were the people going around
+smacking themselves in the forehead saying I should of had a V8   I
+don't know what I should have but I do have a bus and all I wanted was
+honesty and he took me. Dave Green at Fair Hill auto (owner) in Maryland 
+said when I paid him said "before you go on vacation(Ihad told him what
+my intentions were) come back in so we can do a tune up and change yer
+oil for ya. one week later I couldn't go more than 35 mph I called him
+up. I took it in. the Mech. worked on it filling it w/oil ?? changing
+the points?? and setting the timing??  I paid 2400 bucks and this is
+what I get? I said the gas tank was leaking still then and the mech(not
+dave) said yeh, when you bring it in for that schedual to get the two
+oil leaks and the lifters done.*WHAT* as dave the wonder wave said as I
+walked out of his shop in the begining said "OH you have a strong engine
+we don't need to replace it.......sorry to vent like this I really just
+wanted to tell you all what was happening. it sucks I need a joke.
+even my back  up car is peeing on my head right now. yeasterday my uncle
+and I replaced the battry, the starter and the seliniod switch  I made
+it to work but I tried to go to lunch and the &(^%_at__at_! *FORD* won't
+start.when it rains it pours ya know and the gods told me that in the
+begining when we towed the old Lorax home. thanx for listening..........
+
+
+-- 
+ *
+ + +                        
+  * * *                       
+  Monica               
+   Reyonlds   monicar_at_amazon_dot_com  +      
+   *  1980 Vanagon w/its gutz spilling all over  the streets of
+Chesapeak City the only CITY in the Almanac without a traffic light.   
+* * * *  
+                             + + + + +
+                                * * * *
+                                    + + +
+                                       * *
+                                          *
+
+
+TYPE2-REQUEST_at_TYPE2.COM</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F460681" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F460681" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F460681" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

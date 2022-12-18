@@ -1,0 +1,499 @@
+<html>
+<head>
+<title>type2 - head torque on water-cooled engines: a recall</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/704906 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/704906" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/704906" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>head torque on water-cooled engines: a recall</h1>
+   <b>&quot;J. Walker&quot; &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1994-10-20 04:59:13+00</i><br/>
+   <br/>
+   <pre>most of you old folks and gopher-able people may have seen this, but i
+thought it might be worth posting to the list again. i was looking for
+the head-torque on the water-cooled engines, and noticed the one about
+the auxillary heater exhaust pipe that someone was talking about. so
+everybody take a minute and look through here if you have a vanagon of
+any year. you might find something.
+
+>From National Highway Traffic Safety Administration
+     Auto Safety Hotline  1-800-424-9393
+-----------------------------------------
+     Information as of 06 May 1994
+-----------------------------------------
+1980 Vanagon                Built from 1979 Jul  to  1979 Dec
+     Campaign 79V270000     No. Recalled: 2,572
+     Campaign EN            Notification Date:     800128
+     System:                Suspension; Front Ball Joint Bolts
+     Description of Defect: The bolts which attach each left and right
+                            side front ball joint to the upper wishbone,
+                            may not have been sufficiently tightened
+                            during assembly. This could cause the ball
+                            joint to separate from the wishbone.
+     Consequence of Defect: Separation of the ball joint from the
+                            wishbone could cause loss of vehicle control
+                            and a vehicle accident.
+     Corrective Action:     The dealer will tighten the ball joints to
+                            the correct specifications at no cost to
+                            owner.
+-----------------------------------------
+1980 Vanagon                Built from 1979 Jul  to  1980 Feb
+     Campaign 80V800000     No. Recalled: 2,287
+     Campaign ES            Notification Date:     800729
+     System:                Heating; Heater Exhaust Pipe
+     Vehicle Description:   Vans equipped with auxiliary heaters
+     Description of Defect: The auxiliary heater's exhaust pipe is
+                            mounted in a downward position toward the
+                            ground.
+     Consequence of Defect: In the event the vehicle is parked in an
+                            area with dry material (grass) beneath it,
+                            the downflow of exhaust could reach the
+                            material and possibly ignite it.  A vehicle
+                            fire and personal injury could result.
+     Corrective Action:     Dealer will remove the existing pipe and
+                            install a modified pipe with a shield over
+                            the end, without charge to owner.
+-----------------------------------------
+1980 Vanagon and
+1981 Vanagon                Built from 1980 Apr  to  1981 Apr
+     Campaign 81V076000     No. Recalled: 92
+     Campaign               Notification Date:     810422
+     System:                Pop Top
+     Vehicle Description:   Campers (Van Conversion)
+     Description of Defect: During vehicle operation, the pop top
+                            could loosen from its anchor due to wind
+                            pressure.  It could open and separate
+                            entirely from the vehicle.
+     Consequence of Defect: Sudden opening of the pop top could be a
+                            hazard to safe vehicle operation.  Complete
+                            separation could cause an accident and
+                            personal injury to other drivers.
+                            NOTE: Until the problem is corrected, owner
+                            is advised to avoid excessive wind pressure
+                            against the pop top by driving at moderate
+                            speeds.
+     Corrective Action:     Dealer will inspect and, if necessary,
+                            modify anchorages to make sure pop top will
+                            be secured under normal operating conditions.
+-----------------------------------------
+1981 Vanagon and
+1982 Vanagon                Built from           to
+     Campaign 84V084000     No. Recalled: 16,000
+     Campaign NC            Notification Date:
+     System:                Door Latch.
+     Vehicle Description:   Camper and Multi-Purpose Passenger Vehicles.
+     Description of Defect: Spring, which holds the latch on the front
+                            door locks, may break and door may open
+                            unexpectedly.
+     Consequence of Defect: Door could open unexpectedly while the
+                            vehicle is in motion; Occupants could be
+                            ejected from vehicle and suffer serious
+                            injury.
+     Corrective Action:     Springs will be replaced on all affected
+                            locks without charge.
+-----------------------------------------
+1983 Vanagon
+                            No recall information on above vehicle(s).
+-----------------------------------------
+1984 Vanagon
+                            No recall information on above vehicle(s).
+-----------------------------------------
+1985 Vanagon                Built from 1984 Jul  to  1985 May
+     Campaign 85V152000     No. Recalled: 16,328
+     Campaign               Notification Date:
+     System:                Door Look.
+     Vehicle Description:   Van-type Wagon and Campers.
+     Description of Defect: The latch of the passenger sliding door may
+                            become damaged if excessive force is used
+                            to close the door.  The damaged door lock
+                            mechanism will not properly engage and the
+                            door could open if vehicle is driven over
+                            bumpy roads.
+     Consequence of Defect: If this occurs there is a possibility that
+                            a passenger could fall out causing injury
+                            or death.
+     Corrective Action:     Modify the sliding door lock assembly so
+                            door will properly engage.
+-----------------------------------------
+1985 Vanagon through
+1991 Vanagon                Built from 1985 Jul  to  1992 Jun
+     Campaign 92V058001     No. Recalled: 340,000
+     Campaign SF            Notification Date:
+     System:                Fuel Lines.
+     Vehicle Description:   Passenger Cars.
+     Description of Defect: The fuel hose attached to the fuel
+                            distribution rail on the engine may shrink
+                            beyond the clamp force of the fuel hose
+                            clamps, allowing fuel to leak.
+     Consequence of Defect: Fuel leakage in the engine compartment can
+                            cause an underhood fire if the fuel comes
+                            in contact with a source of ignition.
+     Corrective Action:     Replace the fuel hose attached to the fuel
+                            rail and install a new spring type self-
+                            tightening clamp.
+                            NOTE: Volkswagen of America estimates the
+                            new self-tightening fuel hose clamps will be
+                            available in May of 1992.
+     Supplement 92V058001   Information has been added to this campaign.
+-----------------------------------------
+1986 Vanagon                Built from 1985 Aug  to  1986 Jul
+     Campaign 87V051000     No. Recalled: 339
+     Campaign PA            Notification Date: 870414
+     System:                Fuel Tank.
+     Vehicle Description:   Van Type Vehicles.
+     Description of Defect: Fuel tank filler neck pipe may not seat
+                            properly in the fuel tank opening. Also,
+                            the sending unit cover may be deformed.
+     Consequence of Defect: Fuel could escape, creating the potential
+                            for a fire.
+     Corrective Action:     Install a redesigned filler neck pipe and
+                            replace the sending unit gasket.
+-----------------------------------------
+1986 Vanagon through
+1991 Vanagon                Built from 1985 Aug  to  1991 Jun
+     Campaign 93V175000     No. Recalled: 29,500
+     Campaign SU            Notification Date:
+     System:                Air Conditioner hose; Duct; Air.
+     Vehicle Description:   Vans equipped with factory air conditioning.
+     Description of Defect: The plastic material of the center air flow
+                            duct, which is fastened by two mounting
+                            screws to the ceiling of the passenger
+                            compartment, can crack and eventually break.
+     Consequence of Defect: If the plastic breaks where it is held at
+                            the two mounting screws, the center air flow
+                            duct can separate from its supports and
+                            cause injury to the passengers sitting in
+                            the center seat of the vehicle.
+     Corrective Action:     Dealers will install a reinforcement plate
+                            at the connections of both the center and
+                            rear air flow ducts.
+-----------------------------------------
+1986 Vanagon and
+1987 Vanagon                Built from 1985 Oct  to  1986 Oct
+     Campaign 88V038000     No. Recalled: 12,000
+     Campaign               Notification Date:
+     System:                Fuel in line filter.
+     Vehicle Description:   Van type vehicles.
+     Description of Defect: In line fuel filter located between the fuel
+                            tank and fuel pump could seep fuel at the
+                            seam of the plastic casing.
+     Consequence of Defect: Should seepage occur, leaking fuel can cause
+                            a risk of fire in the presence of an
+                            ignition source.
+     Corrective Action:     The in line fuel filter will be replaced
+                            with a straight fuel hose.
+-----------------------------------------
+1986 Vanagon and
+1987 Vanagon                Built from 1985 Aug  to  1987 Jan
+     Campaign 87V052000     No. Recalled: 15,500
+     Campaign PB            Notification Date: 870414
+     System:                Fuel tank.
+     Vehicle Description:   Van type vehicles.
+     Description of Defect: Usage of fuel with Reid pressure up to
+                            14 psi could, under high engine load and
+                            high ambient temperatures, lead to stalling.
+     Consequence of Defect: Fuel flow could become restricted and cause
+                            the engine to stall.
+     Corrective Action:     Instll a new fuel tank, containing a
+                            redesigned fuel filter, as well as modified
+                            control units.
+-----------------------------------------
+1987 Vanagon and
+1988 Vanagon                Built from 1987 Apr  to  1987 Nov
+     Campaign 88V076000     No. Recalled: 130
+     Campaign               Notification Date:
+     System:                Wheels/Tires.
+     Vehicle Description:   Van and Camper type vehicles.
+     Description of Defect: Due to improper mounting process, Semperit
+                            tires 205/70R14 mounted on alloy wheels
+                            size 6Jx14 could experience tiny cracks in
+                            the bead area.
+     Consequence of Defect: Tires could lose air, creating potential
+                            for loss of vehicle control.
+     Corrective Action:     Replace tires as necessary.
+-----------------------------------------
+1987 Vanagon through
+1989 Vanagon                Built from 1987 Aug  to  1988 Dec
+     Campaign 89V067000     No. Recalled: 300
+     Campaign               Notification Date:
+     System:                Cruise Control.
+     Vehicle Description:   Van Camper type vehicle.
+     Description of Defect: When using the cruise control, the
+                            accelerator cable tension may allow the
+                            cable to sag and become entangled with the
+                            water pipe bracket impeding its return to
+                            idle position.
+     Consequence of Defect: Failure to return to idle position could
+                            lead to an accident.
+     Corrective Action:     The present accelerator cable bracket will
+                            be replaced.
+-----------------------------------------
+1987 Vanagon                Built from 1986 Aug  to  1987 Mar
+     Campaign 87V085000     No. Recalled: 1,600
+     Campaign PG            Notification Date: 870608
+     System:                Shift locking pawl.
+     Vehicle Description:   Van type vehicles with automatic
+                            transmissions.
+     Description of Defect: Pin in shift locking pawl may not be
+                            properly welded to the pawl.
+     Consequence of Defect: If pin separates from pawl, driver would be
+                            able to move the shift lever during driving
+                            into any position without pressing safety
+                            release button.
+     Corrective Action:     Replace shift locking pawl.
+-----------------------------------------
+1987 Vanagon                Built from 1986 Aug  to  1987 Feb
+     Campaign 87V083000     No. Recalled: 2,397
+     Campaign PF            Notification Date: 870608
+     System:                Rearward passenger seat.
+     Vehicle Description:   Van type vehicles.
+     Description of Defect: Seat brackets which anchor rearward
+                            passenger seats may not engage properly.
+     Consequence of Defect: Seat could break loose during acceleration
+                            and cause injury to the seat occupant.
+     Corrective Action:     Assure that seat brackets are properly
+                            engaged.
+-----------------------------------------
+1988 Vanagon                Built from 1987 Jul  to  1988 Mar
+     Campaign 88V056000     No. Recalled: 600
+     System:                Additional equipment.
+     Vehicle Description:   Van
+     Description of Defect: Improper jack furnished with vehicles
+     Consequence of Defect: The jack may not reach far enough into
+                            the jackets provided on both sided of the
+                            vehicle.  If the improper jack is used, it
+                            could slip and possibly injure a person
+                            standing too close to the vehicle.
+     Corrective Action:     Replace jack with the proper type for
+                            vehicle.
+-----------------------------------------
+1988 Vanagon                Built from 1987 Apr  to  1987 Nov
+     Campaign 88V076000     No. Recalled: 130
+     System:                Wheels/tires
+     Vehicle Description:   Van camper type vehicles.
+     Description of Defect: Due to improper mounting process, semperit
+                            tires 20570R14 mounted on alloy wheels size
+                            6J x 14 could experience tiny cracks in the
+                            bead area.
+     Consequence of Defect: Tires could lose air, creating potential for
+                            loss of vehicle control.
+     Corrective Action:     Replace tires as necessary.
+========================================================================
+Vanagon, Vanagon Campers, Vanagon Syncros
+-----------------------------------------
+Volkswagen Recall Campaigns
+
+  Affected    From VIN -            Date
+Year  Models  To   Vin             Issued   Code Description
+-----------------------------------------------------------------------
+
+1980 Vanagon                    -  1980/01  EN   Front ball joint bolts
+                                                 need tightening.
+-------------------------------
+
+1980 Vanagon                    -  1980/07  ES   Aux. heater exhaust
+w/ aux heater                                    pipe replaced.
+-------------------------------
+
+1980 Camper                     -  1981/04  ??   Pop top anchors may
+1981 Camper                                      need modification.
+-------------------------------</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F704906" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F704906" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F704906" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

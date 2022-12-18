@@ -1,0 +1,694 @@
+<html>
+<head>
+<title>vintagebus Mailing List Activity - 2007-07</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/listmonth/2007-07 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/listmonth/2007-07" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/listmonth/2007-07" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+  <div class="panel panel-primary">
+  <div class="panel-heading">vintagebus - 2007-07</div>
+  <table class="table">
+   <thead><tr><th>Subject</th><th>Date</th><th>From</th></tr></thead>
+   <tbody>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/608176">Seam sealants</a></td>
+        <td>&quot;tristan shaffer&quot; &lt;tristanshaffer_at_gmail_dot_com&gt;</td>
+        <td>2007-07-02 01:39:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi All,
+
+I had to scrape away some of the rubbery seam sealant where the cargo
+floor meets the rear wheel wells in order to treat a rust spot.  The
+original bead is probably an inch or so wide, I can't really tell if
+it was applied with a gun or brush beca...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/637364">bullet bus video</a></td>
+        <td>Sglw_at_aol_dot_com</td>
+        <td>2007-07-04 15:25:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>here is a link to my video of the bullet bus that I took at OCTO.  My  friend 
+Jeff Wiltshire who came to Kelley Park in 1999 sort of spooked up my  video.
+
+
+
+************************************** See what's free at http://www.aol_dot_com....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/655934">bullet bus video--now with link!</a></td>
+        <td>Sglw_at_aol_dot_com</td>
+        <td>2007-07-04 15:26:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>_http://www.edturners.tv/wmv_video_bulletbus.html_ 
+(http://www.edturners.tv/wmv_video_bulletbus.html) 
+
+
+
+************************************** See what's free at http://www.aol_dot_com....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/631745">EB shelter #?</a></td>
+        <td>&quot;Dave Brooks&quot; &lt;brooksdj_at_earthlink_dot_net&gt;</td>
+        <td>2007-07-08 13:25:11+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>What's the shelter # used for EB?  There's a Geocaching event there in late
+Oct I want to camp at. Wondering if it's the same area.  There using #5.  The
+map for Hagan Stone isn't that good....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/643656">AriZona Vintage Bus</a></td>
+        <td>&quot;Melissa &amp; Jerry Jess&quot; &lt;vwstuff53_at_msn_dot_com&gt;</td>
+        <td>2007-07-08 13:53:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>1966 deluxe walk thru-ready to paint-no engine $6000    602-388-2694...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/673709">distributor needed!</a></td>
+        <td>Cal Grant &lt;cjay_at_well_dot_com&gt;</td>
+        <td>2007-07-14 04:02:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello guys and girls,
+
+It's been several years since I've posted on this list, nice to see it's
+still here and functioning. My 67 deluxe is still on the road, and it's
+living in a garage here in San Francisco, and gets to go out once a week
+for the grocery...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/603609">timing mark jumping around</a></td>
+        <td>John Moore &lt;jem_93035_at_yahoo_dot_com&gt;</td>
+        <td>2007-07-14 21:01:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I've developed a problem with my 67 Westy, 1600 DP engine w/PICT34-3 and 205M distributor.  It started backfiring shortly after I tuned it up the last time and after tracing back through the things I had done I came to conclusion it was the distributor.  I...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/669322">Re: [VB] timing mark jumping around</a></td>
+        <td>&quot;Karl&quot; &lt;aufever_at_prodigy_dot_net&gt;</td>
+        <td>2007-07-14 21:05:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I would replace the points first.
+
+-----------------------------------------------------------------------
+John said:
+
+
+ I've developed a problem with my 67 Westy, 1600 DP engine w/PICT34-3 and 205M distributor.  It started
+backfiring shortly after I tuned...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/627359">Re: [VB] timing mark jumping around</a></td>
+        <td>&quot;C. Dreike, Advantage Automation, Inc&quot; &lt;c.dreike_at_verizon_dot_net&gt;</td>
+        <td>2007-07-14 21:25:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I would go with Karl. Replace the points. Its easy. Next grab the rotor and 
+check for play. May be hard to tell because of the advance mechanics. It may 
+be that your distributor drive gear is wearing out (rare). Is there brass in 
+your oil?
+
+Chris ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/622100">Re: [VB] timing mark jumping around</a></td>
+        <td>VeeWee111_at_aol_dot_com</td>
+        <td>2007-07-14 23:52:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi John,
+Try a different distributor.  If same results, it could be the brass  drive 
+gear on the crankshaft is messed up.  Seen the same results after a  DPO forced 
+the distributor drive shaft in with a hammer when one of the shims  under it 
+was offset....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/596127">some parts and cars for sale</a></td>
+        <td>Lawrence/vw62rag/Lauri &lt;turbovw62rag_at_yahoo_dot_com&gt;</td>
+        <td>2007-07-16 04:40:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>heres some parts and cars for sale have a look
+  thanks
+   
+  http://motors.search.ebay_dot_com/_W0QQsassZvw62rag...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/658199">How Many?</a></td>
+        <td>&quot;C. Dreike, Advantage Automation, Inc&quot; &lt;c.dreike_at_verizon_dot_net&gt;</td>
+        <td>2007-07-18 02:11:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Guys, Gals,
+
+Does anyone have an idea of how many splitties are left in North America? 
+And roadable?
+
+285 showed up at OCTO last month.
+
+Chris...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/626379">Jerome Jamboree  AridZona</a></td>
+        <td>&quot;Melissa &amp; Jerry Jess&quot; &lt;vwstuff53_at_msn_dot_com&gt;</td>
+        <td>2007-07-19 04:33:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Our signature event, the Jerome Jamboree is held each September in Jerome,
+Arizona where we raffle off a restored split window bus, donate the proceeds
+to charity and start all over again. 
+
+The 2007 bus is a 1963 Standard donated by Billy Donnelly out of ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/626303">????</a></td>
+        <td>&quot;Melissa &amp; Jerry Jess&quot; &lt;vwstuff53_at_msn_dot_com&gt;</td>
+        <td>2007-07-19 15:56:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Notice anything different on this bus?
+
+ 
+
+ 
+
+http://www_dot_carsthestars.be/pictures/aircooled_events/2007/badcambergday1_200
+7/groot/BBC0042.jpg...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/603047">Re: [VB] ????</a></td>
+        <td>John Baker &lt;busvwzen_at_yahoo_dot_com&gt;</td>
+        <td>2007-07-19 16:09:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>--- Melissa & Jerry Jess <vwstuff53_at_msn_dot_com> wrote:
+
+> Notice anything different on this
+bus?http://www_dot_carsthestars.be/pictures/aircooled_events/2007/badcambergday1_2007/groot/BBC0042.jpg
+ <<
+
+Yep, two of the same cargo doors, possibly stretche...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/638304">Re: [VB] ????</a></td>
+        <td>&quot;Karl&quot; &lt;aufever_at_prodigy_dot_net&gt;</td>
+        <td>2007-07-19 16:19:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jerry said:
+
+
+ Notice anything different on this bus?
+ 
+  
+ http://www_dot_carsthestars.be/pictures/aircooled_events/2007/badcambergday1_200
+7/groot/BBC0042.jpg
+ 
+ ---------------------------------------------------------------------
+
+Isn't that one of tho...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/665664">Re: [VB] ????</a></td>
+        <td>VWBrain_at_aol_dot_com</td>
+        <td>2007-07-19 16:56:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>In a message dated 7/19/2007 11:57:49 A.M. Eastern Daylight Time,  
+vwstuff53_at_msn_dot_com writes:
+
+http://www_dot_carsthestars.be/pictures/aircooled_events/2007/badcambergday1_200
+7/groot/BBC0042.jpg
+
+
+
+
+hey jerry   besides the two cargo doors, high hin...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/650278">Re: ????</a></td>
+        <td>Know One &lt;knowonelse_at_sbcglobal_dot_net&gt;</td>
+        <td>2007-07-19 17:24:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> Notice anything different on this bus?
+
+Is that from Brazil?
+
+Cool nevertheless.
+
+Jeff...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/671156">RE: [arizonabusclub] ????</a></td>
+        <td>&quot;Melissa &amp; Jerry Jess&quot; &lt;vwstuff53_at_msn_dot_com&gt;</td>
+        <td>2007-07-19 17:34:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bus is not stretched,  a friend of mine in Germany got it out of Brazil.  I
+had a chance to buy another one from the same seller, uj
+
+-----Original Message-----
+From: jdstanton5_at_cox_dot_net [mailto:jdstanton5_at_cox_dot_net] 
+Sent: Thursday, July 19, 20...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/600520">cargo door Bus</a></td>
+        <td>&quot;Melissa &amp; Jerry Jess&quot; &lt;vwstuff53_at_msn_dot_com&gt;</td>
+        <td>2007-07-19 20:15:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The owner who is now in Germany   told me it is a Brazilian Taxi Bus...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/659169">Mogollon Madness!</a></td>
+        <td>&quot;Lou&quot; &lt;vwdragon_at_citlink_dot_net&gt;</td>
+        <td>2007-07-23 19:07:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Great news! There are NO FIRE RESTRICTIONS !!!!!  The Ranger Station said YES,
+FIRES ARE OK !!!!! She also said to use common sense, and have a good time.
+Hey Bus Mike, keep on shakin your magic stick!
+Thanks "Salty Dog"!...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/649539">Re: How Many?</a></td>
+        <td>Matt Roberds &lt;mattroberds_at_cox_dot_net&gt;</td>
+        <td>2007-07-24 21:45:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> From: "C. Dreike, Advantage Automation, Inc" <c.dreike_at_verizon_dot_net>
+> Date: Tue, 17 Jul 2007 19:11:26 -0700
+>
+> Does anyone have an idea of how many splitties are left in North
+> America?
+
+Not sure.  One source I have says that there were about 1....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/625120">distributor for 1600 DP </a></td>
+        <td>John Moore &lt;jem_93035_at_yahoo_dot_com&gt;</td>
+        <td>2007-07-25 00:23:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm looking for a replacement distributor for my bus.  Can anyone 
+suggest a source for a rebuilt one or a used one suitable for 
+rebuilding?  I'm in Oxnard CA.  Here's the numbers....
+
+Bus 1971 1600 DP
+Bosch number - 0231 167 055 or 0231 176 033
+VW Number...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/600040">Re: [VB] distributor for 1600 DP</a></td>
+        <td>&quot;tristan shaffer&quot; &lt;tristanshaffer_at_gmail_dot_com&gt;</td>
+        <td>2007-07-25 01:13:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 7/24/07, John Moore <jem_93035_at_yahoo_dot_com> wrote:
+> I'm looking for a replacement distributor for my bus.  Can anyone
+> suggest a source for a rebuilt one or a used one suitable for
+> rebuilding?
+
+You might try calling these guys:
+
+http://www.phil...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/594208">Re: Cargo Door Bus Ad!</a></td>
+        <td>&quot;Lou&quot; &lt;vwdragon_at_citlink_dot_net&gt;</td>
+        <td>2007-07-26 18:46:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Here's a VW ad for the Taxi Bus, third ad from the left:
+
+http://www.aircooledads_dot_com/
+
+HTH
+
+Lou in Havasu...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/596343">distributor overhaul for 1600 DP</a></td>
+        <td>John Moore &lt;jem_93035_at_yahoo_dot_com&gt;</td>
+        <td>2007-07-26 19:09:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm still looking for a replacement distributor for my
+1600 DP, w/34PCIT-3.  The numbers are:
+Bosch number - 0231 167 055 or 0231 176 033
+VW Number -  211 905 205Q or 043 905 205D
+
+I have a couple leads.  Now I'm looking for overhaul
+instructions, namely, ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/680245">Hello and Parts for sale</a></td>
+        <td>E Burtis &lt;ewdb92_at_yahoo_dot_com&gt;</td>
+        <td>2007-07-27 00:29:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Everyone,
+  
+  I've been a long time lurker here, used to be more active ages ago but  when I sold my VW's to make way for the progression of life I my emails  trickled away.  And as life has progressed my inventory of  parts  sat waiting for me in my p...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/649902">Re: [VB] distributor overhaul for 1600 DP</a></td>
+        <td>&quot;tristan shaffer&quot; &lt;tristanshaffer_at_gmail_dot_com&gt;</td>
+        <td>2007-07-27 02:24:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 7/26/07, John Moore <jem_93035_at_yahoo_dot_com> wrote:
+
+> I have a couple leads.  Now I'm looking for overhaul
+> instructions, namely, how do you separate the two
+> distributor shafts?
+
+You can gently pry them apart with a screwdriver, the clip is only...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/662945">Re: [VB] Re: How Many?</a></td>
+        <td>&quot;C. Dreike, Advantage Automation, Inc&quot; &lt;c.dreike_at_verizon_dot_net&gt;</td>
+        <td>2007-07-29 04:24:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Matt,
+
+Sorry about the slow reply, been on vacation to the Glacier National Park. 
+Didn't see a single split. Saw about 3 bays and about 3 eurovans. Two were 
+set up as campers. One with  a pop top.
+
+Thanks for the extrapolation. 2,340 may be a good number...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/672956">Westy top</a></td>
+        <td>Philip &amp; Catherine &lt;pncfarm_at_gmail_dot_com&gt;</td>
+        <td>2007-07-29 10:03:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>1973  Volkswagen : Bus/Vanagon  WESTFALIA    Item number: 280136439244
+
+Is this top is wrong? but on a very nice bus.
+P & C...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/629781">Re: [VB] Westy top</a></td>
+        <td>Sglw_at_aol_dot_com</td>
+        <td>2007-07-29 15:20:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>In a message dated 7/29/2007 3:03:39 A.M. Pacific Daylight Time,  
+pncfarm_at_gmail_dot_com writes:
+
+280136439244
+
+
+
+My 70 westy opened in the front, I added new hinges from a 73 as they  
+strengthened them, so I believe that the top is correct.
+ 
+This is ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/632191">aridZona bus sale</a></td>
+        <td>&quot;Melissa &amp; Jerry Jess&quot; &lt;vwstuff53_at_msn_dot_com&gt;</td>
+        <td>2007-07-29 17:33:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://www.thesamba_dot_com/vw/classifieds/detail.php?id=484761...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/648325">Re: [VB] Westy top</a></td>
+        <td>harry.houck_at_comcast_dot_net</td>
+        <td>2007-07-29 23:08:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Looks OK to me. They painted the outside of the top. M7 '79 was all fiber, no gel coat left. 
+They didn't install the canvas to the top correctly, the strip and staples should not be visible from the inside. 
+
+You're right Sam.  If you see a '73 in a junk ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/641419">Re: [VB] Re: How Many?</a></td>
+        <td>&quot;Curt Conklin&quot; &lt;CONKLINC_at_lawgate.byu_dot_edu&gt;</td>
+        <td>2007-07-30 14:12:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Given the number and frequency of busses for sale, I'd say 2300 is a low
+figure.
+
+PLV,
+
+Curt...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/vintagebus/oldarchive/message/639356">aridZona bus sale</a></td>
+        <td>&quot;Melissa &amp; Jerry Jess&quot; &lt;vwstuff53_at_msn_dot_com&gt;</td>
+        <td>2007-07-31 15:51:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://www.thesamba_dot_com/vw/classifieds/detail.php?id=485562...</code></pre></td>
+      </tr>
+    
+    </tbody>
+  </table>
+
+
+
+
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Flistmonth%2F2007-07" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Flistmonth%2F2007-07" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Flistmonth%2F2007-07" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

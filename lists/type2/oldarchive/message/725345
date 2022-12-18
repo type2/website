@@ -1,0 +1,324 @@
+<html>
+<head>
+<title>type2 - oh no! he's after the Unknowns again! ...</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/725345 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/725345" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/725345" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>oh no! he's after the Unknowns again! ...</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1996-01-25 16:47:00+00</i><br/>
+   <br/>
+   <pre>:) yes, fiends, it's THAT time again ... to publicly inform and embarass
+the Unknowns on the list, hoping against hope that they will 'fess up and
+join the ranks of the Known (and still Sniveling!) or the Wanabuses (want
+one but ain't got it yet).
+
+so all you folks who weren't sure if you were Known or Unknown, here's the
+list. if you want to stay Unknown, no big deal ... this bus stats is just
+a minor curiosity that grew into a full-blown obsession. :) but if you want
+to be part of the stats, email me direct (that's ua-ONE-vm in the address). :)
+
+ *103 Unknown                Frank Grunthaner     FRANKGRUN_at_AOL.COM
+ *103 Unknown                Gary Blaisdell       BLAISDELL_GARY_at_TANDEM.COM
+ *103 Unknown                David Adair          DAVIDADAIR_at_AOL.COM
+ *103 Unknown                Michael Heth         MICO_at_CRL.COM
+ *103 Unknown                Wayne Oliphant       OLIPHANT_at_OVERLORD.DMV.COM
+ *103 Unknown                A Carsrme            CARSRME_at_USA.PIPELINE.COM
+ *103 Unknown                Patrick Hawke        PHAWKE_at_HPBS1126.BOT.HP.COM
+ *103 Unknown                Mark Daley           DALEY_at_GIRTAB.USC.EDU
+ *103 Unknown                John Croteau         JT_at_NETCRE.COM
+ *103 Unknown                Ted Bogart           BOGART_at_NANDO.NET
+ *103 Unknown                Bob Taylor           FSRWT1_at_AURORA.ALASKA.NET
+ *103 Unknown                Kevin Baluha         BALUHA_at_TITAN2.TPA.CST.TITAN.CO
+ *103 Unknown                Glenn Thrall         GTHRALL_at_IX.NETCOM.COM
+ *103 Unknown                Shanti Shipsky       SHANTI_at_CONRAD.OIT.UMASS.EDU
+ *103 Unknown                Bill Corey           WJCOREY_at_CRIS.COM
+ *103 Unknown                R B J                RBJ_at_AWOD.COM
+ *103 Unknown                Dean Johnson         DEAN_GORDON_JOHNSON.WBST129_at_XE
+ *103 Unknown                Bradley Schmidt      AU705_at_FREENET.CARLETON.CA
+ *103 Unknown                Andy Dyke            DYKE_at_HOUSTON.GECO-PRAKLA.SLB.C
+ *103 Unknown                Raeford McKinley     MCKINLEY_at_UNITY.NCSU.EDU
+ *103 Unknown                Tim Marciniak        TMARCINI_at_EXECPC.COM
+ *103 Unknown                Dave Marsden         DMARSDEN_at_CIX.COMPULINK.CO.UK
+ *103 Unknown                Kevin Macrae         KMACRAE_at_UF226PQ1.PEACHTREECITY
+ *103 Unknown                Nathalie Beaulieu    AI502_at_FREENET.CARLETON.CA
+ *103 Unknown                D Firlik             DFIRLIK_at_WYBBS.WYNALDA.COM
+ *103 Unknown                Tom Burkhart         TBURKHART_at_TOLEDOLINK.COM
+ *103 Unknown                Michael Lough        LOUGH_at_ASTRAL.MAGIC.CA
+ *103 Unknown                Don Woolard          DWOOLARD_at_OBOE.AIX.CALPOLY.EDU
+ *103 Unknown                Janet Fredericks     JANET_at_OLYMPIA.WHOI.EDU
+ *103 Unknown                Greg Who             GREGWHO_at_AOL.COM
+ *103 Unknown                Marco Arriaga        MARCANT_at_RITZ.MORDOR.COM
+ *103 Unknown                Richard Green        GREENR_at_BACHMAN.COM
+ *103 Unknown                Joe Dipietropaolo    JJKD_at_IX.NETCOM.COM
+ *103 Unknown                Steve Gibson         SGIBSON_at_MECENG.COE.NEU.EDU
+ *103 Unknown                Jim Barnes           JOB_at_HPCOOKY.FC.HP.COM
+ *103 Unknown                Michael Gale         MDGALE_at_PEGASUS.ATT.COM
+ *103 Unknown                Martha Connors       MCONNORS_at_MIT.EDU
+ *103 Unknown                Craig Hartsell       CHART_at_SVPAL.ORG
+ *103 Unknown                David Williams       WILLIAMS_at_HUSC1.HARVARD.EDU
+ *103 Unknown                Ferdinand Buchmiller BUCHMILL_at_UNI-HOHENHEIM.DE
+ *103 Unknown                Mark Engen           UCHEGME_at_EARTH.OSCS.MONTANA.EDU
+ *103 Unknown                Bob Polys            BPOLYS_at_SKY.NET
+ *103 Unknown                Dale Easley          DALE_at_OLYWA.NET
+ *103 Unknown                Robin Young          R2YOUNG_at_ACS.RYERSON.CA
+ *103 Unknown                Frederic Ranger      FRANGER_at_FOX.NSTN.NS.CA
+ *103 Unknown                Leo Jett             JETTS_at_FRED.NET
+ *103 Unknown                Melanie Neubelt      MELL_at_HUGO.HR.ATT.COM
+ *103 Unknown                Matt Dekker          MDEKKER_at_ESKIMO.COM
+ *103 Unknown                Kelly Barthlow       KDBARTHL_at_UNITY.NCSU.EDU
+ *103 Unknown                Wayne Cagno          CAGNO1_at_BRWHCC3.HCC.COM
+ *103 Unknown                Jim Allen            AGAALLEN_at_IDBSU.IDBSU.EDU
+ *103 Unknown                Julian Coryell       EK550_at_EEYORE.INS.CWRU.EDU
+ *103 Unknown                Damian Bebell        D689993B_at_EDINBORO.EDU
+ *103 Unknown                Reg De Foe           REGD_at_CSUFRESNO.EDU
+ *103 Unknown                Timothy Griffiths    102516.3436_at_COMPUSERVE.COM
+ *103 Unknown                Jens-petter Gulbrand JENS-PG_at_TELEPOST.NO
+ *103 Unknown                A Mcdermot           MCDERMOT_at_ABEST.COM
+ *103 Unknown                Don Brizendine       DCBRIZ_at_NETCOM.COM
+ *103 Unknown                Leonard Jones        JONESL_at_TCPLINK.NREL.GOV
+ *103 Unknown                Joe Scanlon          JSCANLON_at_ELAINE53.STANFORD.EDU
+ *103 Unknown                Ben Trelease         BWT4_at_CORNELL.EDU
+ *103 Unknown                Jon Blackledge       JONJB_at_IX.NETCOM.COM
+ *103 Unknown                Jos Stoop            MOONRAKER!FCMC.COM!JOS_at_UU6.PSI
+ *103 Unknown                Joe Bento            JWBENTO_at_HOOKED.NET
+ *103 Unknown                Brian Bennett        UMPQUA_at_CRL.COM
+ *103 Unknown                Don Sniffin          DONSN_at_REDWOOD.STORTEK.COM
+ *103 Unknown                Bull Head            BULLHEAD01_at_AOL.COM
+ *103 Unknown                Steve Swartz         SWARTZ_at_OASISRC.COM
+ *103 Unknown                Bruce Kohse          BRUCE_at_CMGROUP.COM
+ *103 Unknown                Kai Lappalainen      KPLAPPAL_at_CC.HELSINKI.FI
+ *103 Unknown                Tom Kane             TKANE9_at_IX.NETCOM.COM
+ *103 Unknown                David Lord           DLORD_at_CYMBAL.AIX.CALPOLY.EDU
+ *103 Unknown                Sean Dillon          AB040_at_FREENET.CARLETON.CA
+ *103 Unknown                J P Golden           JPGOLDEN_at_IX.NETCOM.COM
+ *103 Unknown                Karl Smelker         KSMELKER_at_THURGOOD.WMITCHELL.ED
+ *103 Unknown                James Glenn          JMGLENN_at_GROVE.IUP.EDU
+ *103 Unknown                Harry Thompson       HTHOMP19_at_MAIL.ICON.NET
+ *103 Unknown                Cathy Wall           CATHY_at_CRL.COM
+ *103 Unknown                Rick Stevens         UP365_at_FREENET.VICTORIA.BC.CA
+ *103 Unknown                Matthew Dailey       MDAILEY_at_CS.UCSD.EDU
+ *103 Unknown                Jay Johnson          SAJAY_at_SUNSET.BACKBONE.OLEMISS.
+ *103 Unknown                Rigel Woodside       CWOODSID_at_VT.EDU
+ *103 Unknown                Jeff Short           SHORTHEAVE_at_AOL.COM
+ *103 Unknown                Todd Last            TODD.LAST_at_NCAL.KAIPERM.ORG
+ *103 Unknown                John Bethea          76241.3550_at_COMPUSERVE.COM
+ *103 Unknown                John Walsh           JPW_at_WORLD.STD.COM
+ *103 Unknown                William Stanley      APOTEK_at_SKY.NET
+ *103 Unknown                Gunnar Shogren       FIENDRACER_at_AOL.COM
+ *103 Unknown                A Dmihalik           DMIHALIK_at_DIALNET.NET
+ *103 Unknown                Phil Fortes          PHILF_at_SEQUENT.COM
+ *103 Unknown                Chris Otoole         CHRIS_OTOOLE_at_ISDTCP3.HWC.CA
+ *103 Unknown                Jeffrey Olson        JJOLSON_at_U.WASHINGTON.EDU
+ *103 Unknown                Marvin Hamon         MHAMON_at_NETCOM.COM
+ *103 Unknown                Greg Merritt         GMERRITT_at_CHEM.LSA.UMICH.EDU
+ *103 Unknown                J Wilson             JWILSON_at_ROBLES.CALLUTHERAN.EDU
+ *103 Unknown                Clark Johnston       GLASSEWE_at_SUPERNET.AB.CA
+ *103 Unknown                Aleksandr Milewski   N6MOD_at_RAHUL.NET
+ *103 Unknown                J. Mceachern         MCEACJA_at_DUC.AUBURN.EDU
+ *103 Unknown                Andreas Kaupert      ANDREASK_at_EFN.ORG
+ *103 Unknown                Richard Showers      DICK_at_MIDGET.TOWNSON.EDU
+ *103 Unknown                Joe Williams         JWILLIAM_at_METRONET.COM
+ *103 Unknown                Chris Watson         75210.401_at_COMPUSERVE.COM
+ *103 Unknown                Steve Baroni         SBAR_at_ICONNECT.NET
+ *103 Unknown                Regan Warner         RWARNER_at_VIANET.ON.CA</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F725345" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F725345" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F725345" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

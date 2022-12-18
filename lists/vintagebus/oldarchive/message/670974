@@ -1,0 +1,292 @@
+<html>
+<head>
+<title>vintagebus - Story of the Shorty Bus.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/670974 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/670974" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/670974" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Story of the Shorty Bus.</h1>
+   <b>&quot;John Flowers&quot; &lt;flowersj_at_gallatinriver_dot_net&gt;</b><br/>
+   <i>2000-12-04 05:02:34+00</i><br/>
+   <br/>
+   <pre>A couple of years ago a friend told me about a shorty split that was parked
+in a bus garage near my house. The owner of the shorty was a tour coach
+operator hauling people back and forth to the local casino, shopping trips
+to the mall etc..
+I went over and looked at the bus when I first found out about it and came
+home pretty depressed. Here was a '60 Standard that someone had cut the
+center section out of then welded back together. Standard shoretning
+procedure, just take out the doors and weld up the two sections and you have
+an instant 48" wheelbase tall narrow bus, something that would make you
+yearn for the stability of a Ford Bronco or Suzuki Samurai when you turned a
+corner. He and his partner planned on shortening the bus, painting it up
+like one of their motor coaches and running it around in parades as an
+advertisement, but he got on to other things and the old bus has sat in the
+same spot for 12 years or so, with motor coach parts stored on top of it and
+stuff inside.
+Two years ago, when I first saw it I called him at home and he wasn't
+interested in selling it, didn't really even want to talk to me about it, I
+guess I just caught him near the phone.
+
+Thursday night he left me a voice mail "If you're the same guy that was
+interested in my shortened VW bus, please give me a call."
+Well I let a day go by but my curiousity got the best of me and I called him
+back. A short conversation led to an appointment to see the old bus and we
+got together on Saturday afternoon. My wife INSISTED on coming along, for
+obvious reasons I guess, after all, it's three weeks before Christmas, we're
+a little "short" if you'll pardon the term on spending money and the
+driveway is full to the point of me manually rotating the non-running VW's
+in and out of the driveway and street in front of my house to make it look
+as if they're coming and going as casually as any neighbor's daily drivers.
+Arnold (the owner) met us at the garage and as he turned on the lights he
+gave me the story that all of us hears at one time or another,
+"She ran when we parked it here, still has oil in the crankcase, gas in the
+tank, even the battery's still there." In fact, the key was still in the
+ignition. I could see it after several minutes of moving tour bus parts and
+crates out of the way. What I uncovered, when the driver's side was finally
+free was a bus that's had at least the bottom third caked with bondo, and it
+didn't take a handy pocket magnet to find out either.
+This stuff was trowled on in that swirled pattern so popular with stucco
+ceilings. One sliding window was busted, one popout, the remaining window on
+the drivers side was missing entirely, the bumpers are gone, the hubcaps and
+clips, the tires are flat, one wiper is missing, the outriggers on the frame
+are shot through, I could go on and on but you all get the picture. This
+poor beater was crusher bait 15 or so years ago when the two "customizers"
+got to it. Interior's gone, seats are springs and back ones are missing
+entirely, as is the headliner, kick panels and of course the middle two feet
+or so of the bus, let's not forget that.
+I give the bus a good look-over and figure that if he "gives" the bus to me
+there's probably some stuff that could be salvaged before the body is sent
+to the big sleep. After all, there's a motor, small nut tranny, etc. etc. on
+down to the fridge handle door pulls and the 70 mph speedo stuff like that.
+So I ask Arnold, "What would you like to have for it?" He says, "I'd like to
+get just what I've got into it" then a looooong pause and he says  "I'd like
+to get 3" My wife and son, even my seven year old daughter are all
+thinking...3 WHAT?? but not me, nooooo not the George Castanza of the
+midwest, I'm a man of the world, been around the block, you don't need to
+explain anything to me "3" I say Arnold deadpans back to me "3". I look back
+at Arnold "3, 3's good , yeah, 3," (shaking my head) "3, I can believe 3"
+Not having a clue in the world if this old guy actually believes this poor
+thing is worth $3,000.00 as a priceless unfinished masterpiece or if he
+realistically wants to recover a couple of hundred bucks and is ready to
+negotiate down, is it unthinkable that he's going to turn over the title for
+three portraits of Washington?? I am standing here in this dirty garage,
+shaking my head at this old crusty experiment gone awry and muttering "3" as
+if the very sound of the word will draw the remaining sylables from between
+Arnold's stern, pinched lips. "3", the number hangs in the air like a Sesame
+Street episode; "Today's adventure is sponsored by the letters V and W, and
+the number 3."
+Arnold didn't give an inch. I didn't know how to ask which particular
+position in the area to the left of the decimal point Arnold's 3 was
+cemented into. Finally, seeing no way short of actually asking which 3 he
+had in mind I deflected the situation into a "I'll have to get back to you"
+and finally shuffled out the door, family in tow. I shouldn't even call him
+back, but I have this '56 that's in need of most of the stuff that shorty
+still has and if there's any chance that I can drag it home for a reasonable
+amount, well, that will put the '56 closer to the day we spin past Ronald
+Reagan's boyhood home in sublime, aircooled fashion. In the meantime I have
+to find out a way to weasel the answer out of Arnold without making him
+think that 1. He's a lunatic for asking 3K (which he would be). or 2.
+Encouraging him to step up to 3K if he's only got 300 in mind...
+If you're still reading this, don't worry, I'll let you know when I find
+out.
+John Flowers</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F670974" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F670974" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F670974" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

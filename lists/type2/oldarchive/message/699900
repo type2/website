@@ -1,0 +1,315 @@
+<html>
+<head>
+<title>type2 - LiMBO-List artical exchange</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/699900 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/699900" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/699900" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>LiMBO-List artical exchange</h1>
+   <b>limbo_at_bcn_dot_net (Jim Digennaro)</b><br/>
+   <i>1996-01-14 20:35:57+00</i><br/>
+   <br/>
+   <pre>Here's an artical that ran in a recent issue of "The Transporter"  Enjoy!
+
+                                   TRANSPORTERS BY THE TUNNEL
+
+     In the beginning the Universe was created.
+     This has made a lot of people very angry and been widely regarded as a
+bad move. But in 1950 a man invented something called a Volkswagen Type II
+Microbus and the world became a better place.
+     On July 21st and continuing until July 23rd 1995 over 35 of these
+beloved Microbuses, in their many varieties, gathered together for a
+weekend of fun and relaxation.
+     I'm Jim Digennaro, my wife Barbra and I have been running this event
+for two years now.  In case you don't know what Transporters By the Tunnel
+is, let me explain.  Located in the city of North Adams is the Hoosac
+Tunnel, a rail tunnel, about 5 miles long.  Not to far from the tunnel is a
+great little campground named Historic Valley Campground. Closer that you
+think is Mt. Greylock; Massachusetts highest point.  In 1994 I
+thought,'what a great place for a VW campout weekend'.  Being a LiMBO
+officer I persuaded the club to lay out some cash to get things rolling.
+Thats why its listed as a 'LiMBO sponsored campout'.  Of course everyone is
+invited to come out and have some fun either for the weekend, one night or
+just the day. Last year we had about 15 VW's.  This year we had over 35
+VW's, and next year hopefully the turnout will be even better.
+     We arrived Friday afternoon, under cloudy skies, about 1pm.  We were
+pleased to find Jon Hill and his family, had made the trip from Arkron Ohio
+on Thursday had been enjoying the area all day.
+     While setting up we encountered rain, of course. After the brief
+shower the weather cleared and the rest of the weekend weather was great.
+     While the rest of the afternoon breezed by my family and I set up camp
+made a fire and welcomed new arrivals.  Some of the many happy campers to
+make their way to our little get together on Friday, beside Jon hill, was
+Steve Paine in his 93 Euro, Scott snider in his beautiful green 77 camper,
+Rodger and Nancy Welch in their 79 camper, you might know this nice couple,
+they have a heater and an A/C unit mounted in the rear window.  Nevin
+Letcher and his wife made the trip in their 91 camper,  Erwin Goldstien and
+his wife arrived early Friday in their nicely equipped 90 Westy.  LiMBO
+officer Mike Guilfoil and family and President Stan with Ben got in late
+Friday.  There were so many people I could take up the entire page. I'd
+like to thank everyone for coming and I hope to see them all next year.
+     Evening rolled in and site 57 was hopping with people.  Some cooking
+themselves a quick bit to eat on the barbecue, others enjoying the campfire
+and conversation, and everyone was having a good time.
+     More people arrived until late and one show up about 1am.  Grant
+Rutland of Toronto showed up in his new, loaner, Euro-Van Winabago.
+While Grant made the long trek from Canada, he was not the only ones to
+come from the Great White North.  A couple of nice guys, sorry I forgot
+their names, were on an extended vacation from Ontario with their 62
+hardtop deluxe.  My hates off to those guys.  Just goes to show the
+dependably of a Volkswagen.  The longest distance traveled goes to Jon Hill
+and family.  While actual mileage was not tallied, Ohio seams just a wee
+bit farther.  Maybe next year I'll give an award for longest distance.
+     Morning arrived, as it always does, with the familiar sound of those
+sliding doors.  My father was nice enough to pick-up a few dozen fresh
+Nevilles Do-nuts, and I brewed a fresh pot of java.  It's the best part of
+waking up!
+     Most of the day Saturday was spent relaxing.  The warm weather was
+great for hanging out at the beach.  The water was nice and warm and clean.
+About 2pm we got together for a nature hike to the Hoosac Tunnel.  I had
+hope to see a train run though the tunnel but no luck. Funny thing was we
+waited for an hour then after we got back from out hike 3 trains ran
+though. Next year I'll get the train schedule.
+     Saturday night we gathered together again on site 57 for a pot luck
+supper.  What a feast!  Salads, rolls, hot and cold foods, fruit salad, a
+great stew made by my new friend and 'fire starter' Thomas O'shawnasee, and
+a lot more edibles than I can remember.  There was this one dish, kielbasa
+with barbecue sauce and cranberries, yum.  We finished off with some
+birthday cake my mother made for my wifes birthday, happy b-day Barbra.
+Surprise!
+     After dinner we gathered around the fire place and swapped VW stories
+and other interesting tid bits.  I remember seeing the faces of Mark and
+Lesley Henabre, Al Zimmerman, Cornlieous Mead, George Alexander, Thomas
+O'shawnasee, and the late but never misses a outing Dale Ward.  I guess
+we're luck to see Dale at all, I understand he, Steve Paine, and Mike
+Guilfoil got separated for the rest of the group during our hike and lost
+there way.  They did make it back for dinner.
+     As the embers burn away so did the the group.  I saw a lot of
+campfires burning in other sites.  I guess 1am was to early to go to bed.
+These are the times I'll never forget.  Good friends,old and new,
+the young and the old, together having a good time all bound together by a
+common tie, Volkswagen.    I bet those Detroit guys don't have this much
+fun.
+     Sunday morning, sausage and pancake breakfast.  We seemed to have
+enough for everyone, though next year I've got to get back my big frying
+pan.
+      Everyone packed-up and a few people left early.  Some wanted to catch
+a few of the sites before heading home and some had a long trip ahead of
+them.  They unfortunately didn't get a chance to see the top of Mt Greylock
+with us. The view was less than breathtaking , a lot of haze shrouded our
+view.  It still is a cool place, 3291 feet up.
+     A quick bite to eat and we said our goodbye's.  I hope everyone had a
+good time.  I'd like to thank everyone for coming.  I remember everyone's
+face but not always their name.  I would like to thank my father for the
+Do-nuts and mother bringing the cake. Steve for helping me set up and break
+down.  Thomas and Erwin who helped cook breakfast.  I can't forget my
+beautiful bride who puts up with all this, without her I wouldn't be half
+as organized.  My kids, Derek, Angela, and even little Dylan who helped out
+by just being good.
+     Well anyway enough of my rambling. It was a great time and I'm
+planning to do it again next year.  Thanks again to everyone that came out,
+I hope you'll do it again. And to everyone else we'll see you, hopefully,
+next year.  We'll try to make 96 even better.
+
+
+
+                        Keep on Busin' -Jim D</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F699900" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F699900" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F699900" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,311 @@
+<html>
+<head>
+<title>type2 - Shasta Snow Trip Invite</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/896190 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/896190" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/896190" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Shasta Snow Trip Invite</h1>
+   <b>Thom Fitzpatrick <thom(-at-)calweb.com></b><br/>
+   <i>2001-12-25 06:11:11+00</i><br/>
+   <br/>
+   <pre>----- Forwarded message from kombisutra -----
+
+From: "kombisutra" 
+Subject: Shasta Snow Trip
+Date: Mon, 24 Dec 2001 20:51:39 -0800
+
+Mt. Shasta Snow Trip Update
+Mark the calendars, as the second annual Mt. Shasta Snow Trip is fast appro=
+aching!  What's the latest?  Well, for the second year in a row, off-road t=
+ravel over 7000 foot Hull Mt. Road will again be impossible- I tried it a w=
+eek ago and it's NOT passable=
+.  Heavy snows this year have the road covered by as much as 4 feet. Perhap=
+s an adventure trip for the Summer but even then, only for the bold as the =
+road is radically steep and all dirt.  For the uninitiated, this trip is no=
+t entirely relaxed.  The mile=
+s we're covering to get to Mt. Shasta by 10:30pm like we did last year invo=
+lve  BIG TIME DRIVING!  We're slithering through the mountains in the most =
+circuitous manner and doing so requires vigilant effort to keep the speed u=
+p.  As much fun as it may be=20=
+to putter down a remote back road in first gear trying to count how many co=
+ws are actually on your side of the fence, we have to maintain our speed.  =
+Adhering to this guideline will prevent us from getting in too late.  The t=
+rip demands driving skill. fo=
+r hours on end.  Chains.  What about chains?  Assuming we need to use them,=
+ here's the deal. Like everything else in your bundle of contingency equipm=
+ent and supplies, the snow chains are a possible time burner.  Here's Mad M=
+ike's brilliant plan:  Mount=20=
+up your snow chains on a second set of wheels and when needed, just jack an=
+d switch!  My spin on this is that our fine Transporters have clever spring=
+ plates that often are quite close to the tire.  Obtain "pizza cutter" tire=
+s for the rears so as to keep=
+ the chains from rubbing.  Although still a month away, the snow on Shasta =
+pretty much guarantees killer snow boarding and skiing!  Cross country skie=
+rs and snow shoers also have it good.  All gear can be rented at The Fifth =
+Season in downtown Mt. Shasta=
+- walking distance from your motel.  By the way, obtain reservations in adv=
+ance for the cheap motels.  Check out Mt. Shasta on the Web and pull down t=
+he accommodations lists and numbers there.  I forget the name of the place =
+we stayed last year,  but 40=20=
+bucks a night is normal and cheaper is available.  Well, that's all for now=
+.  Send all questions to me and let me know now if you're going or not. Com=
+e on! pack that bus full of lunatics, strap the skis to the rack and let's =
+go!  Road trip!   Happy plann=
+ing!  Brian. kombisutra(-at-)hotmail.com
+=20
+  The second annual Ground Hog Day Snow Trip To Mt. Shasta is leaving Guern=
+eville Ca. (west of Santa Rosa) Friday, Feb. 1st at 0400 hours on Ground Ho=
+g Day weekend for the long, seriously adventurous trip through Northern Cal=
+ifornia's best, deepest and d=
+arkest back-wood roads. Caravan with us through the woods on this second an=
+nual Mt. Shasta Snow Trip for the best bus adventure you've ever been on! D=
+river teams farther north on the route will meet up half way, and those nor=
+th of Mt Shasta are called up=
+on to organize, plan-out and caravan a route as long, adventurous and deman=
+ding as this.  Navigate to: "http://www.sonic.net/~mizamook/Shasta1.htm" fo=
+r Gene's awesome recount of last year's adventure.  This trip is not for si=
+ssies.  Driver teams with end=
+urance, good judgment, mechanical ability and sound machinery will be rewar=
+ded with an adventure unlike any ever experienced before.  Ever been to a c=
+ommunity where the people outnumber the teeth and banjos outnumber the houn=
+d dogs?  Well, as an experien=
+ce, we'll be passing through several.  We're going so far out into the Mend=
+ocino, Trinity, Six Rivers, and Shasta National Forests that people still c=
+arry side arms! Can your excellent bus make the trip? Do you have the mecha=
+nical savvy if you break down=
+ 100 miles deep in the Mendocino National Forest? (If not, don't fear. we d=
+o) Were you smart enough to have left your original heat exchangers in plac=
+e, knowing that being "cool" is not being cold? Have you ever put snow chai=
+ns on because passage over a=20=
+road would otherwise be impossible? You may get the chance.  This adventure=
+ was born from the incredible trek I made across 100 miles of closed, snowe=
+d-in Mendocino mountains two years ago.  The great satisfaction felt with m=
+y simple six volt single cab,=
+ to both keep me warm and slowly power me up an incredibly remote, darkened=
+ mountain pass through snow as deep as 20 inches was something I'll never f=
+orget. The single cab was the first vehicle able to get through the pass in=
+ weeks.  While I don't have t=
+ime to elaborate on specifics right now, Genes website explains much of wha=
+t to expect.  The actual route may change slightly, but expect an exhilarat=
+ing day-long road trip to Shasta leaving the ranch at 0400 hours on Friday =
+(I have unlimited camping spa=
+ce) to return the easy way down interstate 5 on Sunday morning.  Snow skiin=
+g, boarding, shoeing, hiking, ice fishing, train watching, dancing and drin=
+king await the teams in Mt Shasta. Saturday night we'll all cook dinner (mo=
+re fresh fish too!) and party=
+ at the base of the 14,000' mountain, surrounded by snow, moonlight and sol=
+itude just like last year (observe the scene in Gene's video clip in the we=
+bsite of five adults dining in distinct comfort in the fine 66 Sundial).  I=
+'m mailing to all of you as b=
+us drivers to both attend, and, more importantly, spread the word far and w=
+ide. If you don't have the time to do it this year, please post this invite=
+ and pass it on to someone who will, send this thing around!  Like the surv=
+ivalist character of our old=20=
+busses, we're going, and NO WEATHER WILL STOP THE TRIP.  Grab that map and =
+check it out!  Write me with any questions.  Thanks for helping out and hop=
+e to have you and the whole insane team come along!  Contact me at kombisut=
+ra(-at-)hotmail.com for more infor=
+mation. Happy planning! Brain.
+=20
+
+----- End of forwarded message from kombisutra -----</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F896190" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F896190" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F896190" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

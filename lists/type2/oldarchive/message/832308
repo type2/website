@@ -1,0 +1,340 @@
+<html>
+<head>
+<title>type2 - Re: [T2] Jump start blues!</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/832308 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/832308" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/832308" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: [T2] Jump start blues!</h1>
+   <b>"cmeanley" <cmeanley(-at-)pacificcoast.net></b><br/>
+   <i>2001-10-09 04:18:26+00</i><br/>
+   <br/>
+   <pre>Er, never say never, last westy I bought had a red ground wire, went to
+charge the battery and had to look twice. My mind said red=positive, my
+subconcious asked why it was on the wrong side of the battery. Lesson here,
+always question what the po might have done.
+Chuck
+72 westy
+77 riviera
+----- Original Message -----
+From: "Mike Soultanian" 
+To: "ovalwindow" 
+Cc: 
+Sent: Monday, October 08, 2001 8:43 PM
+Subject: Re: [T2] Jump start blues!
+
+
+> RED DOESN'T GO TO NEGATIVE, RED GOES TO PLUS!!!!!!!  Beat that in your
+> head over and over and over!  And then one more time!
+>
+> I think it's probably safe to say that red is always positive, except in
+> some special wiring situations, but more often than not, it is positive!
+>
+> Don't hook it up the other way unless you want to FRY everything.  If
+> you have any radio's or other devices, those are prone to FRY too!!  My
+> friend fried his amp by hooking it up backwards.. that was a costly
+> mistake.
+>
+> The negative terminal should be hooked up to the ground wire.  That is
+> the wire that goes straight to the chassis.
+>
+> And when you hook up an extra jumper battery, you hook + to + and - to
+> -, not the other way.  By doing this, you put the batteries and parallel
+> and increase the amps available to the starter.
+>
+> I'd first hook your battery up the correct way.  Hook up the wiring
+> harness with all the red cables on it (and a big fat (probably black)
+> one that goes to the starter) to the positive(+) terminal and the other
+> braided one that goes to the chassis to negative (-).
+>
+> put in the new one, and test out the voltage at different points in the
+> car.  Fuse box is probably a good place.  You should have 12v on your
+> meter.  This is with the key off.
+>
+> Then try and see if the car will start.  If it does, go and test the
+> voltage again and it should be running at around 13.7 volts.  If it is,
+> your voltage regulator is still working correctly.  If it's higher, then
+> it's not working.  I don't know the reprocussions of having a bad
+> regulator so be careful..
+>
+> I don't how else you'd check your regulator, but I'm sure if I missed
+> something that someone else will chime in.
+>
+> good luck!
+> Mike
+>
+>
+>
+> ovalwindow wrote:
+> >
+> > Hello,
+> >
+> > Lurker named Milo here.  I've got a problem in my '69
+> > Westy that
+> > I probably shouldn't have, but nonetheless - I do...
+> >
+> > I left it at a friend's house for a few weeks, came
+> > back, and the
+> > battery was dead.  Simple enough I thought - I hooked
+> > jumpers up
+> > to it from my car and it started right up.  But as
+> > soon as I unhooked
+> > the jumpers, it died.  This is stange I thought!  So
+> > off I run to the
+> > store, fork over some bread for a new battery, and
+> > think - I hate
+> > buying a new battery but this is simple enough, quit
+> > complaining...
+> > Little was I to know!
+> >
+> > I get back, and notice that the red cable in the back
+> > of my bus is
+> > indeed, hooked up to the negative terminal, and that
+> > when I jump
+> > started it, I had the + from the car hooked up the -
+> > of the bus, and
+> > vise-versa....  Well, that explains why she wouldn't
+> > stay running.
+> > And man, was that battery hot when I took it out of
+> > the bus!
+> >
+> > After second guessing myself a few times, I conclude
+> > beyond a reasonable
+> > doubt that yes - the red should go to the negative
+> > terminal, etc.  Man,
+> > was that hard to do though!  Something about hooking
+> > red up to negative
+> > that really goes against the grain ya know.
+> >
+> > My problem is this.  My red light is now on, and I
+> > seem to recall
+> > somewhere that what I've just done is reversed the
+> > "charge" in the
+> > generator - not sure if that was Muir, Usenet, the
+> > list, etc.  But
+> > I seem to recall reading this.  The archives couldn't
+> > bear this out
+> > however.  Hell, maybe I dreamed it sometime, but it's
+> > my hunch.
+> >
+> > Anyone have any suggestions from previous experience?
+> > Did I fry my
+> > Voltage Regulator, ruin my generator, or just put a
+> > magnetic hex
+> > on the gennie that could be removed by a shop w/ the
+> > right type
+> > of magnet.  Any and all suggestions would be greatly
+> > appreciated!
+> >
+> > Geez, if I'd have just shut the key all the way off
+> > before taking
+> > off that one night none of this would have
+> > happened.... *sighs*
+> >
+> > THANKS!  Milo
+> >
+> > __________________________________________________
+> > Do You Yahoo!?
+> > NEW from Yahoo! GeoCities - quick and easy web site hosting, just
+$8.95/month.
+> > http://geocities.yahoo.com/ps/info1
+> ></pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F832308" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F832308" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F832308" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

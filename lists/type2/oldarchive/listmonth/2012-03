@@ -1,0 +1,3765 @@
+<html>
+<head>
+<title>type2 Mailing List Activity - 2012-03</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/listmonth/2012-03 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/listmonth/2012-03" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/listmonth/2012-03" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+  <div class="panel panel-primary">
+  <div class="panel-heading">type2 - 2012-03</div>
+  <table class="table">
+   <thead><tr><th>Subject</th><th>Date</th><th>From</th></tr></thead>
+   <tbody>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896085">welding class</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-01 19:59:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Guys.I got a gift from my wife for a welding class at a local workshop.
+
+ 
+
+They offer Oxy Acetylene, Stick or Mig Welding.
+
+ 
+
+As purely a hobbyist what do you guys recommend? I have basically never
+welded anything in my life before. I don't think I wo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896065">RE: [VB] welding class</a></td>
+        <td>"Gary Alexander" <gary(-at-)disclosuresave.com></td>
+        <td>2012-03-01 20:15:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Mig is for sure the way to go.
+The units are easy to transport, easy to use.
+Make sure you get a small gas bottle, and if you can just buy one and
+have it refilled whenever you do run out.
+Check with your local welding supply /oxygen supply shop for pricin...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896073">Re: welding class</a></td>
+        <td>jrivers(-at-)globalserve.net</td>
+        <td>2012-03-01 20:17:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Kevin Guarnotta writes: 
+
+> Hi Guys.I got a gift from my wife for a welding class at a local workshop.
+> They offer Oxy Acetylene, Stick or Mig Welding.
+> I  would like to know how to do some basic welding of steel.
+> I'd like to be able to make a frame fo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896078">Re: [T2] Re: welding class</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-01 21:04:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 1 Mar 2012 jrivers(-at-)globalserve.net wrote:
+
+> 
+> Kevin Guarnotta writes: 
+>> Hi Guys.I got a gift from my wife for a welding class at a local workshop.
+>> They offer Oxy Acetylene, Stick or Mig Welding.
+>
+> Kevin, I think you answered the quest...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936506">Re: [VB] welding class</a></td>
+        <td>veewee111(-at-)aol.com</td>
+        <td>2012-03-02 02:26:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code> Hi Kevin,
+MIG welding is what you will need and want for body working.
+E&B...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896121">Re: [VB] welding class</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-02 04:33:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Kevin, I've been welding for 25+ years, learned stick and gas from dad, then
+MIG on my own, and am dinking with TIG now and then now.  In the day most
+people would have said learn gas, cause you can do a lot with it, cut, weld
+thick, weld thin (but note NO...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896130">Nice bus.</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-03-02 04:53:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Guys,
+
+Came across this tonight:
+http://www.tamiyausa.com/product/item.php?product-id=58512
+
+Chris Dreike
+310-214-2175
+
+Scientists seek to understand what is, 
+while engineers seek to create what never was....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896128">Re: [T2] Nice bus.</a></td>
+        <td>"raceingcajun" <raceingcajun(-at-)communicomm.com></td>
+        <td>2012-03-02 15:20:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Nice alright, but $300.00...........WOW! Of course I'm a $19.95 Wal-Mart RC 
+toy for the Grand Kids type. Guess I'm showing my innards. My wire says I'm 
+just a cheap SOB, all I want to spend money on is a 30 year old clunker!
+
+Howard
+
+
+Subject: [T2] Nice ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896096">(No Bus Content) Any list members good with MS Access?</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-02 16:48:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>So figured I'd ask even if I incur the wrath of god.  Spare me David...
+ 
+Anybody on the list good with Access, specifically I need help to OCR an
+already printed out paper form, search it, seize a section of text out of it
+(name, address, phone number con...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896067">re:Welding Class</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-02 17:02:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey guys thanks for all the tips.all but one vote were for MIG. And I think
+the vote against MIG was due to cost. 
+
+ 
+
+To be clear, it is just an intro class about 3-4 hours. If I like it, or
+have continued interest, they have a longer classes I can sign u...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896137">heat exchanger to cylinder head stud</a></td>
+        <td>"Joe Luther" <jluther(-at-)alfons-haar.us></td>
+        <td>2012-03-02 18:03:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey listers -
+
+I took a day off work to finish off the engine for my bus (AW code 1.8
+theoretically rebuilt by PO) and when flipping it over to put on the heat
+exchangers, I noticed that one of the studs is missing.  Not broken off,
+just MIA, plenty of dep...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896058">Re: [T2] heat exchanger to cylinder head stud</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-02 20:31:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Joe,
+
+I can probably scare up a used one to mail.  I think they had gotten
+scarce actually a bit ago, they used to be just $3-4 each or so.  They are
+M8/M9, so I doubt actually that your "screw is loose" just more likely you are
+putting an M8 in there and ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896086">Re: [T2] heat exchanger to cylinder head stud</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-02 20:37:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Whoops, I notice now that CIP page shows out of stock...  German supply shows
+them for $9 each as does Bus Depot, neither specifically states out of stock. 
+If you want me to pull one tonight, give me a holler.
+ 
+N 014 684 1
+ 
+is the
+part again.
+ 
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896114">Heat Exchanger to Cylinder Head stud</a></td>
+        <td>Chris Sheridan <csheridan(-at-)virtual-consulting.net></td>
+        <td>2012-03-02 21:38:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>If I remember right, it's a 'stepped' stud with an 8mm diameter on the nut
+side and a 9mm diameter on the head side, and about 56mm long. But I could
+be totally wrong because the last time I bought one was in the 90s from
+Forum Auto parts in the Bronx. I a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896051">RE: [T2] heat exchanger to cylinder head stud</a></td>
+        <td>"The Bus Depot" <type2(-at-)busdepot.com></td>
+        <td>2012-03-02 21:51:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> Whoops, I notice now that CIP page shows out of stock...
+> German supply shows them for $9 each as does Bus Depot,
+> neither specifically states out of stock.
+
+
+They are discontinued by VW, but we do have 8 on hand.
+
+http://busdepot.com/details.jsp?partn...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896113">Got to love a bus...</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-02 22:30:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>So I will interject a random VW thought as well today.  Just got to love em.
+ 
+Went to the storage unit where I have the '77 Westy garaged, figuring I'd
+better finally (meant to 4 months ago) get around to pulling the battery and
+bringing it back to put on...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896120">RE: [VB] Nice bus.</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-02 23:35:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I want to know when some company is going to produce a model Westy!! All I
+have seen are splitties. Bays are buses too. Wow, what a great slogan!!
+
+Bob Pratt 
+Owned by a '78 Champagne Edition Westy and a '73 SB Sunny
+
+"If the engine start, you're half way ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896054">Re: [T2] heat exchanger to cylinder head stud</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-03-03 00:48:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Shouldn't be that hard to find. When our local VW repair shop was out
+of stock, he sent me to a hardware store down the block that had them
+in stock.
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896133">Re: [T2] welding class</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-03 03:04:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>TIG if you can afford it, MIG otherwise. Gas is nice and versatile but 
+it requires the most work to get good at. Stick is nice but only suited 
+to thicker materials.
+
+I have a Lincoln Sp-180T at home, LincolnSP-180C at work, Lincoln 225 
+stick/TIG at work...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896122">Re: [T2] welding class</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2012-03-03 03:20:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Joseph Average quoth:
+
+>TIG if you can afford it, MIG otherwise. Gas is nice and versatile 
+>but it requires the most work to get good at.
+
+
+	I want to point to the Henrob gas torch.  It uses oxygen & 
+acetylene, but less than an ordinary torch (paying for...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896056">RE: Heat Exchanger to Cylinder Head stud</a></td>
+        <td>"Joe Luther" <jluther(-at-)alfons-haar.us></td>
+        <td>2012-03-03 14:47:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks to some list members' suggestions, I was able to find one on
+airheadparts.com.
+
+ 
+
+They aren't cheap, but they are out there and if the web site description is
+correct and it is the correct stud, the stud is the format below for the 1.8
+
+ 
+
+Joe
+
+ ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896105">Re: [T2] RE: [VB] welding class </a></td>
+        <td>dan(-at-)geer.org</td>
+        <td>2012-03-03 17:30:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>September 2001 Popular Mechanics rated welders (page 122-123)
+
+3.5	Northern Industrial MIG 135 $334
+3.5	Campbell Hausfeld Pro-140 WB3090 $370
+4.0	Eastwood MIG 135 $340
+4.5	Hobart Handler 140 $666
+5.0	Lincoln Electric Power MIG 140C $664
+5.0	Miller 211 Auto...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896089">Re: [T2] RE: [VB] welding class</a></td>
+        <td>"Joe St.Croix" <spotop(-at-)gmail.com></td>
+        <td>2012-03-03 17:50:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>lets remember the question was what class to take, not what machine to buy.
+In my opinion, taking a mig class is like taking a class on how to ride a
+bike.
+its just that easy.
+Or it was for me..Id take the oxy/acetylene or stick class, and buy a mig.
+but I...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896135">RE: [T2] RE: Heat Exchanger to Cylinder Head stud</a></td>
+        <td>"Joe Luther" <jluther(-at-)alfons-haar.us></td>
+        <td>2012-03-03 17:56:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I would like to apologize for missing most of the responses to my post.  
+
+I haven't quite gotten Outlook retrained on where to put responses from the
+list and not to consider them as spam.   I'll continue to work on training
+and look in more places next t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896139">Re: [T2] RE: [VB] welding class </a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-03 17:57:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sat, 3 Mar 2012 dan(-at-)geer.org wrote:
+
+> September 2001 Popular Mechanics rated welders (page 122-123)
+.
+> 5.0	Lincoln Electric Power MIG 140C $664
+> 5.0	Miller 211 Auto-Set $1279
+>
+> There's more, including the comment that rating a Miller
+> against...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896080">Re: [T2] RE: [VB] welding class</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-03 21:44:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Actually $250 for a Miller, a used 2-3 times 135 with a real Miller helmet no
+less, and a near new small tank of argon/CO2 blend, and in AK, no less. 
+Hobarts are much cheaper than the equivalent Miller new and used.  I'm not
+doubting I did extremely well,...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896087">Re: [T2] re:Welding Class</a></td>
+        <td>Ned Savoie <ned(-at-)harbourlight.com></td>
+        <td>2012-03-04 03:33:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey Kevin,
+
+Having been in your situation, somewhat, I took a welding class years ago.
+It was focused much more towards someone looking to get into the vocation.
+I welded lots of stuff together with a stick welder, and it was good to
+learn, but when I told...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896088">Stars and Stripes Sunday </a></td>
+        <td>Kevin Inmon <kinmon.geo(-at-)yahoo.com></td>
+        <td>2012-03-04 05:01:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>List,
+Today it shows in the Star and Stripes that Mexico City is retiring the
+VW 'Bug" taxis as of Friday. The article said in 2006, there were 50,000
+of our beloved Bug roaming the streets of Mexicao City.. Today there less than
+3500..Humm were are the ot...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896064">Bad SVDA dizzy, high idle, poor braking</a></td>
+        <td>Chris Slaymaker <nurofiz(-at-)knology.net></td>
+        <td>2012-03-04 12:50:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>So here's how everything has flushed out.
+
+A while back, I posted to the list about my idle being too high and finding
+that when setting my timing at 28 degrees full advance, that it would settle
+back to only 15 degrees at "idle."
+
+Thanks to the wisdom of ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896045">Re: [T2] Bad SVDA dizzy, high idle, poor braking</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-03-04 23:32:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 3/4/2012 4:50 AM, Chris Slaymaker wrote:
+> So I went and got a rebuilt brake booster.  Now all is right with the world.
+> My braking has improved, my idle can be adjusted, and I put my old 009 back
+> in.  Does anybody want to buy the SVDA?
+
+Remember, an...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896070">Re: [T2] Bad SVDA dizzy, high idle, poor braking</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-03-04 23:34:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 3/4/2012 3:32 PM, Mike Soultanian wrote:
+> Remember, an SVDA is just an 009 with a vacuum advance, so open it up,
+> clean out the mechanical advance (if it is in-fact not-functional), and
+> you'll have a much better driving engine. Go a step further and...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896124">Re: [T2] RE: [VB] welding class</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-05 15:08:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey i've used the Lincoln 180C continuously to layer up steel to machine 
+a new thicker surface.
+
+I welded for 10 mins with .035 wire and no problems. I have a friend 
+that said he overheated his once welding the chassis together on a kit car.
+
+For an amat...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896062">Re: [T2] welding class</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-05 15:14:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 03/02/2012 09:20 PM, Robert Mann wrote:
+>   I want to point to the Henrob gas torch. 
+
+Gas is sweet but the challenge I had was learning to control the heat. I 
+tended to cook anything I tried to weld. Just takes practice. Helps to 
+have someone around ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896108">re:Welding class</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-05 18:55:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Well I went with the MIG class, and took it this past weekend. It was pretty
+basic. Really a very intro class. The instructor spent a good 1/3 of the
+class discussing safety issues. I think safety issues are important, but he
+was going over safety issues o...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896083">Re: [T2] re:Welding class</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-05 19:32:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Probably a dead horse at this point but:
+
+Yeah fluxcore welding is a MIG welder without gas. The machine might 
+have the attachments to add gas or not.
+
+  In the center of the wire is a flux much like the flux on the outside 
+of a welding rod for a stick w...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896129">Re: [T2] re:Welding class</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-05 19:34:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Kevin, "flux core" kits aren't usually worth the converting, most of the time
+you should go the other way round and simply get a MIG and can then always run
+flux core if you like.  Usually the "converting" costs more than saving and
+buying the MIG first.  ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896143">Re: [T2] re:Welding class</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-05 19:35:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>  A correction - flux cored wire comes in .045 - not .035 last I 
+checked. Long ways from .023 and .025 huh?
+
+Chris in TN...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896107">fan spacer thickness on AW 1.8</a></td>
+        <td>"Joe Luther" <jluther(-at-)alfons-haar.us></td>
+        <td>2012-03-05 20:14:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Folks -
+
+Another thing my "complete" engine did not include was the thin spacer
+between the fan and the crankshaft snout that allows the fan to clear the
+inner half of the housing.  Does this spacer have a fixed/common thickness
+or is it a matter of "whate...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896102">Re: [T2] fan spacer thickness on AW 1.8</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-05 20:35:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Joe I'd have to go and find and measure but it isn't "shim" thickness per se
+(at least what I usually think of that) as that can alternatively be the A/C
+pulley flange as well.  Off top of my head, I'd say somewhere from
+0.030-0.050" and I'd be leaning tow...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896140">Re: [T2] fan spacer thickness on AW 1.8</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-05 20:38:11+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>You can get an idea how thick the pulley at least is, looking at this samba
+add picture, but like I say the shim seems a bit thinner to me in all
+likelihood, though they could certainly be the same.
+ 
+http://images.thesamba.com/vw/classifieds/pix/3668999.j...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896090">Re: [T2] re:Welding class</a></td>
+        <td>Rob <becida(-at-)comcast.net></td>
+        <td>2012-03-05 21:03:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Somewhere I saw an 'on-line' welding class, you just need to supply 
+the welder & the material to learn on. I do not recall where it was...
+
+Rob
+becida(-at-)comcast.net
+
+
+At  3/5/2012 11:34 AM, John Anderson wrote:
+ >>Sorry to hear the guy prattled on more...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896079">Re: [T2] re:Welding class</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-06 00:07:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have a smashweld180 Esab MIG, with a tweco gun.. and I weld into 200amps,
+at about 24v doing the 5/8" and 1/4" ... but those welds are only 2" long,,
+once i tacked a trailer together ,, all 10awg steel.. and then proceded to
+zip along the 6ft seam.
+That ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896138">Re: [T2] re:Welding class</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-06 02:27:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 03/05/2012 06:07 PM, Jamie wrote:
+> I did smell that coming tho! ..  If you weld
+> in a reflective area.. you can burn the back of your ears... but that is
+> mosty in a production environment.
+I hear good things about the ESABs. Never thought of burning...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896066">Re: [T2] fan spacer thickness on AW 1.8</a></td>
+        <td>Kris Hansen <sailorkh(-at-)sbcglobal.net></td>
+        <td>2012-03-06 03:49:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have both a fan spacer and an air conditioner pulley.  I can go out to the
+storage locker tomorrow and measure both and let you know.
+________________________________
+
+. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936468">re:Welding class</a></td>
+        <td>Joseph Clark <jsclarkfl(-at-)gmail.com></td>
+        <td>2012-03-06 04:53:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have a Millermatic 135 that runs on 110VAC and it's been plenty for
+the welding I needed to put my vert back on the road -- mostly
+replacing panels. Welding thin sheet metal is definitely something
+that takes practice so you don't end up blowing holes or...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896093">Turn signal switch problem.  71 bay T2</a></td>
+        <td>OKearney <o_sconet(-at-)yahoo.com></td>
+        <td>2012-03-06 06:37:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I messed with the turn signal switch and some wires snapped off.
+Anyone worked with this recently or have a pic of the circuit board?
+
+JnOK
+71 westy
+www.TheThinkingSport.com...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896118">RE: [VB] re:Welding class</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-06 14:11:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Auto darkening helmet are really the way to go. It keeps you from snapping
+your head every time you want to start to weld. If you know of a local body
+guy, ask him if you can have a fender or hood to practice on. My problem has
+been grinding off too much w...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896063">Re: [T2] RE: [VB] re:Welding class</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-06 15:40:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 6 Mar 2012, Bob Pratt wrote:
+
+> Auto darkening helmet are really the way to go. It keeps you from snapping
+
+AMEN
+
+> been grinding off too much weld and having to reweld  the thing again.
+
+an old guy once told me you can tell how good a weldor someo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/896127">re:Welding class</a></td>
+        <td>j syder <scintilla_22(-at-)yahoo.com></td>
+        <td>2012-03-06 18:35:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have the privilege of working in the shop of one of the premier welders here
+and asked him about the switching moment on auto darkening helmets.  I.e.
+whether he was worried about being flashed.  His response was that he had
+trained himself to blink at t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859306">BugPack Products</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-06 20:40:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Does anyone know if Bug Pack Products are still in business? I followed a
+link form Ratwell.com who said that this company sold bushings for the sway
+bars. There is no way of buying anything on that site or ordering a catalog.
+
+Bob
+
+Owned by a '78 Champagn...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859372">Turn signal switch problem.  71 bay T2</a></td>
+        <td>OKearney <o_sconet(-at-)yahoo.com></td>
+        <td>2012-03-06 23:57:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Anyone have a copy/photo of the circuit board for the 71 bay turn  
+signal switch (not wiring diagram) ?  I am looking for the S contact  
+point for the brown/white wire.
+
+JnOK
+71 westy...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859335">Re: [T2] BugPack Products</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-07 00:18:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>did you try the website..?
+
+http://www.bugpack.com/
+
+http://www.deeeng.com/
+
+----- Original Message ----- 
+From: "Bob Pratt"  Does anyone know if Bug Pack Products are still in business? ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859349">Re: [T2] fan spacer thickness on AW 1.8</a></td>
+        <td>Kris Hansen <sailorkh(-at-)sbcglobal.net></td>
+        <td>2012-03-07 01:38:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Original fan hub spacer measured out at 1.934mm / 0.07615in
+
+A/C Pulley
+measured out at 3.15mm / 0.12400in
+
+Hope this helps
+________________________________
+....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859319">Turn signal switch problem.  71 bay T2 / SOLVED</a></td>
+        <td>OKearney <o_sconet(-at-)yahoo.com></td>
+        <td>2012-03-07 04:22:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Solved = thank you everyone for help.  I shall post links in a day or  
+two.
+
+JnOK
+71 westy...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859350">RE: [T2] fan spacer thickness on AW 1.8</a></td>
+        <td>"Joe Luther" <jluther(-at-)alfons-haar.us></td>
+        <td>2012-03-07 11:42:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thank you!  We have rolls of plastic and metal shim stock from .030" down to
+.0002" so I can come up with something.
+
+-----Original Message-----
+From: Kris Hansen [mailto:sailorkh(-at-)sbcglobal.net] 
+Sent: Tuesday, March 06, 2012 8:39 PM
+To: Type2 list
+Su...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859288">Re: [T2] BugPack Products</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-03-07 12:45:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>If all you're looking for is bushings, go to their companion site:
+
+http://prothane.com/
+
+You can download or order a catalog from the site and they have a
+dealer list/links as well.
+
+Dee Engineering hasn't really kept their regular website updated, so
+the...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859337">Missing your alternator cover?</a></td>
+        <td>bretski <bretski(-at-)wdemail.com></td>
+        <td>2012-03-07 14:42:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I just saw this on another ACVW site, and wanted to pass it along, as I 
+know *many* bus pilots out there are missing this important piece. 
+Kudos to Airhead Parts for supplying this reproduction!
+
+http://www.airheadparts.com/vintage-vw-parts/new-this-mont...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859379">Missing alternator cover</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-07 16:22:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>That's cheap money to keep as much dirt and grease out of areas where it
+isn't suppose to be. It would be nice if someone would reproduce the cover
+that fits over the generator/alternator. I have one, but the tab that fits
+over a bolt broke off. It wasn't ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859354">RE: [T2] Missing alternator cover</a></td>
+        <td>"The Bus Depot" <type2(-at-)busdepot.com></td>
+        <td>2012-03-07 16:39:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> That's cheap money to keep dirt and grease out of areas where it
+> isn't suppose to be. It would be nice if someone would reproduce
+> the cover that fits over the alternator.
+
+
+Your timing is excellent ... repros have just became available!
+
+http://busde...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859322">RE: [T2] BugPack Products</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-07 16:52:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Jim!!
+
+Thanks for the info. I also found cold air intakes that are suppose to fit
+in the beetle.
+
+Bob
+Owned by a '78 Champagne Edition Westy and a '73 SB Sunny
+
+-----Original Message-----
+From: Old Volks Home [mailto:oldvolkshome(-at-)gmail.com] 
+Sent: ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859353">Re: [T2] Missing alternator cover</a></td>
+        <td>Max Bronsema <max.bronsema(-at-)gmail.com></td>
+        <td>2012-03-08 00:42:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>---
+Your timing is excellent ... repros have just became available!
+
+http://busdepot.com/details.jsp?partnumber=02111929501C
+
+---
+Now what does this cover actually do? Is it useful for those of us who
+have converted from generators to alternators? Thank yo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859348">Re: [T2] Missing alternator cover</a></td>
+        <td>jules <jules.herr(-at-)gmail.com></td>
+        <td>2012-03-08 00:53:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It covers the opening for the alternator adjustment nut on the type iv
+engines. I believe it prevents the re circulation of hot gases back
+into the engine compartment and cooling air streams. No analogous
+equivalent for the type I engine. This is great new...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859339">Re: [T2] Missing alternator cover</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-08 01:11:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I thought all type IV engines had alternators.
+this covers the hole you access to adjust belt tightness between the fan 
+and the alt.
+
+
+
+On Wed, 7 Mar 2012, Max Bronsema wrote:
+
+> ---
+> Your timing is excellent ... repros have just became available!
+> http...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859341">headlight assembly</a></td>
+        <td>Ric Jablonski <ricjablonski(-at-)gmail.com></td>
+        <td>2012-03-08 14:03:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Trying to reconstruct the 71 camper. All the little screws in the
+assembly are rusted and frozen ( and I have 2 sets). They look too
+small to drill without destroying them . Anyone have ideas or have
+some rust free available?
+
+Ric...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859309">RE: [T2] headlight assembly</a></td>
+        <td>"Joe Luther" <jluther(-at-)alfons-haar.us></td>
+        <td>2012-03-08 14:34:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Did you try PB Blaster?  That stuff is golden for getting stuck fasteners
+loose and I've spent a lot of time in Ohio junkyards tearing apart rusted
+Rabbits.  Once it even got some rusted brackets bolts loose on the
+undercarriage of a rotted out Mk3 Jetta. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859290">Re: [T2] headlight assembly </a></td>
+        <td>dan(-at-)geer.org</td>
+        <td>2012-03-08 14:44:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I use a product that is called "Pipe Break" which I only
+know how to get by going to the biggest plumbing supply
+place in this territory (for Bostonians, I'm speaking
+of Watertown Supply).
+
+I googled for a product description and found this:
+
+http://www.sl...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859355">TTAC on the Type II</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-08 16:22:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Might spark conversation here and give you guys to call bull on a few 
+folks who are talking with parts other than their mouths and minds. 
+Maybe someone lives near there and needs parts?
+
+http://www.thetruthaboutcars.com/2012/03/junkyard-find-1978-volkswa...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859293">Re: [T2] TTAC on the Type II</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-08 17:38:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 8 Mar 2012, Joe Average wrote:
+
+> Might spark conversation here and give you guys to call bull on a few folks 
+> who are talking with parts other than their mouths and minds. Maybe someone 
+> lives near there and needs parts?
+
+shame I don't live ne...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859370">Missing your alternator cover?</a></td>
+        <td>J Stafford <sunbus(-at-)sbcglobal.net></td>
+        <td>2012-03-08 18:45:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>bretski  wrote:
+> I just saw this on another ACVW site, and wanted to pass it
+> along, as I know *many* bus pilots out there are missing this 
+> important piece. 
+> Kudos to Airhead Parts for supplying this reproduction!
+> http://www.airheadparts.com/vinta...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859297">This Day in History</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2012-03-08 21:13:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Welcome to the 
+THIS 
+DAY IN HISTORY daily email from 
+History.com
+
+----------------------------------------------------------------------------------------------
+March 8:
+
+
+Automotive
+
+1950 : VW bus, icon of counterculture movement, goes into production
+ ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859310">headlight assembly</a></td>
+        <td>Chris Slaymaker <nurofiz(-at-)knology.net></td>
+        <td>2012-03-09 01:31:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Of which screws do you speak?
+
+I have a couple of headlight buckets.  The adjusting screws are just fine.
+
+Those little screws that hold the headlight bulb ring onto the bucket are a
+PITA.  I think half of mine are stripped out (the phillips head part).
+
+I...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859320">Re: [T2] headlight assembly</a></td>
+        <td>courtney hook <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-03-09 02:05:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I just drill them little buggers out, and put in good Canadian Roberts head screws with the appropriate sized tap for the bucket side of the assembly. Did I mention that copper antisieze is your friend too? :-)
+Courtney...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859333">Re: [T2] headlight assembly-self tapping Roberts head</a></td>
+        <td>"Courtney Hook" <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-03-09 03:38:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The original size of the metric threaded ring assembly screws is probably 4mm,
+but I replace them with self tapping machine screws, (pardon to all the
+purists; I know I'm going to VW hell )  :-) I'm going to make an educated
+guesstimate and say it's a #4 s...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859287">Early Bay Tail Light Reflectors</a></td>
+        <td>Mister C <emcrites(-at-)msn.com></td>
+        <td>2012-03-09 06:54:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Has anybody had their tails successfully re-plated?  Did you have them nickel
+plated?
+Eron...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859286">RE: [T2] Early Bay Tail Light Reflectors</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-09 13:29:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I didn't know you could do that!!
+
+Bob
+Owned by a '78 Champagne Edition Westy and a '73 SB Sunny
+
+-----Original Message-----
+From: Mister C [mailto:emcrites(-at-)msn.com] 
+Sent: Friday, March 09, 2012 1:54 AM
+To: type 2
+Subject: [T2] Early Bay Tail Light R...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859361">right brake light troubleshooting 78 Westy</a></td>
+        <td>Joe Priestley <joepriestley(-at-)gmail.com></td>
+        <td>2012-03-09 19:34:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>This is my first question to the group and I've looked through the archives
+in hopes of not bothering anyone.  I recently acquired a 78 Westfalia and
+all lights appear to work fine except for the right brake bulb.  The marker
+and brake light (both on the s...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859338">RE: [T2] right brake light troubleshooting 78 Westy</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-09 20:11:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Start from the light and go backwards. Check to make sure there are no
+broken wires as the wiring sometimes break or the connectors disintegrate
+and fall off and sure the connections are clean and mechanically sound. Some
+contact cleaner sprayed on the cop...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859284">Westie Bay "dummie" window</a></td>
+        <td>"Tom Ward" <tward(-at-)twcny.rr.com></td>
+        <td>2012-03-09 21:34:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I am looking for ideas on what to do with the treatment for the window that
+is behind the cabinet on the rear passenger side of our vehicles.  I know
+the factory solution was to use the same fabric as the curtains but I am
+looking to do something a little ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859315">: [T2] Westie Bay "dummie" window</a></td>
+        <td>"Neal F. Jarvis" <njarvis(-at-)leaders.org></td>
+        <td>2012-03-09 21:39:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My wife made the curtains for our bus.
+
+I put the same curtains in that window just to have a balanced look to the
+outside of the bus.
+
+
+Neal
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859329">Re: [T2] right brake light troubleshooting 78 Westy</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-09 22:58:58+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>----- Original Message ----- 
+From: "Joe Priestley"
+
+
+> .  I recently acquired a 78 Westfalia and
+> all lights appear to work fine except for the right brake bulb.  The
+marker
+> and brake light (both on the same dual filament bulb) will not come on and
+> I...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859299">re:Westie Bay "dummie" window</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-09 23:23:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I think the window in my '65 kombi has a similar situation. The window is in
+a closet. I made a curtain like the other windows on the bus. The problem
+with this solution-the fabric is clearly showings the effects of UV
+radiation.
+
+ 
+
+Not sure of a better s...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859282">Re: [T2] right brake light troubleshooting 78 Westy</a></td>
+        <td>"Jeffrey J. Westcott" <hull3551(-at-)yahoo.com></td>
+        <td>2012-03-09 23:42:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>In my '67, I had the same problem when the shifting battery damaged the lampholder....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859363">RE: [T2] right brake light troubleshooting 78 Westy</a></td>
+        <td>Jim Konzelman <jkonzelman(-at-)gsc.edu></td>
+        <td>2012-03-10 00:17:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Check to contacts at the bulb, I find that with corrosion etc, that is always
+the first place to look....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859330">Westy Bay "dummie" window</a></td>
+        <td>Richard Jack <richardhjack(-at-)yahoo.com></td>
+        <td>2012-03-10 02:22:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>How about painting it.  I use to run a aquarium service company.  We would
+paint the back of the aquariums for the background. It lasted very well, even
+with saltwater.  I had a customer once paint a design(backwards) first.  I
+then came back a sprayed tha...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859285">RE: [T2] Westy Bay "dummy" window</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-10 14:58:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I thought I was been funny!!
+
+Bob
+Owned by a '78 Champagne Edition Westy and a '73 SB Sunny
+
+-----Original Message-----
+From: Richard Jack [mailto:richardhjack(-at-)yahoo.com] 
+Sent: Friday, March 09, 2012 9:23 PM
+To: type2(-at-)type2.com
+Subject: [T2] Wes...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859314">Re: [T2] Westy Bay "dummie" window</a></td>
+        <td>Mike <manikmike(-at-)gmail.com></td>
+        <td>2012-03-10 15:01:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have been looking at those decorative window films you can find at Home
+Depot/ Lowes - keyword this for an example:Artscape 24 in. x 36 in. Bamboo
+Decorative Window Film...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859369">RE: [T2] Early Bay Tail Light Reflectors</a></td>
+        <td>Mister C <emcrites(-at-)msn.com></td>
+        <td>2012-03-10 17:08:11+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I don't know that it has been done or not yet.  I'm still looking into having
+it done locally.  If I can ship them to a reputable plater I will though.
+Eron
+
+> I didn't know you could do that!!
+>
+> Bob
+> Owned by a '78 Champagne Edition Westy and a '73 SB ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859364">RE: [T2] Early Bay Tail Light Reflectors</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-10 17:09:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sounds good. Maybe the idiots behind you will see you before they rear end
+you bus!!
+
+ 
+
+Bob
+
+Owned by a '78 Champagne Edition Westy and a '73 SB Sunny
+
+ 
+
+  _____  ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859312">Re: [T2] Early Bay Tail Light Reflectors</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-03-10 17:23:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Did you mention nickel plating in the previous post? That also makes a 
+great reflective surface.
+On the cheap, sand smooth and spray with aluminum paint or one of 
+those really shiny metalic rattle can colors.
+
+Chris
+
+Scientists seek to understand what is...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859347">RE: [T2] heat exchanger to cylinder head stud</a></td>
+        <td>"Joe Luther" <jluther(-at-)alfons-haar.us></td>
+        <td>2012-03-10 20:14:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks to all, I now have some studs in hand.  I used plural because I have
+discovered one other stud was not threaded far enough to allow the nut to
+bottom out on the manifold so it jammed on the stud.  When I loosened the
+nut, it backed the stud out of t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859332">buy generator for my bus</a></td>
+        <td>Jed Wubben <jed_wubben(-at-)yahoo.com></td>
+        <td>2012-03-10 20:33:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I was thinking about buying a generator for my bus when I go camping. Does
+know anything about this one:
+http://www.harborfreight.com/engines-generators/gas-engine-generators/800-rat
+ed-watts-900-max-watts-portable-generator-66619.html
+ 
+it looks small,
+ch...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859374">Re: [T2] buy generator for my bus</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-10 20:45:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>well,, a 2 stroke at 3600 rpm is going to be like a weed eater wipper
+snipper annoying!
+lol
+
+but for $89 !!!   not even worth tuning mine up!
+
+If I was a camper beside you,, I 'd hate you with that generator!
+see if you can find a deal on a whisper quiet i...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859295">RE: [T2] buy generator for my bus</a></td>
+        <td>"Mike Jackson" <mike(-at-)cfnson.com></td>
+        <td>2012-03-10 20:56:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> I was thinking about buying a generator for my bus when I go camping. Does
+know anything about this one: [Harbor Freight #66619]
+
+I just bought two of them at the local Harbor Freight store.  I wanted an
+inexpensive way to power the fridge and freezer du...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859313">RE: [T2] buy generator for my bus</a></td>
+        <td>mike begley <spam(-at-)hell.org></td>
+        <td>2012-03-10 21:25:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> If I could buy anything I wanted, I'd get a Honda 2000 or 5000 watt
+portable.
+> A friend has one of the 2000W units.  Incredibly quiet and just enough to
+run
+> both my fridge and freezer together (proved during a recent power failure.)
+
+I have one of the...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859344">Re: [T2] buy generator for my bus</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2012-03-11 15:09:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I think this is a very important point.  Generators can be pretty annoying,
+and a cheap 2-cylce is going to make for some unhappy neighbors, even if
+you run it for only and hour or two a day. This would appear to go against
+the ethos of camping in general ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859336">Re: [T2] buy generator for my bus</a></td>
+        <td>Mike Benthin <muts(-at-)verizon.net></td>
+        <td>2012-03-11 16:05:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Yamaha EF1000is is very quiet and light-we have one-bought for business 
+power failure backup for computers. It is an inverter generator that 
+runs at lower rpms when load is light, as I believe does the Honda. They 
+are ~$800  I would check if the cheapie...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859342">Re: [T2] re:Westie Bay "dummie" window</a></td>
+        <td>"Neal F. Jarvis" <njarvis(-at-)leaders.org></td>
+        <td>2012-03-12 13:06:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Actually My all of my rear windows are tinted black.
+This was done many years ago by a previous owner.
+It still seems to be in ok shape though there are a few bubbles.
+
+
+Neal
+
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859380">Re: [T2] buy generator for my bus</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-12 14:45:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'll second or third or fourth the Honda inverter generators. I have a 
+1000W version and it is really quiet. I especially like the automatic 
+throttle back off at low loads.
+
+I attend university engineering races several times per year and it's a 
+whole w...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859291">Re: [T2] buy generator for my bus</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-12 14:47:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>FWIW the little Honda/Yamaha inverter generators advertise ~65 dB noise 
+levels. Those little $150 Asian generators with the two cycle engines 
+are intriguing though. Use them where you didn't worry about something 
+happening to them.
+
+Chris...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859307">Re: [T2] buy generator for my bus</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-12 15:26:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Mon, 12 Mar 2012, Joe Average wrote:
+
+> I'll second or third or fourth the Honda inverter generators. I have a 1000W 
+> version and it is really quiet. I especially like the automatic throttle back 
+> off at low loads.
+>
+> without a noisy ginny. The bes...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859298">Re: [T2] buy generator for my bus-use of coach batteries</a></td>
+        <td>Mike Benthin <muts(-at-)verizon.net></td>
+        <td>2012-03-12 15:37:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It's heresy, but we bought a Roadtrek van camper with only 65K miles for 
+$10k, to go for more reliable/faster distance and mountanous travel. Our 
+readtrek has a Onan 2800 watt generator, very compact (16 x20 x12"), not 
+too noisy, byt thet cost over 2 gr...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859323">Re: [T2] buy generator for my bus</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-12 16:48:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 03/12/2012 10:26 AM, accessys(-at-)smart.net wrote:
+>
+> .
+> am Boy Scout (now leader) don't take generators camping with the kids.
+> .
+> .
+
+We're doing Boy Scouts too. Fun bunch. We do have some parents who can't 
+get with the program. I walked out of t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859303">naturalbus rafflebus</a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-03-12 16:51:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>hey guys this years rafflebus is a sage green 78 westy , fresh paint,  runs 
+well, new pop top seals from bus depot tickets are $10 each gotten thur  
+salem import service 1113 flordia st salem va 24153 ticket does not have  
+to be present to win _www.natu...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859311">Re: [T2] buy generator for my bus</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-12 17:32:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>oh buses are the troop trucks, the number of backpacks that a bus can hold 
+is legendary.
+
+one trip some years ago at a camporee we got hit by a toranado, was one 
+of the worst experiences of my life, one kid was killed in a friends 
+troop, the kid was in ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859316">Looking for metal fuel line pipes for a 78/79 bus</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-03-13 01:21:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Does anyone have the metal fuel pipes that run to/from the fuel tank? 
+I'm helping someone with their bus and it looks like they're missing those.
+
+thanks!
+Mike...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859359">Re: [T2] Looking for metal fuel line pipes for a 78/79 bus</a></td>
+        <td>Andy McKinley <airhedz(-at-)gmail.com></td>
+        <td>2012-03-13 04:39:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Mike,
+
+Mine are hose,. Maybe I'm not getting it. Are you talking about the pipes
+that actually enter the fuel tank? Fuel tank to fuel pump? (hose)Fuel pump
+to fuel rail? (hose) Fuel rail? Return line? Hose)
+
+On Monday, March 12, 2012, Mike Soultanian 
+wrot...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859368">Re: [T2] Looking for metal fuel line pipes for a 78/79 bus</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-03-13 04:47:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 3/12/2012 9:39 PM, Andy McKinley wrote:
+> Mine are hose,. Maybe I'm not getting it. Are you talking about the
+> pipes that actually enter the fuel tank? Fuel tank to fuel pump?
+> (hose)Fuel pump to fuel rail? (hose) Fuel rail? Return line? Hose)
+
+On the...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859366">Car Show this Saturday!</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2012-03-13 14:58:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Howdy All,
+
+If any of you listees are located in Colorado, there is a small car show
+happening on Saturday. No entry fee, just show up an hour early and fill
+out a form. It is to support my kid's school and is evidentially getting to
+be a popular show sinc...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859334">Re: [T2] buy generator for my bus</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-13 16:15:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jed,
+ 
+The sell that one locally (with different color) at O'Reilly and
+several other places, I've been told people have real variable luck (like
+running only 50-100 hours or so before death) with them so...
+ 
+ I'd put my
+vote for a Kipor ripoff of a Honda...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859305">Re: [T2] buy generator for my bus</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-13 18:04:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 03/12/2012 12:32 PM, accessys(-at-)smart.net wrote:
+>
+> we all went to the scouts funeral a couple days later he was laid out 
+> in his uniform, with his freshly earned but not yet awarded 2nd class 
+> emblem sewn on.  every troop there was given a blac...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859375">FI intake manifold hose couplings</a></td>
+        <td>j syder <scintilla_22(-at-)yahoo.com></td>
+        <td>2012-03-13 18:52:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>These look interesting as a replacement for the rubber hoses on the intake manifold.
+
+http://www.verociousmotorsports.com/Shop-by-Category/Silicone-Couplings/Silicone-Couplings-3-Ply-3-Long
+
+jon...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859296">battery disconnect</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-13 22:06:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I just wanted to update on the battery disconnect. I think I already told
+you all I got one for my '69, but I just put one into my '65 as well. I like
+this unit, feels pretty substantial, not cheap feeling. Cost less than $30.
+
+ 
+
+Here are some pics.
+
+http...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859324">1971 steering box</a></td>
+        <td>Ric Jablonski <ricjablonski(-at-)gmail.com></td>
+        <td>2012-03-14 01:11:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I was putting on the bumper today and got a look at the part above the
+steering box. The rubber part that connects things has cracks and
+looks unsafe. Also these nuts are rusted more that any part on the
+bus. Any ideas?
+
+Feeling down....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859352">Re: [T2] 1971 steering box</a></td>
+        <td>Kris Hansen <sailorkh(-at-)sbcglobal.net></td>
+        <td>2012-03-14 01:19:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://www.airheadparts.com/vintage-vw-parts/steering-shaft/coupler-steering-shaft-oe-german-211415417
+
+
+http://www.blastercorporation.com/PB_Blaster.html
+
+Hope this helps....And don't worry, be happy!
+
+________________________________
+I was putting on the...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859289">Re: [T2] 1971 steering box</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-03-14 01:54:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The rubber thing is called the steering coupler. I just replaced mine,
+as well as the whole steering box.
+I thought also that I saw a big crack in the steering coupler, but it
+turned out that what I thought was a crack was a seam which is a valid
+part of t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859351">Re: [T2] 1971 steering box</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-03-14 03:28:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>In my case, the steering gearbox replacement was my primary purpose
+for the job. It was leaking fluid all over the place, and was worn to
+the point where there was much steering slop.
+
+Wish I had known you could work in there from the top. I tried, but I
+n...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859358">Re: [T2] 1971 steering box</a></td>
+        <td>Brian Powers <vwloverz92999(-at-)yahoo.com></td>
+        <td>2012-03-14 03:33:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>There is a plastic "gasket" at the base of the column that snaps together so
+the column doesn't ground out where it goes through the floor and make the
+horn be on all the time. It's right in your Bentley manual. I understand why
+you were changing it the wa...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859292">Re: [T2] 1971 steering box</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-14 05:45:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>A bit scary that Airhead lists this as OE German "reproduction."  If it is OE
+German why the "repro" bit?  I get they ain't NOS German, but if it is OE
+quality I'd like to know as these have notoriously been crap for a long time,
+and the word reproduction ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859371">Re: [T2] 1971 steering box</a></td>
+        <td>Chris Slaymaker <nurofiz(-at-)knology.net></td>
+        <td>2012-03-14 11:04:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm getting ready to ship some stuff to you.  I'll toss the spare steering
+coupler I have in with it.  I would recommend getting the OEM coupler as any
+of the aftermarket stuff is crap (in my opinion).  The one I'll send you is
+aftermarket, so caveat empto...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859343">re:1971 Steering Box</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-14 13:45:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Was writ:
+
+"Hardest part was getting the horn spade connector back in to its connection
+point WAY up in there. Ended out just cutting a small access hole in the top
+and plugging it with a rubber plug afterward."
+
+ 
+
+I would wholeheartedly agree, having gon...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859294">RE: [T2] battery disconnect</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-14 13:45:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I used the Flaming River "Little Battery" disconnect. I got it via Amazon,
+all the ones at my FLAPS seemed too flimsy.  I got the battery extension
+cable from my FLAPS, and then wrapped the connection in that stretchy
+silicone tape, so I don't accidentally...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859360">top post mount vs side post mount battery </a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-14 13:45:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Is there any reason we use top post battery mounts in our VW's? Having had
+to jump my bus and truck more than a couple times, from either leaving it
+sitting for a while, or leaving the radio on.or it just being damn cold.I
+think a side post battery mount w...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859327">Re: [T2] top post mount vs side post mount battery </a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-03-14 14:07:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sure seems like side mount terminals would be better for the 2nd battery that
+I have installed over on the driver's side cavity. I use battery boxes for
+both, and those boxes would still need to have their covers on, or the boxes
+fill up with rainwater.
+
+I...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859377">Re: [T2] top post mount vs side post mount battery </a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-14 16:35:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I think just to be stupid purists Kevin really.  Then the fact that I believe
+(but certainly won't swear) that most sideposts have the terminals reversed
+compared to a 41/42.  At least the common GM sidepost does.   That doesn't
+stop me from having one in ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936519">Re: [T2] top post mount vs side post mount battery </a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-14 16:36:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I think just to be stupid purists Kevin really.  Then the fact that I believe
+(but certainly won't swear) that most sideposts have the terminals reversed
+compared to a 41/42.  At least the common GM sidepost does.   That doesn't
+stop me from having one in ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859373">re: battery Disconnect</a></td>
+        <td>j syder <scintilla_22(-at-)yahoo.com></td>
+        <td>2012-03-14 17:36:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://www.amazon.com/SWITCH-BATTERY-MINI-OFF-KNB/dp/B002MJBJPM/ref=sr_1_17?s
+=automotive&ie=UTF8&qid=1331744633&sr=1-17
+
+Try the Blue Sea one.  Better protection for the terminals IMHO.
+
+or this one if you run two batteries and want to keep a manual, inst...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859318">Battery Disconnect/jumper cable</a></td>
+        <td>Tom LaPointe <earthshelterman(-at-)gmail.com></td>
+        <td>2012-03-14 19:10:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>for those who would like a DIY jumper cable arrangement, find yourself an
+older UPS supply. they have a
+very similar heavy duty DC disconnect (2 piece). hard wire one end to your
+battery and the other end to
+a set of jumper cables. no polarity issues on th...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859325">Re: [T2] Battery Disconnect/jumper cable</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-03-14 19:30:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Am I hearing correctly that I should Isolate my battery (battery
+disconnect switch, etc) before I give somebody a Jump start?
+
+Scott B
+74 VW Bus...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859357">Re: [T2] Battery Disconnect/jumper cable</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-03-14 19:57:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 3/14/2012 12:30 PM, Scott Busby wrote:
+> Am I hearing correctly that I should Isolate my battery (battery
+> disconnect switch, etc) before I give somebody a Jump start?
+
+DO NOT DO THAT!!!  You will hurt your charging system if you run your 
+engine witho...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859302">re: Battery Disconnect/jumper cable</a></td>
+        <td>j syder <scintilla_22(-at-)yahoo.com></td>
+        <td>2012-03-15 00:25:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>snip>
+for those who would like a DIY jumper cable arrangement, find yourself an
+older UPS supply. they have a
+very similar heavy duty DC disconnect (2 piece). hard wire one end to your
+battery and the other end to
+a set of jumper cables. no polarity issues...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859326">Front Door panels late bay</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-15 01:15:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I am going to need the front door panels for my camper... I had been
+thinking of doing something custom with vinyl ... like plaid.
+
+so.. either I need a pair of green stock door panels.. or something else.
+
+I was thinking of cutting out some wood ones..
+
+T...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859283">Re: [T2] Front Door panels late bay</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-15 01:18:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jamie, I'd say for very near that money, you might be able (depening where you
+are) to find 2, 5x5 sheets of 3mm baltic birch for about that.  I think there
+is even exterior grade glue 4x8' sheets now, but I'm not sure if that comes in
+3mm.  That way you c...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859308">Re: [T2] Front Door panels late bay</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-15 02:21:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi John,
+I was thinking about that ,, but trying to figure out how to mount them to
+the door...
+
+Jamie
+
+----- Original Message ----- 
+From: "John
+
+
+Jamie, I'd say for very near that money, you might be able (depening where
+you are) to find 2, 5x5 sheets of...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859362">Re: [T2] Front Door panels late bay</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-15 16:00:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Typical manner woul be to use splitty chrome clips:
+ 
+http://www.wolfsburgwest.com/cart/DetailsList.cfm?ID=221867615a
+ 
+Though I
+think you could find something beige/brown if you like in plastic "christmas
+tree" style.  I've had a friend do this before in ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859300">Re: [T2] buy generator for my bus</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-15 18:09:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>over 200 trees over 8inch in diameter came down within the Camporee 
+campsite area.
+   a lot of really strange things happened some snippets
+. remember seeing my SPL snag a flying tenderfoot miniscout right out of 
+the air
+. my canoe which was behind the t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859346">Re: [T2] 1971 steering box</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-15 18:21:11+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 13 Mar 2012, Scott Busby wrote:
+
+> The rubber thing is called the steering coupler. I just replaced mine,
+> as well as the whole steering box.
+
+I've found it much easier to replace the coupler which I do every 10 years 
+or when it has cracks by goi...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859321">Question about the heat riser elbows</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-03-15 19:20:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>So, I'm going to be switching over to the 72-74 heat exchangers sometime 
+this millennium, and I wanted to know if the 72-74 heat risers that run 
+from the heat exchanger to the heater control box are different than the 
+risers on a 75-78 bus.  I just noti...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859367">re:Front Door panels late bay</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-15 19:41:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I just made door panels for my '65 last year. It is tricky on a '65, I think
+only one of the edges was straight, and if you want to hit the old holes on
+the door with your new clips-it is quite difficult. 
+
+ 
+
+I ended up using wellnuts, with nice looking s...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936496">engine questions</a></td>
+        <td>"Hauck, William (DLI)" <william.hauck(-at-)state.mn.us></td>
+        <td>2012-03-15 20:06:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Are all 40 hp engine components (push rods, lifters, rocker arms, etc.)
+compatible on all vw motors?? 1200 to 1600 40 hp motors.
+
+The only major difference being the size of the pistons??
+
+William R. Hauck
+Mediator/Arbitrator
+Department of Labor and Indust...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936442">Re: [VB] engine questions</a></td>
+        <td>Gary Gibson <meckie1(-at-)mindspring.com></td>
+        <td>2012-03-15 20:25:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Seems like a lot of them are????  Gary...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936473">Re: [VB] engine questions</a></td>
+        <td>John Yust <yust(-at-)comcast.net></td>
+        <td>2012-03-16 00:24:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Not may parts from the 40 hp work with later engines. They look the 
+same, but that's about it. I think the rocker arms and shafts might work 
+and maybe the lifters, but that's about all. You shouldn't use old 
+lifters anyway unless they're in good shape, ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936487">Re: [VB] engine questions</a></td>
+        <td>veewee111(-at-)aol.com</td>
+        <td>2012-03-16 01:57:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code> No.  Of course it would help to know year or part number of 1600 engine case
+in question to be more specific.
+
+The later "Type 2 Parts Reference Manual" is an excellent source of info for
+comparing parts between the 1200 40 HP and the 1500 which is pretty...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936457">Re: [VB] engine questions</a></td>
+        <td>Rennie Wible <volksdragon(-at-)earthlink.net></td>
+        <td>2012-03-16 04:08:11+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>40hp stuff is almost all different. The stroke is only 64mm, 69mm for 1300 and
+up. Rods are longer on the 1300 and up as well. Even the heads are 40hp only.
+
+Always wanted to build a 64x94 motor. A real 1776!
+
+Rennie
+61 crew cab
+
+Sent from my iPad
+
+On Mar ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859381">Re: [T2] Question about the heat riser elbows</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-03-16 04:48:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Mike -
+
+Yes, the 72-74/79 are different from 75-78 models
+
+75-78
+021 256 051 C  Left
+021 256 052 C  Right
+
+72-74 & 1979
+071 256 051  Left
+071 256 052  Right
+
+(Source: ETKA 5.6 - no longer shown in ETKA 7 now.  That's why I keep
+the earlier version [shows m...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859345">Re: [T2] 1971 steering box</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-03-16 05:04:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>John -
+
+I maintain the inventory database at Airhead.  The reason why I
+designated it as Repro with an additional description of "OE German"
+is this:  VW has long since obsoleted and sold the ownership rights of
+the tooling.  They are manufactured by Lemfo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859340">Re: [T2] re:1971 Steering Box</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-03-16 05:12:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Kevin -
+
+Thanks for pointing that out.  I will get into the database tomorrow
+and fix that description.  Should show up on the website over the
+weekend.
+
+211-415-417 is the reproduction made by J&L (new and improved).
+
+211-415-417 OE is the OE one made in ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859378">Friday Fun.</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-03-17 01:20:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+
+Here is a link to brochures for American cars going Way Back. Very 
+interesting.
+www.lov2xlr8.no/broch1.html
+
+Bus content:
+I now have a muffler from Vintage Speed. Hope to have it installed on 
+my 64 DD Kamper by the end of the weekend. Will report ba...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859328">Testing switches out of Bus?</a></td>
+        <td>David Brooks <vwdaveb(-at-)gmail.com></td>
+        <td>2012-03-18 02:03:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Can someone give a run down, or point to a site, om how to test switches
+not installed using a voltmeter?  For the life of me I can't remember. I
+tried searching using test AND switches and get nothing.  Have a few Split
+Bus headlight and wiper switches I ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859317">multimeter</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-18 03:47:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm in the same boat. I can't remember how to read the damn thing. I set it
+at 50 volts DC to check out the voltage regulator. It read 45. Does this
+mean 4.5 volts? or 45 volts.
+
+ 
+
+Thanks,
+
+Bob
+
+Owned by a '78 Champagne Edition Westy and a '73 SB Sunny...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859376">Re: [T2] multimeter</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-03-18 04:56:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Should mean 45 volts on that scale.
+Is the needle near the right hand side of the dial? Or the left hand 
+side. Right side is high, left side is low.
+
+Chris
+
+Scientists seek to understand what is,
+while engineers seek to create what never was. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859304">Re: [VB] Testing switches out of Bus?</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-03-18 13:15:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi David,
+
+Basically the concept is that you are looking for continuity. So you
+need the wiring diagram or switch pinout illustration to see what pins
+are supposed to be connected at each switch position. An ohmmeter that
+beeps with continuity is a lot nic...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859331">RE: [T2] multimeter</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-18 13:54:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks Chris,
+
+The battery on the beetle has been going dead the last day or so. This is
+after I replaced the wiper motor and speedometer. I've had hints that the
+voltage regulator had been going as the idiot light flickers when the engine
+is at idle. I'll...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859356">[Q] LaVere's VW Restoration</a></td>
+        <td>dcm7293(-at-)gmail.com</td>
+        <td>2012-03-18 18:22:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>All-
+
+Anyone used LaVere's VW shop before?  Feel free to contact me offline if you
+prefer:  dcm7293 (at) gmail (dot) com.
+
+-David...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859301">Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>Pete O <pnoceanwesty(-at-)gmail.com></td>
+        <td>2012-03-18 19:49:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Anyone have any heat shields in good shape? Been all over the Samba, Bus
+Boys, German Supply - all out of stock.
+
+Just found out my '79 has been running without one - not good!
+
+Shoot me an email if so.  Thanks!
+
+
+Pete
+'79 Westy "Aardvark"
+'87 Westy "JoesV...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/859365">Re: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-18 21:09:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sun, 18 Mar 2012, Pete O wrote:
+
+> Anyone have any heat shields in good shape? Been all over the Samba, Bus
+> Boys, German Supply - all out of stock.
+
+not hard to make a reasonable replacement from sheet stock
+
+.
+.
+.
+.
+Bob...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920764">RE: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>"Bradley Spear" <mnexplorer(-at-)comcast.net></td>
+        <td>2012-03-18 21:15:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I've been looking for one for my '72 for a while.
+
+Brad Spear
+'72 Westy
+Burnsville, MN (Where we hit 83 degrees yesterday!)
+
+-----Original Message-----
+From: Pete O [mailto:pnoceanwesty(-at-)gmail.com] 
+Sent: Sunday, 18 March, 2012 14:49
+To: List - Type 2
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920830">Re: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>Pete O <pnoceanwesty(-at-)gmail.com></td>
+        <td>2012-03-19 00:18:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>*not hard to make a reasonable replacement from sheet stock*
+
+From what I have heard, these sheilds have a layer of insulation sandwiched
+in between the tin.  There is NO mention of them in Bentley and only
+passing reference on the Samba discussions.
+
+I to...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920807">Re: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>Pete O <pnoceanwesty(-at-)gmail.com></td>
+        <td>2012-03-19 00:35:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Well...
+
+Were they still using that in '79?
+
+I know a lot floor tiles manufactured in the '50's and 60's have it.  It is
+OK as long as it does not become "friable" - meaning shredded so the fibers
+can work loose and get in the air.
+
+Maybe that is why the p...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920777">Re: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-19 01:08:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sun, 18 Mar 2012, Pete O wrote:
+
+> To: accessys(-at-)smart.net
+> 
+> *not hard to make a reasonable replacement from sheet stock*
+>
+>> From what I have heard, these sheilds have a layer of insulation sandwiched
+
+two pieces of metal with an air space betw...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920808">Re: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-03-19 01:17:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 3/18/2012 6:08 PM, accessys(-at-)smart.net wrote:
+>>> From what I have heard, these sheilds have a layer of insulation
+>>> sandwiched
+>
+> two pieces of metal with an air space between them works very near as well.
+
+You can also try one of these products...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920793">Re: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-19 01:20:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>you mean asbestos?
+
+----- Original Message ----- 
+From: "Pete O"
+> From what I have heard, these sheilds have a layer of insulation
+sandwiched
+> in between the tin....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920746">Re: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-19 02:45:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>There is a sandwich of insulation (presumeably asbestos.)  I agree with Bob
+and have made them for years.  I feel the reflective value from a sheet of
+1/8" aluminum lightly polished probably washes out vs insulation as a nice
+solution.  It is what I do whe...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936443">Rear Middle Seat</a></td>
+        <td>blazefighter(-at-)pcisys.net</td>
+        <td>2012-03-19 04:12:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I am looking for a rear and middle seat for my 1965 splitty project, 
+anyone know of any for sale or the best place to look?
+Jim
+
+---------------------------------------------
+This message was sent using Endymion MailMan.
+http://www.endymion.com/products/m...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920795">Re: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2012-03-19 04:56:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bustedbus.com
+
+Good Luck!
+
+On Sun, Mar 18, 2012 at 1:49 PM, Pete O  wrote:
+
+> Anyone have any heat shields in good shape? Been all over the Samba, Bus
+> Boys, German Supply - all out of stock....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920837">Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-03-19 11:59:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Anybody have experience using this guy for type 1 engine work?
+
+I see that you can buy this delivered to the door for about $80.
+
+Bob Perring
+=========   >")))>...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920812">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-03-19 14:10:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>No first hand info but it's overkill which to me makes it a great tool! LOL!
+
+Four wheels - good, three can be tippy.
+Adjustable arms so you can adapt them to your VW engine.
+
+24" height sounds kind of low but it would be easy to buy a piece of 
+steel stoc...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920780">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2012-03-19 14:29:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Mar 19, 2012, at 7:59 AM, Bob Perring  wrote:
+
+> Anybody have experience using this guy for type 1 engine work?
+
+These cannot safely be used with aircooleds straight out of the box.
+
+Aircooled cases need to have a flat flange to bolt to that spreads the...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920811">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>Kris Hansen <sailorkh(-at-)sbcglobal.net></td>
+        <td>2012-03-19 14:33:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://www.thesamba.com/vw/classifieds/detail.php?id=606308
+________________________________
+These cannot safely be used with aircooleds
+straight out of the box.
+
+Aircooled cases need to have a flat flange to bolt
+to that spreads the load
+across the case. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920806">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-19 16:12:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>These adapters are first rate BTW.  For T1 or or occasional T4 use you could
+even use his cheaper 3 arm one if he still sells it.  I'd take one of these
+and as he mentions a cheapo $50 local stand (750lb rated fine) for VW use any
+day, particularly over a ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920797">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2012-03-19 16:17:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Mon, 19 Mar 2012, John Anderson wrote:
+
+> These adapters are first rate BTW.  For T1 or or occasional T4 use you could
+> even use his cheaper 3 arm one if he still sells it.  I'd take one of these
+
+Just plan on spending an evening drilling it to work wi...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920799">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-19 16:47:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hmmn, when I bought one from him (6-7 years ago?) or so they were drilled for
+use in the stand.  I think he sold 2 versions on *bay back then of the low
+level, one drilled one not with a slight premium for being finished, but this
+was before the advent of ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920767">RE: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-19 18:29:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have a bench mounted engine stand for the T1. I also built the T4 on it,
+but became alarmed when the engine would flap around when  I turned it over.
+My buddy lent me a regulation engine stand. We just needed to drill a couple
+of holes in the arms to lin...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920748">beetle wiring problem</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-03-19 18:53:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi guys!
+
+ 
+
+I was reinstalling the dashboard into my late 1973 super beetle when all but
+the brown wires fell out of the edge connector for the brake/seatbelt light.
+It is one unit. I looked at Bug Me Video's wiring video, but that was no
+help. I poured o...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920813">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-03-19 19:00:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 3/19/2012 7:33 AM, Kris Hansen wrote:
+> http://www.thesamba.com/vw/classifieds/detail.php?id=606308
+
+Thank you for mentioning that ad!!  I just called up Kevin and ordered 
+one.  After speaking to him on the phone, he suggested that the 3-arm 
+yoke woul...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920751">cone nut</a></td>
+        <td>Happy Jack Feder <happyfeder(-at-)yahoo.com></td>
+        <td>2012-03-19 19:02:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi -
+Odd part search department. I'm looking for the square headed cone nut that connects the shift linkage to the shaft in the cone of the transmission on a 1961, although probably a number of years will work. It has a square head, about 6-8mm. fine threa...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920828">Re: cone nut</a></td>
+        <td>jrivers(-at-)globalserve.net</td>
+        <td>2012-03-19 19:25:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I am pretty sure it is a BOLT, not a nut,,
+here is a link
+http://www.cip1.ca/ProductDetails.asp?ProductCode=VWC-211-711-189-A-2 
+
+211 711 189A 
+
+hope that helps
+Jamie 
+
+
+Happy Jack writes: 
+
+> Hi -
+> . I'm looking for the square headed cone nut that connec...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920755">RE: [T2] cone nut</a></td>
+        <td>Richard F Coombs <rfcoombs(-at-)syr.edu></td>
+        <td>2012-03-19 19:33:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jack,
+
+From thesamba.com:
+http://www.thesamba.com/vw/classifieds/detail.php?id=1254701
+
+Or, get shiny ones  from Bus Depot:
+http://www.busdepot.com/details.jsp?partnumber=443711189A
+
+Order two.
+
+Carry a spare.
+
+That's what I did....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920768">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>Bob in Indiana <perring(-at-)roadrunner.com></td>
+        <td>2012-03-19 20:37:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I just called Kevin, as well.
+
+I am ordering the 2 yoke model, as Kevin said that would do me well 
+for all of my type 1 work.
+http://www.thesamba.com/vw/classifieds/detail.php?id=1176339
+
+Now to decide between these for the actual stand.
+
+http://www.homed...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920778">Bolt size - early Bay fron bumper</a></td>
+        <td>"Jeffrey J. Westcott" <hull3551(-at-)yahoo.com></td>
+        <td>2012-03-19 21:52:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm replacing the front bumper and am missing the bolts for the side/step (beneath the door). It's a '72 Weekender. Some help? 
+
+Thanks!
+-Jeff
+"Mossy"...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920791">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-19 22:33:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'd caution that although the 1250 will support more, and is perhaps ever so
+slightly more stable, I think as a minor gripe the two forward feet are a pain
+to roll around and store compared to one foot with the cross bar, YMMV.  You
+can however lift someth...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920745">Re: [T2] Torin Big Red 1,250 lb. Engine Stand T25671</a></td>
+        <td>Kris Hansen <sailorkh(-at-)sbcglobal.net></td>
+        <td>2012-03-20 00:30:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have owned a 4 arm for years now and love it.  You do have to drill your own
+holes for a stop, but if you start with a small bit and work your way up it's
+not too bad.  Just go slow and use some lubricant and you should be fine.  I
+do 
+like it better tha...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920744">Re: [T2] Bolt size - early Bay fron bumper</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-03-20 04:44:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>VW N01024222
+DIN Standard 8mm (1.25mm thread) x 22mm long x 13mm Hex Head Bolt.  2
+per side, goes underneath.
+
+VW 113 707 191
+Chrome Carriage Bolt - connects Side Step Piece to Center Bumper
+Blade.  Also 8mm thread.  Corresponding nut is N0110088 (8mm, 13m...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920819">Re: [T2] Bolt size - early Bay fron bumper</a></td>
+        <td>"Jeffrey J. Westcott" <hull3551(-at-)yahoo.com></td>
+        <td>2012-03-21 06:36:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks for this information. I am turning a wrench on an air-cooled vee-dub
+for the first time since 1988, so the resources on the internet are a far cry
+from a chilton's manual and an idiot's guide of yore. I've since graduated to
+a bentleys but still hav...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920796">door latch jammed</a></td>
+        <td>j syder <scintilla_22(-at-)yahoo.com></td>
+        <td>2012-03-21 18:11:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have an acquaintance that, in a fit of inspiration, pushed the lock button
+down, held the door opening lever on the outside, and slammed her right front
+door.  Now the door is jammed shut.  The lever flops around seemingly
+disconnected from the latch mec...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920742">raffle bus </a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-03-21 19:49:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>web site has been updated  _www.naturalbus.net_ (http://www.naturalbus.net) 
+ link to rafflebus for  pixs  later  mark d...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936472">rafflebus </a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-03-21 19:53:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>web site has been updated  _www.naturalbus.net_ (http://www.naturalbus.net) 
+  link to  trafflebus  later  mark d...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920773">Re: [T2] door latch jammed</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-03-21 20:16:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>With the inside panel off, Can you reach around and raise the lock
+button on the door? That would be a good first step. The lock button
+has a vertical rod which goes from the button at the window to the
+latch assembly.
+Pull that rod up from inside the door...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920787">Latch</a></td>
+        <td>Thomas Lapointe <earthshelterman(-at-)gmail.com></td>
+        <td>2012-03-21 22:14:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>If you cannot see latch, and panel still off take the smallest digital camera
+with flash turned on. Insert in door facing latch area. it will give you a
+place to refer to....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920757">Re: [T2] Looking for Muffler Heat Shield - Part # 021 119 227 B</a></td>
+        <td>Pete O <pnoceanwesty(-at-)gmail.com></td>
+        <td>2012-03-22 02:04:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks to this list, I have two on the way.  Will choose the best for
+stripping and painting for install.  Hoping this cuts down on the heat in
+the engine compartment!
+
+Thanks for all the responses!
+
+Pete
+'79 Westy "Aardvark"
+'87 Westy "JoesVan"
+WWW.Busesb...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920740">Chitty Chitty Bang Bang meets a Splittie</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-22 12:20:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My wife and son went to CA for a week, and brought this book back for me - 
+
+ 
+
+"Chitty Chitty Bang Bang Rides again"
+
+ 
+
+I've just started reading it to my son, but the gist of it is an old VW
+camper van that gets the engine from Chitty Chitty Bang Bang. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936522">engine codes</a></td>
+        <td>"Hauck, William (DLI)" <william.hauck(-at-)state.mn.us></td>
+        <td>2012-03-22 14:27:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Picked up a couple of engine cores.. numbers are H5579697..this is a 68-69
+1500 engine, correct??
+
+The other is 9378199...65 1200 40 hp??
+
+William R. Hauck
+Mediator/Arbitrator
+Department of Labor and Industry
+443 Lafayette Road North
+St. Paul, MN  55155
+65...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920821">Clutch geometry question.</a></td>
+        <td>Greg Potts <greg(-at-)pottsfamily.ca></td>
+        <td>2012-03-22 15:27:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Volks,
+
+Last fall, not long before I put the bus aside for the winter, I swapped 
+out a noisy 3-rib transmission for a known-good 6-rib unit.
+
+In order to make the swap with the least amount of fuss I used the bell 
+housing from the 3-rib transmission a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920788">Re: [T2] Clutch geometry question.</a></td>
+        <td>doktortim(-at-)rockisland.com</td>
+        <td>2012-03-22 17:01:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>One thing to rule out is the throwout shaft. Bushing kits are not spendy
+and easy to install. Just do check for play in the shaft whenever you have
+the tranny out.
+
+Then you must verify the ends of the forks. If they are not dead parrallel
+to the clutch it...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920743">Bad CV Axle out of the bos?</a></td>
+        <td>"treyjung" <treyjung(-at-)comcast.net></td>
+        <td>2012-03-22 21:55:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Ever heard of a "bad" CV Axle Shaft out of the box. Yes, I did buy this axle
+6 years ago for an emergency on the road and finally had a shop install it -
+they called me after they put in on to tell me it wouldn't  turn. It was an
+Empi brand , I'm sure it w...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920772">Re: [T2] Bad CV Axle out of the bos?</a></td>
+        <td>dan radom <dan(-at-)radom.org></td>
+        <td>2012-03-22 21:56:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 3/22/12 3:55 PM, treyjung wrote:
+> Ever heard of a "bad" CV Axle Shaft out of the box
+
+If it was assembled wrong it won't work.  If the balls come out of the 
+cage putting it back together can be a little bit tricky.  It will go 
+back into the hub a few...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936470">Re: [VB] engine codes</a></td>
+        <td>Jim Arnott <jim(-at-)wetwesties.org></td>
+        <td>2012-03-23 00:27:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Nobody else is answering?  H = 1500 in my memory.
+
+40 Horse? Easiest way to tell is the intake manifold connects to the  
+head at a right angle. Way more perpendicular than later motors.
+
+Jim
+
+
+
+On Mar 22, 2012, at 7:27 AM, Hauck, William (DLI) wrote:...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920827">Re: [BP] Clutch geometry question.</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-23 04:03:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>----- Original Message ----- 
+From: "Greg Potts"
+> I am definitely noticing that the clutch seems to be perilously close to
+> slipping. But if I loosen the cable, it gets harder to shift into 1st
+> gear at a light.
+>
+> Should I keep trying to find the swee...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920822">tail lights</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-23 05:18:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>So, I found out something,,
+
+the rear tail lights on a 73-79 bay bus came from the factory with a machine
+screw thru the lens, and a captive threaded "nut" in the plastic.
+
+but, then somebody started to ship lenses with self tapping screws... that
+have a d...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936505">Re: [VB] engine codes</a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2012-03-23 12:23:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>9 339 890 started dec 1965   so your is a late dec 65  40hp,   having a 
+problem with the H as most of them started with a  1   dec 1970 H1 197 829   
+most H cases were 1500cc , they  had a weak alloy and were famous for head 
+studs pulling and cracked cas...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920770">Re: [BP] Clutch geometry question.</a></td>
+        <td>"Greg Potts" <greg(-at-)pottsfamily.ca></td>
+        <td>2012-03-23 12:35:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Jamie,
+
+I am noticing slipping as the pedal comes to the top. The clutch is fully
+engaged at the floor and does not start to engage until it's a few inches
+down.
+It feels like there may be oil on the disk, it slips a bit as the pedal
+comes up but it doe...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920805">Friday: Now that is a Westfalia (AK Vacation anyone?)</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-23 18:04:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://anchorage.craigslist.org/rvs/2918144304.html
+ 
+Well, sacriligious to
+mention, but probably a fair deal.  Any internet millionaires on the list who
+want to come up for an AK vacation, I'd be happy to do a prepurchase
+inspection, and you can use our 3...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920790">Re: [T2] Friday: Now that is a Westfalia (AK Vacation anyone?)</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2012-03-24 01:42:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I've seen a few of those for sale and that's really not a bad price for
+them.  I really like them in concept, but they are a bit expensive.  FWIW,
+we ended up with a Winnebago Sunstar to take our family of 4 on the road.
+ This year the east coast, 2013 cro...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920832">Re: [T2] Friday: Now that is a Westfalia (AK Vacation anyone?)</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-24 02:01:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Well Greg, even with me unemployed the wife does well enough and all, so I
+can't bitch too much.
+
+But I can't drop $53k on a Westy MBZ either (not that I
+would anyway.)  I looked at a US conversion (may have been a Winnie) on a LWB
+one 3-4 years ago when s...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920753">Smoke and smell from rear brakes</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-03-25 00:51:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>In Cambria, Calif - putting around in my 74 bus, had to brake a little
+harder than usual for a yellow light on Hwy 1. Cloud of smoke behind
+the bus! Yucky smell! Stopped and checked and it was coming from my
+rear brakes. Stopped smoking immediately bit sti...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920771">Re: [T2] Smoke and smell from rear brakes</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-25 01:20:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sat, 24 Mar 2012, Scott Busby wrote:
+
+> What could be mis-adjusted to cause my rear pads to burn when stopping
+> a little more firmly than usual? The pads are new.
+
+new pads and shoes will smell a little til their broke in, did you spill 
+anything on th...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936532">Re: [VB] engine codes</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-03-25 23:47:58+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Remember that Dec 65 is in the 1966 Model Year.  1966 Models
+(primarily Beetles & Ghia) for the USA came with the F series 1300
+engine.  The 9339890 tells me it's a European sold 40HP for the 1966
+model year (Beetles & Ghias sold in Europe came with 40HP 1...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920802">battery tray for '69 singlecab</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-26 22:41:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey guys,
+
+ 
+
+The battery tray on my '69 singlecab is practically not there..
+
+When I looked online for replacement metal, it appears as though the trays
+available are specifically labeled "not for pickup"
+
+ 
+
+Any suggestions? Am I looking in the wrong spo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920794">Re: [T2] battery tray for '69 singlecab</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-26 23:57:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Kevin, I'm in the same boat and am cross posting this to VB, cause I've
+wondered if the samba single cab tray (particularly the '67 with the 12V
+battery depression) works, seems to me somewhere I recall that?
+ 
+John
+________________________________
+
+From: ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920800">Re: [T2] battery tray for '69 singlecab</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2012-03-27 03:55:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Kevin,
+
+You will need to use two battery trays, cut them and weld them together to
+combine them. Use the front half of a '68-'71 battery tray and the rear
+half of a split window truck battery tray. It works out quite nicely. The
+rear portion of a split win...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936471">Rear hatch script</a></td>
+        <td>Tristan Shaffer <tristanshaffer(-at-)gmail.com></td>
+        <td>2012-03-27 05:20:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey List,
+
+What's the best way to remove the VOLKSWAGEN script from the rear
+hatch without damaging it?  Are there clips involved?
+
+thanks,
+Tristan...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/936502">Re: [VB] Rear hatch script</a></td>
+        <td>claralw(-at-)aol.com</td>
+        <td>2012-03-27 05:25:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>yes, remove the rear hatch panel to access the clips
+
+
+
+..........
+What's the best way to remove the VOLKSWAGEN script from the rear
+hatch without damaging it?  Are there clips involved?...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920838">Pair of 40D's available - Dellorto Carburetors</a></td>
+        <td>Joel Cort <joel_cort(-at-)yahoo.com></td>
+        <td>2012-03-27 12:17:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey Gang,
+
+I am refurbishing and converting my 73 Westy to a 2.0 Ltr Fuel
+Injection motor and no longer need these bad boys.
+
+I have a pair of Dellorto
+carburetors for sale.  They have the number "DRLA 40D" stamped on them. They
+ar used and have lo usage a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920749">FW: [T2] Pair of 40D's available - Dellorto Carburetors</a></td>
+        <td>Jim Konzelman <jkonzelman(-at-)gsc.edu></td>
+        <td>2012-03-27 12:41:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>40 D's???
+
+Now if they were 40 DD's I'd be interested :P...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920756">Re: [T2] Pair of 40D's available - Dellorto Carburetors</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-27 16:14:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'll plug DRLA's here for Joel as MASSIVELY a better carb than any
+other/Weber.  Always were, still are, always cost more in the day.  BUT a
+caution and a big BUT, Dellorto of course quit production long, long ago now
+on these.  Didn't get to move to Spain...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920765">Re: [T2] Smoke and smell from rear brakes</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-03-27 16:14:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Opened up the rear drivers side wheel hub, and found that a 1/2 strip
+on the inner part of the pads (both) had burned, causing the smoke and
+smell. Cleaned all the black soot out with carb cleaner, and couldn't
+really see why the inner 1/2 inch of the pad ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920781">Re: [T2] Smoke and smell from rear brakes</a></td>
+        <td>doktortim(-at-)rockisland.com</td>
+        <td>2012-03-27 16:29:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> Opened up the rear drivers side wheel hub, and found that a 1/2 strip
+> on the inner part of the pads (both) had burned, causing the smoke and
+> smell.
+
+Sounds just like what new shoes will do if the drum is beyond wear limits.
+The shoes are not concentr...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920761">Heater pipe ducting on a 79 bus</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-03-27 16:40:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Does anyone know where to get some replacement ducting for the smaller 
+2.1" ducts that run from the distribution box to the rear of the bus and 
+also to the mid-section of the bus?
+
+Thanks,
+Mike...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920769">Re: [T2] Smoke and smell from rear brakes</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2012-03-27 19:49:58+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>>  > Opened up the rear drivers side wheel hub, and found that a 1/2 strip
+>>  on the inner part of the pads (both) had burned, causing the smoke and
+>>  smell.
+>
+>Sounds just like what new shoes will do if the drum is beyond wear limits.
+>The shoes are no...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920774">Re: [T2] Smoke and smell from rear brakes</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-03-27 20:02:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>No pulsing at the brake pedal, but a bit of rear "side drift" under
+very-firm sudden braking, which may indicate that one side of the bus
+was doing more braking than the other.
+
+I installed new rear drums pads and cylinders on both sides about 6
+months ago...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920817">RE: [T2] battery tray for '69 singlecab</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-03-27 21:01:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Great, Just what I was looking for. I've filled out a form online asking for
+info on the tray for my application. I'll let you all know what I hear.
+
+ 
+
+Do you guys buy directly from him, or through a VW vendor in the US?
+
+ 
+
+-Kevin Guarnotta
+
+Jamaica Plai...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920826">Re: [T2] battery tray for '69 singlecab</a></td>
+        <td>gretnagreg <gretnagreg(-at-)yahoo.com></td>
+        <td>2012-03-27 21:05:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I've purchased directly from him...got the battery tray for my '74 single cab from him.
+
+
+
+________________________________
+
+
+Do you guys buy directly from him, or through a VW vendor in the US?...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920824">Re: [T2] Smoke and smell from rear brakes</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-28 00:26:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> >Sounds just like what new shoes will do if the drum is beyond wear
+limits.
+> >The shoes are not concentric with the oversized drum so only a small part
+> >of the lining is touching.
+>
+> If that had been the situation, I'd expect the brake pedal to
+> 'pu...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920792">Re: [T2] Pair of 40D's available - Dellorto Carburetors</a></td>
+        <td>Lourd Baltimore <lourd_baltimore(-at-)yahoo.com></td>
+        <td>2012-03-28 06:59:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Just before John's comment about production scares you off.
+Eurocarb Ltd over
+on this side of the pond has DRLA (and other Dell'orto and Weber carbs)
+spares.
+They can also provide advice on jetting and do a bit of VW work.
+
+Mind
+you, you'll be paying up th...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920763">Re: [T2] Pair of 40D's available - Dellorto Carburetors</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-28 17:05:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Well I certainly don't mean to scare people off, the DRLA is IMHO the best
+carb, and actually one of the best performance induction systems you can buy,
+and I love FI , built my first Megasquirt back in '03 or so and am a long fan
+of L-jet of course.  Just...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920833">Re: [T2] Pair of 40D's available - Dellorto Carburetors</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-03-28 20:36:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have had no trouble finding everything I have needed for a complete
+rebuild and rejetting of my Dellorto DRLAs.
+
+CB Performance in USA has jets, and most parts available. Some parts
+are not, but that list is small, and I haven't run into it yet.
+
+The onl...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920754">Re: [T2] Pair of 40D's available - Dellorto Carburetors</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2012-03-28 22:25:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have the Baby Dels and I love them.  Zero problems so far.
+
+Kevin H. Roberts
+Chattanooga, TN
+Email:  Kevin(-at-)bopsax.com
+Website:  http://www.bopsax.com
+
+
+
+On 3/28/12 4:36 PM, Scott Busby wrote:
+> I have had no trouble finding everything I have needed ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920782">Door seals</a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-03-29 14:59:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I replaced the seals on one of my '70 Westys several years ago, but do not
+recall from where I sourced them. They are very high quality, and seal very
+well.
+
+My other '70 Westy is all original, even the paint. Those door seals have
+shrunk over the years, I...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920810">Re: [T2] Door seals</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-29 15:28:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 29 Mar 2012, Bob Perring wrote:
+
+> What is the take on best current sourcing for new door seals. - Go with
+> original OEM design, or has an upgrade been created?
+
+so what is a "Good" source for the sliding door seal (mine is a 78) that 
+will work w...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920747">Re: [T2] Door seals</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-29 15:40:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>For my money:
+
+http://busdepot.com/details.jsp?partnumber=211831721DG
+
+and
+http://busdepot.com/details.jsp?partnumber=211831722DG
+
+with that all
+important G at the end.  I presume by thicker you probably used a VW Brazil
+seal back when, which if you got it...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920809">Re: [T2] Door seals</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-29 15:45:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>God, it is like I'm plugging Ron continuously today, how times have changed...
+ 
+http://busdepot.com/details.jsp?partnumber=211843792B
+ 
+But I would mention
+here, again although this is as good as you can get today Bob, I've never
+found any Brazil rubber t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920816">Re: [T2] Door seals</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-29 16:44:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 29 Mar 2012, John Anderson wrote:
+
+> http://busdepot.com/details.jsp?partnumber=211831722DG
+>
+> with that all
+> important G at the end.  I presume by thicker you probably used a VW Brazil
+
+now you tell me, I don't remember them when I bought mine a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920750">failure notice (fwd)</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-03-29 16:51:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 29 Mar 2012, John Anderson wrote:
+
+> God, it is like I'm plugging Ron continuously today, how times have chang=
+ed...
+> 
+> http://busdepot.com/details.jsp?partnumber=3D211843792B
+
+I've bought a lot of stuff from Ron over the years
+and the only prod...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920829">Re: [T2] Door seals</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-29 17:34:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bob, I've had a couple windshield seals from BD over the years (OEM size and
+that bigger lipped one he had at one point) as well as WCM and ?? suppliers
+and have never had an issue.  Got to have em real warm of course (in the dryer
+in an old pillowcase so ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920818">Has anybody out there use an Oztent with their Westy ?</a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-03-29 20:15:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://au.oztent.com/default.asp
+
+Bob Perring
+=========   >")))>...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920752">Re: [T2] Has anybody out there use an Oztent with their Westy ?</a></td>
+        <td>Gerald Livingston <gerald.type2(-at-)sysmatrix.net></td>
+        <td>2012-03-29 21:34:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bob Perring wrote:
+
+> http://au.oztent.com/default.asp
+
+Ouch! I can't see spending $1000 to $1500 on a tent that sleeps 2 or
+3 ... maybe. No matter how easy it is to set up.
+
+G2
+
+-- 
+I am on the email list. Unless you are sending information which should
+n...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920801">Re: [T2] Door seals-sliding door </a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-30 03:15:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>From: 
+> so what is a "Good" source for the sliding door seal (mine is a 78) that
+> will work well for many years and many many uses (I enter and exit my van
+> 100% of the time thru the sliding door) my drivers side door seal may
+> never wear out
+
+
+Bob.. t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920785">Re: [T2] Door seals</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-30 03:19:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Totally agree with John,,,  I just installed both these seals... and they
+are very good!!
+I am happy with the 82001GR , and 82000GR kits..  except the felt strip that
+is 4mm too wide..
+
+Jamie
+
+
+From: "John Anderson"  For my money:
+>
+> http://busdepot.com/d...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920835">Re: [T2] Door seals</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-30 03:22:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I can agree on this again! .
+I just installed my windsheild ,, BD rubber,, went in very well... at about
+40 deg F .
+
+Jamie
+
+----- Original Message ----- 
+From: "John Anderson"
+
+
+> Bob, I've had a couple windshield seals from BD over the years (OEM size
+and...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920831">Re: [T2] Door seals</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2012-03-30 12:22:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I also had a good experience with the door seals from Bus Depot, although I
+had someone else install them.
+
+I bought the "premium" seals; I forget what the actual term used on the web
+site is.
+
+Greg U
+
+1968 Kombi
+2003 Eurovan Winnebago Sunstar
+
+
+On Thu, Ma...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920776">part to identify</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-30 21:12:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Have you seen one of these? 
+ I just can't place where it is from! 
+http://www.globalserve.net/~jrivers/pictures/foam-hockeystick.jpg
+
+small foam piece, with a split hole thru it... shaped like a hockey stick
+
+Thanks
+jamie...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920815">Re: [T2] calif electronic ignition system</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-03-31 20:10:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Coil is green label Jamie, but specifics beyond that I don't know.   Probably
+can use about any 80s VW coil actually, and I likely have a few
+golf/jetta/waterboxer/quantum if I can lay hands on them, I'll look.  Module
+wiring is probably pretty generic for...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920783">calif electronic ignition system</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-31 20:54:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>2.0 liter, 1979 Bus, and 1980 - 83 Vanagon.Aircooled California
+
+I am looking for some help.. 2 things please.
+I lost the wiring harnes for the ignition system in an engine fire so I am
+trying to source that.
+it goes from the electronic ignition module to ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920760">Re: [T2] Heater pipe ducting on a 79 bus</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2012-03-31 21:36:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have been using 3" (3" OD, 2.25" ID) water heater exhaust pipe from Home
+Depot. It is double walled, so naturally insulated. Just cut to size and
+sheet-metal screw it into the metal pipes that go through the frames. A
+little butyl tape to seal the gaps, ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/920784">Re: [T2] calif electronic ignition system</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-03-31 21:44:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi John
+I was sort of heading to "no points" so,,, no rubing block to wear out...
+sort of maintenance schedule...
+I have a dist with some sort of electronic ignition,, I don't think it has
+points either..
+
+back to the cali ignition,, sitting in a box at my...</code></pre></td>
+      </tr>
+    
+    </tbody>
+  </table>
+
+
+
+
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2012-03" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2012-03" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2012-03" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

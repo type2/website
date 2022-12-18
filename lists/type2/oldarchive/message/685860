@@ -1,0 +1,285 @@
+<html>
+<head>
+<title>type2 - '73 Safare update: Propane install</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/685860 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/685860" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/685860" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>'73 Safare update: Propane install</h1>
+   <b>David Schwarze &lt;schwarze_at_io.nosc_dot_mil&gt;</b><br/>
+   <i>1995-04-24 02:22:11+00</i><br/>
+   <br/>
+   <pre>Hi again,
+	This is a report of what I did *last* weekend.  I ripped the sink,
+closet, stove, and fridge units out of my camper.  I did this with much
+regret, as they were what made the Safare so unusual, and different.  But,
+the cabinets were falling apart, and they took up tons of floorspace.  The
+setup was similar to the early westy, with the fridge/stove behind the
+passenger seat and the sink/closet/water tank behind the driver.  This
+looked very cute but the fridge/stove blocked access to the sliding door
+handle from the inside, and took up more than half of the entrance way
+when the sliding door was open.  Also, when the bed was folded out, there
+was only a small space in the aisle in which one could stand.  Not even
+enough room to dress comfortably.  The closet, while veeery convenient (it
+was 5 feet tall, good for coats and things) blocked the view behind the
+driver.  Last but not least, the fridge was about to fall apart - the
+plastic mounts were cracked off and the seals were shot.
+
+	So, I decided  to go with a setup similar to the late model Westy.
+I drew out a diagram of a cabinet for behind the driver which would house
+the new fridge (well, it was used but in great shape, thanks Marcus!) and
+the stove.  There was not room for the sink in the cabinet, so I decided
+to forget about the sink, since I never used it anyway.  Ditto the 10 gal.
+BLACK water tank.  Well, I think I might find a use for that water tank
+a little later (hint hint rhymes with flower, Martha).  The problem was
+that the hookup for the propane tank comes up through the floor right
+behind the passenger seat.  How to get propane over to the drivers side
+for the stove??  Also, I figured I would have to build a small cabinet
+behind the passenger seat (say, 6" deep) to cover up the propane hookup.
+That's okay, I will need the storage anyway, and Safare cut a huge hole
+in the metal wall behind the passenger seat for fridge ventilation - the
+cabinet will hide this too.
+
+	So back to routing the propane.  The original line to the stove
+was copper pipe, so I figured I would just extend it.  Under the carpeting
+and linoleum there is a layer of 1/2" plywood - I figured I would cut a
+notch in it and lay the pipe there.  So, I head off to Home Depot and
+buy 10' of copper pipe and some compression fittings.  Also a tubing
+cutter.  I cut the original pipe, laid in the new pipe, and installed the
+fittings.  Looked good.  Turned on the propane, and got nothing.  Hmmm...
+Gauge says I am out.  That figures, I remembered being low at Red Rock.
+So, I head over to La Mesa RV across the freeway, and get 3 gallons of
+propane.  It's 98 cents/gallon but with a 5 gallon minimum.  The lady
+at the register was nice and only charged me $3.  I don't think I've
+ever paid for more than 3 gallons, even when places have 5 gallon minimums.
+Maybe they feel sorry for me cause my van is so ugly.
+
+	Back at the farm, I again turn on the propane, and again I get
+nothing.  Press in the gauge to test, and I hear gas running through the
+line.  Release the gauge, no gas.  It's not supposed to work that way.
+I notice that there is mud completely covering the tank and regulator.
+I theorize that dirt got into the gauge and clogged it somehow.  Take the
+gauge out and clean it, reinstall and still no flow unless I press the
+gauge in.  Grrrr!  The stupid gauge was only 2 years old, but I reluctantly
+take it out and install the regulator directly into the tank, like it used
+to be.  Now the gas flows freely.  And the fittings leak!  This day was
+rapidly going to hell.
+
+	Back at Home Depot, I try to find someone that knows about propane.
+One guy says, "Yeah, propane fittings are all reverse threaded.  We don't
+have none of that stuff".  At Camping world, they say I have to use flare
+fittings, and flare the ends of my pipe.  They can't tell me how I can do
+this, though.  
+
+ASIDE:
+	Camping World is an amazing place.  Huge store, huge parking lot.
+They have special (?) 110v RV microwaves for $300, RV couches, RV lounge 
+chairs, RV double-door refridgerators, RV backscrubbers, RV eggholders,
+RV washer/dryers, etc..  All this stuff looks like what you could find at
+Target for your home, but with "RV" in front of the name and an extra
+digit in the price.  I hate this place.  But, they have a sale on propane
+tank gauges ($19), and they don't have the funky "press to check" feature!
+I pick one up, along with a new cap for the propane tank filler nozzle ($6,
+ouch!) and get the hell outta there.  Funny thing, I ask the girl behind
+the counter if they have the caps for the propane tank filler nozzle and
+she says, "You mean the yellow ones?"  Either ALL of them are yellow or
+she is clueless.  Hmmm, maybe they *are* all yellow?</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F685860" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F685860" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F685860" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,334 @@
+<html>
+<head>
+<title>type2 - the new engine trip report.... Getting it ready.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/563260 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/563260" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/563260" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>the new engine trip report.... Getting it ready.</h1>
+   <b>Jason Black &lt;vwbus_at_earthlink_dot_net&gt;</b><br/>
+   <i>2013-05-28 17:18:11+00</i><br/>
+   <br/>
+   <pre>Fellow Listees...
+	I've had a heck of a time these few weeks getting my '70 Westy ready
+for the LEAF festival this past weekend... 
+	To begin, I started by exorcising the electrical demons and putting
+wires back where they were supposed to be hooked on the back of the fuse
+box... the interior "key-in, door-open" buzzer had been replaced with an
+*american* car flasher unit, since (I suppose) they mistook it's
+plaintive, frail attempt at buzzing for a malfunctioning flasher unit,
+since the flashers didn't work... the flashers didn't work because of
+improperly hooked-up wires to the actual flasher relay... after that was
+resolved, i noticed that I still couldn't get the headlights to go from
+bright to dim, and that the headlight relay had been tampered with. Upon
+removing the relay cover, i could see that the arm across the top of the
+relay had completely rusted out, causing the relay to quit working...
+(and this, because of the pinholes under the front windshield...) so,
+after some trial and error, a working replacement arm was carefully
+crafted in the old-world style, out of a large paperclip. It's not every
+day that one is able to fix a relay, so i was quite pleased... relay in,
+dimmer working...
+	So what else needed to be done? Well, I was getting tired of
+double-clutching 3rd and 4th gears, although it kept those CDL skills
+fresh on the brain... the pedal-to-the-floor brakes had already been
+fixed by adjusting, so they were okay. A woeful compression test yielded
+the following results for the sick engine: 0 in #1, 100 in #2 and #3,
+and 75 in #4. It wasn't losing oil, so i figured that the likelihood of
+a burned piston was remote. My guess is that it was the exhaust valve...
+but that remains to be seen, since the longblock still rests whole on
+concrete blocks, dripping the remnants of its oil into a drain pan. If I
+get really industrious, I'll remove the sparkplug and apply shop air to
+the hole when #1 is at TDC, and listen for the location of escaping
+air...
+	I pulled the engine and tranny as one unit, after spending considerable
+time with a pick cleaning the crud out of the CV bolt-head recesses and
+removing the driveaxles.
+	I had another engine case awaiting new parts that was to be the
+candidate for this rebuild. Together with a good crank, new cam and
+matched & balanced rods & 85.5 mm pistons, I was happy... My search for
+shims to get lower compression involved several trips to Larry's Hot VWs
+in Harriman... since I accidentally got head "spacers" the first time,
+and wasn't about to put them on the motor. I ended up getting more or
+less what i needed, though i fudged a bit by using 2 shims under each
+cylinder... 1 .030" and 1 .045", the .045"s cannibalized from a 1500cc
+also awaiting a rebuild. 
+	I found that the 1700/1800 cc head spacers, with a little sanding on
+the inside rim, would fit perfectly onto the cylinder bases of my
+85.5s... but i didn't go that route since I was wary of the aluminum
+compressing over time/engine heat cycles/and so on... Still, i bought a
+set just in case... I ended up with about a 6.6 to 1 compression ratio
+after all was carefully extrapolated and checked.
+	Heads... new SP heads from CB... $300 for the pair to my door. polished
+and matched for ccs, with all valve stem heights equal (no, they didn't
+come that way), I was glad to install them at last. I remembered this
+time to be sure and install the Kool-Tins before I bolted the heads
+on... nice not to have to tear that apart again like i have spaced out
+before and had to do...
+	 Another great lump of time was spent sandblasting all engine tin and
+repainting it... plus the heater boxes. plus slicing and flattening-out
+the dimples on the lower shroud pieces to allow for the kool-tins and
+doing the necessary welding... flat black is the color scheme.
+	After what seemed like 6 months, i got the heat riser tubes on the
+intake unplugged... 
+	I also went to a machine shop and had two pulley-hubs turned down to
+1.765" to facilitate the use of a sand seal on this engine... i got to
+see it done, which was nice. 
+	Doing some primitive machining of my own on a drill press with a file,
+some fine sandpaper, and a brass fitting, i was able to make another
+shift bushing for the front of the shift rod. I think it ended up being
+10 mm ID, 14 mm OD, with a tiny flange left on the outside to prevent
+the works from disappearing into the depths of the shift rod. A little
+JB weld to make sure it stayed put, and it was done... I didn't have to
+make the rear coupler, thankfully, and it went on without a problem.
+	Meanwhile, I removed, cleaned, regreased, and reinstalled the CV joints
+with new boots and clips, protecting them with plastic bags. I was
+having trouble at this time locating the cylinder shims, and so...
+	I went ahead and swapped the tranny for my spare one. i had to use the
+old clutch tube mounting bracket, and the front nosecone bracket and
+seal thingy. Having nothing else to do, i reinstalled the tranny and
+driveaxles.
+	More boredom inspired the Hooverizing of the firewall with a bulkhead
+fitting for the metal fuel line and new rubber line. This wasn't hard to
+do, since I went down to the hardware store after reading his article on
+them and bought several boxes of the threaded lamp tubes and nuts, and
+already had them in the toolbox.
+	Once the longblock was together, i installed the heater boxes and the
+new cheap exhaust that was in the back of the bus when i bought it, and
+tacked-on the lower exhaust flanges... in my haste accidentally cutting
+off the tiny flares on the tailpipe tubes instead of the ones for the
+heater boxes... oops.
+	That done... several hours were spent cussing and fighting with the
+cheap exhaust getting the heat risers to line up properly. There oughta
+be a law...
+	Another hour or three was devoted to getting the alternator and tin
+properly set up... since i used all the tin, flaps, etc., from the motor
+that came in the '70... and I had to change the backing plate and hub to
+get it right.
+	The crankshaft end play... I got it dead-on to a hair less than .003
+after browsing the shim stack and installing them and the flywheel
+several times, and rechecking what I had...
+	New pressure plate and clutch disc... and the *flywheel*, oh, there's a
+different story. I just grabbed a good o-ring flywheel from the storage
+area, not really paying attention to the teeth. It happened to be a 6V
+flywheel... I now know what the horrendous sound of 12V starter and 6V
+flywheel attempting to mesh sounds like... a 6V starter and adapter
+bushing solved that, although i waited until the trip was over to fix
+that part of it... Someone posted about using a tap to get the old
+bushing out, which I used. Thanks! It worked, albeit slowly... 
+	I remembered that one of the lower engine mounting studs had broken off
+at the case, and so dealt with that... I used my reverse-drill bits to
+no avail, but drilled through the stud and retapped the hole. It was a
+wee bit off center, but mild tapping with a brass hammer on the new stud
+produced good results.
+	All else went together without notable incident... including the full
+flow system... the spin-on mount is attached to the front side of my
+trailer hitch.
+	And... it started up on the first try, thankfully, after the initial
+easy-crank to build oil pressure. Rev-up for the cam-lobe lube thing for
+a few minutes, then let it rest...
+	I also had to remove a light socket for the right rear and tack in a
+new one to the "bucket"... the old one was shorting out too easily.
+
+Thanks,
+
+Jason Black
+vwbus_at_earthlink_dot_net</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F563260" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F563260" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F563260" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

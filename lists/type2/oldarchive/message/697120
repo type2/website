@@ -1,0 +1,289 @@
+<html>
+<head>
+<title>type2 - more Wierdly Weakly Statz ... :)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/697120 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/697120" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/697120" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>more Wierdly Weakly Statz ... :)</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1997-04-04 04:37:27+00</i><br/>
+   <br/>
+   <pre>just for the heck of it, here's the statz on ALL the buses that i know
+of (out on the internet), whether on either of the bus lists or not.
+just to let you know where you and your bus fit into the Grand Scheme
+of Things ... ;)
+
+WHERE they all are/were:
+-ARG         1  -IT          5  CO.W         4  NC.C.CHAR    4  RI           6
+-AUS        15  -JP          1  CT          16  NC.C.CHILL   1  SC          15
+-AUS.ACT     2  -MEX         1  DC           6  NC.C.GB-WS   9  SD           3
+-AUS.NSW     6  -NL          9  DE           5  NC.C.RA-DU  35  TN          16
+-AUS.QL      4  -NOR         6  FL           1  NC.E         3  TN.C.NAS     2
+-AUS.SA      3  -NZ          2  FL.C         3  NC.W         3  TN.E         1
+-AUS.VIC     3  -NZ.WGTN     1  FL.N        27  NC.W.ASHE    4  TN.E.CHA    15
+-AUS.WA      1  -PAN         1  FL.NW        7  ND           1  TN.E.KNO     3
+-AUST        2  -PHI         1  FL.S         7  NE           6  TN.W.MEM     8
+-BEL         2  -POR         1  FL.SE        2  NH          15  TX           1
+-CAN        10  -SWE        13  FL.SW        8  NJ.C        10  TX.AMA       2
+-CAN.AB.CAL 11  -SWI         1  GA           1  NJ.N        17  TX.AUS      30
+-CAN.AB.EDM 21  -UK.ENG.BIR  3  GA.C         3  NJ.S         2  TX.BEA       2
+-CAN.AB.MED  1  -UK.ENG.BRI  2  GA.E         3  NM          12  TX.DAL      24
+-CAN.AB.RED  1  -UK.ENG.CAM  1  GA.N        18  NV           1  TX.E         4
+-CAN.BC      1  -UK.ENG.CUM  1  GA.N.ATL    26  NY           4  TX.HOU      22
+-CAN.BC.INT  6  -UK.ENG.LIV  2  GA.S         1  NY.E         1  TX.LUB       1
+-CAN.BC.VAN 41  -UK.ENG.LON 42  GA.SE        1  NY.E.ALB     4  TX.S         1
+-CAN.BC.VIC 19  -UK.ENG.MAN  3  HI           5  NY.E.LI     11  TX.SA        1
+-CAN.MN      1  -UK.ENG.NEW  1  IA          17  NY.N         1  UT          17
+-CAN.MN.WIN  5  -UK.IOM      1  ID           9  NY.NYC      13  VA           1
+-CAN.NB.FRE  7  -UK.SCO      1  IL          50  NY.W.BUFF    4  VA.C         6
+-CAN.NB.SJ   4  -UK.SCO.EDI  2  IN          22  NY.W.ROCH   10  VA.E         7
+-CAN.NF.SJ   1  -UK.WAL.CAR  1  KS          17  NY.W.SYRA   11  VA.N        15
+-CAN.NS      1  -UK.WAL.CLW  1  KY          10  OH           2  VA.N.ALEX   16
+-CAN.NS.HAL  8  -VEN         1  LA           7  OH.C.COL    25  VA.N.FRED    3
+-CAN.NT      1  -ZA         10  MA.C.WOR     4  OH.N.CLE    16  VA.S         1
+-CAN.NT.YK   1  AK          15  MA.E         1  OH.N.TOL     4  VA.W         7
+-CAN.ON      1  AL          15  MA.E.BOS    46  OH.S.DAY     2  VT           7
+-CAN.ON.LON  1  AR          14  MA.E.NBED    2  OH.SW.CIN    8  WA           3
+-CAN.ON.NBA  1  AZ           4  MA.W         8  OK           3  WA.C         4
+-CAN.ON.OTT 13  AZ.N.FLAG    2  MA.W.SPR     2  OR           1  WA.E         1
+-CAN.ON.SUD  5  AZ.S         1  MD           2  OR.NE        2  WA.E.SPO     6
+-CAN.ON.TOR 33  AZ.S.PHOE   13  MD.C.BAL    38  OR.NW.CORV  12  WA.NW.BEL    5
+-CAN.PQ.MON 12  AZ.S.TUCS   22  MD.C.FRED    1  OR.NW.EUG   15  WA.NW.SEA   99
+-CAN.PQ.QUE  3  CA           5  MD.SE.LP     2  OR.NW.PORT  42  WA.SW        2
+-CAN.SK      1  CA.BA      158  ME           8  OR.SW        1  WA.W         4
+-CAN.SK.REG  2  CA.N        50  MI          29  OR.W         1  WI.NE.GB     2
+-CAN.SK.SAS  1  CA.S         1  MI.UP        1  PA           6  WI.S.FDLO    4
+-CAN.YK.WHS  1  CA.S.LA     65  MN           2  PA.C         8  WI.S.LC      1
+-DEN         5  CA.S.SD     38  MN.MSP      37  PA.E         6  WI.S.MAD    21
+-ESP         2  CA.S.SLO    18  MN.N         7  PA.E.ALL     7  WI.S.MIL    14
+-FIN         5  CO           5  MO          26  PA.E.PHI    22  WV           4
+-FR          4  CO.N.BOU    17  MS           3  PA.NW        1  WY           5
+-GER        14  CO.N.DEN    19  MT          10  PA.W        11
+-IND         1  CO.N.FTC     3  NC           2  PA.W.PIT    12
+-IRE         3  CO.S         5  NC.C         2  PR           6
+       Unknown     772      Total      2959
+
+and WHAT they all are/were:
+50 Microbus   0  59 Microbus  23  68 Bus  51  80 Vanagon  67  91 Eurovan   1
+51 Microbus   0  60 Microbus  21  69 Bus  62  81 Vanagon  76  92 Eurovan   6
+52 Microbus   1  61 Microbus  27  70 Bus  80  82 Vanagon 114  93 Eurovan  49
+53 Microbus   2  62 Microbus  26  71 Bus 181  83 Vanagon  56  94 Eurovan   2
+54 Microbus   5  63 Microbus  21  72 Bus 123  84 Vanagon 154  95 Eurovan  15
+55 Microbus   4  64 Microbus  36  73 Bus  91  85 Vanagon 156  96 Eurovan   0
+56 Microbus  12  65 Microbus  52  74 Bus  79  86 Vanagon  95  97 Eurovan   0
+57 Microbus   6  66 Microbus  78  75 Bus  44  87 Vanagon 170
+58 Microbus  11  67 Microbus  81  76 Bus  69  88 Vanagon  44
+                                  77 Bus  99  89 Vanagon  43
+                                  78 Bus 107  90 Vanagon  59
+                                  79 Bus  61  91 Vanagon  61
+
+ Microbus  406 - Camper 101, Panel   25, Pickup  65, Kombi   48, Deluxe  78
+ Bus      1048 - Camper 590, Panel   13, Pickup  19, Kombi   27
+ Vanagon  1096 - Camper 538, Panel    2, Pickup  12, Diesel  52, Syncro 134
+ Eurovan    73 - Camper  25, Panel    2, Pickup   1, Diesel   4, Syncro   1
+ Total    2623
+
+those are the results of all the Weakly Staz gathering for the last three
+years (my god, has it been THAT long??). lots of buses, eh?? :)
+
+unca joel</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F697120" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F697120" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F697120" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

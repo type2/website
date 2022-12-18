@@ -1,0 +1,367 @@
+<html>
+<head>
+<title>vintagebus - Latest NQ Update</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/617711 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/617711" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/617711" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Latest NQ Update</h1>
+   <b>ThatVWGuy_at_aol_dot_com</b><br/>
+   <i>2000-09-18 23:34:01+00</i><br/>
+   <br/>
+   <pre>In a message dated 9/17/00 12:31:29 PM Central Daylight Time, 
+elassley.bie_at_beatricene_dot_com writes:
+
+<< Hello Frank, Cheryl, Calvin and Dan & Family.  I just wanted to 
+ drop you guys a line and let you know how things are going here.  I 
+ also would like to request, if it's not too much trouble, that you 
+ post my message here to the list so everyone knows how things are 
+ going. I think Frank can take care of the vintagvw list and Dan can 
+ take care of posting to the vintagebus listserv.
+ 
+ Sometime Thursday evening or Friday morning was when I made my last 
+ post to the list.  Since that time, the phone company has arrived 
+ and removed the 2nd line which we had for over 13 years for nothing 
+ but dedicated computer use.  I ran a BBS on this line for 4 years 
+ in the early 90's until the computer crashed and that ended things 
+ for the "Imperial Realm BBS." :-)  Anyway, I was a bit miffed that 
+ they sent a guy out to our house because I had called and asked if 
+ they needed to send someone out.  I was assured that *EVERYTHING* 
+ would be handled at the phone company and there was no need to have 
+ anyone here because nobody would be sent out.  Whatever.
+ 
+ Friday mid-morning I had to make a delivery to my ISP and I got the 
+ word that we had in fact been converted to DSL that morning.  I 
+ figured this weekend would be the DSL change over period.  It has 
+ been but we still aren't done.  As you've probably guessed, the 
+ fact I'm having to send this via web mail is clue enough that we 
+ aren't out of the woods yet.
+ 
+ Moving along and getting to VW content.  The bus had started just 
+ fine for Glen and I Thursday evening but after that first start, it 
+ refused to start subsequent times.  Lights were dim, starter would 
+ clunk and then things would fall off.  The charger showed the 
+ battery was holding a full charge but it no longer would deliver 
+ the current to crank the bus over.  I decided that Saturday morning 
+ I would put in the battery that I use to test fire engines on the 
+ stand.  After installation, the bus fired right up and ran great so 
+ a bad battery was the cause of my problems.  The alternator seems 
+ to react better to the new battery - charging a lot better than 
+ before.  A look at the old battery showed that early 1997 was when 
+ it was purchased and beings it was a cheapy - it's no surprise.
+ 
+ Friday evening, I had ran over to my grandfather's the night before 
+ to help him try to start his 1949 Chevy Carryall (predecessor to 
+ the Suburban).  We kind of got it running off of starting fluid but 
+ the carb wasn't delivering fuel properly or even at all so we gave 
+ up and decided to pull one off one of the other engines and rebuild 
+ it later.  I asked my grandfather if he wanted to ride with me in 
+ the bus to the Steele City, NE flea market but he declined stating 
+ that he wanted to work on the Carryall.
+ 
+ Saturday was day 1 of 2 of big Steele City, NE flea market and swap 
+ meet.  I got a call from my grandmother Saturday morning asking 
+ when I was leaving because my grandfather wanted to go.  Grandma 
+ said that night he laid in bed and said, "Boy I sure wish I could 
+ go with Erin to Steele City."  Grandma said, "Well Wendall, why 
+ don't you?  The work will still be here when you get back."  So 
+ after making a run to the bank and fueling up, we headed out on our 
+ 25 mile or so run to Steele City.
+ 
+ Steele City is a dying town - the school is nothing more than a 
+ historical site - being shut down in the mid to late 80s for 
+ consolidation.  The trains still run through every 20 minutes with 
+ 100 car coal loads instead of passenger cars.  The people of Steele 
+ City are of strong character and drive though.  They've pulled what 
+ few of them are left - together, and renovated old buildings for 
+ historical preservation, maintained a humble park, and the Salty 
+ Dog tavern is a jam packed locale almost every evening of the 
+ week.  It's a favourite of Harley riders as one can stop almost 
+ anytime around the weekends and see Harleys and their riders from 
+ all over the U.S. as the license plates and helmets will tell you.
+ 
+ I like general swap meets because chances are good when you find 
+ anything VW, the people will either not know what it's worth or 
+ what it is and charge accordingly.  The bus ran great on the way 
+ there - bucking a headwind at 65mph required floored pedal but we 
+ made it!  Oil temps with 60F outside were a steady 150F.  After we 
+ rolled up and parked, it was literally about 5 minutes at the first 
+ vendor's tool table that I spied a 13mm/8mm Hazet wrench in really 
+ good shape.  The bucket was labeled, "Misc. Tools 50 Cents Ea."  
+ The wrench became mine.
+ 
+ The rest of the day didn't net me any more VW stuff.  There just 
+ wasn't any.  I did buy some trinkets and some gift stuff but 
+ nothing major. I think I only spent about $7.00 total.  For lunch 
+ we ate at the Salty Dog since none of the charity benefit lunches 
+ there were anything we wanted to support.  You could get a rib 
+ sandwich and chips for $3.00 plus your drink so I ordered 2 
+ specials for myself and one for my grandfather.  He paid for it all 
+ as well so that was nice.
+ 
+ I spent the rest of the afternoon watching the old time saw mill 
+ cut up 20 foot Cottonwood logs with blades that were in excess of 3 
+ feet across!  Amazing!  The old way of doing things was hard but 
+ with a team of devoted people, the work got done.  Today (Sunday) 
+ they are going to put on an old time grain thrashing demonstration 
+ at 2:30.  It's really awesome to see that old farm machinery work 
+ and you can't help but think how hard your ancestors worked to make 
+ a living.  Another good plus to watching grain thrashing is that 
+ old timers can tell you how in about a half an hour, a handful of 
+ wheat kernals can be turned into impromptu chewing gum.
+ 
+ About 3:30, we headed for the bus.  I walked by a vendor that had 
+ new tools for sale and I bought 2 BBQ lighers for $2.00 - that's 
+ cheap and cheap insurance against burning yourself - they make a 
+ great way to start torches and propane open-eye heaters so you 
+ don't have to ogle your heater (with match in hand) and jump back 
+ before the WHUMP catches you and singes your eyelashes off.  
+ Anyway, we walked towards the bus and I passed one more table.  
+ Laying there in admidst heavy farm hand tools was a white over red 
+ plastic auto compass which looked 50's retro.  It kind of worked 
+ but regardless, I figured it would look neat in the bus.  It came 
+ with a little bracket and a screw hole in it so it's now mounted 
+ securely to the one of the airbox screws.  It even matches the 
+ color scheme of the bus! :-)
+ 
+ We got back home around 4:00 and after dropped my grandfather off, 
+ I came home and crashed.  About 2 hours later, my friend Greg who 
+ is the sysadmin at BeatriceNE_dot_com stopped by and slaved for about 4 
+ and half hours trying to get DSL to work.  He tried the P166 and 
+ that culminated in a reinstallation of windows (Like I expected.) 
+ and a crashed machine so he'll have to look at it on Monday.  The 
+ installation on my brother's computer (Celeron 400MHz) worked great 
+ but we couldn't connect to the server.  Greg took the Cisco router 
+ home, tested it (passed with flying colors), and brought it back 
+ here and it flopped again.  So the only thing Greg can figure is 
+ that something is misconfigured at HQ in Lincoln.  We'll know 
+ Monday or Tuesday if I'm DSL enabled or not.  In the meantime I'm 
+ still able to read list traffic but I can't post to it because the 
+ webmail header is slightly different and the listserves won't 
+ accept my posts.  
+ 
+ A few things I need to say before closing:
+ 
+ Glen Hadley - thanks immensely for the help on Thursday.  I can't 
+ get to your phone numbers because they are on my crashed machine.  
+ Call me at 402-228-2462.  You left your fanny pack in the bus and 
+ eagle eye Dad found 4 sockets in the gutter in the street that you 
+ missed.  Everything is here until you tell me what to do with it.
+ 
+ For the Nebraska and Kansas contingents, Pink Newell and Rick 
+ Taylor are heading up to Indian Cave State Park in Southeast, NE to 
+ scope it out for a fall campout.  VW Buses of all years will be 
+ welcomed to attend the event once we have definite plans but if you 
+ have any other VW or even a passing interest in seeing a sample of 
+ what BNNTA was like, come on down - we won't turn you away.  I'm 
+ sure Shawn and Sarah Hunt will be there (great Bus Volk!) and if 
+ Isaiah can make it, I'm sure he'd give it a try too although it's 
+ quite a long drive for him.  Anyway, if anyone is intersted in the 
+ Fall campout wherever we have it (somewhere in IA, NE, KS, MO area, 
+ feel free to get in touch with me, Rob, Terry, Pink, Rick, etc.  
+ We'll have something cooking within the next couple of weeks.
+ 
+ That's it for now - sorry for the long post but a lot has gone on 
+ and I'm sure some of you were wondering where the heck I was at.
+ 
+ 
+ NQ >></pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F617711" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F617711" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F617711" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

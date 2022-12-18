@@ -1,0 +1,322 @@
+<html>
+<head>
+<title>type2 - MI vw show-come see me</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/717726 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/717726" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/717726" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>MI vw show-come see me</h1>
+   <b>rex eastman &lt;sunbugs_at_INREACH.COM&gt;</b><br/>
+   <i>1997-07-24 04:59:15+00</i><br/>
+   <br/>
+   <pre>I'm flyinf out to the MI show this weekend.  Come by my booth if you are
+going to the show.  I'll be there selling VW service coveralls.
+
+rex
+
+----------
+> From: Ken Hooper <bighouse_at_bigkitty.azaccess_dot_com>
+> To: type2_at_type2_dot_com; vanagon_at_vanagon_dot_com; VINTAGVW_at_SJSUVM1.SJSU.EDU
+> Subject: Asbestos in VWs -- VWOA Denies it's a Covert Recall
+> Date: Tuesday, July 22, 1997 11:12 PM
+>
+>
+> For those of you who haven't been following this, I've been trying for
+> quite a while to get VW to issue a definitive written policy on
+replacement
+> of heating system components in '72-and-up aircooled Transporters.
+>
+> In June, I specifically asked for a statement detailing what VW would
+> replace, under what circumstances, in which countries. Ten days later,
+> having received a "we'll get back to you" email from Marilyn Kenyon of
+> VWOA, I reiterated that what I was looking for was a specific policy on
+> what, why and where.
+>
+> Following is what VWOA considers a "definitive" response (their word).
+It's
+> not an unofficial recall, which is what I called it; it's not a parts
+> exchange, which is what one listee was told; it's a scientific sampling.
+>
+> It isn't clear whether they're going to continue to replace the heater
+> systems; if they've concluded there's no health hazard there's no reason
+to
+> keep on replacing them--but it doesn't say they won't, either. No word on
+> whether this "investigation" applies to non-US markets. That is, they
+> answered none of my questions, they merely distanced themselves from the
+> dreaded r-word.
+>
+> At one time I had some reservations about whether VW ought to be held
+> responsible for components that are so old. But the way Ms. Kenyon tells
+> it, if VW replaces your heating system, you're doing VWOA a favor. Ain't
+> science wonderful?
+>
+> Somebody post Le Coz's phone number again.
+>
+>
+> >Date: Tue, 22 Jul 1997 16:43 -0400 (EDT)
+> >From: "Kenyon, Marilyn Ann" <Marilyn.Kenyon_at_vw_dot_com>
+> >Subject: Follow-Up
+> >To: Ken Hooper <bighouse_at_type2_dot_com>
+> >MIME-version: 1.0
+> >Posting-date: Tue, 22 Jul 1997 16:43 -0400 (EDT)
+> >Priority: normal
+> >
+> >
+> >Dear Mr. Hooper:
+> >
+> >This is in further response to your E-mail of June 12 to our Web site
+and
+> >follows up on our interim reply of July 1.
+> >
+> >You have advised us that you are aware of  "an unofficial recall
+> >concerning asbestos gaskets used in the heating systems of post-71
+> >air-cooled Volkswagen automobiles."  You appear to base your conclusion
+> >upon information from several owners of Volkswagen vans who have
+asserted
+> >they are the beneficiaries of certain repairs paid by Volkswagen.
+> >
+> >In fact, Volkswagen has not conducted any recall concerning asbestos
+> >gaskets in heater systems of Volkswagen automobiles and has no plans to
+> >do so.  Your misimpression may have been based upon the removal and
+> >replacement by Volkswagen of America representatives of certain heater
+> >system components in a small sample of older Volkswagen vans although
+the
+> >vehicles were far out of warranty.  Volkswagen removed these components
+> >from customer-owned vehicles, and naturally installed replacements,
+> >because its engineers were interested in confirming whether or not
+heater
+> >system components used in 1972 through 1982 Volkswagen vans equipped
+with
+> >air-cooled engines posed a health hazard after 15 or more years of use,
+> >as some persons have suggested.  The investigation performed to date by
+> >these engineers confirms that the heater systems in these Volkswagen
+vans
+> >do not pose a health hazard.
+> >
+> >Some owners have also expressed concern about the supply of replacement
+> >heater parts for these vans.  Because of the age of the vehicles in
+> >question, Volkswagen's stock of replacement heater components has
+> >unfortunately been completely exhausted.  However, we know that heat
+> >exchangers are available as replacement parts from a number of
+> >aftermarket suppliers.  We suggest that any owner of a 1972 through 1982
+> >model Volkswagen van who requires a new part we can no longer supply,
+and
+> >in particular a new heat exchanger, ask his repair facility to contact
+> >one of these suppliers.
+> >
+> >Please let us know whether you require any additional information.  If
+> >you believe it to be helpful, we would be pleased to meet with you at a
+> >place and time convenient to you for the purpose of further review of
+> >your concerns.
+> >
+> >Sincerely yours,
+> >
+> >
+> >Marilyn Kenyon
+> >Team Leader
+> >Customer Relations
+>
+>
+> --Ken
+>            68 Westy, Admin -- type2 -- The VW Bus Mailing List
+>
+></pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F717726" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F717726" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F717726" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

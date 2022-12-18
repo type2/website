@@ -1,0 +1,307 @@
+<html>
+<head>
+<title>type2 - No more bus, so free stuff for you</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/828822 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/828822" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/828822" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>No more bus, so free stuff for you</h1>
+   <b>"Tom Shinn" <turtlebus(-at-)msn.com></b><br/>
+   <i>2011-02-07 00:33:47+00</i><br/>
+   <br/>
+   <pre>It's been quite some time since I've posted something to the type II list.
+Seems I've slowly drifted away from the bus scene and moved on to other
+transportation, the two wheeled air cooled variety. I thought I would send one
+last post, mainly to thank those of you who kept me well advised as I was
+rebuilding my 75 bus and 80 Vanagon Campmobile. I don't think I could have
+done it without the help of this list.
+
+The bus and camper have found new homes and I hope they are bringing their new
+owners as much joy as they brought me. So, in an effort to make room for my
+motorcycle hobby I've been cleaning out my shed and gathering all my old bus
+spares together. I listed them for sale today on craigslist, but this
+afternoon I had a thought. Maybe there is someone on the type II list who
+could use this stuff. I'd like to see it all go to someone who really
+appreciates what the Bus is all about. All you have to do is come pick the
+stuff up. There is no charge, that's right it's free parts for whoever wants
+to come to Flagstaff Arizona to get it within the next week or two. I need
+this stuff gone and need the room. I don't care if you want the stuff for
+yourself or to sell or give away to others, just as long as it doesn't wind up
+in the dump. I'd like to think I'm doing my part to keep someone's bus on the
+road.
+
+All you have to do is send me an email and let me know when you can come get
+the stuff, and I'll take it off craigslist Make sure you mention that you are
+from the type II list so I know you get the free deal.
+Here is a list of what I've found so far:
+Here is the list of most of the parts:
+
+
+
+  1.. Airflow meter PN 071906301A From a 1975 VW Transporter. I think it's
+good.
+  2.. Kit to measure cylinder head volume. Home made but works good
+  3.. Clock blank plate for VW busses I think it fits 1970 to 1979.
+  4.. New Victor Renz Front crank shaft seal for 2 Liter engine.
+  5.. Alternator cooling boot PN 021903655D In good condition
+  6.. Push rod tube seals Viton (Qty 8) New.
+  7.. 3 Con rod bushings new.
+  8.. Misc. rubber seals for the engine tin
+  9.. Fuel level sender seal For 1975 bus probably fits other years
+  10.. Rubber Pads For brake and clutch pedals 2new and 2 used in good
+condition PN 311721173A . These are the original ones with the VW logo on
+them.
+  11.. Plastic timing scale, worn but useable
+  12.. Bosch Blue Coil. Almost new
+  13.. Aftermarket ignition coil
+  14.. Fuel pressure sensor for Fuel injected engines (From 1978 Bus)
+  15.. Oil Pressure sensor hose, used for remote pressure sensor for oil
+pressure gauge. New
+  16.. Exhaust clamp with gasket. Looks like new.
+  17.. Exhaust manifold gasket set. I think this is for 1979-1983 models. New
+  18.. Two Oil pumps for 2 liter engine
+  19.. Four metal clips that hold the air cleaner box closed
+  20.. After market gas gap from a 75 bus.
+  21.. Eight push rod tubes. From a 1975 Bus.
+  22.. Instrument Panel with speedometer, fuel gauge, and warning lights.
+  23.. Fuse panel with Flasher and Relay from 1970 bus
+  24.. Five Dash board switches from 1970 bus
+  25.. Two Door light switches from 1970 bus
+  26.. Four fuel injectors from 1980 Vanagon 2L engine. Worked well when
+removed
+  27.. Four fuel injectors from 1978 Transporter 2Liter engine. Worked well
+when removed.
+  28.. Valve cover bail from a 2 liter engine.
+  29..  Fan pulley from a 2 liter engine.
+  30.. Thermostat pulley/wheel
+  31.. Metal Timing Scale from a 1975 1.8 Liter engine
+  32.. Push rod tube wire keeper (only one, and I don't know what side it's
+from)
+  33.. Front and rear main seals Victor Renz New PN 021105247A & 029105245B
+  34.. Five new Valve cover gaskets
+  35.. Aux Air Valve PN 022906045A
+  36.. Intake Elbow for aux air valve new PN 022129637
+  37.. Radio Block off plate. Made to mount 3 Gauges in the rectangular hole
+that the radio usually mounts in. New
+  38.. Sun Pro Mechanical Oil pressure gauge and hose kit. Almost new
+  39..  Crankshaft seal Fan end PN 021105247A New
+  40.. Two Oil Pressure Sensors, one new, one used.
+  41.. Accelerator Cable for 1975-1979 bus w/manual trans. New
+  42.. Cold Start Valve, or injector #5.
+  43.. Stock Oil Cooler from 1978 2 liter engine.
+  44.. Two oem Blaupunkt speakers w/ grill from 1980 Vanagon
+  45.. Throttle assembly PN 022133067
+  46.. Pair of tail lights from 1970 bus, One has a cracked lens but is
+useable
+  47.. Front turn signal lights from a 1970 bus
+  48.. Camper (Pop) Top Hinges for 1975 to 1983 Campmobiles
+  49.. Camper (Pop) Top Latch for 1975 to 1983 Campmobiles
+  50.. Air cooling flap assembly (Goes inside the fan housing)
+  51.. Coat hook from 1970 bus
+  52.. Linkage and rubber boots for fresh air vents from a 1970 bus.
+  53.. Air Cooling Fan Housing From 1978 2 Liter engine.
+  54.. Most of the engine tin from a 78 2 liter engine.
+I think I might have the engine block for a 75 1.8 Liter engine, but I haven't
+found it yet.
+The first one to respond on this list gets the whole lot. If I don't get back
+to you within 12 hours, send me an email to
+tsdsisbsms(-at-)msn.com and you will get my attention.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F828822" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F828822" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F828822" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

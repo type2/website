@@ -1,0 +1,327 @@
+<html>
+<head>
+<title>type2 - Temperatures</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/859181 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/859181" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/859181" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Temperatures</h1>
+   <b>"Janice Bartmess" <sbaypetinn(-at-)tailwag.com></b><br/>
+   <i>2002-07-10 02:40:26+00</i><br/>
+   <br/>
+   <pre>------=_NextPart_000_023E_01C22780.791D5DA0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+By the way, if I am doing something wrong in posting, I am still new and =
+getting the hang of it. Jan B
+>
+>
+> I would be interested to know where on the engine you took readings, =
+and
+> what the readings were relative to ambient temps.
+> Thanks,
+>
+> Jaxon Burgess
+> San Diego
+> '79 ASI Conversion
+
+In hindsight, I wish I had written the temperatures down. The only time =
+that
+I was really concerned was when we hit the area of S.W. Utah, near Zion
+Nat'l Park. That was some intense heat. I recall that the engines felt =
+very
+hot.. everything was hot!, so we stopped and took readings. I never =
+thought
+to check the temperature of anything else, and with a remote IR sensor =
+you
+can only measure the temperature of object surfaces, not air.. the =
+surfaces
+can be much hotter or cooler (depending on many variables) than air
+temperatures, which are the only thing really relevant to the engines =
+(air
+was the only external thing that the VW engines were in contact with, =
+and
+thus the only external factor that could influence their temperature).
+Without any reference to go by, I could only guess that the two engines =
+being so
+close together as they were in temperature was a relatively good thing.. =
+But I still knew that we were
+pushing the limits, because I seem to recall that their temperature in =
+"the
+hot place" was about 225* F..maybe a little closer to 230* or so. I
+remembered years ago talking to a guy about an after-market sending unit
+that he was selling that sent a ground to an under-dash buzzer when the
+engine reached 250*.. that meant you were headed for trouble, pronto. =
+(STOP
+THE BUS NOW!) These units attached to the heads, as I recall. I never =
+got
+any, but I remembered that number...250* F, and I decided it was safe to =
+go
+on. We did.. no problem!
+I measured several areas in the engine compartment and I felt that the =
+most
+accurate reading (representing temperatures internal to the crankcase) =
+was
+on the end of the block, near the ends of the cam and crank.
+Let me say that these engines were either new (Mexican) or newly rebuilt
+dual port engines with stock carbs, etc. and (this is important) =
+doghouse
+coolers with heat vent, correctly installed.. AND, all shrouding and =
+engine seals
+were in place. I don't think that anything else would do so well in that
+kind of heat. It must have been over 100*, and we heard on the news that =
+Las
+Vegas, fairly close by, had been getting temperatures in the mid-100's. =
+It
+was late afternoon, and there was nothing in the way of foliage, breeze,
+water or shade in that environment. It was pretty.. Too pretty to be =
+Hell,
+but sure hot enough. It must have been around 104* or so. So, you've got =
+to
+figure that for an air-cooled engine to be running only about 125* above
+ambient temperature is not bad.. I think that we had made previous =
+readings
+of about 185* - 195* in the cooler climates (est 65-75* F). What this =
+tells
+me is that an aircooled is going to be able to handle most ambient
+temperatures, IF IT IS CORRECTLY INSTALLED AND MAINTAINED, but the =
+margin
+for error is very close, and it needs close watching if you are driving =
+in
+extremely hot conditions..=20
+According to the measurements I took, it seems that a correctly =
+installed, maintained=20
+and performing dual port with doghouse and stock tower oil cooler is =
+going to be running about=20
+120* above ambient temperature.=20
+We did not have any kind of external scoops installed, and we used only =
+the
+stock "tower" oil cooler for the doghouse type setup. Our mechanic =
+explained
+to us that if all the engine seals were installed properly, that the fan
+would create a vacuum and draw air in through the stock air intakes on =
+the
+upper rear quarter panels.. not the superheated air from the vicinity of =
+the
+exhaust system. There is NO need for external scoops or oil coolers if =
+the
+seals are installed all around the engine and on the engine lid. He was
+right!
+And it goes without saying that then the most important element in your =
+engine compartment is=20
+going to be the fan belt.=20
+We're just now getting back into VWs after a long period when we didn't =
+do
+much with them. I had only one running, and that was an old '69 Sundial
+conversion that I was fighting to keep alive.. not a good experience
+overall, and it eventually got it's death wish granted with the help of =
+an
+errant motorist. We stripped it and had it hauled away. Those Sundial =
+conversions were a lousy use of a panel van anyway.=20
+We get more and more interested and excited about these older VW =
+aircooled
+vehicles every day. They really are a wonder. Jan B
+
+
+------=_NextPart_000_023E_01C22780.791D5DA0--</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F859181" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F859181" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F859181" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

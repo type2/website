@@ -1,0 +1,316 @@
+<html>
+<head>
+<title>type2 - Everything you always wanted to know about grease...</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/743124 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/743124" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/743124" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Everything you always wanted to know about grease...</h1>
+   <b>khooper_at_wsp1.wspice_dot_com (Ken Hooper)</b><br/>
+   <i>1996-04-30 02:21:00+00</i><br/>
+   <br/>
+   <pre>
+Cross-posted from another list. The example given is for a Toyota Land
+Cruiser but I thought the information was useful regardless:
+
+
+>Date: Mon, 29 Apr 1996 01:32:06 -0800
+>From: jbarron_at_uvic_dot_ca (John Barron)
+>To: offroad_at_ai.gtri.gatech_dot_edu, Rocky Baker <bakerr_at_ucs.orst_dot_edu>
+>Subject: Grease--what it is, types to use in LCs
+>
+>>Subject: Grease types (chassis, u-joint, blue vs black)
+>,
+>>Would someone know the difference between molybedenum disulfide lithium
+>>base chassis grease (NLGI no. 2) and lithium base wheel bearing grease
+>>(NLGI no. 2)?
+>>The first is recomended for the steering knuckles on my 85 FJ60 and the
+>>second is for the U-joints.
+>>Second question is:  Does Toyota use a blue colored grease for any
+>>reason?  The grease in the steering knockles looks blue but the grease of
+>>the recomended type at the auto store is black.  Any problem with mixing
+>>these?  Do I need to buy Toyota grease for this rig?
+>
+>>Thanks,
+>>Rocky
+>
+>First of all we need to know what grease is:
+>        Grease is a lubricant. It is produced by combining lubricating oil,
+>additives (eg Molybdenum Disulfide), and a soap.
+>
+>        The lubricant in most greases is a (petroleum based) mineral oil,
+>although some greases use synthetic lubricants. The soap emulsifies the
+>lubricating portion and thickens it. The type of soap used in making the
+>grease is one way in which greases are classified. For example, a lithium
+>soap is used in a "lithium grease". The actual lithium soap is properly
+>known as 12-Hydroxystearate, other greases will use other types of soaps,
+>for example, Aluminum.
+>
+>        Greases made with different types of soaps will usually be
+>incompatible and cause the grease to liquify or fail in some other way.
+>Liquified grease will not adhere to the intended surfaces and the result
+>will be that the parts will not be sufficiently lubricated and fail as a
+>result. Other grease failure problems can be related to contamination
+>(water, dirt, oil etc...), infrequent changes, overheating, mechanical
+>shear and other forces.
+>
+>        There are many additives that can be put into grease to give each
+>type of grease unique properties. This also make some greases much more
+>suited certain types of jobs than others. Some of these additives may be
+>colourants, corrosion inhibiters, helping the grease resist shear forces,
+>make it more tenaceous, help it resist water contamination etc...etc...
+>
+>        Molybdenum Disulfide (aka "Moly") helps the grease film carry a
+>load and is most often a grey to grey-black in colour. Other greases, such
+>as wheel bearing grease, may be green, blue, yellow, red, white, or another
+>colour depending on the colour of the lubricating portion or the colourant
+>used. Colours can help to identify what type of grease has been used but
+>are widely variable and, as such, are not a reliable indicator.
+>
+>        A few more grease notes: NLGI stands for the National Lubricating
+>Grease Institute, they are a body that sets standards for greases. The
+>viscosity of grease, as labeled by NLGI, ranges from No. 000 (runny) to No.
+>6 (very thick, almost solid). The viscosity is quite important to the
+>application so use the right one.
+>
+>        Anyways to get back to the question at hand... No not all greases
+>are compatible. If you don't know what type is there, then replace it with
+>the correct (and known) type of grease as specified by your owners/service
+>manual. Make sure you use the right viscosity. The grease may say it's a
+>Moly grease but give no viscosity--find out what it is before using it.
+>Moly adds shear resistance in low speed applications (speed of moving parts
+>being relative to each other), use non-moly grease in wheel bearings as the
+>relative speeds of the parts is high. The colour is not always relevant,
+>the fact that there is blue grease in your knuckles may mean that there is
+>a non-moly grease in there (as I personally have never seen Moly grease in
+>any other colour except grey-black). The colour of Moly grease is, I
+>believe, related to the Moly itself--changing the blue stuff for the
+>correct grease would be a good move when you can find the time to do it.
+>Also, try checking with the shop that last did the service on your LC to
+>find out what type of grease was used.
+>
+>        Toyota Specs:
+>
+>- -Propeller Shafts (drive shafts/U-joints): Lithium base NLGI No.2
+>
+>- -Double Cardan Joints (drive shaft "CV" joints): Molybdenum Disulfide
+>Lithium base NLGI No.2
+>
+>- --Wheel Bearings: Lithium base multipurpose NLGI No.2
+>
+>- -Steering Link ends (tie rod ends): Molybdenum Disulfide Lithium base
+>NLGI No. 2
+>
+>- -Steering Knuckle and Front Axle Shaft: Molybdenum Disulfide Lithium base
+>NLGI No.2
+>
+>Need more info?? write me at my email address directly.
+>
+>jbarron_at_uvic_dot_ca
+>81 BJ 42 (with broken rear springs)
+>80 BJ 40 (with factory rust option)
+>
+>------------------------------
+
+
+--Ken
+  68 Westy, 71 Bus</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F743124" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F743124" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F743124" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

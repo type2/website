@@ -1,0 +1,394 @@
+<html>
+<head>
+<title>type2 - Stats Galore ... Who's Who in Breadloafs ...</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/719059 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/719059" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/719059" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Stats Galore ... Who's Who in Breadloafs ...</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1995-10-12 13:25:12+00</i><br/>
+   <br/>
+   <pre>now, the Middle-Aged Folks ...
+
+ *68 Bus Camper              Mike Mott            MOTTWARE_at_IX.NETCOM.COM
+ *68 Bus Camper              Martin Garramone     MARTING_at_AUSTIN.CC.TX.US
+ *68 Bus Camper              Mike Wright          WRIGHT_at_STORM.SIMPSON.EDU#
+ *68 Bus Camper Devon RHD    Darren Lane          DLANE_at_ACS.UCALGARY.CA
+ -68 Bus Double-cab Pickup   Dean Aukes           DAUKES_at_MMTS.EDS.COM
+ -68 Bus Double-cab Pickup   Joel Walker          JWALKER_at_UA1VM.UA.EDU
+ -69 Bus                     Brad Winemiller      BWINEMIL_at_MAGNUS.ACS.OHIO-STATE
+ *69 Bus                     Marc Crepeau         MWCREPEAU_at_UCDAVIS.EDU
+ *69 Bus                     Dave Phillips        PHILLIPS_at_ARIES.TUCSON.SAIC.COM
+ *69 Bus <camperized>        Scott Beckstead      CONRAD_at_CENTCON.COM
+ -69 Bus sunroof             Bob Hufford          BHUFFORD_at_MAIL.ORION.ORG
+ *69 Bus Camper              John Grunkemeier     GRUNKE_at_U.WASHINGTON.EDU
+ *69 Bus Camper              Ken Bowen            KENB_at_SIRIUS.COM
+ *69 Bus Camper <no pop-top< Jerry Hull           HULLJ_at_FRL.ORST.EDU
+ *70 Bus                     M Grant              MTY016_at_COVENTRY.AC.UK
+ *70 Bus                     Edmund Hintz         EHINTZ_at_MAIL.UTEXAS.EDU
+ *70 Bus                     Rich Jones           JONESR_at_UCSUB.COLORADO.EDU
+ -70 Bus                     Richard Kurtz        RMK_at_SOLAR.SKY.NET
+ -70 Bus <bones>             Richard Kurtz        RMK_at_SOLAR.SKY.NET
+ *70 Bus Camper              Doug Shapter         DPS_at_CLARK.NET
+ *70 Bus Camper              Sam Williams         SGLW_at_AOL.COM
+ *70 Bus Camper              Ron Jurgens          RJURGENS_at_MAIL.WISCNET.NET
+ *70 Bus Camper              Charles Allen        CHAZ_at_SOS.SOS.NET
+ *70 Bus Camper              Eric Hock            ROUNDMAN_at_INDY.NET
+ *70 Bus Camper              Michael Lightner     73744.1067_at_COMPUSERVE.COM
+ -70 Bus Camper              Gary Balcombe        GBALCOMB_at_JUNCTION.NET
+ *70 Bus Camper <no pop-top> Steve Williams       STEVEGW_at_GUAM.CORP.SGI.COM
+ *70 Bus Kombi               Peter Depaoli        DRPHIBES_at_SIU.EDU
+ *70 Bus Single-cab Pickup   Bill Abbott          WABBOTT_at_MEGATEST.COM
+ *71 Bus                     Edward van der Jagt  BIVDJAGT_at_EDU.EUR.NL
+ *71 Bus                     Nick Pace            NICKPACE_at_RAND.ORG
+ *71 Bus                     Mitch Covington      MITCH_at_GEOMAG.GLY.FSU.EDU
+ *71 Bus                     Ray Richardson       SARGE_at_POSTOFFICE.PTD.NET
+ *71 Bus                     Mitch Hendrickson    MITCHH_at_GOLD.GVG.TEK.COM
+ *71 Bus                     Martin Sage          MARTINO_at_EARTHLINK.NET
+ *71 Bus                     Chris Chubb          CCHUBB_at_IDA.ORG
+ *71 Bus                     Doug Freeman         FREEMAN_at_INDIANA.EDU
+ *71 Bus                     Steve Maher          SMAHER_at_PO2.GI.COM
+ -71 Bus                     Alan Torrigino       ALAN_at_SNOWCREST.NET
+ *71 Bus sunroof             Bob Lee              GULBRANSEN.COM!VW_at_NEWS.CTS.COM
+ -71 Bus sunroof             Bob Lee              GULBRANSEN.COM!VW_at_NEWS.CTS.COM
+ *71 Bus Camper              Ron Van Ness         RVANNESS_at_NEURON.UCHC.EDU
+ *71 Bus Camper              James Brill          JBRILL_at_UNLINFO.UNL.EDU
+ *71 Bus Camper              David Ross           DJROSS_at_CSUPOMONA.EDU
+ *71 Bus Camper              Todd Schroeder       TODDS_at_SUNNET.CHOTEL.COM
+ -71 Bus Camper              Richard Kurtz        RMK_at_SOLAR.SKY.NET
+ *71 Bus Camper              Christopher Bridge   ANON869_at_VT.EDU
+ *71 Bus Camper              Gary Balcombe        GBALCOMB_at_JUNCTION.NET
+ *71 Bus Camper              Joseph Fournier      JFOURNI_at_COMP.UARK.EDU
+ *71 Bus Camper              Pat Walsh            WALSHP_at_IPPDSGI3.NAWC-AD-INDY.N
+ *71 Bus Camper              Eugene Palmer        EUGP_at_UCLINK3.BERKELEY.EDU
+ *71 Bus Camper              Terry Erb            TERB_at_ADOBE.COM
+ *71 Bus Camper              Stephen Schmidt      GOALIE8_at_CYBERNETICS.NET
+ -71 Bus Camper              Doug Freeman         FREEMAN_at_INDIANA.EDU
+ *71 Bus Camper              Scott Allred         SCOTT_ALLRED_at_MSN.COM
+ *71 Bus Camper              Erik Burtis          EBURTIS_at_S850.MWC.EDU
+ *71 Bus Camper              Mike Mulliganshaw    MIKEMSHAW_at_AOL.COM
+ *71 Bus Camper              Krista Neustaedter-b KNEUST_at_MINET.GOV.MB.CA
+ *71 Bus Camper              Ken Wiebe            KWIEBE_at_NWRAIN.COM
+ *71 Bus Camper              Christopher Diehl    CDIEHL_at_FREENET.COLUMBUS.OH.US
+ *71 Bus Camper              George Lust          GWL_MS_at_PICK.MEC.OHIO.GOV
+ *71 Bus Camper              Rene Noir            RENOIR_at_IX.NETCOM.COM
+ *71 Bus Devon Camper        Jon Sykes            JSYKES_at_FS2.CP.UMIST.AC.UK
+ *71 Bus Kombi               Doug McKnight        A-DOUGMC_at_MICROSOFT.COM
+ *71 Bus Riviera Camper      Jim Kirk             CAPTAIN_at_INDY.NET
+ *71 Bus Sportsmobile Camper Eric Stollsteimer    BLUESUPER_at_AOL.COM
+ *72 Bus                     Emerson Schwartzkopf ESCHWA_at_CSN.ORG*
+ *72 Bus                     Ian Hallett          HALLETI_at_AGRIC.NSW.GOV.AU
+ -72 Bus                     Dennis Gentry        DENNIS_at_CPAC.WASHINGTON.EDU
+ -72 Bus                     Bradley Prunehead    BRADLEYM_at_NETCOM.COM
+ *72 Bus                     Jan Allbright        JALLBRIG_at_HPWRC713.MAYFIELD.HP.
+ *72 Bus Camper              Brad Spear           SSGSPEAR_at_AOL.COM
+ *72 Bus Camper              Tom Adcock           THOMAS_at_CAM.ORG
+ *72 Bus Camper              Bob Park             REPARK_at_SRV.PACBELL.COM
+ *72 Bus Camper              Dave Oheare          OHEARE_at_BNR.CA
+ *72 Bus Camper              James Baldwin        JKBALDWIN_at_AOL.COM
+ -72 Bus Camper              David Schwarze       DES_at_TELEPORT.COM
+ *72 Bus Camper              Nate Holtz           OTHER1_at_PRIMENET.COM
+ *72 Bus Camper              Greg Sheldon         UQ996_at_FREENET.VICTORIA.BC.CA
+ *72 Bus Camper              Skip Correll         CORRELL_SKIP_at_A1.CPS.K12.TN.US
+ *72 Bus Camper              Steve Reed           ZZREED_at_ACC.WUACC.EDU
+ *72 Bus Camper              Jim Harper           HARPER.JAMES_at_MAYO.EDU
+ *72 Bus Camper              Larry Montgomery     LARMO_at_COMMUNITY.NET
+ -72 Bus Camper              Alistair Bell        UI775_at_FREENET.VICTORIA.BC.CA
+ *72 Bus Camper <76 2.0L eng Lulie Christensen    CDESIGN_at_ATLANTA.COM
+ *72 Bus Camper California C Michael Forstag      MFORSTAG_at_FREENET.COLUMBUS.OH.U
+ *72 Bus Kombi               Eric Oster           EKOMAN_at_U.WASHINGTON.EDU
+ -73 Bus                     Jack Agnew           JAGNEW_at_SVPAL.ORG
+ *73 Bus                     Frederic Wartner     DVW_at_HPFRCU03.FRANCE.HP.COM
+ *73 Bus                     Andrew Burczyk       ABURCZYK_at_DRES.DND.CA
+ *73 Bus                     Matthew Rathke       RATHKEM_at_ADMIN.CI.SEATTLE.WA.US
+ *73 Bus                     Mark Hamilton        TERRAPIN_at_TELEPORT.COM
+ *73 Bus                     Jose Madriz          JM93+_at_ANDREW.CMU.EDU
+ *73 Bus automatic <camper i Erik Robinson        EROBINSO_at_SUFFOLK.LIB.NY.US
+ *73 Bus camperized          Mitch Gregory        MGREGORY_at_IO.NOSC.MIL
+ *73 Bus sunroof             Justin Andrus        JANDRUS_at_ABACUS.BATES.EDU
+ *73 Bus Camper              Jack Stafford        STAFFORD_at_ALCOR.HAC.COM
+ *73 Bus Camper              Gregor Durstewitz    GDURSTEW_at_OIMB.UOREGON.EDU
+ *73 Bus Camper              Dean Aukes           DAUKES_at_MMTS.EDS.COM
+ *73 Bus Camper              Randy Johnson        RANDY.JOHNSON_at_LAMBADA.OIT.UNC.
+ *73 Bus Camper              Scott Steffens       STEFFENS_at_HERBIE.UNL.EDU
+ *73 Bus Camper              David Woodward       DWOODWARD_at_D.UMN.EDU
+ -73 Bus Camper              Harmon Seaver        HSEAVER_at_NYX10.CS.DU.EDU
+ *73 Bus Camper              Brandon Smith        BRANDYS_at_ICHIPS.INTEL.COM
+ -73 Bus Camper automatic    Michael Heron        MICHAEL.HERON_at_UTORONTO.CA
+ *73 Bus Camper Safare Custo David Schwarze       DES_at_TELEPORT.COM#
+ *73 Bus Kombi               Carl Waite           ETLCLWE_at_ETLXDMX.ERICSSON.SE
+ *73 Bus Kombi Camper <home- Andy Erskine         A.C.ERSKINE_at_LUT.AC.UK
+ *73 Bus Single-cab Pickup   Brian Verbeek        VERBEEK_at_THE-HAGUE.STBV.SLB.COM
+ *74 Bus                     Jonathan Snuggles    SNUGGLES_at_VNET.IBM.COM
+ *74 Bus                     John Jordan          JJORDAN_at_NS.CENCOM.NET
+ *74 Bus                     David Schimpf        MICHAELK_at_USCYBER.COM
+ *74 Bus                     Paul Ross            AYRG60_at_NEXTVM2.CORP.MOT.COM
+ *74 Bus                     Ed Claiborn          CLAIBORN_at_CW-F1.UMD.UMICH.EDU
+ -74 Bus                     Herb Harmison        F1.HAH_at_IASTATE.EDU
+ *74 Bus automatic sunroof   Wayne Seibel         WRSEIBEL_at_SLIP.NET
+ -74 Bus Adventurewagen Camp Eric Oster           EKOMAN_at_U.WASHINGTON.EDU
+ *74 Bus Camper              Dave Kautz           DKAUTZ_at_HPSIDMS1.SID.HP.COM
+ *74 Bus Camper              Alexis Montanez      MONTANA_at_PXA.PARKS.SLU.EDU
+ *74 Bus Camper              Michael Smith        KAOS_at_WOLFE.NET
+ *74 Bus Camper              Kevin Petrini        BUGS_at_WPI.EDU
+ *74 Bus Camper              Aaron Wood           AFN32620_at_FREENET.UFL.EDU
+ *74 Bus Camper              Yves Bordeleau       SEBASTIEN_BORDELEAU_at_INFOPUQ.UQ
+ *74 Bus Camper <ex-Kombi>   Aaron Sedgmen        ASEDGMEN_at_BMR.GOV.AU
+ *74 Bus Camper automatic    Rory Brennan         RORY_at_ANNAP.INFI.NET
+ *74 Bus Kombi               Ralf MacGrady        AN467_at_FREENET.CARLETON.CA
+ *75 Bus Camper              Allen Soroka         ASOROKA_at_UNIXG.UBC.CA
+ *75 Bus Camper              John Sutter          JDS_at_MEDIA.MIT.EDU
+ *75 Bus Camper              Sami Dakhlia         DAKHLIA_at_WUECONA.WUSTL.EDU#
+ -75 Bus Camper              Roger Westerberg     RKWESTERBERG_at_MMM.COM
+ *75 Bus Camper              R. Avery Oldt        RAO2_at_LEHIGH.EDU
+ *75 Bus 8-passenger         Ed McMullin          ED_MCMULLIN_at_CCM.JF.INTEL.COM
+ -76 Bus                     Norm Hoover          MUTH_at_ATUVM.ATU.EDU
+ *76 Bus Camper              Chris Grant          CGRANT1624_at_AOL.COM
+ *76 Bus Camper              Tobin Copley         TOBIN_at_FREENET.VANCOUVER.BC.CA#
+ *76 Bus Camper              Joe Chanin           JOE.CHAN_at_IX.NETCOM.COM
+ *76 Bus Camper              Michael Wagner       MWAGNER_at_DELTANET.COM
+ *76 Bus Camper              Gary Clayton         COYOTE_at_NANDO.NET
+ *76 Bus Camper <no pop-top> Stefan Ufer          SUFER_at_EMAIL.UNC.EDU#
+ *76 Bus Kombi               Robert King          KING_at_TANELORN.AOD.DSTO.GOV.AU
+ *77 Bus                     Joel Danke           JDANKE_at_MACC.WISC.EDU
+ *77 Bus                     Ben Heavner          BHEAVNER_at_NYX.CS.DU.EDU
+ -77 Bus                     Brad Snyder          BLS3_at_LEHIGH.EDU
+ *77 Bus                     Bill Hollings        HOLLINGW_at_UCS.ORST.EDU
+ -77 Bus                     Bradley Prunehead    BRADLEYM_at_NETCOM.COM
+ *77 Bus                     Matt Bushore         MBUSHORE_at_ICAEN.UIOWA.EDU
+ *77 Bus                     Steve Hoge           STEVEH_at_PAULI.EMU.COM
+ *77 Bus Camper              John Dziadecki       DZIADECK_at_SPOT.COLORADO.EDU
+ *77 Bus Camper              John Holland         ZZHOLAND_at_UVVM.UVIC.CA
+ *77 Bus Camper              Dan Fay              DANF_at_MICROSOFT.COM
+ *77 Bus Camper              Peter Varshna        ZTGST_at_EDEN.COM
+ *77 Bus Camper              Scott Bogen          RUNWESTY_at_IX.NETCOM.COM
+ *77 Bus Camper              Gregg Bryden         GBRYDEN_at_TELEPORT.COM
+ *77 Bus Camper              Jay Goldberg         JAY.GOLDBERG_at_SKA.COM
+ *77 Bus Camper              Morris Arthur        MARTHUR_at_GIBBS.OIT.UNC.EDU
+ -77 Bus Camper (parents)    John Anderson        JA_at_COE.WVU.EDU
+ *78 Bus                     Rob Murphy           RQM1748_at_IS.NYU.EDU
+ -78 Bus                     Richard Lamoreaux    LUMPY_at_RTD.COM
+ *78 Bus                     Neal Reed            NR_at_HYDRES.CO.UK
+ *78 Bus automatic           Richard Palmer       RAPALMER_at_UNITY.NCSU.EDU
+ *78 Bus sunroof             Dan Geer             GEER_at_CAM.OV.COM
+ *78 Bus Camper              Jeff Rosen           JEFFRO_at_U.WASHINGTON.EDU
+ *78 Bus Camper              Mark Sudul           MSUDUL_at_GLENAYRE.COM
+ *78 Bus Camper              Angel Olivares       A_OLIVARES_at_UPR1.UPR.CLU.EDU
+ *78 Bus Camper              Glen Buhlmann        GBUHLMAN_at_DIRECT.CA
+ *78 Bus Camper              Sean Roberts         ROBERTS.355_at_OSU.EDU
+ *78 Bus Camper              John Anderson        JA_at_COE.WVU.EDU
+ *78 Bus Camper              Courtney Hook        CHOOK_at_BBS.SD68.NANAIMO.BC.CA
+ *79 Bus                     Paul Wies            PWIES_at_LOYOLA.EDU
+ *79 Bus                     Frank Krauch         AFK3_at_FRED.NET
+ *79 Bus                     John Taylor          TAYLOR12_at_LLNL.GOV
+ *79 Bus                     Werner Hellmer       WHELLMER_at_AOL.COM
+ *79 Bus                     Wray McDonnell       WRAY_MCDONNELL_at_CYBERSTORE.CA
+ *79 Bus                     Ken Stevens          KSTEVENS_at_TAMU.EDU
+ *79 Bus camperized          A Cheeses            CHEESES_at_ARNET.ARN.NET
+ *79 Bus Camper              Chris Gilbert        3CLG4_at_QLINK.QUEENSU.CA
+ *79 Bus Camper              Joyce Howell         JHOWELL_at_PUCC.BITNET
+ *79 Bus Camper              Mark Kunkel          KUNKEMA_at_DUC.AUBURN.EDU
+ *79 Bus Camper              Rick Moran           MORAN_at_CS.UTK.EDU
+ -79 Bus Camper              Ken Stevens          KSTEVENS_at_TAMU.EDU
+ *79 Bus Camper              Alex Munro           AMUNRO_at_AMUNRO.SEANET.COM
+ *79 Bus Camper <canadian>   David Most           MOST_at_EMAIL.UNC.EDU</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F719059" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F719059" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F719059" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

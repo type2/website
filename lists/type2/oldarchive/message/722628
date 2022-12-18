@@ -1,0 +1,478 @@
+<html>
+<head>
+<title>type2 - A little something for Robb Lightfoot.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/722628 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/722628" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/722628" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>A little something for Robb Lightfoot.</h1>
+   <b>anon869_at_vt_dot_edu (Christopher Bridge)</b><br/>
+   <i>1995-05-05 15:24:04+00</i><br/>
+   <br/>
+   <pre>Unca Joel sent me this when I was shopping for a bus, it was extremely usefull.
+
+
+>Explanation of Chassis number:  for model years 1968-1979
+>                                                 218-000-001
+>Vehicle Type ------------------------------------x||       |
+>  2 - Transporter                                 ||       |
+>Vehicle Model ------------------------------------x|       |
+>  1 = Kastenwagen (Panel Truck), later also        |       |
+>        High-Roof Panel Truck and Fire Truck)      |       |
+>  2 = Achtsitzer-bus, Neunsitzer-bus (Station      |       |
+>        Wagon 8-seater, 9-seater)                  |       |
+>  3 = Kombi (Kombi, Kombi for Fire Trucks, and     |       |
+>        Campmobile)                                |       |
+>  4 = Sondermodell (Special model, 8- and 9-       |       |
+>        seater)                                    |       |
+>  5 = Sondermodell (Special Model, 7-seater)       |       |
+>  6 = Pritschewagen (Pickup Truck)                 |       |
+>  7 = Krankenwagen (Ambulance)                     |       |
+>  8 = Siebensitzer Bus (7-seater bus)              |       |
+>Vehicle Model Year (last digit of model year) -----x       |
+>  8 - 1968*    2 - 1972    6 - 1976                        |
+>  9 - 1969*    3 - 1973    7 - 1977                        |
+>  0 - 1970     4 - 1974    8 - 1978*                       |
+>  1 - 1971     5 - 1975    9 - 1979*                       |
+>  (note that 8 = 1968 AND 1978, 9 = 1969 AND 1979)         |
+>Sequential Production Number ------------------------xxx-xxx
+>------------------------------------------------------------------------
+>
+>1968   Chassis Number 218-000-001   -    218-220-000
+>       Engine Number  B-5-000-001   -    B-5-050-173
+>                      1584 cc, 57 HP _at_ 4400 rpm
+>       Transmission:  4-speed manual,    002 CM
+>       Fuel system:   Solex 30 PICT-2 carburetor
+>       Imported to U.S.      57,862
+>       Total produced:
+>
+>1)  Entirely new front end: single piece windshield
+>                           turn signals below headlights, near bumpers.
+>2)  Sliding side door becomes standard on Kombi, Microbus
+>3)  Double cv-joints (no reduction gears)
+>4)  Redesigned front axle with ball joints, worm/peg steering
+>5)  Larger side windows
+>6)  New fresh air ventilation system
+>7)  Lower ground clearance
+>8)  Same 14-inch wheels as 1964-1967. 7.00 x 14 tires.
+>9)  Some buses still being manufactured in Emden, Germany as well as
+>    Hannover
+>10) Fuel tank capacity increased to 60 liters (from 40 liters)
+>
+>
+>1969   Chassis Number 219-000-001   -    219-200-000
+>       Engine Number  B-5-050-174   -    B-5-116-436
+>                      1584 cc, 57 HP _at_ 4400 rpm
+>       Transmission:  4-speed manual,    002 CM
+>       Fuel system:   Solex 30 PICT-2 carburetor
+>       Imported to U.S.      54,985
+>       Total Produced:
+>
+>1)  Round side marker reflectors between wheel wells
+>2)  Generator rated at 38 amps (previously 30 amps)
+>
+>
+>1970   Chassis Number 210-2000-001  -    210-2300-000
+>       Engine Number  B-5-116-437   -    B-5-230-000
+>                      1584 cc, 57 HP _at_ 4400 rpm
+>       Transmission:  4-speed manual,    002 CM
+>       Fuel system:   Solex 30 PICT-3 carburetor
+>       Imported to U.S.      72,515
+>       Total Produced:
+>
+>1)  Thermostat added to funnel warm air into air cleaner
+>2)  Heavier duty oil pump
+>3)  New fuel pump
+>4)  Double cylinder brake system with warning light
+>5)  Square side marker reflectors and marker lights, moved to before
+>    front wheel well and after rear wheel well
+>6)  Gasoline tank venting through Evaporative Emission Control System
+>7)  Throttle valve postioner on carburetor/throttle linkage
+>8)  Fuse box with integral relay panel
+>9)  Ignition key warning buzzer
+>
+>
+>1971   Chassis Number 211-2000-001  -    211-2300-000
+>       Engine Number  AE-0-000-001  -    AE-0-529-815
+>                      1584 cc, 60 HP _at_ 4400 rpm
+>       Transmission:  4-speed manual,    002 CM
+>       Fuel System:   Solex 34 PICT-3 carburetor
+>       Total Produced:
+>       Imported to U.S.      68,561
+>
+>1)  Dual port intake cylinder heads
+>2)  34 PICT-3 carburetor
+>3)  3-part dual port intake manifold
+>4)  Vacuum retard distributor
+>5)  Chrome exhaust valve stems
+>6)  2nd oil pressure control valve
+>7)  New oil cooler (bump in fan shroud)
+>8)  New clutch and throw-out bearing assembly
+>9)  Disc brakes on front axle
+>10) Collapsible steering column
+>11) Brake fluid reservoir moved to behind driver's seat
+>12) Roof color (white) extended to below side windows on two-tone models
+>13) Front door arm rest air ducts (from 221-2197-035)
+>14) Sliding side door uses only one Bowden cable (previously two)
+>15) Adjustable steering locks on front axle (from 211-2066-397)
+>16) New fuel pump cover
+>17) Dashpot added to throttle valve positioner
+>18) Ignition switch locks steering wheel
+>19) Wheel changed to 5-1/2 J x 14-inch  (previously 5JK x 14)  with
+>    smaller offset amount; wheels attached with lugs and nuts (instead
+>    of studs); flat hubcaps introduced
+>
+>
+>1972   Chassis Number 212-2000-001  -    212-2300-000
+>       Engine Number  CA-0-000-001  -    CA-0-016-185
+>                      CB-0-000-001  -    CB-0-056-205
+>                      1679 cc, 63 HP _at_ 4800 rpm
+>       Transmission:  4-speed manual,    002 CM
+>       Fuel System:   Solex 34 PDSIT-2, 34 PDSIT-3 carburetors
+>       Imported to U.S.      48,178
+>       Total Produced:
+>
+>1)  Type 4 1679 cc engine introduced (same as Porsche 914, VW 411/412)
+>    with spin-on oil filter
+>2)  Dual carburetors (Solex 34 PDSIT-2, 34 PDSIT-3)
+>3)  Redesigned rear body air intake scoops (squared instead of crescent-
+>    shaped)
+>4)  Larger triple-element taillights
+>5)  Diaphragm clutch
+>6)  CV-joints slightly different
+>7)  Exhaust Gas Recirculation (EGR) system
+>8)  New fuel pump and pump location
+>9)  Alternator introduced, rated at 55 amps (previously generator)
+>10) Parking brake cable adjustable via equalizer bar
+>11) Fuel filler cap door moved rearward (out of reach of sliding door)
+>
+>
+>1973   Chassis Number 213-2000-001  -    213-2300-000
+>       Engine Number  CB-0-062-006  -
+>                      CD-0-000-000  -    Automatic Transmission
+>                      1679 cc, 63 HP _at_ 4800 rpm
+>       Transmission:  4-speed manual,    002 CM
+>                      3-speed automatic, 003 NB
+>       Fuel System:   Solex 34 PDSIT-2, 34 PDSIT-3
+>       Imported to U.S.      43,533
+>       Total Produced:
+>
+>1)  Smog pump added to EGR
+>2)  Access hatch for engine area added to rear cargo floor
+>3)  Deformable body area behind bumpers (Energy Absorbing Support)
+>4)  Paper element air filter
+>5)  3-speed automatic transmission available as option
+>6)  Bigger front disc brake caliper/pads
+>7)  New worm/roller steering box
+>8)  Front turn signals moved up under windshield (at ends of air grill)
+>9)  Redesigned windshield wiper arm shafts
+>10) Last year buses are manufactured in Emden, Germany as well as in
+>    Hannover
+>
+>
+>1974   Chassis Number 214-2000-001  -    214-2300-000
+>       Engine Number  AW            -
+>                      1795 cc,  65 HP _at_ 4200 rpm
+>       Transmission:  4-speed manual,    002 CM
+>                      3-speed automatic, 003 NB
+>       Fuel System:   Solex 34 PDSIT-2, 34 PDSIT-3 carburetors
+>       Imported to U.S.      30,166
+>       Total Produced:
+>
+>1)  Rear seat folds down
+>2)  Different gear ratios in manual transmission
+>3)  Engine size increased to 1795 cc (109.5 cu in), 65 HP
+>4)  Larger clutch
+>5)  Carburetor throat size increased
+>6)  Fuel filler cap no longer hidden by flap door
+>7)  Larger brake vacuum booster
+>
+>
+>1975   Chassis Number 215-2000-001  -    215-2300-000
+>       Engine Number  AP-0-027-466  -
+>                      ED-0-000-640  -
+>                      1795 cc,  67 HP _at_ 4400
+>       Transmission:  4-speed manual,    002 CM
+>                      3-speed automatic, 003 NC, 003 ND
+>       Fuel System:   Bosch L-Jetronic AFC Electronic Fuel Injection
+>       Imported to U.S.      17,679
+>       Total Produced:
+>
+>1)  Bosch AFC fuel injection introduced
+>2)  Hinges changed on rear engine access door
+>3)  Windshield wiper switch moved to a stalk on steering column
+>4)  New steering column
+>5)  Battery rated at 54 amp-hours
+>
+>
+>1976   Chassis Number 216-2000-001  -    216-2300-000
+>       Engine Number  CJ-0-000-001  -
+>                      GD-0-000-001  -
+>                      1970 cc, 67 HP _at_ 4200
+>       Transmission:  4-speed manual,    091 CP
+>                      3-speed automatic, 010 NF
+>       Fuel System:   Bosch L-Jetronic AFC Electronic Fuel Injection
+>       Imported to U.S.      20,825
+>       Total Produced:
+>
+>1)  Engine size increased to 1970 cc
+>2)  New front door hinges (from 236-2126-632)
+>3)  New 3-speed automatic transmission
+>
+>
+>1977   Chassis Number 217-2000-001  -    217-2300-000
+>       Engine Number  GD-0-040-000  -
+>                      GE-0-000-001  -
+>                      1970 cc, 67 HP _at_ 4200 rpm
+>       Transmission:  4-speed manual,    091 CP
+>                      3-speed automatic, 010 NF
+>       Fuel System:   Bosch L-Jetronic AFC Electronic Fuel Injection
+>       Imported to U.S.      26,209
+>       Total Produced:
+>
+>1)  Front seats have head rests, are more comfortable, and recline
+>    (metal wall behind front seats removed)
+>
+>
+>1978   Chassis Number 218-2000-001  -    218-2300-000
+>       Engine Number  GD-0-000-000  -
+>                      GE-0-007-083  -
+>                      1970 cc, 67 HP _at_ 4200 rpm
+>       Transmission:  4-speed manual,    091 CP
+>                      3-speed automatic, 010 NF
+>       Fuel System:   Bosch L-Jetronic AFC Electronic Fuel Injection
+>       Imported to U.S.      26,017
+>       Total Produced:
+>
+>1)  Sliding side windows introduced (replacing swing vent windows)
+>2)  Hydraulic valve lifters
+>
+>
+>1979   Chassis Number 219-2000-001  -    219-2300-000
+>       Engine Number  GD-0-040-001  -
+>                      GE-0-000-000 (California models)
+>                      1970 cc, 67 HP _at_ 4200 rpm
+>       Transmission:  4-speed manual,    091 CP
+>                      3-speed automatic, 010 NF
+>       Fuel System:   Bosch L-Jetronic AFC Electronic Fuel Injection
+>       Imported to U.S.      11,762
+>       Total Produced:
+>
+>1)  Body made slightly wider (1.6 inches extra)
+>2)  Catalytic converter introduced into exhaust system
+>
+>------------------------------------------------------------------------
+>References:
+> Bus-Transporter, Die Geschichte eines Welterfolges,
+>    Randolf Unruh,
+>    Motorbuch Verlag, Postfach 103743, 7000 Stuttgart 10,
+>    ISBN 3-613-01411-4
+>
+> Volkswagen Official Service Manual, Station Wagon/Bus, 1968-1979
+>    Robert Bentley, Inc., 872 Massachusetts Ave, Cambridge, MA 02139
+>    ISBN 0-8376-0094-4
+>
+> Das grosse Buch der Volkswagen Typen,
+>    Lothar Boschen,
+>    Motorbuch Verlag, Postfach 103743, 7000 Stuttgart 10,
+>    ISBN 3-87943-799-8
+></pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F722628" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F722628" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F722628" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

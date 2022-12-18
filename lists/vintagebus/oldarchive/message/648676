@@ -1,0 +1,331 @@
+<html>
+<head>
+<title>vintagebus - Operation: Bullet Binz  (long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/648676 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/648676" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/648676" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Operation: Bullet Binz  (long)</h1>
+   <b>&quot;LilBlauWagen&quot; &lt;wades_wagens_at_qwest_dot_net&gt;</b><br/>
+   <i>2002-07-23 12:34:12+00</i><br/>
+   <br/>
+   <pre>
+I recently was contacted by the owner of a 58 Binz, who had owned it for the
+last 20 years. He had the same last name as me so i knew right away that it
+was meant to happen!   It has been sitting in a field shrouded by trees on
+his property. I nicknamed it the 'Bullet Binz', because some hunters found
+it on his property and decided it would be cool to shoot out all of the
+windows and one of the headlight assemblys. The owner had then moved it to
+his new property to protect it and had lost interest as he had about 20 or
+30 other non-VW projects lined up. He also said he had some other late 50's
+ghias on his other property and the vandal bastard hunters had jumped on the
+roofs and caved them in. Supposedly nobody knew about this binz and it was
+secret, But if you went to church you couldve spotted a glimpse of where it
+was hiding due to the location of the church on the hill............
+
+The owner is still over hitchiking around Spain somewhere so it was hard to
+get ahold of him but i finally did and we struck a deal. I drove non stop
+from Phx AZ to Hermiston Or.  this last weekend to get the Binz. 44 hours
+round trip non stop. the binz turned out to be #181, a very early june of
+58. There was a problem with one of the hinges on the suicide door (the
+lower pin sheared), so he had removed the door and stuck it on the back Binz
+seat. So fortunately that rare glass piece didnt not get damaged by bullets
+and I recently found someone who had sold their binz but kept the same rare
+glass piece for the other side, so I bought it and now I have both binz rear
+side logoed glass and all I have to do is find the normal bus front door,
+and windshield glass. There was also a problem with the decklid hinges and
+the decklid had been stuck in the bed upside down, which wrecked the paint
+from moisture, but preserved the Dealership sticker where it came from!
+WINTER MOTOR CO.VOLKSWAGEN  Pendleton Or. For the most the paint is nice
+original dove blau, but since Binz sucks at painting, alot of it is cracked,
+peeling or has just plain worn down to the metal from sitting in the sun for
+so many years. Pitty, i was going to try and buff it out but there isnt much
+paint left on the roof.
+
+It is all still 6 volt. There was a 36hp bus engine complete but all
+dissasembled, sitting in the bed. I checked the numbers and it is a bus
+engine, but numbers are 4 months off of the VIN of my binz. Engine is a Late
+october 58 whereas my binz is an early June 58. I have the Oregon title from
+1973  which shows it titled off of the original motor which is 4 months
+earlier number. The rear Binz cardboard headliner was hanging straight down
+(disconnected from the back, but still attached to the center strip) and you
+could see where the bullets had gone thru the windshield, thru the
+headliner, then out the back window. The only place where the hunters missed
+their targets, was where they hit the body a couple of times on the piller
+right behind the front drivers door. Im still looking for the bullets
+although i have only found a couple of shell casings. I count 3 bullet holes
+in the body, 5 bullet holes in the passenger windshield glass ( the rest of
+the windows are shot out so i dont know how many bullets went thru that) 3
+bullet dents in the body and one bullet I assume, used to shoot out the
+headlight assembly. The truck had plastic air scoops at one time but were
+long gone leaving nothing but plastic remnants still screwed to the body.
+the gates are in VERY nice condition, even the back gate. The bed was filled
+with 30 years of piles of "stuff" and so i havent gone thru all that ( i
+could see some of it and it did look straight), because when i got there i
+saw that the dash was INFESTED with hornets! They had climbed into the
+speaker grille, and made nests hanging down from the underside of the
+grill( and I later found there is nests in every location possible) Needless
+to say i didnt get to inspect much of the interior at the time. All seats
+there including the binz rear seat, all interior panels still there, rubber
+mat still there for the front, quick check under the mat on both sides, no
+holes - ok good - run away fast and wait 3 minutes to go back etc.  Speaking
+of the dash, it is nice and uncut. Has a saphire 1 with a dual post
+antannae. all wheel wells looked good not counting all the hornets nests
+that were built in all 4 of em. Doglegs were perfect. The passenger rocker
+was rusty with a hole and that appears to be the worst of the rust, anything
+else i have seen has just been surface rust. I was looking under the binz
+rear seat when i noticed what looked like some kind of tube coming out of
+the bulkhead behind the front seat. I flipped up the front seat and wahlaa-
+a Gas heater installed down in the spot where you would put the spare! Cool
+a bonus. Has both front and rear ribbed bumpers although the rear bumper was
+cut for peashooters and had some towing hitch welded to it. The binz has
+been in oregon since at least 1968 and i know of only 2 owners. Last
+registered in 78 and still has the oregon plates on it. Piles of 1978
+Pendleton OR newspapers in the bed. Judging from the info i have, it looks
+like it was sold in 73 to a guy, then he sold it in 79 to the second owner
+which i bought it from. Never left Oregon. I will probably be able to trace
+ownership back to the original owner and find out more about how it came to
+be. Anyway everything seemed to be in order so I loaded it up as the hornets
+tried to attack me. I had an electric winch so i stood back and pulled it up
+on the trailer and drove away. Seemed like a huge swarm of hornets followed
+me because i stopped at the first gas station down the road and there they
+were again flying all around the cab while i attempted to secure the binz
+and remove the headliner from the center headliner strip. Needless to say
+that took a while. I opened up the passenger door and the upper hinge
+squeaked. This seemed to piss off the hornets and they attacked the hinge.
+It was covered. I got in and drove away. Each gas station i stopped at, i
+performed the standard drill. Get out and run away. Then sneak back over
+with a small object of some sort, and toss it at the dashboard, then jump
+back in my tow truck and drive away. After 4 or 5 stops i managed to clean
+out the hornets......Or so i think. I may wake up tommorow with a garage
+full of the nasty little bastards after they hatch from all the nests they
+have stashed in every corner of the truck. I stopped counting.
+
+In idaho at about 1 am we came upon some stopped traffic on the on the I84
+right before the I15.We sat for about 20 minutes and decided to walk up to
+the accident. There we found a Semi that had rolled and was laying across
+the highway blocking every lane. Cab was all the way out to the barbwire in
+the ditch. Emergency vehicles blocking the median ditch. No way past, no
+turning around. Busted out the digi cam and hung out there taking pics for
+about 3 hours waiting for them to pull the semi off the road. I got to
+talking with one of the guys involved. He was towing his new 2002 CBR
+motorcycle in a Uhaul small box trailer and wondered why  a couple of people
+had put on there emergency lights and pulled over a little ways up ahead. He
+figured it was a just a breakdown or something until he realized there was a
+huge black 20 feet tall, 60 feet long object that seemed to span across the
+entire road. He rubs his eyes..was he dreaming? oh sh*t hes not dreaming,
+lock up the brakes and come to a screeching halt at the rear axle of the
+semi and sort of bounces back from hitting the tires. Ah good he made it...
+or did he? what about anyone behind hi- oh sh*t too late! 3 guys driving
+another pickup truck full blast BAM right into the back of him. Never even
+saw it coming. were they sleeping? No fatalities except for the cargo in the
+semi which was spread all over the highway, dont even know what it was. And
+of course the new motorcycle paid the price, Its now scrap metal. the 2
+women driving the semi had fallen asleep. 5 minutes earlier and we may have
+slammed into it with the binz. Makes you think back to all the "delays"
+earlier in the day that you went thru, and wonder which one made the
+difference.
+
+On the way home I saw a rainbow in flagstaff AZ, got in a position where i
+actually could see it hit the ground. No gold and no leprechauns. Someone
+told me they mustve been hiding but i dont think so...... unless they can
+burrow.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F648676" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F648676" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F648676" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

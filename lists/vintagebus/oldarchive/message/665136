@@ -1,0 +1,290 @@
+<html>
+<head>
+<title>vintagebus - OCTO/Classic Trip report (long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/665136 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/665136" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/665136" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>OCTO/Classic Trip report (long)</h1>
+   <b>Ibyvws_at_aol_dot_com</b><br/>
+   <i>1999-06-15 06:37:47+00</i><br/>
+   <br/>
+   <pre>Hi everyone,
+Well, I guees I'll start my detailed report with what I drove down. 1963 
+hardtop deluxe turquoise and white and it's a walk-thru
+I started friday afternoon around noon leaving from Concord which is in the 
+SF Bay Area. Tried to meet up with some friends who were trailering their 
+pink 23 window down to sell. They ended up being a few hours behind schedule 
+so we left a ways before them.
+After a two hour drive we met some friends from Sacramento at the Anderson's 
+Pea Soup Restaurant. Checked the motor and everything was running smooth.
+Left Anderson's around 2pm for the rest of the trip down I-5. For those who 
+don't know, this is the worst freeway in the world, in the middle of nowhere 
+for hundreds of miles, and not a great place to be.
+Somewhere down I-5 near the town of Coalinga, where the Harris Ranch 
+slaughter house is (stinks really bad) I hear a slight whining sound and 
+about 15 seconds later my generator light comes on. No big deal I think, pull 
+over, open the engine lid, fan belt still there. Generator is smoking really 
+bad. Sh*t was my initial reaction. No spare gen. with me. Then comes the 
+bright idea!!!  Drive on it anyways, fan is still turning, can't do anything 
+but get worse.
+Well, we drive on anyways, and 300 miles and about 6 hours we arrive in 
+Irvine running off the battery and the gen is smoking really bad by that time.
+Decided to check out the gen after we unloaded everything into the hotel 
+rooms, pulley moves up and down about 1/2". Lost the front bearing and it ate 
+through the housing and left a big hole.
+Sat. morning I really wanted to drive my bus to the OCTO show even with the 
+bad gen. Bus fired right up on the first crank even after running off the 
+battery for almost 6 hours.
+OCTO show was great, tons of parts, NOS and rare. Lots of  beautiful busses. 
+OCTO did an awesome job hosting this new show for the Classic.
+Spent the whole morning looking for a gen. but no one had one. Ended up at 
+BFY down the road for a new Bosch one for $90. Not bad, but it'll get me home.
+Toy show was perfect, bought one piece I've been looking for for a while. 63 
+deluxe aluminum coat hooks, this one just happened to have my como green 
+vinyl hand strap. That was my find of the day. Not too bad at $40. Bought a 
+few toys and books at a decent price.
+Saw a barndoor era toy bus about 4 inches long with a clear removeable roof 
+with people in it. Asking price $750. Whoa!! That's expensive
+After the toy show and letting my motor cool down, I spent the next 5 1/'2 
+hours removing my gen. and installing the new one. Yes, it was way too long. 
+But when you're doing it in the parking lot of the host hotel for the Classic 
+and people are coming by and watching and talking and crowding around for a 
+mechanical show. And yes, the gen. can be removed and replaced without 
+pulling the motor. 
+Bus fired right up after putting it back together, and very happily, no gen. 
+light on.
+Decided it was time for a few cold beers after that experience.
+Ended up being a long night of talking to people in the parking lot of the 
+hotel. Met a few listees who were great. 
+Craig did an outstanding job on the vintagebus name tags and sheets for our 
+busses.
+Classic went great, sooo many parts and cars for sale. Lots of busses in the 
+show area. Too many to talk about.
+Finally left the Classic around 2pm for the drive home. Got stuck behind an 
+accident by LAX airport in the dead heat and hotter than hell going over the 
+grapevine. Bus ran really hot until I reached the other side. 30 weight oil 
+was running a little thin in the hot weather, but thickened up as it cooled 
+down. Ran a lot better too. About 20 minutes North of the grapevine we heard 
+a very loud thump and bang. Scared the crap out of us. Pulled over, engine 
+still running, nothing leaking or missing. Strange!! I looked under the front 
+of the bus and saw my horn wires had come free. Go to plug them back in and 
+no horn, it had broken off and fell. That's what the loud noise was.
+Got back on the road and finally made it home around midnight. Definately my 
+biggest adventure so far in my deluxe.
+Over the past few days I logged around 1400 miles and around 21 hours of 
+driving which included gas and bathroom breaks.
+Averaged 20 mpg on normal freeway driving. Almost 17 mpg during the grapevine 
+experiences, and roughly 15-16 during the big windstorm we encountered near 
+I-5 and 580
+An overall great experience. Happy it's over and I can finally get a good 
+nights sleep.
+Hope everyone else had a pretty good trip and nothing major happened.
+Seems like generators were the problem of the weekend. John Howard nuked one 
+also, another guy at the OCTO show lost an oil cooler, one guy on the Phoenix 
+caravan lost a tire and drum.
+Not sure about what anyone else experienced, but I'm glad to be home
+
+Dave Barnes
+1963 hardtop deluxe
+1960 ragtop bug
+Northern Ca</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F665136" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F665136" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F665136" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

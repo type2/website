@@ -1,0 +1,409 @@
+<html>
+<head>
+<title>type2 - Re: [T2] Breaking in an engine (really long :-)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/511627 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/511627" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/511627" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: [T2] Breaking in an engine (really long :-)</h1>
+   <b>Mike Soultanian &lt;msoultan_at_csulb_dot_edu&gt;</b><br/>
+   <i>2001-11-26 03:08:38+00</i><br/>
+   <br/>
+   <pre>Thanks for thorough comparison!  I didn't know about that article on the
+t2 site so I'll go find it.  Also, I found an article on the
+aircooled_dot_net site that says the engine should be run at 2500-4000 on
+the initial run because 2000 rpms don't properly oil the cam.  hmm..
+here's the link:
+
+http://www.aircooled_dot_net/gnrlsite/resource/articles/engnbrkn.htm
+
+Another difference that I noticed between the aircooled and the
+motorcycle procedures is that the motorcycle one says never to lug the
+engine, and the aircooled_dot_net one says it's ok to lug the engine. 
+hmm....
+
+mike
+
+
+H Steven Dolan wrote:
+> 
+> On Sun, 25 Nov 2001, Mike Soultanian wrote:
+> 
+> > http://pistol1.home.mindspring_dot_com/enginebreakin.htm
+> >
+> > It's much different than the "run your engine at 2k for 20 minutes"
+> > method...
+> 
+> Mike,
+> 
+> I think that it is only different in being more theoretical and less
+> procedure oriented.  There are some differences, but they are minor and
+> related to the different natures of the vehicles. The discussion of theory
+> is solid (brake vs. break aside :-) and valuable for us to know.
+> 
+> Below, I compare Joe Fournier's procedure in the library to the NTNOA
+> page:
+> 
+> >From Joe Fournier:
+> 
+>   1.Immediately upon starting, run engine up to 2000 rpm for 20 minutes.
+>     Watch oil pressure and temp gauges. You're letting parts machine
+>     themselves to each other for preliminary fit.
+> 
+>   2.Drain oil while it's hot. Replace before starting again. If time
+>     allows, let engine cool and check valves.
+> 
+> >From NTNOA:
+> 
+>     An engine's initial run should be used to bring oil and coolant (air,
+>     oil, and/or water) up to operating temperature only, with little or no
+>     load, then shut down and allowed to cool to ambient temperature. This
+>     is important. After each run the engine needs to completely cool down
+>     to ambient temperature.
+> 
+> My comment:
+> 
+> Both agree on a no-load run.  To bring a properly tuned and cooled VW
+> engine to full temp takes 20 minutes, so they match in that respect.  The
+> time would be different for a bike engine which is smaller and has no
+> forced air cooling. Really the only difference is the 2K RPM which is not
+> spec'ed in the NTNOA article, but is implied elsewhere in the article by
+> phrases like, "We must achieve a happy medium where we are pushing on the
+> ring hard enough to wear it in but not hard enough to generate enough heat
+> to cause glazing."  I'll bet an inquiry on initial run to those same
+> experts would produce a recommendation of close to 2k RPM.
+> 
+> One flaw in Joe's article is the "if time allows".  Time *should* be
+> allowed!!!  The NTNOA article is correct, IMHO.
+> 
+> Joe Fournier:
+> 
+>   3.Inspect drained oil for metal particles. React accordingly; check for
+>   magnetic properties to distinguish aluminum and brass from iron.
+>   Aluminum = bearings...some wear is expected, but no chunks. Brass =
+>   timing gear or valve guides. Shouldn't find much of this, if any.
+>   Iron/steel = crank, cam, rings, cylinders.._dot_definitely no chunks, but
+>   I'd expect *some* of this in breakin oil.
+> 
+> NTNOA:
+> 
+>   Oil change comes much later, read on...
+> 
+> My comment:
+> 
+> This may be apples vs. oranges, the load on a <500 lb. bike is way less
+> than a 1 ton bus.  The idea of "lightly and gently" for a bus is hard to
+> imagine... put it in 1st and you are pushing a ton, no matter what.
+> 
+> Joe Fournier:
+> 
+>  4.Run engine for 5-10 miles doing the drive up to 55; then wind
+>    (down-shift) down to 20 mph...at least 5 times...as many as 10. You're
+>    letting parts further machine themselves to each other with the
+>    emphasis being on the cylinders, which must machine themselves under
+>    load because their position/geometry is slightly different at different
+>    RPMs...thus, the variance in RPMs and the downshifting. I don't fully
+>    understand this, but Bob Hoover instructed me to do this and I do it
+>    religiously. I consider this as important if not more important that
+>    the 20 minute breakin.
+> 
+> NTNOA:
+> 
+>   This time give the engine light loads at relatively low rpm and stay
+>   out of top gear. Lugging the engine, i.e., low RPM with a lot of
+>   throttle (manifold pressure), is more detrimental than high rpm. Another
+>   key is too constantly vary engine load during the entire break-in
+>   period. A constant load is not ideal for breaking in bearing tolerances.
+>   This second run should last only 10-15 minutes before another complete
+>   cool down.
+> 
+> My comment:
+> 
+> There are definite differences here.  Going to 55 (in 4th, I hope!) then
+> slow down vs. light loads and stay out of top gear being the biggest, but
+> I think this may be a motorcycle vs. car thing.  MC's have more gears and
+> run at higher RPM's.  The times are, however roughly equivalent, if you
+> match minutes vs. miles and the constant variation of load is the other
+> vital point both articles make.
+> 
+> Joe Fournier:
+> 
+>   5.Let sit over night. Check valves.
+> 
+>     I record all valve settings (per valve) and maintain that information
+>     for the first 300 miles. I check and adjust valves at the following
+>     times:
+> 
+>      after 20 minute break-in
+>      after 5-10 mile break-in
+>      at 25 miles
+>      at 50 miles
+>      at 150 miles
+>      at 300 miles
+> 
+>     If I notice trends, I check more often. Since work is about 25 miles
+>     round trip, I usually get pretty close on these.
+> 
+> NTNOA:
+> 
+>   The third run should see slightly higher rpm with light to medium power
+>   loading using short bursts of acceleration to help seat the rings. Again
+>   10-15 minutes of running should do it and again avoid top gear. A forth
+>   run should consist of light to medium engine loads with a few more
+>   bursts of medium-high rpm, and lasting just 10-15 minutes varying the
+>   engine load and again avoiding top gear. Next while the engine is still
+>   warm drain the oil and change the filter. This gets out the new metal
+>   particles that are being worn away. Most of the metal particles will
+>   break away within the first 50 -75 miles. To ensure the rings seat well,
+>   use the same high quality oil and don't be shy about short duration high
+>   rpm blasts through the lower gears after the oil has been changed.
+> 
+>   A few more 15-20 minute sessions should be used to work up to the
+>   engine's redline gradually increasing the engine loads. After some
+>   definite hard running and 250-500 miles it's a good idea to check the
+>   valves.
+> 
+> My comment:
+> 
+> Here again there are more similarities than differences.  VW's are very
+> sensative to valve adjustment, Nortons may well be less so.
+> 
+> Note that the Norton's first oil change occurs at ~1-2 hours of run time
+> rather than 20 minutes, but the initial oil change occurs rather quickly
+> in either case. This is a point of contention among many people I have
+> talked to.  Do you leave the initial oil and it's filings in to speed
+> break-in or change it to slow it down... intelligent people I respect vary
+> on this and I am not sure there is a "correct" answer.
+> 
+> In either case, you are building the engine up to "normal" operating
+> conditions over a series of runs with frequent checks.
+> 
+> Joe Fournier:
+> 
+>   6.At 300 miles, pull the engine and retorque the heads. This is a step
+>     many people skip, but I'm not inclined to. It will tell you a lot
+>     about how your engine is running and is neccessary to assure engine
+>     longevity and reliability. It gives you a chance to tighten up tinware
+>     and do those things that you meant to do but were in too much of a
+>     hurry to do the first time around.
+> 
+> NTNOA:
+> 
+> After 500 miles re-torqueing the head is suggested.
+> 
+> My comment:
+> 
+> Again, a slight difference in mileage, but not significant.
+> 
+> In closing:
+> All in all, given the apples and oranges nature of the beasts, I would say
+> that there are more similarities than differences and if someone told me
+> they broke in their VW engine using the NTNOA procedure, I would certainly
+> not have any problem with that.
+> 
+>                            Steve Dolan
+> 
+> /"\   ASCII Ribbon Campaign
+> \ / - NO HTML/RTF in e-mail
+>  X  - NO Word docs in e-mail
+> / \ - NO V-Cards in e-mail
+> </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F511627" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F511627" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F511627" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

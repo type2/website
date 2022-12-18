@@ -1,0 +1,300 @@
+<html>
+<head>
+<title>type2 - Roadcow to EB Part 2 Trip Report</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/573754 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/573754" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/573754" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Roadcow to EB Part 2 Trip Report</h1>
+   <b>&quot;Britt Grannis&quot; &lt;hillcountry_at_caltel_dot_com&gt;</b><br/>
+   <i>2002-04-28 07:11:17+00</i><br/>
+   <br/>
+   <pre>Well I'd just laid down to sleep with the snow coming down very hard and I
+guess it was about 5 am. I put up the Velcro curtains and was very happy
+that the Toyota engine in Roadcow made the rear cushions on the bed nice and
+toasty since I was freezing! It felt like I'd just went to sleep when I
+heard this infernal ringing and realized it was my new cell phone. I'd
+checked before laying down and didn't think that I had any reception but was
+wrong. It was Keith petite a Buskatier friend who I was meeting in junction
+city, Kansas to caravan back to EB with. Keith couldn't hear me until I
+opened the door ( no easy feat since it was frozen shut!) and stood in the
+door frame and held the phone as high as I could. I only lasted doing this
+for about 2 minutes as it must have been about 20 degrees with the wind
+howling past and my ears and feet were getting cold. It was 7 am and the
+roads still looked scary but I decided to get back on the road. As I went to
+start Roadcow I noticed that I'd left the lights on...nuts! I usually turn
+the Perko switch off at night but had thought I'd leave the running lights
+on at night so I didn't get hit by some truck looking for a place to pull
+off of the road. It turned out to be a blessing that Keith called since the
+old cow started right up and I got back on the road without too much
+trouble. I hadn't gone more than 3 miles at 20 mph when I saw about 10
+police cars and fire engines, along with a few ambulances on the other side
+of I-80, apparently somebody had gone off of the road the night before. You
+wouldn't believe the difference in the roadway just 5 miles down the hill,
+it was beautiful and sunny with the snow and rain tapering off and the rod
+drying up, I was in heaven! I called Keith and told him that I had to scrape
+the ice off the inside of Roadcow's windshield before I could get going but
+now all was well. The remainder of the trip through Wyoming was uneventful
+and I picked up a tail wind that allowed me to tow the 79 Westy up to 70 mph
+but I felt more comfortable at 65. I stopped for gas at Little America ( big
+mistake #2 high prices) and took pictures of the busses covered in ice and
+even the trailer lights looked 10 times larger with all of the ice on it. I
+stopped in Nebraska to rest at a really nice rest area and climbed a hill to
+take pictures of the neat valley. Somewhere in Nebraska a couple in a Caddy
+passed me, pulled in front, then slammed on the brakes to take a picture! I
+had to get on the brakes pretty hard and later I'd find that I'd bent the
+bumper brackets ( I'd reinforced them with 1/4" strap before I'd left) and
+after the next gas stop I noticed that the 79 Westy would start to whip back
+and forth pretty bad above 45 mph. It was late so I pulled over and slept at
+a Roadside park near Sheldon, Neb. for the night. I got up in the morning to
+find the drivers side bracket almost broken due to the flexing. I ate
+breakfast, did some fishing in the pond, and decided to try and find a
+welding shop in Sheldon about 7 miles north. As I pulled into town I stopped
+at the Quickie mart and asked if there was a place in town that did welding
+and was told right were it was. I pulled up and asked if the guy could, and
+had time to weld up my bumper and was told he could get to it in a couple of
+hours. I thanked him and explained that I was going to meet some people in
+Kansas that afternoon and any help he could give me would be appreciated. I
+pulled Roadcow into his shop, swept the floor where he'd be working and
+jacked the bumper into place, and scraped the metal clean so he could weld
+when he got to it. This must have impressed him since he came right over and
+welded it up on the spot. Total down time about 1 hour. He welded 2 brackets
+from the frame rails down to the bumper brackets for $20!! The Westy pulled
+much nicer now and I made it to Kansas to deliver the 79 Westy to it's new
+owner Lisa and share a great dinner of ribs with the Buskatiers.
+ A big big thank you goes out to Jeffery Adams ( another Toyota 3TC Rivera
+owner) who cut off 2 of the correct exhaust plugs so I could stop that
+infernal exhaust leak!
+  The next day Thursday about noon Bryant Baecht, Keith Petite both in
+Bryant's Splitty and Stephen Black in Roadcow with me hit the road. I must
+say Bryant's Bus with a 1600Dp with kadron's and a freeway flyer ran down
+the road at 65 to 70 mph very nicely. We got about 180miles and stopped for
+gas and I asked Bryant if he wanted to swap and drive each others bus, he
+agreed and we were off again. Bryant too liked the 86 Vanagon seat in
+Roadcow and we cruised along at 65 for another 2 hours until we decided to
+stop and as I pulled off ( still driving the splitty) I heard a knocking in
+the engine. Now this was a brand new not rebuilt engine with 800 careful
+break in miles on it.We decided to park in the Wal Mart parking lot and
+diagnose the problem. I popped the valve covers and found #4 exhaust to be
+very loose. I tried to adjust it warm and we started the engine to hear a
+knocking sound again. The general consensus was to wait there and let the
+engine cool so we could properly adjust the valves cold in the hopes that
+would take care of the problem. We were visited by the Wal Mart security
+guard and told our story. Well after adjusting the valves we still had the
+knocking ( we think it is a cam issue now) so we broke out the Richard
+Kimbrough built tow bar and hooked it up to the splitty and I backed Roadcow
+up to continue the towing duties. We'd brought the towbar since I was going
+to pick up a 67 Deluxe at Jamie Auch's house in West Virginia and deliver it
+to Kansas and incase of a breakdown. I must say the lighter splitty towed
+much easier than the 79 Westy. It was fun to have 4 of us in Roadcow and
+made the time fly to EB, with the laptop and cell phones to keep us busy it
+was enjoyable traveling. The scenery got breathtaking about 50 miles west of
+Asheville, NC and we all got anxious to get to EB when we saw the country.
+We pulled in to Hagan Stone state park about 8:00 pm and found our way to EB
+very easily due to great signs posted. As we pulled into the dark campground
+we could hear people shouting ROADCOW HEY ROADCOW MADE IT! Needless to say
+it was a wonderful welcome. A fellow Buskatier Leo came over and showed us a
+great place to park on the infield and we made camp.
+More later.
+Britt
+71 Westy Roadcow
+Hillcountry Water Treatment</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F573754" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F573754" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F573754" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

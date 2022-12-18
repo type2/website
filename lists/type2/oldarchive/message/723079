@@ -1,0 +1,300 @@
+<html>
+<head>
+<title>type2 - '72 Westy FS Milwaukee</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/723079 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/723079" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/723079" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>'72 Westy FS Milwaukee</h1>
+   <b>&quot;William A. McKinley&quot; &lt;75112.2101_at_CompuServe.COM&gt;</b><br/>
+   <i>1996-12-07 04:54:10+00</i><br/>
+   <br/>
+   <pre>Well, I've decided to take the big leap. That Synchro is lookin' mighty nice. My
+Westy is now officially for sale. Here's the vitals:
+
+Factory '72 Westy, non-pop top. White. Interior is complete. Cabinets, sink and
+icebox in good condition. The original grey handles have been replaced with new
+black ones from VW. Original yellow/orange vinyl upholstry has a few tears in
+both back seats. Floor is in good condition. Wood paneling is original, all in
+place, and in good to fair condition (not falling apart). I made new curtains
+for it, not anything like the original color, but much better quality. I still
+have the original front curtain, in near new condition. Bug screen is in near
+new condition. Childs cot in near new condition. I have a removable stool, but I
+think it's off a '73 or'74, as it's covered in (matching) cloth. The original
+seatbelts have all been replaced with generic modern ones I still have the old
+ones) in grey (three belts across the bench seat, one passenger has to be
+kid-sized). Front belts are modern retractable shoulder/lap belts, again in
+grey.  The front seats have been recovered with repros from TMI in grey, and
+have been covered with saddleblanket-style covers (also in very good condition,
+and grey/striped) since new. The rubber on the floor beneath the seats was
+replaced with grey loop carpeting. The mat between the seats in in excellent
+condition. Front floor mat is original, not falling apart, but pretty worn. Dash
+is in perfect condition with exception of two nearly imperceptable cracks above
+the grab handle. I have added a VDO oil temp gauge just below the Pioneer AM/FM
+Cassette. And a VDO clock (correct for year, not quartz) in the correct
+location, and it works. Even keeps fair time. Door panels are original and could
+stand to be replaced, but they're not falling off and getting in the way. And
+the heat works like new (FWIW). I burned my hand on the defroster vent last
+week. Plenty hot, just needs more voulme to heat the interior of that cavern.
+BTW, the van has a PDP AC system, all the parts are there, under dash
+evaporator, and I'm certain it could be made to work. The fans all work. Oh,
+yeah, and an alarm system.
+
+Outside, the van is a twenty footer. Minimal surface rust around the gutters and
+other here and theres, Some bubbles forming behind the front bumper, bottom edge
+of passenger door, and sliding door. Battery trays need to be repaired/replaced,
+but it's not evident from the outside. No rust in floors or frame. No holes
+anywhere except the battery trays. Shopping cart dent in slider, not too bad.
+Scraper dents (2) in driver's middle section and back left quarter. Rear bumper
+is a little bent, not too bad (backed into the wife's N*v*).That's it for the
+body. Replaced the windshield, all the window, door and body rubber replaced
+during resto in 1992/93. It's all holding up very well except the front door
+windows, and I've got new windlace already, just haven't put it in. Like new
+spare tire.
+Engine: 1800cc from Stephens Machining (I know, but it's holding up very well,
+and it has the increased interference valve seats, all new, in the heads),
+Porsche 914 cam, "race balance" (static, I think), dual 36mm Dellorto's, 050
+distributor. If this was an automatic, there's no way you could drive it in
+town, but it's got a lot of get up and go, and has no problem getting on the
+freeway and keeping up with traffic. Thank God for clutches. Also in the engine
+compartment is a battery isolator, a deep cycle battery (only a few months old,
+runs the interior lights and accessory plugs and some accessories), and a "Rust
+Buster" from JCW (device is supposed to provide sacrificial electrons to the
+rust godz so they don't take them out of the steel. Devices like these are used
+on ships, underground pipelines, etc. No way to tell if it has or hasn't helped,
+but the light still blinks). I've replaced virtually all the gas lines (even
+those on top of the tank), and there's a spare electric fuel pump installed on
+the frame right next to the starter ready to be hooked up if the need arises. CV
+joints have all been replaced within the last year (all 4 at once) with new
+Lobros and boots from RMMW. Clutch was of course replaced with the engine, in
+June of '93. I think we're talking about 40,000 miles, but I'll have to double
+check the odo's lates reading. I just replaced all four ball joints in November,
+and the steering box is less than a year old (rebuilt, from RMMW), tie rod ends
+and drag link in Nov'95. NEW ATE calipers and ATE brake booster, master cylinder
+Sept of '94, rear cylinders Feb'94, new front bearings May'94. God, I've got
+tons or receipts. I must be crazy to sell this.
+Enough of this.
+
+These are the extras.One very desireable item I have is a WESTY TENT. Correct
+color. Excellent condition, no rips/tears/stains, all poles, original tent and
+pole bags, stakes, ropes, etc. This isn't gonna go if the van doesn't sell, so
+don't ask. 
+Complete stock 1700 engine. Ran good when I took it out, matter of fact I
+believe the bottom end has only a few thousand on a VW rebuild,  but I can't
+verify, and the P&C have less than a thousand miles on them. . Had to rob an
+exhaust valve out of it. Heads have less than 1000 miles on rebuild by MOFOCO.
+Includes carbs (condition of these unknown, picked them up at a swap, but they
+appear complete), unused rebuilt stock dual vacuum distributor.
+Lots of good parts, new and used, like a new clutch kit, VC gaskets, Bosch oil
+filters, instrument cluster, door handles, turn lense (front), new carb rebuild
+kits, and lots more. I'm afraid to go look in the garage, I know they've been
+breeding out there.
+Many pieces of literature, owner's manual, Westy manual, Bently, Haynes, sales
+brochures, etc, etc.
+I never had any intentions of selling this van, ever, but I've got the hots for
+that Synchro. I must be crazy.
+
+Bottom line... with all the extras, $4200, negotiable without. Remember that
+tent! I just saw one change hands if good-fair condition for about $800. It
+scares me to own something that valuable. 
+
+E- me privately if interested.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F723079" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F723079" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F723079" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

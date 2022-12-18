@@ -1,0 +1,383 @@
+<html>
+<head>
+<title>type2 - Re: </title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/720703 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/720703" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/720703" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: </h1>
+   <b>cyd44 &lt;cyd44_at_cyd44_dot_demon.co_dot_uk&gt;</b><br/>
+   <i>1996-09-06 00:28:51+00</i><br/>
+   <br/>
+   <pre>
+> Full-Name: Julia
+> To: cd006109_at_smtp.interramp_dot_com,  cd006109_at_smtp.interramp_dot_com,
+>   zztop_at_uiuc_dot_edu,      youngwives_at_sjuvm.stjohns_dot_edu,
+>   yoga_at_inet.it, yello_at_xmission_dot_com,
+>   yachtbrokers-l_at_home.dc.LSOFT.COM, xmas-l_at_netcom_dot_com,
+>   wva-l_at_world.std_dot_com, womens-cycling_at_netcom_dot_com,
+>   women-in-hockey_at_plaidworks_dot_com, wolfstone_at_mystery_dot_com,
+>        wnn_at_home.dc.LSOFT.COM, wlrehab_at_vm1.nodak_dot_edu,
+>   with-miracle_at_del_dot_net, wildwest2-l_at_elk.uvm_dot_edu,
+>   wildwest_at_elk.uvm_dot_edu, whitewater_at_gynko.circ.upenn_dot_edu,
+>        wetleather_at_micapeak_dot_com, westcanalter_at_age.cuc.ab_dot_ca,
+>   wavelength_at_lists.intelenet_dot_net, waterski_at_NDA.COM,
+>   walkers-in-darkness_at_world.std_dot_com,vr5_at_mail.microserve_dot_net,
+>        volvo_at_me.rochester_dot_edu,vocalist_at_lists.oulu.fi,
+>        viking-l_at_acpub.duke_dot_edu,vettenet_at_asuvm.inre.asu_dot_edu,
+>        vanagon_at_lenti.med.umn_dot_edu,vampire-l_at_wizards_dot_com,
+>        tlhingan-hol_at_kli_dot_org,super-ultras_at_hoplite_dot_org,
+>        sunset-blvd_at_world.std_dot_com,submiss_at_friend.ly_dot_net,
+>        subliminals_at_idma_dot_com,
+>   strathspey_at_tm.informatik.uni-frankfurt_dot_de,
+>   straightup_at_southwind_dot_net, stormcock_at_bilpin.co_dot_uk,
+>   stlblues-l_at_medicine.wustl_dot_edu, sting_at_vaxc.hofstra_dot_edu,
+>        star-l_at_netcom_dot_com, stale-urine_at_patsy.seattle.wa_dot_us,
+>   stained-glass-l_at_fatcity_dot_com, stagecraft_at_inquo_dot_net,
+>   stagecraft-rat_at_world.std_dot_com, ss-l_at_ux1.cso.uiuc_dot_edu,
+>   squeezebox_at_cs.cmu_dot_edu, spouse-support_at_texsys_dot_com,
+>   spoons_at_skatter_dot_usask_dot_ca, spider-man_at_icc.nwark_dot_com,
+>   solarcooking-l_at_igc.apc_dot_org, socal-raves_at_ucsd_dot_edu,
+>   soaring_at_erenj_dot_com, siblings_at_smoe_dot_org,shp-list_at_sub.sonic_dot_net,
+>        shebop_at_law.emory_dot_edu,sharks_at_plaidworks_dot_com,
+>        sharks-chat_at_plaidworks_dot_com,
+>   shadows-updates_at_ece.uwaterloo_dot_ca,    sfraves_at_hyperreal_dot_com,
+>   sfer_at_symbiosis.ahp_dot_com,      sf-lovers_at_rutgers_dot_edu,
+>   sewing-list_at_inil_dot_com,    seaways-shipmodeling-list_at_seaways_dot_com,
+>        seattle-mariners_at_kei_dot_com, scan-indie_at_lysator.liu.se,
+>   sappho_at_apocalypse_dot_org,santa-fe-trail_at_listproc.gonet_dot_com,
+>   santa-cruz-bikes_at_cse.ucsc_dot_edu, sams-army_at_hoplite_dot_org,
+>   samfans_at_krypton.hpc.sdsmt_dot_edu,salontalk_at_beautytech_dot_com,
+>        sabbath_at_fa.disney_dot_com,rx7net_at_world.std_dot_com,
+>        rush_at_syrinx.umd_dot_edu,rrdiana_at_railnet.nshore_dot_org,
+>        roxette_at_eiunix.tuwien.ac.at,rovernet_at_cln.etc.bc_dot_ca,
+>        roses-list_at_lists.best_dot_com,roots-l_at_mail.eworld_dot_com,
+>        rockhounds_at_infodyn_dot_com,roadmaps-l_at_teleport_dot_com,
+>        Right_to_die_at_efn_dot_org,rendance_at_morgan.ucs.mun_dot_ca,
+>        remote-work_at_unify_dot_com,redwing_at_cps.msu_dot_edu,
+>        realestate-appraiser_at_property_dot_com,
+>    psu-football_at_pond_dot_com,prostate_at_sjuvm.stjohns_dot_edu,
+>    profemen_at_acpub.duke_dot_edu,private-eye_at_mercury.IntNet_dot_net,
+>    prince_at_icpsr.umich_dot_edu,     post_embargo_cuba_at_cubaweb_dot_com,
+>    poly_at_lupine_dot_org,polo-atb_at_vm1.spcs.umn_dot_edu, police_at_xmission_dot_com,
+>   plays_at_world.std_dot_com, playing-cards_at_cs.man.ac_dot_uk,
+>   pit-penguins_at_plaidworks_dot_com, pipes_at_scr.siemens_dot_com,
+>   pinchernet_at_castrov.cuc.ab_dot_ca,pigulka_at_acfcluster.nyu_dot_edu,
+>        phi-sport_at_netcom_dot_com,pet-sitter-info_at_earthlink_dot_net,
+>        pdx-motss_at_agora.rdrop_dot_com,patriots_at_kaiwan_dot_com,
+>        patchwork_at_nyx_dot_net,parkinsn_at_listserv.utoronto_dot_ca,
+>     parent-l_at_uts_dot_edu.au,paint-l_at_charliek.coe_dot_edu,
+>     pagan_at_drycas.club.cc.cmu_dot_edu,pa-rkba_at_pobox_dot_com,
+>        pa-libernet_at_cellar_dot_org,nznews_at_nz_dot_com,
+>        nzbikers_at_newzealand.sun_dot_com,
+>   nynjgolf_at_newsite.newschool_dot_edu,      nyckayaker_at_envirclink_dot_org,
+>   nwu-sports_at_tssi_dot_com,     numan_at_cs.uwp_dot_edu,
+>   nowsa_at_gu.uwa_dot_edu.au, nosmoke_at_prolog_dot_net,nm-list_at_xmission_dot_com,
+>    nj-motss_at_plts_dot_org,nhpml_at_numachi_dot_com,    new-orleans_at_yatcom_dot_com,
+>   new-age-radio_at_cs.uwp_dot_edu,    netjam_at_xcf.berkeley_dot_edu,
+>   net-loss_at_unix.itw_dot_com,   nero-Ashbury_at_world.std_dot_com,
+>   nerdnosh_at_nerdnosh_dot_org,   nedod_at_mbunix.mitre_dot_org,
+>   ne-social-motss_at_plts_dot_org,
+>   natureconnect_at_store-forward.mindspring_dot_com,
+>   nativelit-l_at_cornell_dot_edu, nanci_at_world.std_dot_com,
+>   nailtech_at_beautytech_dot_com, na-soccer_at_hoplite_dot_org,
+>   musicals_at_world.std_dot_com, mufc_at_iubvm.ucs.indiana_dot_edu,
+>   mq_at_qiclab.scn.rain_dot_com,mpd-support-l_at_listserv.aol_dot_com,
+>        moms_at_qiclab.scn.rain_dot_com,
+>   mo-scuba_at_listserv.job-link_dot_com,      mo-go_at_listserv.job-link_dot_com,
+>   mm-recipes_at_idiscover_dot_net,    mls-tampa_at_hoplite_dot_org,
+>   mls-sanjose_at_hoplite_dot_org,     mls-rapids_at_hoplite_dot_org,
+>   mls-ny_at_hoplite_dot_org,      mls-newengland_at_hoplite_dot_org,
+>   mls-kowiz_at_hoplite_dot_org,   mls-dallas_at_hoplite_dot_org,
+>   mls-crew_at_hoplite_dot_org, mjj_at_fred_dot_net,mishmash_at_home.dc.LSOFT.COM,
+>    michael-ball_at_teleport_dot_com,      metal_at_inet.it,
+>    met-stud_at_bibo.met.fu-berlin_dot_de,mercedes_at_bga_dot_com,
+>    melrose-place_at_tcp_dot_com,medmj_at_drcnet_dot_org,
+>        medgay-l_at_ksuvm.ksu_dot_edu,meat-loaf_at_1webplaza_dot_com,
+>        meal-master_at_salata_dot_com,mayberry_at_bolis.sf-bay_dot_org,
+>        master-slave_at_aol_dot_com,massbike_at_cfa.harvard_dot_edu,
+>        marilyn_at_mozart.lib.uchicago_dot_edu,
+>   magazine_at_cs.rmit_dot_edu.au,     madness_at_sjuvm.stjohns_dot_edu,
+>   lgb-sports_at_hookup_dot_net,   kyudo-l_at_teu1ws02_dot_comp.pge_dot_com,
+>   kundalini-l_at_execpc_dot_com,      kraftwerk_at_xmission_dot_com,
+>   kosmos_at_mit_dot_edu,      korfball_at_earth.ox.ac_dot_uk,
+>   klf_at_xmission_dot_com, kiwimusic_at_mit_dot_edu,     kites_at_harvard_dot_edu,
+>   kissarmy_at_wkuvx1.wku_dot_edu, kiskeya_at_conicit.ve,
+>   kind_spirits_at_atlas.cs.upei_dot_ca,khush_at_husc3.harvard_dot_edu,
+>        kennel-l_at_eva.dc.LSOFT.COM,karting_at_bronze.interlog_dot_com,
+>        k-d-lang_at_world.std_dot_com,jukebox-list_at_west_dot_net,
+>        jrt-dogs-l_at_fatcity_dot_com,jpop_at_ferkel.ucsb_dot_edu,
+>        join_at_fr.flashnet.it,joe-jackson_at_PrimeNet.Com,
+>        jewish_at_israel.nysernet_dot_org,jewel_at_smoe_dot_org,
+>        jeff_fahey_at_eskimo_dot_com,jbc-list_at_pasture.ecn.purdue_dot_edu,
+>        jar_at_ktn_dot_net,jam_at_soton.ac_dot_uk, jai-alai_at_world.std_dot_com,
+>   isles-list_at_netcom_dot_com, iris-L_at_rt66_dot_com,iris-_at_rt66_dot_com,
+>        immune_at_weber.ucsd_dot_edu,
+>   imagination_at_busim.ee.boun_dot_edu.tr,    IHL_at_plaidworks_dot_com,
+>   hydroponics_at_lists.best_dot_com,      hwy61-l_at_ubvm.cc.buffalo_dot_edu,
+>   hpv_at_ihpva_dot_org,   hounds-l_at_listserv.kent_dot_edu,
+>   horn_at_alpha.nlu_dot_edu,      homeopathy_at_lyghtforce_dot_com,
+>   home_farm_at_hometown.on_dot_ca,    home-ed_at_world.std_dot_com,
+>   HLL_at_netaxs_dot_com, Hi-News-L_at_hawaii_dot_edu,hem-onc_at_sjuvm.stjohns_dot_edu,
+>    heaven_at_pobox_dot_com,hct_at_calum.csclub.uwaterloo_dot_ca,
+>    harness_at_inslab_dot_uky_dot_edu,     hang-gliding_at_lists.utah_dot_edu,
+>   handicap_at_bunker.shel.isc-br_dot_com,     ham-tech_at_netcom_dot_com,
+>   halloween-l_at_netcom_dot_com,      hadiko_at_ubka.uni-karlsruhe_dot_de,
+>   h-constume_at_andrew.cmu_dot_edu,   gyn-cancer_at_raptors.dunimas_dot_com,
+>   gymn-l_at_psuvm.psu_dot_edu,    gundog-l_at_tamu_dot_edu,
+>   golden_at_hobbes.ucsd_dot_edu,      gldiscuss_at_server.berkeley_dot_edu,
+>   glb-medical_at_ac.dal_dot_ca,   gl-asb_at_queernet_dot_org,
+>   giants_at_plaidworks_dot_com, gen-x_at_phantom_dot_com,    gay-libn_at_usc_dot_edu,
+>   gasp_at_lists.intelenet_dot_net,    explorer-l_at_slic.cts_dot_com,
+>   exotic-l_at_plearn_dot_edu.pl,      exotic-cars_at_tvol_dot_com,
+>   eu20_at_a3.xs4all.nl,   eskrima_at_hpwsrt.cup.hp_dot_com,
+>   eno-l_at_noc.pue.udlap.mx,      elton-john_at_uiuc_dot_edu,
+>   ebikes_at_panix_dot_com,    eabud_at_jhunix.hcf.jhu_dot_edu,
+>   costello-l_at_rain_dot_org,     COH-list_at_angus.mystery_dot_com,
+>   ckf_at_lists.intelenet_dot_net,     cityupdate_at_server.berkeley_dot_edu,
+>   chorus_at_office-assist_dot_com,    chi_club_guests_at_moy.chi.il_dot_us,
+>   cdnfolk_at_io_dot_org,      cavers-digest_at_bambam.u.washington_dot_edu,
+>        cacti_etc_at_opus.hpl.hp_dot_com,
+>   ca-firearms_at_shell.portal_dot_com,    buffett_at_miamiu.acs.muohio_dot_edu,
+>   buffalo-bills_at_netcom_dot_com,    brit-iron_at_indiana_dot_edu,
+>   braves_at_mail.eworld_dot_com,      brass-band_at_smsltd_dot_demon.co_dot_uk,
+>   bonsai_at_cms.cc.wayne_dot_edu,     bolton_at_YFN.YSU.EDU,
+>   blues-l_at_brownvm.brown_dot_edu,   bisexu-l_at_brownvm.brown_dot_edu,
+>   bikepeople_at_cse.ucsc_dot_edu,bikemidwest_at_fuji.physics.indiana_dot_edu,
+>   bikecommute_at_cycling_dot_org,     bifem-l_at_brownvm.brown_dot_edu,
+>   bicycle_at_yukon.cren_dot_org,      biact-l_at_brownvm.brown_dot_edu,
+>   Benatar-L_at_southwind_dot_net,     beastielist_at_world.std_dot_com,
+>   bc-l_at_cornell_dot_edu,    bay-area-hockey_at_plaidworks_dot_com,
+>   bavp_at_intelligence_dot_com,   base-jumping_at_lunatix.lex.ky_dot_us,
+>   ballroom_at_mitvma.mit_dot_edu,     balloon_at_lut.ac_dot_uk,
+>   ba-volleyball_at_worldtalk_dot_com,     ba-lowfat_at_relay.corp.sgi_dot_com,
+>   ba-liberty_at_shell.portal_dot_com,     ba-firearms_at_shell.portal_dot_com,
+>   amc-list_at_scan.si_dot_edu,    amazons_at_ifi.uio.no,
+>   alt-transp_at_flora.ottawa.on_dot_ca,   allman_at_world.std_dot_com,
+>   adopting_at_mdtnbbs_dot_com,    add-parents-l_at_teleport_dot_com,
+>   activ-l_at_mizzou1.missouri_dot_edu,    act_at_myth_dot_org,
+>   acim_at_latrobe_dot_edu.au, a-ha_at_lists.best_dot_com,90210_at_ferkel.ucsb_dot_edu, 
+> 30something_at_fuggles.acc.virginia_dot_edu
+> Cc: JuliaBif_at_juno_dot_com
+> Date: Tue, 3 Sep 1996 21:33:01 PST
+> Subject: Please take me off this list
+> Message-ID: <19960903.220611.11455.0.JuliaBiF_at_juno_dot_com>
+> X-Mailer: Juno 1.00
+> X-Juno-Line-Breaks: 0-10
+> 
+> Please take me off this list.
+> 
+> Julia
+> 
+> <><><><><><><><><><><><><><><><><><><><>
+> My Email:   
+> JuliaBiF_at_juno_dot_com
+> My Favorite Hangout:
+> The Chatrooms at Party Beach
+> http://members.aol_dot_com/partybeach/chat.htm 
+> <><><><><><><><><><><><><><><><><><><><>
+Me Too PLEEEEEEEEESE !
+
+	real-estate_at_aros_dot_net, 	 rcp_at_aol_dot_com,rainbow_at_rmit_dot_edu.au,
+	 railnfan_at_railnet.nshore_dot_org,radiodrama_at_world.std_dot_com,
+	 racemail_at_motorcycle_dot_com,quiltbiz_at_nmia_dot_com, qna_at_nz_dot_com,
+	 qn_at_queernet_dot_org,python_at_cwi.nl,  psv_at_stack.urc.tue.nl,</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F720703" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F720703" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F720703" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

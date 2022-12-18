@@ -1,0 +1,313 @@
+<html>
+<head>
+<title>type2 - some more Numbing Numbers ... :)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/513707 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/513707" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/513707" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>some more Numbing Numbers ... :)</h1>
+   <b>Joel Walker &lt;JWALKER_at_UA1VM.UA.EDU&gt;</b><br/>
+   <i>2013-05-28 17:18:08+00</i><br/>
+   <br/>
+   <pre>more Numbing Numbers ... this is ALL the folk with buses that i know of
+(not just the ones on the mailing list).
+
+WHERE all the people are ...
+-ARG         2, -NZ.N        1, CO.FTC     5, MN.MSP    51, PA.ERIE    9
+-AUS         6, -PAN         1, CO.S       3, MN.N       9, PA.HARR    6
+-AUS.ACT     6, -PERU        1, CO.W       6, MO        15, PA.NW      1
+-AUS.NSW    14, -PHI         3, CT        26, MO.CG      3, PA.PHIL   38
+-AUS.QSL     9, -POL         1, DC        16, MO.KC     10, PA.PITT   27
+-AUS.SA      9, -POR         1, DE         6, MO.SPR     7, PA.W       3
+-AUS.TAS     2, -RUS         1, FL         3, MO.STL    24, PA.YORK    5
+-AUS.VIC    10, -SWE        23, FL.C       4, MS         6, PR         8
+-AUS.WA      4, -SWI         1, FL.GAIN   13, MT        18, RI        10
+-AUST        5, -TUR         1, FL.JAX    13, NC         7, SC        21
+-BEL         4, -TWN         1, FL.KEYS    3, NC.ASHE   19, SC.COL     2
+-CAN        24, -UK          6, FL.MIAM   16, NC.C       2, SC.GRNVL   2
+-CAN.AB     10, -UK.ENG     22, FL.NW      1, NC.CHAR    7, SD         6
+-CAN.AB.CAL 14, -UK.ENG.BIR  6, FL.ORL    13, NC.CHILL   8, TN        10
+-CAN.AB.EDM 25, -UK.ENG.BRI  2, FL.PENS    7, NC.E       5, TN.CHA    26
+-CAN.AB.MED  1, -UK.ENG.BRS  2, FL.S       5, NC.FAY     2, TN.E       5
+-CAN.AB.RED  1, -UK.ENG.CAM  2, FL.SE      2, NC.GB-WS  22, TN.KNOX   13
+-CAN.BC      4, -UK.ENG.CUM  1, FL.T-SP   21, NC.RA-DU  45, TN.MEM     5
+-CAN.BC.INT 12, -UK.ENG.LIV  5, FL.TALL   13, NC.W       3, TN.NASH    8
+-CAN.BC.VAN 66, -UK.ENG.LON 50, GA         2, NC.WIL     7, TX         3
+-CAN.BC.VIC 28, -UK.ENG.MAN  5, GA.ATL    52, ND         2, TX.ABI     1
+-CAN.MB      1, -UK.ENG.NEW  1, GA.AUG     4, NE        15, TX.AMA     3
+-CAN.MB.WIN  8, -UK.ENG.NOT  5, GA.MAC     8, NH        15, TX.ANG     2
+-CAN.NB      3, -UK.ENG.POR  1, GA.N      10, NH.MAN     5, TX.AUS    35
+-CAN.NB.FRE  8, -UK.ENG.SHE  5, GA.NE      2, NH.PLY     2, TX.COLSTA  3
+-CAN.NB.SJ   4, -UK.ENG.YOR  1, GA.S       1, NH.POR     3, TX.DAL    41
+-CAN.NF      2, -UK.IOM      2, GA.SAV     1, NJ         6, TX.E       4
+-CAN.NF.SJ   1, -UK.SCO      8, GA.W       1, NJ.C       4, TX.EDIN    1
+-CAN.NS      2, -UK.SCO.EDI  2, HI         6, NJ.N       1, TX.ELP     3
+-CAN.NS.HAL 12, -UK.WAL      1, IA        10, NJ.NEW    19, TX.FW     10
+-CAN.NT      1, -UK.WAL.CAR  1, IA.CR      7, NJ.PRIN    1, TX.HOU    47
+-CAN.NT.YK   1, -UK.WAL.CLW  1, IA.DM     12, NJ.S      12, TX.LUB     3
+-CAN.ON      3, -VEN         1, ID        19, NJ.TREN    9, TX.MAR     1
+-CAN.ON.LON  3, -ZA         19, IL        28, NM         7, TX.NW      1
+-CAN.ON.NBA  1, AK           2, IL.BLM     4, NM.ALB    15, TX.S.CORP  1
+-CAN.ON.OTT 16, AK.ANC      13, IL.CHI    46, NM.NE      1, TX.SAN     8
+-CAN.ON.SUD  5, AK.FB       10, IL.CHM     1, NM.SF      7, UT         9
+-CAN.ON.TOR 49, AK.JUN       1, IL.N       2, NV         2, UT.SLC    35
+-CAN.PEI     3, AK.KOD       2, IL.SPR     3, NV.LV      4, VA         8
+-CAN.PQ      3, AL.AUB       5, IN        14, NV.RENO    5, VA.ALEX   42
+-CAN.PQ.MON 22, AL.BIRM     10, IN.BLM     6, NY         6, VA.CHAR    7
+-CAN.PQ.QC   3, AL.HUNT      8, IN.INDY    9, NY.ALB     6, VA.E       1
+-CAN.PQ.QUE  2, AL.MOB       5, IN.MUN     1, NY.BUFF    4, VA.FRED    8
+-CAN.SK      1, AL.MONT      1, KS         9, NY.C       1, VA.N      10
+-CAN.SK.REG  3, AL.TUS       4, KS.KC     14, NY.E       5, VA.NEWP    8
+-CAN.SK.SAS  5, AR           9, KS.TOP    12, NY.LI     16, VA.NORF    6
+-CAN.YK      3, AR.FAY       7, KS.WIT     2, NY.N       1, VA.RICH    6
+-CAN.YK.WHS  1, AR.FS        1, KY         5, NY.NE      2, VA.S       2
+-CHILE       1, AR.LR        9, KY.BG      2, NY.NYC    33, VA.W       5
+-CRICA       3, AZ           3, KY.LEX     3, NY.ROCH   12, VT         5
+-DEN         5, AZ.FLAG      5, KY.LOU    11, NY.SYRA   18, VT.BURL    7
+-ESP         7, AZ.PHOE     30, LA        11, NY.UTI     1, VT.MONT    5
+-FIN         9, AZ.S         6, MA         5, NY.W       1, WA         7
+-FR          6, AZ.TUCS     30, MA.BOS    62, OH         3, WA.BELL    9
+-GER        15, AZ.W         6, MA.CAPE    4, OH.CINN   14, WA.C       5
+-GER.ESS     4, CA          15, MA.E       1, OH.CLE    22, WA.E       2
+-GER.FRA     3, CA.BA      273, MA.NBED    6, OH.COL    31, WA.OLY    26
+-GER.HAMB    3, CA.BAK       1, MA.W      15, OH.DAY     9, WA.SEA   158
+-GER.HANN    7, CA.FRES      7, MA.WORC    4, OH.TOL     6, WA.SPO    10
+-GER.KIEL    1, CA.LA      119, MD         6, OK         7, WA.SW      2
+-GER.KOLN    3, CA.N        14, MD.ANN     8, OK.OKC     9, WA.TAC     9
+-GER.MUN     3, CA.NC       27, MD.BAL    47, OK.TUL    14, WA.VAN     3
+-GER.NURN    1, CA.NE        2, MD.E       4, OR         3, WA.W       3
+-GER.STUT    1, CA.NW        1, MD.FRED    2, OR.CORV   22, WA.WALLA   5
+-GR          2, CA.RED      19, MD.SC      1, OR.E       1, WI         4
+-IL          1, CA.S         6, MD.SE.LP   2, OR.EUG    29, WI.FDLO    4
+-IND         6, CA.SAC      42, ME        10, OR.MED     4, WI.GB      2
+-IRE         2, CA.SB       11, ME.BANG    7, OR.NE      3, WI.MAD    23
+-IT          8, CA.SD       72, ME.PORT    4, OR.PORT   63, WI.MIL    16
+-JP          3, CA.SLO      19, MI        36, OR.SW      1, WI.N       1
+-MAL         1, CA.WC        6, MI.DET    14, OR.W       2, WI.W       5
+-MEX         3, CO           7, MI.KAL     2, PA        14, WV         7
+-NL         21, CO.BOU      28, MI.N       3, PA.ALL     9, WY        12
+-NOR         8, CO.CSP      11, MI.UP      2, PA.C       7
+-NZ          1, CO.DEN      38, MN         4, PA.E       8
+       Unknown    1189      Total      5192
+
+and WHAT all their buses are ...
+50 Microbus   0, 59 Microbus  51, 68 Bus  92, 80 Vanagon 100, 91 Eurovan   1
+51 Microbus   0, 60 Microbus  48, 69 Bus 111, 81 Vanagon 123, 92 Eurovan  10
+52 Microbus   2, 61 Microbus  50, 70 Bus 157, 82 Vanagon 174, 93 Eurovan  77
+53 Microbus   3, 62 Microbus  52, 71 Bus 324, 83 Vanagon  94, 94 Eurovan   3
+54 Microbus   9, 63 Microbus  50, 72 Bus 219, 84 Vanagon 255, 95 Eurovan  27
+55 Microbus  11, 64 Microbus  74, 73 Bus 180, 85 Vanagon 236, 96 Eurovan   3
+56 Microbus  13, 65 Microbus 108, 74 Bus 139, 86 Vanagon 196, 97 Eurovan  21
+57 Microbus  19, 66 Microbus 158, 75 Bus  96, 87 Vanagon 310, 98 Eurovan   0
+58 Microbus  24, 67 Microbus 171, 76 Bus 139, 88 Vanagon  84,
+                                  77 Bus 163, 89 Vanagon  86,
+                                  78 Bus 219, 90 Vanagon 110,
+                                  79 Bus 153, 91 Vanagon 121,
+
+ Microbus  843 - Camper 206, Panel   69, Pickup 136, Kombi   97, Deluxe 152
+ Bus      1999 - Camper 124, Panel   24, Pickup  41, Kombi   57
+ Vanagon  1890 - Camper 935, Panel    5, Pickup  22, Diesel  88, Syncro 279
+ Eurovan   142 - Camper  60, Panel    2, Pickup   1, Diesel   7, Syncro   1
+ Total    4874
+
+
+idle minds are the devil's workshop. :)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F513707" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F513707" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F513707" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

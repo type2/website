@@ -1,0 +1,471 @@
+<html>
+<head>
+<title>type2 - Vanagon Diesel --> Gas [long]</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/711118 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/711118" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/711118" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Vanagon Diesel --> Gas [long]</h1>
+   <b>&quot;William R. Kennedy, NJIT CIAT&quot;</b><br/>
+   <i>2013-05-28 17:18:13+00</i><br/>
+   <br/>
+   <pre>Hybrid Vanagon
+ 
+by James Sly
+ 
+VW & PORSCHE January/February 1989
+ 
+So what's the slowest Volkswagen you've ever driven? An old
+split-window van, maybe? Or a Diesel Vanagon? How about a Diesel
+Vanagon fitted with the Westphalia Camper option? How about a
+Diesel Vanagon fitted with the Westphalia Camper option and 70
+thousand miles on the clock? There couldn't be much on the road
+slower than that.
+ 
+And David Andrews, owner of said 1982 Vanagon Diesel L
+Westphalia, was tired of always bringing up the rear. It was a
+great used car deal when he bought it in 1985 for $6500 - the
+sticker on the Vanagon showed that it first sold for more than
+$17,000 but ...
+ 
+While the camper part worked great, as Westphalias always do,
+the Diesel part was slow. Real slow.
+ 
+At first, David felt that he could live with the sluggish
+performance. After all, it was a vehicle to relax in, a
+recreation vehicle, right? Even so, the virtue of patience is
+sorely tried in such a slug and David soon became frustrated at
+how slow it really was - like about 21 seconds 0 to 60, for
+example. It was true that the vehicle could hit 65, on a gentle
+downhill slope at any rate, but it was also true that it was
+hard-pressed to maintain that speed. And on freeway on-ramps,
+David vows that he could see the drivers behind him swearing and
+shaking their fists, thinking that he was taking it easy when he
+really had the Vanagon flat-out floored.
+ 
+Compounding the problem, David was not raised on slow cars.
+Volkswagens, yes. Slow cars, a resounding no. A 20-year
+acquaintance of hotrodder Darrel Vittone of Riverside's
+Techtonics Tuning, David was also an employee of EMPI, the most
+famous VW tuner of the '60s and early '70s. As an added
+distinction, David has the honor of being one of the few drivers
+to ever win a major NHRA drag event in a Volkswagen, when his
+1967 Beetle, running in A-modified Compact, beat all of the
+factory Chevy, Dodge and Ford entries to win class at the 1975
+Pomona Winternationais. Volkswagen, yes, but this Beetle had the
+habit of running consistently in the 12s-slow like a cheetah.
+ 
+Anyway, the Diesel was considerably cheaper than a gasoline
+Wasserboxer Vanagon would have been and it fit the budget. David
+lived with the aggravation for another 14,000 miles, planning a
+conversion to a gasoline engine at some later point. Slowly but
+surely, the Vanagon went from Mexico clear to Alaska, and back
+and forth across the U.S. two times. (David notes that a Diesel
+Vanagon gives one the mentality of a bicyclist: Terrain that
+looks flat from a car really isn't to the cyclist or Vanagon
+Diesel owner. Take Kansas as an example: For someone in, say, a
+GTI, going east to west is level, if boring, terrain. For
+David's Diesel, crossing Kansas was a steady and exceptionally
+dreary uphill grind, with a top speed of 55 mph. Finally,
+perhaps mercifully, the Diesel block cracked at 84,000 miles.
+Rather than rebuild the Diesel, David opted for a gasoline
+engine swap. Now that Techtonics is concentrating on research,
+development and sales, and doing little installation work, David
+is doing some installations of the potent Techtonics 2020 motor.
+He knew firsthand about the durability and power that Techtonics
+parts offer, so naturally that was the route he elected to take.
+He used an early, pre-1983 1600 block as basis for the swap.
+ 
+In converting the Vanagon from diesel to gasoline, it would have
+been a lot easier to simply use carburetors, but the advantages
+of sophisticated Bosch CIS injection were desired. After all,
+with the camper's weight to haul around, low-end torque and
+driveability are all-important - and those are two things that
+carburetors simply do not deliver. And while the fuel mileage
+with a heavy aerodynamic brick like the Vanagon is not great,
+the added gasoline that carburetors would burn would have been
+an extra penalty.
+ 
+Any engine conversion requires attention in several critical
+areas: Adapting the new motor to the old transmission, getting
+it mounted properly, getting the cooling system hooked up and
+working with the added horsepower, and getting intake and
+exhaust systems that fit and work.
+ 
+One of the joys of this conversion is that no adapter is
+required for the engine block, either to the transmission or to
+the motor mounts. The stock Diesel bellhousing allows a direct
+bolton of the gasoline block: tilt it over at the same angle as
+the Diesel motor and it's a perfect mount. The new gas motor is
+fitted with the slick stock cast aluminum oil pan off the Diesel.
+ 
+David solved the exhaust system problem by using a 1980 Dasher
+dual-downpipe exhaust manifold, which required slight
+modification to the stock Vanagon motor mount. Next time around,
+David will use a late-model Dasher unit that will not require
+any mounting mods. The resulting dual downpipe exhaust is an
+effective, torque-boosting 4-2-1 system, and finishes with a
+custom exhaust and muffler. The current system does not use the
+Lambda oxygen sensor for increased fuel mileage, but David does
+plan to upgrade soon.
+ 
+On the induction side, the injection air intake manifold is off
+an early Rabbit, with '79 injection system components supplying
+the fuel. The manifold has had Techtonics welding and porting to
+allow fitting the larger Neuspeed throttle body. There's a
+special knock-out Plug under the rear fenderwell to allow
+adjusting the idle speed screw.
+ 
+The fuel filter, pump and accumulator are mounted up by the gas
+tank on fabricated mounts. For future conversions, David would
+simplify the installation by using the late-model Golf
+components that are already mounted as a unit.
+ 
+A large 80mm diameter airflow sensor plate, as used on the early
+cars and on 1983-84 GTIs, measures air and sends out the fuel on
+the injection system. Each line had to be custom made and fitted
+from the fuel distributor to the injectors and cold start valve.
+The material was not easy to come by. Many companies have the
+line available in one-meter or 39-in. lengths, but that wasn't a
+help as this project needed longer lines, with the longest being
+a 54-in. line to the cold start valve. David did finally find
+the fuel line and get the custom lines made up.
+ 
+The Vanagon s transplanted engine features one of Techtonics'
+GTI heads to fit on the earlier blocks. Stock VW GTI 40mm intake
+and 35mm exhaust valves are used for their good wear
+characteristics and trouble-free operation. Valve actuation on
+the solid lifter head is by VW's G-grind camshaft, chosen for
+both good low-end torque characteristics and long lobe life
+offered by a German billet cam.
+ 
+In the block is a Techtonics stroker crank, with 88mm stroke.
+Combined with Techtonics 82.5 pistons, the motor displaces
+1881cc or 115 cu. in. The compression ratio is 9.5:1, helping
+both performance and fuel economy.
+ 
+Stock cooling components have had no problems keeping up with
+the substantial infusion of added Techtonics horsepower. The
+cooling system changeover was not too difficult to engineer,
+which is one reason that converting a Diesel is most feasible,
+as all the water lines are in the right place. There was no
+cutting of sheet metal or extra water lines to run. Some of the
+water lines were changed around and some copper fittings were
+employed to allow the use of hoses less costly than the factory
+pieces. If you've seen some of the contorted examples of
+specially molded Vanagon hoses, and looked at the prices, then
+you know what we're talking about.
+ 
+The water reservoir was moved to the original battery box
+location and the battery box moved to the front of the right
+rear fender well, where the battery was located on VW buses in
+days of old.
+ 
+Air conditioning made the engine swap considerably more
+difficult, as David fabricated almost everything in the
+sophisticated, effective AC system. But, if you live in a place
+like Riverside, California, where summer temperatures soar into
+the 100s, you too would view the work that went into creating an
+air conditioning system for the Vanagon as part of the basics.
+ 
+There's a lot of air to cool in a Vanagon and it took some work
+to come up with a system that really works. David's super air
+conditioning system uses a Sankyo 508 compressor as currently
+seen on most VWs - A Diesel Rabbit factory AC mounting bracket
+is used with the alternator moved to the "up" position and the
+compressor mounted below so as to clear the stock engine cover.
+It took careful belt sizing to match up the AC compressor and
+the alternator: David reports spending five or six hours just
+getting the correct belts, as a belt that's too long allows the
+alternator to go too high and touch the engine cover.
+ 
+The custom AC installation has a total of three condensers, with
+large units located in front of the radiator, behind the
+passenger side headlamp and a smaller unit under car. Inside,
+there's two evaporator units in specially fabricated housings,
+one in the rear of the large interior and one in the front. A
+GM-style accumulator is mounted to improve AC system
+performance. And it really works. We took a test ride on a
+90-degree high-humidity day and were blown away by the quick
+cooling power. It seemed more like a refrigerated delivery truck!
+ 
+Separate controls are mounted for the front and rear air
+conditioning. In order to help control the electrical demands on
+the system, a trick wind activated switch shuts off the front
+condenser fans over 25 mph, with a solid state relay
+incorporating a timed delay to prevent rapid on-off fluctuations
+near that speed. A two-speed radiator fan from the newer A-2
+chassis Golf/ Jetta is used, with another, a stock fan, timed
+delay on high speed to provide additional fan power.
+ 
+The resulting all-VW Hybrid Vanagon is a pleasure to drive.
+Though the vehicle's still an aerodynamic brick, the new motor
+will push it to 90 mph. ("Toto, I think we've finally made it
+out of Kansas. . ") We didn't have a chance to time the
+acceleration, but subjectively the car is noticeably quicker
+than a Wasserboxer gasoline Vanagon. Coupled with the low-geared
+diesel four-speed, the Vanagon jumps out, even with the
+sophisticated air conditioning on and three or four on board.
+Fuel mileage with the Diesel was about 23-24 mpg. The more
+powerful gasoline engine delivers a respectable 18-19 mpg. The
+Diesel was rated at 49 hp. We estimate that the 1881 is putting
+out about 125 hp, a modest 255-percent improvement.
+ 
+The engine turns 4000 rpm at 65 mph, which is a bit buzzy. David
+feels a better choice of transmission would be a gasoline
+Wasserboxer 4-speed or 5-speed, which would require a simple
+bellhousing change to use. It's likely that a different
+transmission would improve the fuel mileage as well.
+ 
+In many respects, this is not a simple swap, but it's certainly
+an interesting one. Used Diesel Vanagons are a real bargain in
+the current market. The added horsepower of a gas high
+performance motor can turn a Diesel Vanagon into a much more
+desirable vehicle. Tune-ups and parts are easy to get, as is
+service, and the sophisticated air conditioning system that
+David constructed is mere icing on the cake.
+ 
+But, like many other upgrades, this is one project that is not
+quite finished. We mentioned the future Lambda sensor, but David
+has some other changes in mind: perhaps a Techtonics 2020 motor
+for long hills. One thing's for sure, David might return to
+Kansas again, but next time he'll find it more level than he
+remembered. 
+ 
+ 
+ 
+Photo captions:
+ 
+Note close proximity of alternator to top of compartment.
+Ducting and cooling shroud on alternator is off Porsche 928 and
+provides cooling air In tight confines of Vanagon's engine
+compartment.
+ 
+Dual outlet cast iron manifold from an early Dasher required
+slight modification of stock motor mount. Custom dual outlet
+downpipe helps build power in 1881cc motor. 
+ 
+View from underneath. On right, special air conditioning
+condenser Is visible. CIS pump and accumulator are visible to
+right of water plumbing.
+ 
+Two.speed radiator fan from newer A-2 chassis Golf/jettas fit
+stock diesel Vanagon location. Timed relay and "wind" switch
+combine to help keep electrical demands on battery reasonable.
+ 
+David Andrews M&M Enterprises 1341 Century Avenue Riverside, CA
+92506
+ 
+ 
+ 
+
+
+----------------------------------------------------------------------
+David Carment
+School of International Affairs
+Carleton University
+Ottawa, Ontario
+K1S 5B6
+voice - (613) 788-2600-6662
+fax - (613) 788-2889
+Email address: dcarment_at_ccs_dot_carleton_dot_ca
+----------------------------------------------------------------------</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F711118" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F711118" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F711118" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

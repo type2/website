@@ -1,0 +1,293 @@
+<html>
+<head>
+<title>type2 - Brake affecting idle? Also my idle problems.. </title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/532262 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/532262" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/532262" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Brake affecting idle? Also my idle problems.. </h1>
+   <b>&quot;Janice Bartmess&quot; &lt;sbaypetinn_at_tailwag_dot_com&gt;</b><br/>
+   <i>2002-09-26 18:59:02+00</i><br/>
+   <br/>
+   <pre>Brake servo (booster), hose and valve notes..
+Someone had posted something a little while back now about a wierd problem
+with their brakes, that the idle and the braking system seemed to be
+interacting, or affecting each other. I think that they said that the pedal
+height would change with increase/decrease in engine RPM.
+I just wanted to point out that there is a valve in the brake vacuum hose that
+is potentially going to cause problems if it is not installed correctly. This
+valve sits right inline with the brake vacuum hose and looks like a black
+round cannister, maybe in profile as big as a quarter. That is the '71
+version, anyway. There are only two ways to install it, and one is wrong.
+Well, this is a one-direction valve, so if it is turned the wrong way, your
+power brakes are not going to work (it will still brake, but hard pedal), and
+it could affect the idle or rpm, especially if the servo or the hose between
+the booster (booster) and the engine compartment had a leak, even slight. The
+direction is marked on the little valve, but apparently some people don't
+check and put it in the wrong way.
+When you reinstall that valve, it might be a good idea to cut back the hose a
+bit to get into some good "live" rubber, and use a couple of hose clamps. The
+hose has a metal thread in it, so use some good cutters.
+The valve should be installed in the engine compartment, for ease of access
+and to prevent interaction of idle with excess air volume which might remain
+in the line.
+I had to mention this, because the bus that we brought back from Couer d'
+Alene had so many things that were not done right, which apparently caused the
+engine to fail and prior to that probably made it operate badly. We can now
+add this one to the list. We haven't been using it much, but we did drive it
+all the way back to Los Angeles from Couer d' Alene after putting in the
+rebuilt engine, and used it around town. We have gone through it a little more
+as time allowed, and it's getting better and better. Recently we have had a
+problem with the idle after warmup.. In checking for vacuum leaks, we found
+this problem with the wrong-way valve. I knew that the brake servo was not
+working, but I sort of assumed it needed a rebuild. Now it works great! We had
+a good laugh over this one!
+Other problems found, and recent problem with idle..
+The original blown engine that was in this bus had a broken crank.. busted
+right in two! Amazingly, someone drove it into the sales yard up there, making
+a heck of a racket. It also had a broken bell housing on the transmission,
+apparently from a rather cataclysmic and sudden event that resulted in a
+massive amount of torque being applied to that housing.. But then, the '71
+does not have a lot of support in the mounting system to control and dampen
+torque. Anyway, you get the idea.. And when we got into the engine, both the
+oil pressure relief valve and the oil pressure control valves were completely
+disabled.. the plungers were totally gone! The engine had also been installed
+in such a way that the big rubber gasket that is supposed to keep hot air out
+of the engine compartment was kind of sticking up in the air uselessly..lots
+of daylight between the exhaust and engine areas, and I recently found a very
+tell-tale piece of obviously ancient, brittle, and shredded generator/fan belt
+in a recess of the engine compartment. It's really amazing, that these
+vehicles and their engines can tell their story, isn't it?
+In checking things out, I found a little hole in the heat riser on the
+manifold that had been eaten through.. now hot exhaust gases are getting
+directly into the engine comparment, and that won't do. So, this must be
+changed, but it would not affect idle.
+The carburetor is less than a year old, but we're changing it out to the one
+that came with the C d' A engine, just to maybe eliminate that. The new one
+just doesn't seem to adjust! Cannot get this thing to idle, or even to hold a
+steady rpm. Any ideas, anyone? Has anyone ever had a problem with a new
+carburetor like that? I did find one potential small vacuum leak in a 1" piece
+of fuel line with a metal dowel that had been used to close off a vacuum port
+on the carb.. It was old and possibly cracked, but that has been fixed.
+Because of the recent problems that we had with bad fuel on another engine, we
+drained all the gas and put in new, also drained the fuel bowl in the carb.
+The other '71 bus was running VERY badly, backfiring, not idling, etc.. We got
+it running, drove it home. It ran just fine when the fuel was drained and
+changed. The bad fuel came from a "World Oil" station, the newly reblended 91
+Octane Union Oil product that they were dispensing.. Visual inspections
+revealed several suspicious symptoms that all was not right.. a clear
+substrate that was heavier than the fuel and settled out into a layer on the
+bottom of the sample jar, particulates, and a general cloudiness when the fuel
+sample was allowed to stand in contact with air. The clear substrate did test
+positive for water with one brand of test paste, and not with another!!!
+The carburetor that I am using on the bus I'm having problems with now is a
+Solex 34 PICT 3, and I have checked the electromagnetic idle valve and cleaned
+out the passage from the outside with a little can of compressed air (the kind
+with the long, red wand that they use for office), and also the pilot valve
+and idle and fuel adjustment valves. I've gone through the Bentley's carb
+adjustment procedure for that model a few times, but cannot achieve any kind
+of a free-standing idle once the choke (warm up) throttle opens up and lets
+air into the carb. RPM cannot be adjusted with any consistent and sensible
+results, measuring with a digital tachometer. The fuel filter has also been
+changed, although it didn't really need it.
+Any thoughts?
+Jan B</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F532262" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F532262" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F532262" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

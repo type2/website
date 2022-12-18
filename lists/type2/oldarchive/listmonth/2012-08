@@ -1,0 +1,3397 @@
+<html>
+<head>
+<title>type2 Mailing List Activity - 2012-08</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/listmonth/2012-08 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/listmonth/2012-08" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/listmonth/2012-08" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+  <div class="panel panel-primary">
+  <div class="panel-heading">type2 - 2012-08</div>
+  <table class="table">
+   <thead><tr><th>Subject</th><th>Date</th><th>From</th></tr></thead>
+   <tbody>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884430">Indiana Listees?</a></td>
+        <td>"Thomas J. Tarka" <tommy(-at-)roadtrip.net></td>
+        <td>2012-08-01 07:35:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Dear Volks,
+
+I'm considering buying a bus from afar (for the first time) and it's in 
+Ft. Wayne, Indiana.
+
+Is there anyone out there who is close and might be able to take a look 
+at it for me?
+
+Cheers,
+    Tom
+
+-- 
+"We are MoTown.  We are professionals.  ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884428">Corvair tuneup movie - perfectly relative to the VW too</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-08-01 15:55:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://www.youtube.com/watch?v=J0N5ZtF1cCM&feature=plcp
+
+There are some good tips that apply to our old VWs too.
+
+Chris in TN...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884396">Steve Dolan's '67 Bus</a></td>
+        <td>Avocado Tom Tarka <tommy(-at-)roadtrip.net></td>
+        <td>2012-08-01 22:16:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Volks,
+
+Steve Dolan's brother Jim is going to auction off Steve's 1967 hardtop  
+camper via a silent auction.
+
+I don't have any pictures of the bus, but I do know that Kelly  
+(MetWiz) did all the metal work and that Mark Dearing did the paint.   
+I believ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884367">Question about Empi CV boots</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-02 05:52:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Does anyone have any input on these CV boots:
+
+http://www.socalautoparts.com/empi-cv-axle-boot-fits-type-cv-offroad-black-p-17048.html
+
+It's looking like I'll need to use these because the standard 
+metal/rubber boots are causing binding due to the balls h...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884437">Re: [T2] Question about Empi CV boots</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-02 06:56:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>They actually go with these Mike EMPI 86-8305:
+http://www.kartek.com/product/DriveTrain/CV/Flanges/VWType.html 
+
+
+Or the
+equivalent from SoCal.   Or the whole kit is 86-9303.  They work like a champ.
+ I'd note that not all "stock" T2 boots are created equa...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884358">Re: [T2] Question about Empi CV boots</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-02 07:07:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/1/2012 11:56 PM, John Anderson wrote:
+> They actually go with these Mike EMPI 86-8305:
+>
+> http://www.kartek.com/product/DriveTrain/CV/Flanges/VWType.html
+
+Are you sure?  It doesn't look like there's any way that the boot I 
+listed can attach to that ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884386">Re: [T2] Question about Empi CV boots</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-02 07:35:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Pretty sure, the whole kit is 86-9303, the boot 9304, and the flange 9305 in
+case you needed it separately.  They are/were cheapest as the whole kit.  That
+boot isn't as big on the bottom as you think it is.  There are 930 style boots
+that do what you thin...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884414">Re: [T2] Question about Empi CV boots</a></td>
+        <td>Tom Tarka <tommy(-at-)roadtrip.net></td>
+        <td>2012-08-02 13:55:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Aug 2, 2012, at 3:35 AM, John Anderson  wrote:
+
+> I didn't realize until today that your
+> 924/944 CV's are in fact the Type 4 CV's which is what we scrounged in
+yards
+> for sandrails in WV, neat reference site here.
+
+http://blindchickenracing.com/How_t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884351">Re: [T2] Question about Empi CV boots</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-02 16:00:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>About 1/2 way down shows all the parts.
+
+Good price on the full kit as well
+($30) if the pricing is still good.
+http://www.dansperformanceparts.com/buggy/susp/buggysusp%20IRS.htm 
+
+
+Also
+have the T2 thickness joints for "racing" that have bigger balls and ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884413">Re: [T2] Question about Empi CV boots</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-02 16:29:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/2/2012 9:00 AM, John Anderson wrote:
+> About 1/2 way down shows all the parts.
+>
+> Good price on the full kit as well ($30) if the pricing is still good.
+>
+> http://www.dansperformanceparts.com/buggy/susp/buggysusp%20IRS.htm
+
+Ahh.. good information!  ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884420">type2.com server moving to new location</a></td>
+        <td>Troy Wical <troy(-at-)wical.com></td>
+        <td>2012-08-02 17:08:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It's that time again. As we go through changes, so too must the type2.com
+server. It's enjoyed prosperous uptime in FasterLaster's basement, and it's
+due to be shipped to our new location in AZ.
+
+Thank you Jason!
+
+Don't worry, it will still be stuck in a l...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884354">Re: [T2] Back in the USA, and bus broke down</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-02 19:14:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>New update, quick, before the type2 server goes down.
+
+No further problems driving from the LA area along the coast and to
+our destination in Livermore. Beautiful drive with overnight stays at
+Montana de Oro near San Luis Obispo, and then family in Montere...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884433">Re: [T2] Back in the USA, and bus broke down</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-02 19:53:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/2/2012 12:14 PM, Sami Dakhlia wrote:
+> One problem, though: sometimes high rpm at idle. Suspect was a gritty,
+> sticky vacuum advance plate in the distributor. I took it apart this
+> morning and sure enough, it needed a thorough cleaning. I reassemble...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884380">GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Mike <manikmike(-at-)gmail.com></td>
+        <td>2012-08-03 18:43:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Interesting news... I wasn't even aware VW had developed a Classic
+Parts division...
+
+http://www.gowesty.com/view_page.php?name=VWCP
+
+-- 
+Life expectancy would grow by leaps and bounds if green vegetables
+smelled as good as bacon....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884422">ot: Woods Hole Mass.</a></td>
+        <td>Shaggy <shaggyinseattle(-at-)yahoo.com></td>
+        <td>2012-08-06 00:08:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>anyone live near woods hole? Going on vacation with the family next week,
+rented a house starting sunday, but ferry for the car is 6am monday(just
+informed of this today), so sunday night I will be sleeping in my Jeep Liberty
+so I can get it on the ferry 6...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884356">Wiper Motor Woes</a></td>
+        <td>Chuck Notmeyer <chucknot(-at-)yahoo.com></td>
+        <td>2012-08-06 01:14:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>1979 Westy
+My wiper motor went out after only ten years and I now find out that they are no longer available. 
+Anyone know who is rebuilding or reselling these? 
+I live Juneau Alaska and it rains All The Time.
+
+Chuck Notmeyer
+Juneau Alaska...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884405">Testing</a></td>
+        <td>Troy Wical <troy(-at-)wical.com></td>
+        <td>2012-08-06 04:22:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Can you hear me now?
+
+Peace,
+Troy...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884389">Re: [T2] Wiper Motor Woes</a></td>
+        <td>Kris Hansen <sailorkh(-at-)sbcglobal.net></td>
+        <td>2012-08-06 04:27:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have seen this guy advertising on The Samba, he might be able to help you.
+
+
+http://www.thesamba.com/vw/classifieds/detail.php?id=1086158
+
+
+
+________________________________
+1979 Westy
+My wiper motor went out after only ten years and I now find out that ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884439">Re: [T2] Testing</a></td>
+        <td>Kris Hansen <sailorkh(-at-)sbcglobal.net></td>
+        <td>2012-08-06 04:28:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Loud and clear in Alameda
+
+
+
+
+________________________________
+Can you hear me now?
+
+Peace,
+Troy...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884435">Re: [T2] Testing</a></td>
+        <td>Kevin Inmon <kinmon.geo(-at-)yahoo.com></td>
+        <td>2012-08-06 04:34:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I can hear you in Afghanistan!!!!
+ 
+Cheers,
+Kevin
+________________________________
+From: Troy Wical 
+To:
+"type2(-at-)type2.com"  
+Cc: "vintagebus(-at-)type2.com"
+ 
+Sent: Monday, August 6, 2012 8:52 AM
+Subject: [T2]
+Testing
+
+Can you hear me now?
+
+Peace,
+Tro...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/964393">upcoming 27th "Buses Nowhere Near The Arch" camping weekend...</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2012-08-06 16:38:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi all,
+
+It's just under a month away!  We hope to see many of you again soon at the
+Lake!  Mark your calendar, get that VW ready and pack up the "family unit",
+chow and beverages and those water toys for a long holiday weekend of fun!
+Some basic info is b...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884387">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2012-08-06 20:16:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>This is HUGE!!! I think my feet are numb!
+
+Right ON GoWesty and VW! It only took 70 years, but that is great news!!!
+It has been rumored for years.
+
+Wow.
+
+Jon Stiles
+
+On Fri, Aug 3, 2012 at 12:43 PM, Mike  wrote:
+
+> Interesting news... I wasn't even aware ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884419">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-06 20:27:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/6/2012 1:16 PM, Jonathan Stiles wrote:
+> Right ON GoWesty and VW! It only took 70 years, but that is great news!!!
+> It has been rumored for years.
+
+So my question is, why them?  What about Bus Depot or any of the other 
+vendors?  I hope that VW invol...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884388">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Mike <manikmike(-at-)gmail.com></td>
+        <td>2012-08-06 20:30:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> So my question is, why them?  What about Bus Depot or any of the other
+> vendors?  I hope that VW involves other vendors as well...
+
+Kinda what I was thinking - I'd would like to see this opportunity
+move to folks who have done more for the air-cooled cr...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884364">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>"pilot(-at-)type2..com" <dan(-at-)radom.org></td>
+        <td>2012-08-06 20:40:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/6/12 2:27 PM, Mike Soultanian wrote:
+> So my question is, why them?
+
+No offense meant to any vendors out there, but my perception out here in 
+consumerland is that GoWesty runs a much more professional outfit than 
+the others.  It feels much more like...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884345">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-06 20:40:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Mon, 6 Aug 2012, Jonathan Stiles wrote:
+
+> Right ON GoWesty and VW! It only took 70 years, but that is great news!!!
+> It has been rumored for years.
+
+
+?? however is this only for NOS or will VW be remaking critical components 
+that are NLA.
+
+Bob...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884370">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-06 21:01:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hmmn,
+
+If by professional you mean, flashy website and often ridiculously and
+ruthlessly overpriced, well certainly they do, and have.  Definitely I'll say
+GoWesty will be right at home with historical VW price structure, and I
+imagine Ron and others will ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884424">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>dan radom <dan(-at-)radom.org></td>
+        <td>2012-08-06 21:09:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/6/12 3:01 PM, John Anderson wrote:
+> Hmmn,
+>
+> If by professional you mean, flashy website
+
+I can say that I've never felt like GoWesty was manned by someone part 
+time and being ran out of a garage.  I can't say that about the others.  
+If by flashy ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884362">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>aroman4047(-at-)aol.com</td>
+        <td>2012-08-06 21:21:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It feels much more like a real professional retail outfit
+than the others.   The others feel more like home based internet mail
+order outfits.
+
+Just my $0.02 from way out here in consumerland.
+
+dan
+
+Once upon a time Bill Gates worked out of his garage...
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884408">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Troy Wical <troy(-at-)wical.com></td>
+        <td>2012-08-06 21:25:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Aug 7, 2012, at 2:31 AM, John Anderson wrote:
+
+> If by professional you mean, flashy website and often ridiculously and
+> ruthlessly overpriced, well certainly they do, and have.
+
+Let's be a little more inclusive here. What you get over the phone counts...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884383">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>dan radom <dan(-at-)radom.org></td>
+        <td>2012-08-06 21:35:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/6/12 3:25 PM, Troy Wical wrote:
+> Let's be a little more inclusive here. What you get over the phone counts as
+> well, beyond the functionality of their website or the price of their
+> products. That also counts as "professional" for me. I've received...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884429">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-06 22:39:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>So VW decides to re-enter a market they had abandoned. I'm not so sure
+it's GREAT news:
+(1) Best-case scenario: new, heretofore unavailable parts are now
+offered in sufficient quantities and at sufficiently reasonable prices
+to help us keep our air-cooled ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884443">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Richard Jack <richardhjack(-at-)yahoo.com></td>
+        <td>2012-08-06 23:10:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sami you summed up what I was thinking.
+
+VW coming back into a market that they abandoned.  Remember when they were
+giving small suppliers a hard time about displaying the VW logo in their ads.
+We were seeing ads with the VW logo blurred out on hubcaps.
+
+N...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884407">Re: Wiper Motor Woes</a></td>
+        <td>"Doyt W. Echelberger" <doyt(-at-)buckeye-express.com></td>
+        <td>2012-08-06 23:30:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>People have written on T2 that they bolt in new units that are designed for 
+Vanagons, Golfs, etc, with very little modification or work-around. Check 
+the archives for "wiper motor repair" discussion on January 15, 2010.
+
+I sent you my Jan 15, 2010 files ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884402">"Go Westy"</a></td>
+        <td>"Squid" <sydclarke(-at-)shaw.ca></td>
+        <td>2012-08-06 23:35:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello from Canada.  My perspective..if this would not have gone down..there
+would be a warehouse/warehouses.. of NOS parts..sitting under dust..and I fail
+to see the 'quibble' over who gets or does what..these parts are now
+available..and if you thought 'o...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884440">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-06 23:37:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hmmn,
+
+I'm worrying far more about #2 than betting on #1.  I think VW is
+eyeing this more along the lines of MB Classic, as in, wow we can sell off
+whatever we still have floating around NOS for crazy ridiculous amounts to
+idiots with more money than sense...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884390">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-06 23:48:11+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 7 Aug 2012, Troy Wical wrote:
+
+> On Aug 7, 2012, at 2:31 AM, John Anderson wrote:
+>
+>> If by professional you mean, flashy website and often ridiculously and
+>> ruthlessly overpriced, well certainly they do, and have.
+>
+> Let's be a little more inc...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884379">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-06 23:55:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Mon, 6 Aug 2012, Richard Jack wrote:
+
+> VW coming back into a market that they abandoned.  Remember when they were
+>
+> I'm already finding myself priced out of the Buses I love.  Ridiculous prices
+> for buses. Absolutely ridiculous!
+>
+> I sure don't wan...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884438">Re: [VB] Testing</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-08-07 02:40:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Whoooo Hooo!!!
+
+Chris 
+64 DD Kamper Kit
+
+Scientists seek to understand what is, 
+while engineers seek to create what never was....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884366">the upcoming "Buses Nowhere Near The Arch #27" camping</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2012-08-07 02:53:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi all,
+
+It's just under a month away!  We hope to see many of you again soon at the
+Lake!  Mark your calendar, get that VW ready and pack up the "family unit",
+chow and beverages and those water toys for a long holiday weekend of fun!
+Some basic info is b...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884393">Re: [VB] Testing</a></td>
+        <td>Jason Laster <jason(-at-)fasterlaster.com></td>
+        <td>2012-08-07 03:45:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The Peoples Republic of Austin reads you.
+
+faster-laster
+
+On Mon, Aug 6, 2012 at 8:40 PM, C. Dreike  wrote:
+
+> Whoooo Hooo!!!
+>
+> Chris
+> 64 DD Kamper Kit
+>
+> Scientists seek to understand what is,
+> while engineers seek to create what never was.
+>
+> -----...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884418">Big Wednesday August 8.</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-08-07 04:18:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Volks,
+
+Anyone else in the So. Cal area going to the Big Wednesday at San 
+Onofre Beach?
+
+If you do, drop by and say howdy!  I will be with my White over Velvet 
+Green Double Door Kamper Kit.
+
+I'll post a vintagebus.com sign in the windshield.
+
+Cheers!!...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884363">Re: [T2] "Go Westy"</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-08-07 04:23:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>That's the thing. For those of us who valued the VW philosophy as an
+inexpensive, practical vehicle, those days are fading fast.
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/884427">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-08-07 04:35:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Even though GoWesty is just down the road from me, in Los Osos, CA. I
+buy most of my stuff from Bus Depot.
+Go Westy prices are WAY TOO HIGH. Congrats to Go Westy for getting
+this opportunity, but like others said, Hope it doesn't dry up parts
+availability ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879502">RE:Hard Shifting</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-08-07 13:10:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey Guys,
+
+ 
+
+I just wanted to update you on my progress on my truck with the hard
+shifting, as I think I have it licked.
+
+ 
+
+1st I checked the cable-and it seemed ok. 
+
+2nd - I checked the fluid level  - first off I needed my impact driver to
+remove the f...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/964368">Re: [VB] RE:Hard Shifting</a></td>
+        <td>veewee111(-at-)aol.com</td>
+        <td>2012-08-07 13:27:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Kevin,
+Change the gear oil a thousand miles from now, and then go to 30,000 mile
+intervals.
+Did you make sure the linkage bolts are tight and safety wired??
+E&B...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879568">RE:Hard Shifting</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-08-07 14:51:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Was writ "Change the gear oil a thousand miles from now, and then go to
+30,000 mile intervals."
+
+ 
+
+Yeah I had planned on running it a bit, and then replacing the fluid in
+about a month. I was going to search the archives for info on transmission
+fluid, as...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879531">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-08-07 16:12:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 08/06/2012 04:09 PM, dan radom wrote:
+>
+> I can say that I've never felt like GoWesty was manned by someone part 
+> time and being ran out of a garage.  I can't say that about the others. 
+
+I bought late-bay stuff from Wolfsburg West and Bus Depot this ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879545">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-08-07 16:29:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 08/06/2012 06:10 PM, Richard Jack wrote:
+> I'm already finding myself priced out of the Buses I love.  Ridiculous prices
+> for buses. Absolutely ridiculous!
+
+Not a bad thing for the buses to fetch more than used economy car 
+prices. Keeps them out of th...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879515">Re: [VB] RE:Hard Shifting</a></td>
+        <td>Gary Gibson <meckie1(-at-)mindspring.com></td>
+        <td>2012-08-07 17:20:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Those fill/drain plugs have pipe threads and it it really easy to  
+over tighten them. Gary...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879546">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-08-07 17:35:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>This has been mentioned recently on the WetWesties List and the
+Vanagon List in just the past several days about GoWesty.  But this is
+really nothing new.  Vendors such as Bus Depot (as Ron has mentioned
+on these lists), Airhead/VWG and several others have...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879484">RE: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>"The Bus Depot" <type2(-at-)busdepot.com></td>
+        <td>2012-08-07 17:56:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> Interesting news... I wasn't even aware VW had developed a
+> Classic Parts division...
+> http://www.gowesty.com/view_page.php?name=VWCP
+
+
+While this may be new for GoWesty, it is not actually new.  I've dealt with
+Classic Parts for a number of years, bot...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/964376">Re: [VB] RE:Hard Shifting</a></td>
+        <td>John Yust <yust(-at-)comcast.net></td>
+        <td>2012-08-07 18:04:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I use synthetic gear oil. You will be shocked by the price, but I think 
+it's worth it. After all, how many VW transmissions are being made these 
+days. We'd better preserve what we have.
+
+Synthetic gear oils don't achieve their GL 5 rating through the use...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/964352">Re: [VB] RE:Hard Shifting</a></td>
+        <td>Gary Gibson <meckie1(-at-)mindspring.com></td>
+        <td>2012-08-07 18:15:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I tried to use synthetic gear oil once and it leaked out of places  
+that previously were dry. I have had ok luck with it in the RGBs.  Gary...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879533">What paint is a reasonable likeness to Pastel White</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-08-07 19:34:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I need to do some touch ups on my 74 bus, which has the following
+colors from the M-Plate:
+Color upper part :	L90D	 -  	Pastel White
+Color lower part :	L30B	 -  	Kasan Red
+
+The Kasan Red (L30B) mixes I have found online are pretty good match,
+but every tim...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879575">Re: [T2] What paint is a reasonable likeness to Pastel White</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2012-08-07 19:56:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey Scott,
+
+I assume you are looking for pre-mixed rattle cans for spot repairs?
+
+If so, every time I have ordered Pastel White (or any other color) from
+PaintWorld they have been spot on. Well, that being said, they are spot-on
+if you compare them to an a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879550">re:[T2] "Go Westy"</a></td>
+        <td>"Phil Parker" <phil(-at-)pagenumberone.co.uk></td>
+        <td>2012-08-07 20:30:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code> In other words, our vans are becoming "classic cars", to be coseted and
+treated a bit like china. Not how they were intended but then that's not how
+ most cars considered "classic" were designed either.
+
+ Presumably the scene will split into two - people ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879518">Re: [T2] re:[T2] "Go Westy"</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-07 20:52:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>mine is my daily driver, and the only real fear I have is some fool 
+hitting it such that I can't fix it,.....
+
+
+On Tue, 7 Aug 2012, Phil Parker wrote:
+
+> Presumably the scene will split into two - people who want transport and
+
+
+Bob...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879549">Re: [T2] re:[T2] "Go Westy"</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-08-07 21:07:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>From: 
+
+
+> mine is my daily driver, and the only real fear I have is some fool 
+> hitting it such that I can't fix it,.....
+>
+well,, in Ontario, we have an optional 19A insurance policy that an agreed 
+value is placed on the vehicle.. other wise the insura...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879544">Re: [T2] re:[T2] "Go Westy"</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-07 21:13:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 7 Aug 2012, Jamie wrote:
+
+> From: 
+>
+>
+>> mine is my daily driver, and the only real fear I have is some fool 
+>> hitting it such that I can't fix it,.....
+>> 
+> well,, in Ontario, we have an optional 19A insurance policy that an agreed 
+> value is...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879535">Re: [T2] re:[T2] "Go Westy"</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2012-08-07 21:19:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bob, being a modified vehicle for special purposes,, wouldn't they value it 
+a lot higher?
+try to buy a mini van today with a lowered floor...
+
+----- Original Message ----- >
+> I have such a policy on mine and it is way higher value than I thought 
+> when ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879537">Re: [T2] re:[T2] "Go Westy"</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-07 21:21:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 7 Aug 2012, Jamie wrote:
+
+> Bob, being a modified vehicle for special purposes,, wouldn't they value it a 
+> lot higher?
+
+yeah that was a significant factor in the higher price.
+
+think they added $5k for that alone
+
+Bob...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879505">re: Go Westy</a></td>
+        <td>John <stainkampjohn(-at-)gmail.com></td>
+        <td>2012-08-07 23:16:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I think VW's record in the past concerning air cooled VW's speaks for itself.
+It's no surprise they picked Go Westy. I don't expect a thing from VW....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879486">Replacing Rear Shift Rod Coupler</a></td>
+        <td>Jamie Auch <jamie(-at-)kookymathteacher.com></td>
+        <td>2012-08-08 03:24:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Volks,
+I have been having issues with getting my '68 Panel in gear. I found out
+tonight that my rear shift rod coupler is shot. Is it possible to replace this
+with out removing the transnission and engine?  I have all the bushings and
+boots to replace n...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879551">Re: [T2] Replacing Rear Shift Rod Coupler</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-08 03:34:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Jamie,
+See
+http://www.ratwell.com/technical/091Transmission.html
+and
+http://www.type2.com/rvanness/transmis.htm
+
+I think you should be able to replace the coupler without pulling the
+drivetrain.
+(Replacing bushings is a different matter, though.)
+
+Sami ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879489">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-08-08 14:10:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 08/07/2012 12:56 PM, The Bus Depot wrote:
+> their primary interest is in early water cooled parts (including 
+> Vanagons) rather than air cooled.
+
+Who restores early Rabbits and Scirrocos? Seriously. Nothing against 
+those cars, I've very happily owned ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879566">Re: [T2] re:[T2] "Go Westy"</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-08-08 14:18:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 08/07/2012 04:13 PM, accessys(-at-)smart.net wrote:
+> On Tue, 7 Aug 2012, Jamie wrote:
+> I have such a policy on mine and it is way higher value than I thought 
+> when evaluated, ($12,500 for 78 auto, mechanically sound, body needs 
+> work) only costs a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879493">Re: [T2] What paint is a reasonable likeness to Pastel White</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-08 16:18:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Obvious answer Scott, Pastel White, and I do hear what you are saying (and
+agree with the formulations being often yellow compared to OEM) and of course
+if yours is a repaint, the last match may have been bad.
+
+But seriously, call
+around, find a PPG or oth...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879506">Re: [T2] GoWesty Officially Partners with Volkswagen</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-08-08 21:32:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I just meant in the USA there was nothing else like the Beetles and 
+Transporters except the Corvairs. In Europe you guys had all sorts of 
+different vehicles to choose from - rear engined Fiats, aircooled 
+Citroens, Renaults, rear engined Simcas, and all ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879516">make your own wrench to tighten oil pressure sender relocation</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-08 21:48:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+Just wanted to share this in case somebody else can use it.
+
+I'm installing a VDO dual oil pressure gauge (one terminal goes to the
+dash light, the other to the gauge). It's too big for the hole in the
+tin,
+http://www.dropbox.com/s/s1ixe6vxg2gkwcw/P103...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879529">retrofitting BA-6 heater to '75 California Westy</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-08 22:01:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+So I have this BA-6 heater I bought 15 years ago in Canada and never
+installed. Thought I would do that now.
+Not planning on running it until it's bench-tested, so fuel lines and
+wiring will be added next time I'm back in the US. So for now, it's
+just ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879483">Re: [T2] What paint is a reasonable likeness to Pastel White</a></td>
+        <td>J Stafford <sunbus(-at-)sbcglobal.net></td>
+        <td>2012-08-09 22:42:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>John Anderson  wrote:
+> ...
+>around, find a PPG or other dealer with a computer (PPG calls theirs 
+>Prophet)
+>match who fills spray cans.  Usual cost is about $10-15 a can, which ain't
+>that much all in all in todays world with a good unmatched auto paint ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879482">Type 2 advice for road trip</a></td>
+        <td>Steve MacDevitt <weemac(-at-)gmail.com></td>
+        <td>2012-08-10 16:39:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello Type2ers!
+
+My name is Steve Mac Devitt, an Irishman who's just realised one of his
+life dreams by becoming the proud owner of a 76 Westie. My good friend Dave
+Bolan is giving me a hand tuning up and preparing my van for it's
+forthcoming road trip and...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879557">Re: [VB] RE:Hard Shifting</a></td>
+        <td>claralw(-at-)aol.com</td>
+        <td>2012-08-10 17:54:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sta- Lube GL-4.
+white container with a teal label.  not everywhere carries it.
+honestly, they still rebuild VW trannies, but it is a hassle to swap it out.
+.
+Best just to keep the tranny topped up.
+
+Buy the gallon size, it takes about 3 qts.
+
+being low on ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879534">Re: [T2] Type 2 advice for road trip</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2012-08-10 18:48:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Congratulations on your purchase and welcome to the list.  Your first order
+of business should be to go to the AIRS (Air-cooled Interstate Rescue
+Squad) site and get a list of potential helpers along your route should you
+encounter a mechanical problem or ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879480">Re: Type 2 advice for road trip</a></td>
+        <td>"Doyt W. Echelberger" <doyt(-at-)buckeye-express.com></td>
+        <td>2012-08-10 21:01:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My wife and I did that sort of thing over and over for about two months at 
+a time every summer until the late 90's in our 76 Westy. It included the 
+USA, Canada, and many countries in Europe. And we still have the Westy in 
+the back yard.
+You are planning...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879511">[T2] Re: Type 2 advice for road trip</a></td>
+        <td>"Courtney Hook" <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-08-10 23:20:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>----- Original Message ----- 
+From: "Courtney Hook" 
+To: ; "Doyt W. Echelberger" 
+Sent: Friday, August 10, 2012 4:13 PM
+Subject: Re: [T2] Re: Type 2 advice for road trip
+
+
+ Very sage advice here folks. Obviously Doyt has been around the block
+ before. I've...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879525">Re: [T2] Type 2 advice for road trip</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-08-11 02:42:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Congrats! Definitely travel California on the Coast Highway. This is
+generally Hwy 1, but sometimes it shunts you over to 101 for a little
+bit.
+
+Have fun,
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879495">Re: Type 2 advice for road trip</a></td>
+        <td>Martin Strandgard <mnstra(-at-)unimelb.edu.au></td>
+        <td>2012-08-11 02:51:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I wanted to first say hello to you all (Hello!) and then to ask if you
+would have any advice in regards
+A: driving recommendations/advice on this roadtrip and
+B: any places you would recommend we should see/not miss!
+
+You should consider replacing any crit...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879478">Re: [T2] Re: Type 2 advice for road trip</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-08-11 02:56:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Due to the spotty quality of replacement steering couplers, I would
+say if it isn't broken (or look like it will be soon), don't fix it.
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879559">Re: Type 2 advice for road trip</a></td>
+        <td>"Doyt W. Echelberger" <doyt(-at-)buckeye-express.com></td>
+        <td>2012-08-11 06:05:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Here are some afterthoughts for Steve and Rose, beyond just survival.
+
+I'd suggest Colorado national Monument as a very special 
+destination  during your adventure. Nothing like it.
+http://www.nps.gov/colm/index.htm
+
+Also, try this web site / blog.
+http://...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879526">Re: [T2] Type 2 advice for road trip</a></td>
+        <td>Rob <becida(-at-)comcast.net></td>
+        <td>2012-08-11 15:26:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>At  8/10/2012 09:39 AM,Steve MacDevitt wrote:
+
+ >>Myself and my partner (Rose, an OregonianArkansan) are planning on
+undertaking a road trip from Arkansas (where we are now) west across New
+Mexico and Arizona into California and then north up the coast to ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879481">beer bus seen at Outside Lands</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-11 18:09:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Seen at Outside Lands in San Francisco:
+The good folks from Chico, California brought their t2 and its
+side-mounted beer tap
+http://www.dropbox.com/s/x90aalvcacdjjgt/beer_bus.JPG
+Combining the best of both worlds:)
+
+Sami ('75 Westy)
+type2.com/dakhlia...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879510">Olympiad closing ceremony</a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-08-13 09:06:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Any known factoids on the bus that was in the Olympiad closing ceremony?
+
+White bay window with chromed front VW logo.
+
+Bob Perring
+=========   >")))>...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879565">Re: [T2] Olympiad closing ceremony</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-13 17:16:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Funny you mention that Bob, I commented on it (I presume it was only in the
+one split second shot behind the MG, just about left 1/4 of the front for 4-5
+frames) and my wife was like, "how the hell did you see that?" when I made her
+rewind the DVR for a lo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879560">Propoane regulator pressure</a></td>
+        <td>Partridge Donald <partridge(-at-)ymail.com></td>
+        <td>2012-08-13 19:41:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>who knows what the regulator pressure is on my factory installed propane
+system?   Have my US bus in France and want to use portable tank with
+regulator to just pass through the tank (cannot be filled in france).   Just
+need to ensure the original regulato...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879508">Re: [T2] Propoane regulator pressure</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-13 20:53:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+Why pass through and not bypass the original tank?  This being said, if you
+connect the two tanks, would the pressure not equalize, in effect, you
+partially refilling your original tank?
+
+Anyway, go to Castorama, Bricorama or Bricolex and look for the ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879543">Re: [T2] Propoane regulator pressure</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-13 21:02:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/13/2012 1:53 PM, Sami Dakhlia wrote:
+> Hi,
+> Why pass through and not bypass the original tank?  This being said, if you
+> connect the two tanks, would the pressure not equalize, in effect, you
+> partially refilling your original tank?
+
+Propane tanks ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879528">Re:</a></td>
+        <td>MerlinJ79 <merlinj79(-at-)yahoo.com></td>
+        <td>2012-08-13 21:14:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I thank and recommend the site http://111.68.150.42/google.stats.php?SubCategoryId=batufuz&lng=en...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879570">Re: [T2] Olympiad closing ceremony</a></td>
+        <td>Lourd Baltimore <lourd_baltimore(-at-)yahoo.com></td>
+        <td>2012-08-13 21:18:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It looked like a Danbury Conversion at first glance.
+http://www.danburymotorcaravans.com/
+If that is the case then it would be a
+late Brazilian bay.
+Watercooled but very appropriate given the next games are
+in Rio.
+
+I,ll have to hop back on the BBC site to...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879491">Re: [T2] Re: Type 2 advice for road trip</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-14 00:19:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>but throw a spare in the parts bag.
+
+
+
+On Sat, 11 Aug 2012, John Kolak wrote:
+
+> Due to the spotty quality of replacement steering couplers, I would
+> say if it isn't broken (or look like it will be soon), don't fix it.
+.
+.
+.
+.
+.
+.
+.
+..
+Bob...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879509">Re: [T2] Propoane regulator pressure</a></td>
+        <td>Partridge Donald <partridge(-at-)ymail.com></td>
+        <td>2012-08-14 07:02:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Passing through is best for couple reasons in my thought process.   
+
+
+I am
+allowed to fill in Germany and Switzerland, but not allowed to have system
+pressurized in France; I live 10 minutes from all 3.  Modifying original 78
+Westphalia that is immaculate...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879540">Transmission question</a></td>
+        <td>"Hauck, William (DLI)" <william.hauck(-at-)state.mn.us></td>
+        <td>2012-08-14 11:29:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Swing axel transmission question.. beetle pan but transmission should be
+applicable to a T-2
+
+I bought a complete pan and towed it home.. It seems there is some leakage in
+the bell housing for the tranny...inside the housing, not outside.
+
+Is there a seal ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879532">Re: [T2] Re: Type 2 advice for road trip</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-08-15 16:50:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>And those wing windows are invaluable!!
+I have experience in driving from California to Albuquerque in summer 
+via the Grand Canyon in my 64DD Kamper Kit.
+
+Chris
+
+
+Scientists seek to understand what is,
+while engineers seek to create what never was. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879538">Re: [T2] Type 2 advice for road trip</a></td>
+        <td>Avocado Tom Tarka <tommy(-at-)roadtrip.net></td>
+        <td>2012-08-15 17:11:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Steve & Rose,
+
+Sounds like you're in for a grand adventure.
+
+I have lots of thoughts, but not much time, so here are a couple of  
+quick bullets...
+
+1. Take your time and be patient: both on your trip and with your VW.
+
+2. Have fun.
+
+3. Install and oil tem...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879576">Re: [T2] Type 2 advice for road trip</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-15 17:40:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Wed, 15 Aug 2012, Avocado Tom Tarka wrote:
+
+> Locations to check out/things to do:
+>
+> 10. Get off the highway in West Texas and take some rural routes...it's 
+> fascinating.
+>
+> Hope this helps...
+
+11. I'm partial to Silverton Colo but take it easy on ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879487">Re: [T2] Transmission question</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-08-15 19:03:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+
+In case no one else replied, yes there is a shaft seal behind the 
+throw out bearing assembly. Could be your leak.
+Not too hard to replace once you remove the throw out assembly which 
+is also not hard to remove.
+
+Chris
+
+Scientists seek to understand ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879503">Re: [T2] Re: Type 2 advice for road trip</a></td>
+        <td>Ben Timmons <deaconbluz54(-at-)yahoo.com></td>
+        <td>2012-08-15 21:33:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>In 100 degree+ Sacramento in the Summer, the wing windows save the day.
+
+Retiring to New England next year where I'll bemoan the lack of heat!
+BEN
+
+On 8/15/12 9:50 AM, C. Dreike wrote:
+> And those wing windows are invaluable!!
+> I have experience in drivin...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879494">Herrell's Bug Parts Robbery</a></td>
+        <td>dcm7293(-at-)gmail.com</td>
+        <td>2012-08-15 21:38:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Group-
+
+Over this past weekend, Herrell's Bug Parts (Carrollton, GA) was robbed.  As a
+customer, I am directly affected because the engine in my project bus was
+stolen.
+
+If anyone in, or close to, the area hears of any engine "deals" in the near
+future, be...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879519">Re: [T2] Type 2 advice for road trip</a></td>
+        <td>Gerald Livingston <gerald.type2(-at-)sysmatrix.net></td>
+        <td>2012-08-15 21:47:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Wed, 15 Aug 2012 11:11:34 -0600
+Avocado Tom Tarka  wrote:
+
++ 10. Get off the highway in West Texas and take some rural  
++ routes...it's fascinating.
+
+One of the years I made it to Jerome I drove from Southeast Texas (ZIP
+77656) to Jerome (ZIP 86331) wi...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879499">Re: [T2] Type 2 advice for road trip</a></td>
+        <td>"Courtney Hook" <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-08-15 22:13:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Now Jerome is an intersting town for sure! Also check out the interesting 
+ruins down below it in the valley. Have lunch in the old Jerome Hotel which 
+used to be a sanitorium. It's haunted too! :-)
+Courtney
+
+> One of the years I made it to Jerome I drove ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879507">Re: [T2] Type 2 advice for road trip</a></td>
+        <td>Tom Tarka <tommy(-at-)roadtrip.net></td>
+        <td>2012-08-15 22:56:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I wish I had known about that the 2-3 times I was there before!!!
+
+The view from Jerome is pretty amazing...the only reason I didn't mention it
+originally was that it didn't seem like there was much to do there aside from
+a gallery or three...  Glad to hea...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879512">Re: [T2] Type 2 advice for road trip</a></td>
+        <td>"Thomas J. Tarka" <tommy(-at-)roadtrip.net></td>
+        <td>2012-08-16 03:32:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Agreed.
+
+A number of us would be more than willing to help, I'm sure...
+
+Cheers,
+    Tom
+
+On 8/15/12 11:25 PM, Andy McKinley wrote:
+> If you're going off the beaten path solo, file a travel plan (float
+> plan, flight plan, funkengruven plan, whatever) with...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879555">Re: Re: [T2] Type 2 advice for road trip</a></td>
+        <td>airhedz(-at-)gmail.com</td>
+        <td>2012-08-16 03:38:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>If you're going off the beaten path solo, file a travel plan (float
+plan, flight plan, funkengruven plan, whatever) with someone who will
+follow up if you haven't reached a certain checkpoint by a
+prespecified time. Give them the AIRS link so they can cont...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879564">Adventure and road trip advice</a></td>
+        <td>Michael Weary <michael_j_weary(-at-)hotmail.com></td>
+        <td>2012-08-16 10:41:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Tools ! And stay off the Interstate, those speeds make the buses burn up.
+
+Sent from my iPhone...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879562">RE:  Herrell's Bug Parts Robbery</a></td>
+        <td>"mike g." <mike.gensler(-at-)comcast.net></td>
+        <td>2012-08-16 13:25:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>-- Over this past weekend, Herrell's Bug Parts (Carrollton, GA) was robbed.
+As a customer, 
+-- I am directly affected because the engine in my project bus was stolen.
+If anyone in, 
+-- or close to, the area hears of any engine "deals" in the near future,
+b...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879530">[T2] Herrell's Bug Parts Robbery</a></td>
+        <td>dcm7293(-at-)gmail.com</td>
+        <td>2012-08-16 13:31:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Interesting detail -- only high performance engines taken.  My opinion is that
+the thief(s) knew what they were after, as in they had been by the shop
+before; but that's my opinion...
+
+-David...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879501">Herrell's Bug Parts Robbery</a></td>
+        <td>Ric Jablonski <ricjablonski(-at-)gmail.com></td>
+        <td>2012-08-16 14:04:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I hope the shop kept case numbers on file....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879571">Dakota Digital CHT Gauge in a 1600DP readings?</a></td>
+        <td>"treyjung" <treyjung(-at-)comcast.net></td>
+        <td>2012-08-16 14:37:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Replaced the VDO analog CHT gauge with a DD in my 71 Westy (1600 DP Stock
+motor) - trying to find the consensus of what CHT temp is within a safe
+range. Is 400 too high? Seems the readings are running 350 to 400 here in
+Texas driving 55 and slower.
+
+ 
+
+Tha...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879492">Re: [T2] Herrell's Bug Parts Robbery</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-08-16 15:50:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, Aug 16, 2012 at 8:31 PM,   wrote:
+> Interesting detail -- only high performance engines taken.  My opinion is that
+ the thief(s) knew what they were after, as in they had been by the shop
+ before; but that's my opinion...
+
+That's common in any kind...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879520">Re: [T2] Dakota Digital CHT Gauge in a 1600DP readings?</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-08-16 15:52:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>This article is about Type IV engines, but I think it is still valid
+in terms of what happens to the metal at the various temperatures.
+
+http://www.914world.com/specs/JakeRabyHeadTemps.php
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879548">Re: [T2] Adventure and road trip advice</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-16 16:01:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 16 Aug 2012, Michael Weary wrote:
+
+> Tools ! And stay off the Interstate, those speeds make the buses burn up.
+
+every bus is different but with
+a lot of guages and testing etc
+I found that my bus (78 auto tranny) cools best at 58mph so I try to dri...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879485">Re: [T2] Dakota Digital CHT Gauge in a 1600DP readings?</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-16 17:18:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I think in TX, in a Westy, you are about where you will be (you don't mention
+how ambient has been.)  I'd say it is as expected particularly if you stay
+more often toward the bottom of that range.  Occasional (hopefully very
+occasional) forays to the upper...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879547">Type IV 2.0L Crankshaft Shim Source</a></td>
+        <td>Mike <manikmike(-at-)gmail.com></td>
+        <td>2012-08-16 17:50:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi All,
+
+Wondering if anyone knows of a source for these, in case I come up
+short with what I have.
+
+Thanks, Mike
+
+-- 
+Life expectancy would grow by leaps and bounds if green vegetables
+smelled as good as bacon....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879554">Re: [T2] Dakota Digital CHT Gauge in a 1600DP readings?</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-08-16 18:05:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>From Raby, referring to type4 engines:
+
+Type IV Cylinder Head Temperatures
+
+
+by Jake Raby
+The following temps are based on the readings I have seen both on my
+dyno, in my test car as well as every car I own as I do 92 miles round
+trip daily, all aircooled....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879488">Accurate Analog CHT Gauge? (was Re: [T2] Dakota Digital CHT</a></td>
+        <td>Avocado Tom Tarka <tommy(-at-)roadtrip.net></td>
+        <td>2012-08-16 19:41:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Out of curiosity...has anyone found a fairly accurate *analog* CHT gauge?
+
+I don't run a CHT gauge anymore after my last VDO under-the-sparkplug sender
+died, and I figured "Well if it's not that accurate, why bother?"
+
+(I know, it's the trend, not the read...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879567">Fuel pump relay question</a></td>
+        <td>"Squid" <sydclarke(-at-)shaw.ca></td>
+        <td>2012-08-16 19:44:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi, I have installed a rotary electric fuel pump on my '74 1.8 Westy, with
+twin Big Dels etc., and I have lost the wiring diagram for the relay I bought,
+which I think was from a Rabbit, so..the #s are as follows on the relay:
+SHO
+$ 89 6321 000
+12V max 10A...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879556">Re: [T2] Accurate Analog CHT Gauge? (was Re: [T2] Dakota</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-16 19:49:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/16/2012 12:41 PM, Avocado Tom Tarka wrote:
+> (I know, it's the trend, not the reading, but still...)
+
+Actually, it's not about the trend.  If you're hitting over 400, you 
+want to know ASAP otherwise you're killing your heads.
+
+I completely agree with...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879490">Re: [T2] Fuel pump relay question</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-16 19:53:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/16/2012 12:44 PM, Squid wrote:
+> and then on the bottom edge a shematic I don't know how to read with..trminals
+> # 30  87  15  31  31b and these correspond to the trminals on the bottom.
+
+I found this when I did a search for those terminal numbers:
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879539">Re: [T2] Accurate Analog CHT Gauge? (was Re: [T2] Dakota</a></td>
+        <td>Avocado Tom Tarka <tommy(-at-)roadtrip.net></td>
+        <td>2012-08-16 19:59:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I meant that it's worth having even an inaccurate CHT gauge to get  
+qualitative data: if you usually run 350degF indicated and all of the  
+sudden you're running 380...you know there may be a problem.
+
+This saved me on a cold day on the NJ Turnpike when a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879523">Re: [T2] Accurate Analog CHT Gauge? (was Re: [T2] Dakota</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-16 20:08:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/16/2012 12:59 PM, Avocado Tom Tarka wrote:
+> I meant that it's worth having even an inaccurate CHT gauge to get
+> qualitative data: if you usually run 350degF indicated and all of the
+> sudden you're running 380...you know there may be a problem.
+
+My ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879569">Re: [T2] Accurate Analog CHT Gauge? (was Re: [T2] Dakota</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-16 20:23:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 16 Aug 2012, Avocado Tom Tarka wrote:
+
+> Out of curiosity...has anyone found a fairly accurate *analog* CHT gauge?
+
+> the digital dakotas...I want analog, dammit.
+
+yeah!
+
+me too
+
+I don't like digital guages...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879573">Re: [T2] Accurate Analog CHT Gauge? (was Re: [T2] Dakota</a></td>
+        <td>Bob Perring <perring(-at-)roadrunner.com></td>
+        <td>2012-08-16 20:23:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My analog VDO was so worthless that I did not even hook it up on my last
+engine build.
+
+I am probably going to go digital with the "meter" mounted in the 3 bay dash
+pod where I read oil temp and oil pressure with analog.
+
+Do we really have to put that thin...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879514">Re: [T2] Type IV 2.0L Crankshaft Shim Source</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-08-16 20:30:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I usually get them from the dealer a couple of blocks away (they fit
+the Type 4 and Wasserboxer Vanagon engines), but VW has recently has
+obsoleted all but 2 numbers, which is all that's left in their supply
+depots, available thru the dealer (special order...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879521">Re: [T2] Accurate Analog CHT Gauge? (was Re: [T2] Dakota</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-16 20:32:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/16/2012 1:23 PM, Bob Perring wrote:
+> Do we really have to put that thingy under the spark plug !?!?
+
+Read the other post that includes the quote from Jake about where to put 
+your sender.  That'll answer your question quickly ;)...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879553">Re: [T2] Herrell's Bug Parts Robbery</a></td>
+        <td>David C Matthews <dcm7293(-at-)gmail.com></td>
+        <td>2012-08-16 20:40:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>All-
+
+There is some good news -- my engine, and a couple of others, have been
+recovered!  The bad news is that some of Lindy's property is still
+missing.  I hope he gets it all back and that the thieves are prosecuted to
+the full extent of the law.
+
+-David...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879522">RE: [T2] Dakota Digital CHT Gauge in a 1600DP readings?</a></td>
+        <td>"treyjung" <treyjung(-at-)comcast.net></td>
+        <td>2012-08-16 21:31:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>275 to 325 with the VDO analog CHT and it's 95 degrees plus here - heading
+to Eureka next week, Will be watching the gauge -all the tin is there,
+engine tuned and all rubber is intact. Valves adjusted.
+
+Stock Boston Bob 1600DP Engine 12k miles on it.
+Trey
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879498">Re: [T2] Herrell's Bug Parts Robbery</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2012-08-16 22:15:58+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Wonder if Jake Raby has an alibi??  :)
+
+Kevin H. Roberts
+Chattanooga, TN
+Email:  Kevin(-at-)bopsax.com
+Website:  http://www.bopsax.com
+
+On 8/16/12 9:31 AM, dcm7293(-at-)gmail.com wrote:
+> Interesting detail -- only high performance engines taken....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879479">RE: [T2] Dakota Digital CHT Gauge in a 1600DP readings?</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-16 22:24:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>would be interesting to put a sender in the same place and have a DD and a 
+VDO side by side just to see how they compare.
+
+Bob...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879504">analog CHT</a></td>
+        <td>j syder <scintilla_22(-at-)yahoo.com></td>
+        <td>2012-08-16 22:44:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>mouse, click, here you go.  
+
+http://www.aircraftspruce.ca/catalog/inpages/ce-0021R.php
+
+http://www.aircraftspruce.ca/catalog/inpages/westduals1.php
+
+http://www.vansaircraft.com/cgi-bin/catalog.cgi?ident=1345155855-448-102&brow
+se=ei&product=vans-cht
+
+http...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879558">Re: [T2] Dakota Digital CHT Gauge in a 1600DP readings?</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-08-17 01:26:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The main problem I have heard with the VDO CHT gauges is that they do
+not compensate for ambient temperature.
+That makes it really hard to work with any published temperature guidelines.
+
+Scott B
+74 Transporter with Dakota Digital CHT (sensor under the #3 ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879496">comparing CHT gauges</a></td>
+        <td>j syder <scintilla_22(-at-)yahoo.com></td>
+        <td>2012-08-17 06:21:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>snip>
+would be interesting to put a sender in the same place and have a DD and a
+VDO side by side just to see how they compare.
+
+Actually Bob, you don't have to fool with sensors, spark plugs, etc. at all. 
+The curves from K type thermocouples are well doc...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879542">Re: [T2] Fuel pump relay question</a></td>
+        <td>jules <jules.herr(-at-)gmail.com></td>
+        <td>2012-08-17 20:47:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, Aug 16, 2012 at 3:44 PM, Squid  wrote:
+> Hi, I have installed a rotary electric fuel pump on my '74 1.8 Westy, with
+> twin Big Dels etc., and I have lost the wiring diagram for the relay I bought,
+> which I think was from a Rabbit, so..the #s are a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879517">Re: [T2] Dakota Digital CHT Gauge in a 1600DP readings?</a></td>
+        <td>David Kelly <volknstein(-at-)yahoo.com></td>
+        <td>2012-08-18 00:57:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have gone through 2 rebuilt engines in the past couple of years. Both
+overheated. On my next engine, I am considering installing a water misting
+system hooked to a thermostat. The plan is to use a 2 nozzle misting system
+with the misters mounted inside t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879563">silicone valve cover gasket</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-18 01:40:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+
+I installed silicone valve cover gaskets from Real Gaskets Tennessee.
+(For Type 4 gaskets, look under Porsche 914.) Their instructions
+suggested they be installed dry without grease or RTV. I tried my best
+but both sides leaked, one side a lot, and I ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879577">Re: [T2] silicone valve cover gasket</a></td>
+        <td>Richard Jack <richardhjack(-at-)yahoo.com></td>
+        <td>2012-08-18 03:29:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I've always put a small bead on RTV between the gasket and the valve cover.
+Then install right away.  Never a leak.  Been doing it that way for years, on
+a 1600 and a type 4.
+
+Richard Jack
+Norman, OK...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879541">Re: [T2] Dakota Digital CHT Gauge in a 1600DP readings?</a></td>
+        <td>jules <jules.herr(-at-)gmail.com></td>
+        <td>2012-08-18 04:19:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Fri, Aug 17, 2012 at 8:57 PM, David Kelly  wrote:
+> I have gone through 2 rebuilt engines in the past couple of years. Both
+> overheated. On my next engine, I am considering installing a water misting
+
+Using the same engine "tin" on both rebuilds? Sure ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879536">misting system</a></td>
+        <td>j syder <scintilla_22(-at-)yahoo.com></td>
+        <td>2012-08-18 08:00:58+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>snip>
+On my next engine, I am considering installing a water misting
+system hooked to a thermostat. The plan is to use a 2 nozzle misting system
+with the misters mounted inside the fan shroud , one over each head. It would
+be relatively inexpensive and wou...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879574">Mid-August road trip in central CA</a></td>
+        <td>J Stafford <sunbus(-at-)sbcglobal.net></td>
+        <td>2012-08-19 00:46:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Mid-August road trip to central CA
+
+Aug16 - Depart Costa Mesa, CA 4:30am  318,483mi.
+Easy going through the LA and Santa Barbara areas before the commuter
+traffic begins.  405 to 101 North.  Stop to walk and watch the sea
+at Gaviota St Beach. old steel tra...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879524">77 Westy - Double checking I did this right, replaced heater</a></td>
+        <td>"Courtney Hook" <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-08-19 20:32:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I took off my 2.0L  77 swisscheese heater boxes and replaced them with headers
+as others have done on the list. What I would like to make sure I've done
+right is block off any  ductwork that will no longer be needed. I blocked off
+the ducts coming out of t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879513">Re: [T2] 77 Westy - Double checking I did this right, replaced</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-08-19 20:36:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>What about the duct holes in the engine tin?
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879572">Re: [T2] 77 Westy - Double checking I did this right, replaced </a></td>
+        <td>"Courtney Hook" <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-08-19 21:15:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Yes John, thanks, I just checked and I cut aluminum pieces to cover those 
+and screwed and silicone sealed them over the two sheetmetal ducts as well.
+Regards,
+Courtney
+
+
+
+> What about the duct holes in the engine tin?
+>
+> John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879500">Re: [T2] 77 Westy - Double checking I did this right, replaced</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-19 21:29:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sun, 19 Aug 2012, Courtney Hook wrote:
+
+> I took off my 2.0L  77 swisscheese heater boxes and replaced them with headers
+> as others have done on the list. What I would like to make sure I've done
+> right is block off any  ductwork that will no longer b...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879527">Mid-August road trip in central CA</a></td>
+        <td>J Stafford <sunbus(-at-)sbcglobal.net></td>
+        <td>2012-08-20 00:10:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Aug 17 - Lodged at Saddle Mt Camping  27625 Schulte Rd.  Carmel, CA
+Tent spaces & full-hookup RV sites.  Hot water/showers, flush toilets,
+Swimming pool, wireless internet service.  Grocery store 1.5 mi away.
+Why spend $300 for Motel6 when you can Type2 ca...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879552">Re: [T2] Mid-August road trip in central CA</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-08-20 00:48:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jack,
+
+thanks for the post. Always a pleasure to read about others 
+adventures.
+
+Chris
+
+Scientists seek to understand what is,
+while engineers seek to create what never was. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879497">Mid-August road trip in central CA</a></td>
+        <td>J Stafford <sunbus(-at-)sbcglobal.net></td>
+        <td>2012-08-20 03:30:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Aug 19 - I have lost track of the calendar date.  Symptom of letting go
+of the daily grind back home.  Finding alot of hospitality with the locals.
+In the strangest of places, if you look at it right.  Pebble Beach is
+found Westward along G16 Carmel Valley...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/879561">Mid-August road trip in central CA</a></td>
+        <td>J Stafford <sunbus(-at-)sbcglobal.net></td>
+        <td>2012-08-21 01:00:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Aug 20 - 6:30am depart Carmel, CA via G16 South.  54*F  Odo 319,035mi.
+Two
+lane road w/dips and bumps and sometimes a yellow center stripe.
+Follows
+Carmel valley floor.  Live oaks and manzanita trimmed in spanish
+moss.  Poison
+oak and a misty fog complete ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831510">Re: [T2] Mid-August road trip in central CA</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-08-21 02:52:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jack,
+
+Thanks for the posts. Drove the 101 many times in the 70's and 80's in 
+my 64DD Kamper Kit. What memories.
+One time, maybe 1975, it was the coldest winter on record for maybe 
+100 years. As I drove down just north of Santa Maria, the farmers had 
+le...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831576">RE: [T2] Mid-August road trip in central CA</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-08-21 14:22:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It is stories as yours that keep me going back to the garage to work on my
+'78 Westy "Finster."
+
+Thanks for the inspiration!
+
+Bob
+ 
+In God We Trust!!
+       (Deal With it)
+
+-----Original Message-----
+From: J Stafford [mailto:sunbus(-at-)sbcglobal.net] 
+Sen...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831539">tailight gremlins.</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-21 14:54:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>78 auto tranny.
+
+
+I hate electrical gremlins.
+  both tail lights and both stop lights have gone out. tail lights first 
+then a bit later the stop lights.
+
+. no power at bulb holder
+. turn signals work normally
+. good grounds
+. power from switches at front....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831553">RE: [T2] 77 Westy - Double checking I did this right, replaced </a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-21 15:52:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 21 Aug 2012, Bob Pratt wrote:
+
+> Do the flaps still need to be controlled by the thermostat?
+>
+> Also, is it OK to install noise deadeners under the gas tank?
+>
+> Bob
+>
+> In God We Trust!!
+all others pay cash..... (sorry couldn't resist)
+
+
+mine don...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831523">Re: [T2] tailight gremlins.</a></td>
+        <td>Max Bronsema <max.bronsema(-at-)gmail.com></td>
+        <td>2012-08-21 18:54:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>>  hate electrical gremlins.
+>  both tail lights and both stop lights have gone out. tail lights first
+> then a bit later the stop lights.
+>
+
+Bob, I too hate electrical gremlins. My license plate light did a similar
+thing, '71 manual. I checked all of the ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831554">Re: [T2] tailight gremlins.</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-21 19:14:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 21 Aug 2012, Max Bronsema wrote:
+
+> Another thing to check would be to see if you have power to the bulb holder
+> by sticking the wire with your meter. It could be some serious corrosion in
+> the holder itself.
+
+I had put in new light housings a fe...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831492">RE: [T2] 77 Westy - Double checking I did this right, replaced</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-08-21 19:18:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I was speaking of the engine flaps. Thanks for the info
+
+Bob
+
+In God We Trust!!
+       (Deal With it)
+-----Original Message-----
+From: accessys(-at-)smart.net [mailto:accessys(-at-)smart.net]
+Sent: Tuesday, August 21, 2012 2:26 PM
+To: John Anderson
+Cc: Bob...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831583">Auto tranny woes</a></td>
+        <td>Frank Biffath <biffath(-at-)ameritech.net></td>
+        <td>2012-08-22 20:47:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Access Bob.. I have one for u.. On the servo line going to engine I have a
+very small (2mm) splitter going off that I do not  know where it goes
+My symptoms are the bus starts, idles and drives up to second gear, but at
+third it dies
+I have replaced the ho...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831541">the upcoming 27th BNNTA VW camping weekend...</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2012-08-22 20:47:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi everyone,
+
+Well, its less than ten days away and I thought I'd remind you all that we'd
+love to have you and your VW join us for all of the fun.  Here's what is
+happening...
+
+"Buses Nowhere Near The Arch #22 (B.N.N.T.A.)
+
+when:  Friday August 31st thru ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831558">Re: [T2] Auto tranny woes</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-22 21:45:58+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Wed, 22 Aug 2012, Frank Biffath wrote:
+
+> Access Bob.. I have one for u.. On the servo line going to engine I have a
+> very small (2mm) splitter going off that I do not  know where it goes
+
+no Idea, have never seen anything like that, try it without the...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831526">Hankook  RA08 tire Pressure  in Camp Mobile?</a></td>
+        <td>"treyjung" <treyjung(-at-)comcast.net></td>
+        <td>2012-08-23 00:44:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>What tire pressure are you running in Hankooks? I have a 71 Westy and I run
+35 psi in them.
+
+ 
+
+Just wondering.        
+
+ 
+
+ 
+
+sub-header-bus...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831557">Re: [T2] Hankook RA08 tire Pressure in Camp Mobile?</a></td>
+        <td>Neal Jarvis <njarvis(-at-)leaders.org></td>
+        <td>2012-08-23 00:59:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I believe I run about the same.
+I also have a 71 Westy with those tires.
+
+
+Neal
+
+Sent from my iPhone.
+Please forgive the typos.
+
+On Aug 22, 2012, at 8:45 PM, treyjung
+
+> What tire pressure are you running in Hankooks? I have a 71 Westy and I run
+> 35 psi i...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831552">RE: [T2] Hankook RA08 tire Pressure in Camp Mobile?</a></td>
+        <td>"Bradley Spear" <mnexplorer(-at-)comcast.net></td>
+        <td>2012-08-23 01:23:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have them on a '72 Westy.  I have 35 in the front and 45 in the rear.  The
+tire pressure label inside the gas cap lid on mine says 30 for the front and
+40 for the rear.
+
+Brad Spear
+'72 Westy
+Burnsville, MN
+
+-----Original Message-----
+From: Neal Jarvis [m...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831543">Mid-August road trip in central CA - photos</a></td>
+        <td>J Stafford <sunbus(-at-)sbcglobal.net></td>
+        <td>2012-08-23 01:26:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sorry for formatting of my past post.  Something went haywire
+w/Linux vs.MS control characters.  Photo gallery found here:
+
+http://www.flickr.com/photos/sunbus/sets/72157631181566474/
+
+-Jack  '73 Westfalia...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831545">Re: [T2] Hankook RA08 tire Pressure in Camp Mobile?</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-23 02:44:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I second Bradley, run the proper front to rear bias for correct handling.
+ Though I tend to run a bit less than him, and a bit more than the 30/40,
+usually I go around 30-32/40-42.  To me most buses get a bit "floaty" when you
+get up around 35 in the front...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831513">KG Raffle (little T2 content, but WTH)</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-23 02:47:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Our local air cooled club has been forwarding this about, I have no idea about
+the cause or anything, but the Ghia is pretty enough, and I popped for a
+couple, so maybe someone on one of the lists will have interest as well, only
+couple of days left to get...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831494">Upcoming 27th BNNTA VW camping weekend...</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2012-08-23 05:01:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I apologize!  Here is the message with the corrected BNNTA event dates (Friday
+Aug 31st through Monday Sept 3rd, 2012)  I had the year and event number
+(27th) wrong on the earlier message.  Thanks!
+
+Bill
+
+Hi everyone,
+
+
+
+Well, its less than ten days away a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831559">wheel offset and scrub radius</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-23 07:40:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+
+Maybe somebody can help me think through this steering geometry problem.
+
+'75 Westy. Many years ago, I replaced the stock 5.5x14 wheels (39mm
+offset, I believe) with 6x15 Porsche Fuchs alloys (36mm offset). The
+latter are fitted with 205/65/15 Contine...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831497">Re: [T2] Hankook  RA08 tire Pressure  in Camp Mobile?</a></td>
+        <td>Tim Frank <timros(-at-)iinet.net.au></td>
+        <td>2012-08-23 12:20:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Agree with John
+
+I run 32 front and 42 rear for normal running around go up by 2 psi  
+for a long run
+   Tim & Ros
+76 Poptop
+Tasmania
+
+On 23/08/2012, at 10:44 AM, treyjung wrote:
+
+> What tire pressure are you running in Hankooks? I have a 71 Westy  
+> and ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831574">Re: [T2] Hankook RA08 tire Pressure in Camp Mobile?</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2012-08-23 18:01:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On my 74 bus with Hankooks, I run 42psi on all four. That has not
+seemed to stiff on the front. The Koni's help. I want to maximize my
+gas mileage.
+
+Scott B...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831501">Re: [T2] Hankook RA08 tire Pressure in Camp Mobile?</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2012-08-24 04:52:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Fri, Aug 24, 2012 at 1:01 AM, Scott Busby  wrote:
+> On my 74 bus with Hankooks, I run 42psi on all four. That has not
+ seemed to stiff on the front. The Koni's help. I want to maximize my
+ gas mileage.
+
+Yes, but you don't have enough weight up front to ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831514">What's the correct Bosch Plug?</a></td>
+        <td>Tim Shepherd <forever-endeavor(-at-)hotmail.com></td>
+        <td>2012-08-24 05:11:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello List, I have a 1600cc Mexican long block with the deeper spark plug
+threads and have been running Bosch W7CC plugs. Does anyone know if this is
+the correct heat range for the upright engine or, if not the correct Bosch
+number? Thanks, Timo in Hawaii...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831524">Treasure chest hinges - R&R</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-08-24 12:06:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey guys,
+
+ 
+
+The hinges on my treasure chest door are beyond shot. Or one of them is
+anyway. I didn't realize it, and I thought the door was creaky when opening
+because of the stay on the side. Anyway yesterday when I tried to shut it,
+it would not shut, ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831537">Re: [T2] What's the correct Bosch Plug?</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-08-24 21:48:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sounds a bit cold.  A friend in LA runs W8CC plugs in his Mexi-Beetle
+with the 3/4" reach plugs.  If you alot of highway/freeway driving,
+then W7CC would be slightly a better choice.  But being on the
+islands, there isn't enough of long distance high speed...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831491">Re: [T2] Auto tranny woes</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-08-24 21:56:09+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sounds like it goes to the Automatic Trans Modulator Valve (Do you
+have an automatic?).  These were used on 003 Auto Trans on Buses
+73-75, Type 3s 68-73 and 411/412s 69-74.  Of course they are different
+for each of the models (there are 4 different ones fo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831490">Re: [T2] What's the correct Bosch plug?</a></td>
+        <td>Tim Shepherd <forever-endeavor(-at-)hotmail.com></td>
+        <td>2012-08-24 22:50:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks Jim, I live on the Big Island and we do have some long, hot stretches.
+Long uphills too. Isn't the colder plug for a hotter running engine?  Thanks,
+Timo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831565">Re: [T2] KG Raffle (little T2 content, but WTH)</a></td>
+        <td>Ben Timmons <deaconbluz54(-at-)yahoo.com></td>
+        <td>2012-08-24 23:16:11+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi John:
+
+I can't see a link on the PALS website.  I'd love to win the Ghia and 
+help the shelter.  where do I enter?
+
+
+
+
+-- 
+Ben Timmons
+78 Westy
+Sacramento, Ca 95820
+deaconbluz54(-at-)yahoo.com...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831542">Re: [T2] What's the correct Bosch plug?</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-08-25 06:26:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Timo
+
+If done on a consistent, daily basis, then yes, the W7CC plug would
+perhaps be more desirable.
+
+-- 
+Jim Thompson
+84 GL 1.9 "Gloria"
+84 Westfalia 2.1 "Ole Putt"
+72 411 Station Wagon "Pug"
+75 914 1.8 "Nancy"
+Full Timing From March 1999 To January 20...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831488">Riddle me this, Batman - Gas in my oil??? 77 Westy 2.0L</a></td>
+        <td>"Courtney Hook" <courtneyhook(-at-)shaw.ca></td>
+        <td>2012-08-25 22:32:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Well, it's been sitting since 2009 and has been started occassionally to move
+around the parking area at my house. Now bear in mind there is not a flat
+level spot anywhere in my yard to park it, so it's been tilted at different
+angles.
+I insured it today a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831519">Re: [T2] Riddle me this, Batman - Gas in my oil??? 77 Westy</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-08-25 23:47:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Fuel pressure regulator leaking internally?
+
+Chris in TN...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831533">Re: [T2] Riddle me this, Batman - Gas in my oil??? 77 Westy</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-26 08:04:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/25/2012 3:32 PM, Courtney Hook wrote:
+> odd, so smelled it, and it smells of gas. Leaky injector?? I can't figure how
+> this would happen on a stock 2.0L F.I. engine? Never happened to me before,
+
+Injectors don't like to sit - they like to be used.  I...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831503">BNNTA event only six days away!</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2012-08-26 15:20:11+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi all,
+
+We are just under a week away from the Volkswagen camping festivities at the
+27th BNNTA event! We have most of our personal and event gear ready to go, the
+trophies and dash plaques have arrived and the t-shirts are on the way, and
+I'm packing up ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831486">A little help please!</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2012-08-26 20:25:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm not currently on the "Vanagon List".  Could someone, anyone here who is
+also on the Vanagon List please send the following message over to that
+participants on that List, some of whom will be attending this event.  Thanks
+for any assistance you can pro...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831567">Broken Accelerator  Cable 1980 Vanagon</a></td>
+        <td>Janyce Bartlett <janycebartlett(-at-)msn.com></td>
+        <td>2012-08-27 01:18:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>HI Guys
+My  accelerator cable broke at the connection to the pedal.  Any words of
+wisdom for installing the new one?  I was thinking I could tape the new one to
+the old one and pull it through to the engine.
+
+Cheers
+Janyce...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831534">Re: [T2] Broken Accelerator  Cable 1980 Vanagon</a></td>
+        <td>Tim Shepherd <forever-endeavor(-at-)hotmail.com></td>
+        <td>2012-08-27 03:51:16+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello Janyce, you will need to disconnect the cable at the rear and pull it
+out from the front. Then, insert the new one from the front, greasing it with
+a moly grease as you go. Does your new cable have a boot on the pedal end? If
+not, try and save the ol...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831489">Re: [T2] Broken Accelerator  Cable 1980 Vanagon</a></td>
+        <td>David Kelly <volknstein(-at-)yahoo.com></td>
+        <td>2012-08-27 03:56:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I had to do this on the side of the road once. You can buy them for about $4
+at bus depot. It has been a long time since I did it, but I remember how easy
+it was. I would grease up the new cable or spray some PB Blaster on it first.
+It will give some corro...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831518">re:Accelerator cable</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2012-08-27 04:28:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Not sure about an '80, but I've done similar on a '65 and a '69, and it
+worked fine. I recommend a little universal grease to help things slide
+through.
+
+ 
+
+-Kevin Guarnotta
+
+Jamaica Plain, MA
+
+ 
+
+'69 Singlecab...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831573">Re: [T2] Broken Accelerator  Cable 1980 Vanagon</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-27 05:19:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Actually since it broke the way it did Janyce, you are right on, you can in
+this situation use the old one to pull through, since I presume the bent hook
+bit for the front snapped off (or if the hooked bit broke in half and wouldn't
+go through, you can sni...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831568">Re: [T2] Broken Accelerator  Cable 1980 Vanagon</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2012-08-27 07:16:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Janyce featured:
+
+>My  accelerator cable broke at the connection to the pedal.  Any words of
+>wisdom for installing the new one?
+
+	I slapped into the archives a reasonably complete memo on this.
+
+
+>   I was thinking I could tape the new one to
+>the old one...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831516">Re: [T2] Broken Accelerator  Cable  --  prequel</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2012-08-27 07:23:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Janyce featured:
+
+>My  accelerator cable broke at the connection to the pedal.  Any words of
+>wisdom for installing the new one?
+
+	I slapped into the archives a reasonably complete memo on this.
+
+>   I was thinking I could tape the new one to
+>the old one ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831551">[T2] Broken Accelerator  Cable 1980 Vanagon</a></td>
+        <td>OKearney <o_sconet(-at-)yahoo.com></td>
+        <td>2012-08-27 18:01:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>re your break - did you have a spare handy? were you close to home.   
+I worry all the time, I guess carrying a spare clutch cable would be  
+good too.  But actually it is everything but those that have broken  
+in the past, involving tows!
+
+-- John 71 wes...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831536">O rings between caliper halves on Vanagon/Type II</a></td>
+        <td>Tom LaPointe <earthshelterman(-at-)gmail.com></td>
+        <td>2012-08-27 20:01:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I split the two halves on my Rt front tcaliper on our 85 vanagon for
+cleaning and rebuild.
+where can I find the little rubber o-rings between the halves? I cannot
+seem to find a part
+number and most of the kits do not include them. thanks...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831578">Re: [T2] Broken Accelerator  Cable 1980 Vanagon</a></td>
+        <td>David Kelly <volknstein(-at-)yahoo.com></td>
+        <td>2012-08-27 22:38:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>That is a funny story. My girlfriend then, now wife and I were going on our
+first trip in my bus to the smoky mountains for a week. We hadn't even gotten
+out of town when the accelerator cable snapped. It was 5:00 on Friday. I had
+no spare. I called Darrel...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831499">Re: [T2] Broken Accelerator Cable 1980 Vanagon</a></td>
+        <td>dan(-at-)geer.org</td>
+        <td>2012-08-28 01:02:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I broke an accelerator cable by stomping on it so as to get
+out of the way of an approaching semi.  Luckily, I was able
+to jump a curb instead.  Drove home by using a small vice-grip
+to clamp the "idle speed" at something like 2500 and staying
+in first gea...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831517">Re: [T2] Broken Accelerator Cable 1980 Vanagon</a></td>
+        <td>John Rogers <jnrogers(-at-)verizon.net></td>
+        <td>2012-08-28 02:05:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My brother and I owned owned one of the first ever buses imported into the
+Unites States. I believe it was a 1952.  He drove from Maryland to California
+in the fall of 1961. On the trip the accelerator cable broke.  He tells me he
+walked over to a fence, c...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831548">Shameless Plug for Westies at Watkins 11</a></td>
+        <td>Joel Cort <joel_cort(-at-)yahoo.com></td>
+        <td>2012-08-28 03:15:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Shameless Plug for Westies at Watkins 11 
+Sorry for cross posting.B 
+The
+countdown is here again and less than a month away! I hope that Watkins is on
+your calendars!
+Please join the Empire VW Camping Club on September 21-22-23
+2012 in the beautiful Finger...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831540">Accel cable.</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-08-28 03:33:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sorry Type2's
+My 64 DD Kamper Kit is still running the factory accelerator cable. I 
+did try to install a new one once upon a time but it got stuck a few 
+feet into the tube. I was lucky enough to be able to pull it back with 
+the wire I had attached. The ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831546">Re: [VB] Accel cable.</a></td>
+        <td>veewee111(-at-)aol.com</td>
+        <td>2012-08-28 04:23:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>#1 Was did the new cable have a longer end on it?
+
+#2 If so put a bit of a bend in it so it can make it past and curves in the
+tube.
+
+#3 Grease the heck out of the cable and keep working the cable back into there
+with more grease each time it stops going i...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831584">Re: [T2] Accel cable.</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-28 06:32:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>In WV I would routinely roto-root the tubes with a stiff piece of "clothesline
+wire" in an electric drill, with liberal application of WD-40 squirted in a
+few times in the process as well.  Mind you I don't know what that wire was
+actually, did they sell i...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831495">RE: [T2] Accel cable.</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2012-08-28 12:43:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I saw this technique done for cleaning out the heater cable tubes on a
+beetle on YouTube. They used a straightened coat hanger attached to a drill
+as beetle tubes are not that long. The results were amazing! A ton of dirt,
+old grease and oil came out of th...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831511">[T2] Accel cable.</a></td>
+        <td>Richard Jack <richardhjack(-at-)yahoo.com></td>
+        <td>2012-08-28 13:36:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I've used this same technique, with a old speedometer cable, to clean out
+heater cable tubes, the accelerator cable tube and the sunroof drain tubes, on
+a bus from up north.  Never seen so much rust (and dirt and leaves in the
+sunroof). I don't know how yo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831502">Re: [T2] Accel cable.</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-28 16:19:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I've heard that doing so with the end of the cable frayed a bit (if you can
+get it in easily) actually works better than my longstanding technique as each
+little fray scrubs a bit like a wire brush.
+
+John
+
+
+----- Original Message
+-----
+From: Richard Jack 
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831527">Re: [T2] Accel cable.</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-28 16:33:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/28/2012 5:43 AM, Bob Pratt wrote:
+> I saw this technique done for cleaning out the heater cable tubes on a
+> beetle on YouTube. They used a straightened coat hanger attached to a drill
+> as beetle tubes are not that long. The results were amazing! A t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831507">Re: [T2] Accel cable.</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-28 16:49:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Nylon string for weed whackers?...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831515">Re: [T2] Accel cable.</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2012-08-28 19:59:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sami, those newer strings with all the sharp edges (sort of like extruded in a
+Torx profile) might be just the thing.  But the reason I use the "clothesline
+wire" is that a drill will spin 8-10 feet of it without it twisting up due to
+it's rigidity.  Somet...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831520">Re: [T2] Accel cable.</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2012-08-28 21:20:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>John, the "clothesline wire" definitely sounds like a winner, although
+you described it as being AT&T surplus, thus probably not something we
+would have lying around in our garages. But you are probably right
+about the weed eater line being more likely to ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831563">Fire prevention control - fire detection</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-08-28 22:02:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I just had a big idea...
+
+For fire detection, use a "flame rollout switch" from a gas furnace. 
+These are used to detect flames that are "backfiring" from a home's gas 
+furnace b/c of holes in the heat exchanger. When they are licked by 
+fire, they "blow" ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831572">Re: [T2] Accel cable.</a></td>
+        <td>Mike Soultanian <mike.soultanian(-at-)csulb.edu></td>
+        <td>2012-08-28 22:35:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 8/28/2012 2:20 PM, Sami Dakhlia wrote:
+> about the weed eater line being more likely to twist and break, which
+> wouldn't be any fun at all... :
+
+When the heater control cable covering gets stuck to the heater guide, 
+you need the strongest, most flexib...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831570">Re: [T2] Accel cable.</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2012-08-29 03:59:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey Guys!
+
+Thanks for all the great ideas on how to clear out my accel cable 
+tube. I suppose I need to stow a bit of wire in my kit just in case 
+the original eventually breaks on my watch and I need to limp home. 
+Maybe I'll luck out and my kids will hav...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831538">Apparently Type2 has been placed on a RBL (real time blacklist)</a></td>
+        <td>"Mike Jackson" <mike(-at-)cfnson.com></td>
+        <td>2012-08-29 12:17:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Any idea how to fix this?
+
+I'm no longer getting posts from the list since last night.  My mail server
+reported that Type2's IP is on a black list.
+
+Nuts...
+
+- Mike...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831509">RE: [T2] Apparently Type2 has been placed on a RBL (real time</a></td>
+        <td>"Mike Jackson" <mike(-at-)cfnson.com></td>
+        <td>2012-08-29 13:32:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code> Hmmm... Apparently it's already fixed.  Sorry 'bout that. 
+
+-----Original Message-----
+I'm no longer getting posts from the list since last night.  My mail server
+reported that Type2's IP is on a black list....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831579">Re: [T2] Accel cable.</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2012-08-29 13:42:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 08/28/2012 02:59 PM, John Anderson wrote:
+> Sami, those newer strings with all the sharp edges (sort of like extruded in a
+> Torx profile) might be just the thing.
+When I cleaned out my fuel line tube on my Beetle I used an old 
+accelerator wire. it was...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831500">Re: [T2] Apparently Type2 has been placed on a RBL (real time</a></td>
+        <td>Troy Wical <troy(-at-)wical.com></td>
+        <td>2012-08-29 13:43:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>A couple others also reported this. We'll take a look and see if there are any
+issues.
+
+Peace,
+Troy
+
+On Aug 29, 2012, at 6:32 AM, "Mike Jackson"  wrote:
+
+> Hmmm... Apparently it's already fixed.  Sorry 'bout...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831528">Re: [T2] Apparently Type2 has been placed on a RBL (real time</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2012-08-29 16:44:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Wed, 29 Aug 2012, Mike Jackson wrote:
+
+> I'm no longer getting posts from the list since last night.  My mail server
+> reported that Type2's IP is on a black list.
+
+Please send any email communications, bounce messages, log data, you may 
+have to us so ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831556">Re: [T2] Accel cable.</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2012-08-30 14:41:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 28 Aug 2012, Sami Dakhlia wrote:
+
+> John, the "clothesline wire" definitely sounds like a winner, although
+> you described it as being AT&T surplus, thus probably not something we
+
+actually if I am not mistaken the wire is old Western Union wire as...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831493">Bus and Bug opportunities, Snohomish, WA</a></td>
+        <td>baillybusbarn(-at-)juno.com</td>
+        <td>2012-08-30 21:33:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>To all of my list friends,
+I have been putting off sending this letter out, but time has come to
+start 
+planning in earnest for the future of my "VW stuff".
+ 
+I have cancer.  I am currently working through a treatment that appears
+to be 
+making progress ag...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831555">BNNTA #27 update...</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2012-08-31 02:08:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi all,
+
+The first arrivals for the BNNTA were at the Lake "main" campground on Monday
+afternoon, a new "early" arrival record!  More have joined them this evening,
+and we will arrive in the "group" campground on Friday morning.  We will
+almost certainly s...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831562">Re: [T2] BNNTA #27 update...</a></td>
+        <td>doktortim(-at-)rockisland.com</td>
+        <td>2012-08-31 03:48:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Geeze, somewhere in the path of Isaac. Should be able to find that camp ok
+with out a Rally web site link or some form of spaced out coordinates,
+hey.
+
+Oh, I found it on the map here, says, "central north america". OK, too far
+for me, have a good time and ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/831496">Re: [T2] O rings between caliper halves on Vanagon/Type II</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2012-08-31 04:54:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I had to dig.  And mean REALLY dig into my reference archives because
+ETKA and most fiche plates don't show the part number anymore.
+
+In my library I have a 1980 dated fiche plate which has become a "holy
+grail" of knowledge, especially for first year Vana...</code></pre></td>
+      </tr>
+    
+    </tbody>
+  </table>
+
+
+
+
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2012-08" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2012-08" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2012-08" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

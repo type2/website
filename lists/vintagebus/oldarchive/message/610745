@@ -1,0 +1,299 @@
+<html>
+<head>
+<title>vintagebus - LEAF Festival trip report...</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/610745 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/610745" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/610745" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>LEAF Festival trip report...</h1>
+   <b>Jason Black &lt;vwbus_at_earthlink_dot_net&gt;</b><br/>
+   <i>2000-05-28 08:00:12+00</i><br/>
+   <br/>
+   <pre>    The LEAF Festival was pretty cool....
+    arrived Thursday night about 1 or 1:30 in the wee AM hour... but
+there were a few people stationed at the main gate to check me in,
+etc... so i drove up to the upper camping areas.
+    it was kind of a neat vibe... with only the volunteers being there,
+that is. there was a nice fire in the pit and maybe 20 people hanging
+out around... some drumming going on. a good thing. a baywindow or two
+down the hill... i drummed a while and (being used to going to bed _at_
+6:00 AM) easily outlasted everyone else at the fire pit...
+    I stayed up too late and had too much refreshment... woke up about 9
+on a hot friday AM... blah. so i made some coffee and changed and went
+walking around looking for some people I thought were coming. walked and
+walked and walked... walked some more. they have over 600 acres there so
+they are not short on walking space. had to go by the red school bus and
+get a double expresso in a cup of coffee... <shiver>.... ;)
+    I found noone i knew but met a lot of nice people... took a nap and
+went down to work one of my volunteer shifts... 8-midnite at the
+cafeteria. but business was slow and so i was let go.... with all this
+newfound free time i went walking some more... up the road and down the
+road, through the campsite areas... still didn't see anyone familiar.
+    sunburns are familiar though... mental note to get some sunscreen.
+    well that wasn't exactly true... i met one of the gates' keepers who
+i recognized from the '70 Westy that pulled in and whose Beetle tube
+burbles roused me from my slumber.
+    He and his girlfriend have a neat bus... it has two sets of intake
+ducts.. the lower set being cut from a wrecked donor bus, so i hear... a
+PO fab, too.
+    Herman Bodkin... a la Nashville VW Scene, built their motor... wild,
+how life is interconnected like that. I met Herman more than a few times
+down at the local VWFLAPS in Nashville...
+     anyways... I walked around some more around the scene. listened to
+the band a while... got a slice of pizza and some lemonade and cruised
+up to one of the Halls to watch the contra dancing.. i have always been
+impressed by the coordination that is required to contra dance. about
+that time i was detained by a fetching young lass for the next dance...
+I protested that I could not dance, but my pleas were ignored... but it
+wasn't too bad, for my first time contra dancing. I tried it a couple
+more times with different women, but the dances kept getting harder to
+remember and i know for a fact that i enraged a lot of experienced
+couples on the floor by messing up the routine... ah well... I headed
+back up to the camping spot.
+    about this time a thunderous noise that was the drum circle started
+filtering through the trees.... i grabbed my drum and a couple of
+refreshments and headed down the hill...
+    it was a good circle... lots of experienced drummers... i.e. it was
+hard for me to keep up with them ;)
+    maybe 3 or 4 in the AM, the circle ended... and another one started
+up on the top of the hill, but it was not IMHO excessively loud....
+    woke up again about 9 on saturday... more coffee... went over and
+inspected the quadruple-scoop bus. ended up being videotaped concerning
+type2_dot_com.. hadda mention (since their bus kind of acted like it was
+going to die when they were parking it...) the article about air and
+throttle shafts and so on... good reading. I am going to send them the
+link and some other info and maybe be on Nashville local access TV...
+yikes.
+    walked around more... a lot more... walked around more slowly this
+time. again, met a lot of cool people. went by the Mandala Massage booth
+in the center of the venue area and got a 20 minute seated massage..
+buck a minute. aside from some tension in the lower back area, checked
+out okay... i feel better, anyways...
+    walked back up to the site and shot the bull for a while with my
+neighbor... realizing then that i had to be back down at the cafeteria
+to work at 6:00... run, run... whew. after slicing a box's worth of
+tomatoes up and washing all of the kitchen stuff from dinner, it was
+about 10:00...  I was glad to do the work, especially because it got the
+rest of the diesel motor oil residue off of my hands and nails, which is
+hard to control seeing as how I exist in volumes upon volumes of it
+every working day...
+    While i was washing dishes... i had some help. the first was from a
+guy with:
+http://www.virtualtravelers_dot_com/
+    the short explanation i think is that they drive their bus (this one
+was a '70... i think they have a couple of different ones...) around,
+sponsored by people who buy advertising on the bus' panels.... great
+idea, IMHO ;) ... but I plan to spend some time on their website and see
+what it's about.
+    the other help was from Kai Lin (sp?...)... she didn't say a whole
+lot, but she was a lot of help...
+    So my LEAF tank was about full... i can work my job until the fall
+without another festival and be okay with it..
+    i was waiting for a sign to decide my course of action... and just
+about then one of my other neighbors returned from a wedding she had to
+go to... so i just left her my spot and came back early... got stuff to
+do.
+
+later....
+
+jason black
+vwbus_at_earthlink_dot_net</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F610745" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F610745" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F610745" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

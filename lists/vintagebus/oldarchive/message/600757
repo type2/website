@@ -1,0 +1,310 @@
+<html>
+<head>
+<title>vintagebus - OCTO/Classic trip report (long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/600757 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/600757" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/600757" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>OCTO/Classic trip report (long)</h1>
+   <b>OldVolks General &lt;General_at_OldVolks_dot_com&gt;</b><br/>
+   <i>2003-06-10 16:53:03+00</i><br/>
+   <br/>
+   <pre>  It all started Wednesday with JP and Berry from New Mexico showing up at
+my house to travel in to Christmas Tree Island Thursday with me and Steve. 
+  We all went over to the dyno shop and watched as Geoff Hart dynoed the
+1800 type 1 engine that I was delivering to a customer at OCTO, all went
+well on the dyno and we all learned a lot from the experience.
+  Thursday morning rolled around and I had some work to wrap up at the store
+so everyone just relaxed as I stressed out trying to get things ready to go.
+Finally around 2 p.m. I was ready and locked up the shop to leave and drove
+home to finish loading. When I got home the brakes on the OZ container van
+started to pull. Checked the fluid and topped it off, no problem I thought.
+I then remembered that I had forgotten my passes for the OCTO/Classic
+weekend in the shop, so headed back, OHHH  NOOO, went to step on the brakes
+and they were gone. Here was everyone waiting on me and now my bus had no
+brakes.
+   Drove the bus back to the shop (after telling everyone to leave with-out
+me) to repair the brakes and found out that the metal line between the 2
+front cylinders had a hole worn right through it. Thank God it happened  at
+home and not on the way to the BIG weekend. Did I mention that we just put a
+new tranny and my 1800 in the bus the day before and that my helper didn't
+adjust the e-brake cables, so when the brakes went out the e-brake barely
+worked!!!
+   So repairs made, loaded up ready to hit the road, so off we go. Me in the
+Oz container van (first long road trip in it) and Steve in my Fo#d pulling
+the trailer with the Fire Truck on it (that's a whole other story).
+  We hit the road at 6 p.m. and the bus was running great UNTIL it developed
+a weird sound! I was driving the van as I would my DD the engine came out of
+(that was a mistake) pushing it real hard (a few 5500 rpm runs) and started
+to overheat it and BAM, there went a valve seat.
+   Not to be discouraged I pulled over (45 miles from home) and decided I'll
+blow it up before I miss OCTO, so off I went.
+   We made it another 50 or so miles and I had to pull over due to lack of
+power. Proceeded to drop the muffler (damn hide aways) to check the valves
+(damn were they hot) and found that number 3 exhaust was tight and number 4
+intake were tight. Adjusted the valves, started the van and it ran like a
+top again.
+  Off we go for the rest of our journey as the sun set in the West, just
+trying to keep making progress.
+Everything was fine for another 70 or so miles when the van started to run
+like crap again, trying to push it in 50 mph headwinds in 3rd gear on 3
+cylinders just didn't want to work, so off the freeway again into a gas
+station to adjust the valves again (just number 4 intake) and off we went
+again.
+  I decided no matter what I was going to make it the rest of the way to CTI
+and we did. The 250 mile journey took 6 hours, I can usually make it in less
+then 4, ouch.
+   To my surprise there were at least 10 buses already camped out, on
+Thursday night. We had a blast that night without the crowds and stayed up
+talked till the wee hours of the morning.
+   That evening I decided to check my one bad valve again and found it to be
+held open, no adjuster left so I pulled the rocker shaft and install a
+standard adjusting screw instead of the roller tip that was there. I knew I
+would get at least 2 more adjustments before I ran out of room. 
+   Friday morning rolled around and out came the stoves and breakfast foods.
+I broke out my new Fire and Ice stove and cooler combo and HIGHLY recommend
+one of these units to anybody who camps. A griddle and ice chest all in one.
+After we all ate buses started to role in, a never ending process as they
+came and stayed and went all day long. I had to go run errands and went to
+TMI to check them out, quite the place, at least 100,000 square feet of
+upholstery factory. From there off to Rancho Trans to pick up stuff and talk
+about quality and availability of RGB trans parts and then off to West Coast
+Classic for the pre OCTO/Classic party. Trip back from WCC to CTI took us 2
+hours and 40 minutes, why do these people choose to spend hours everyday to
+travel 50 miles has me baffled, now I remember one of the reasons I left So
+Cal 14 years ago!!!!! Did I mention you need your wipers to wipe away the
+smog!
+   We only stayed there an hour or so as I didn't want to miss the FEED at
+CTI. VTO puts on a Carne Asada, Chicken, Salmon feed like you wouldn't
+believe, 95 lbs of meat not counting the chicken and fish. Got my belly full
+and then proceeded to do the camp fire talks with all that showed. 
+  Saturday morning rolled around with the 4 am wake up for the early
+travelers to OCTO with the second wave leaving an hour later. 
+   OCTO was UNBELIEVABLE, the lot was full by 8 am. I don't know home many
+buses were there but they easily beat the 350 of last year by a big margin.
+  My hats off to the OCTO boys for running a smooth show, the only one I
+have ever been to where it doesn't take hours in line to get it, they run it
+smooth.
+   Finally got out of OCTO by 1;30 and proceeded up to the Irvine Lake
+Camp-out, as always it was a blast with 50 or more buses camping out and a
+funnier then heck raffle they put on, guess who won the Turnip?.
+   Got up at 5;30 am, only because the sun came up and proceeded to get
+packed up for the trip to the Classic. That trip was uneventful being there
+is real no traffic at 6 am on a Sat except the Harley weekend warriors. Got
+to the Classic and saw the 100's of cars lined up to get it but proceed past
+them to the rear entrance to get in, it pays to get your passes early. Don't
+have to wait in the BIG lines.
+   This year the same as last year I had a blast at the Classic, not selling
+so I had time to walk around and visit for a change. Found a few goodies in
+the swap and Axle from Germany was there with his usual giant stash of NOS
+parts, amazing what he has. This year he even had bay window and vanagon
+stuff all NOS.
+   Left the Classic and headed to Rich Yost aka Old Buses to drop off the
+Fire Truck so I could put the Oz van on the trailer for it's trip home,
+didn't want to take the chance of totally destroying the engine on the long
+drive and the truck also has AC, will go down this weekend to pick up the
+Fire Truck then off to Germany for Bad Camberg. I will be closed form June
+19 till the 24th. Its going to be a fast trip there but then the hectic
+month of June is over and I will have a few weeks to relax till the Mid
+summer and fall shows happen.
+
+ronnie   thanks to those that read this far.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F600757" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F600757" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F600757" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

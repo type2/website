@@ -1,0 +1,285 @@
+<html>
+<head>
+<title>type2 - 3300 miles in a splitty</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/656641 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/656641" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/656641" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>3300 miles in a splitty</h1>
+   <b>&quot;Richard Alexander Palmer&quot; &lt;rapalmer_at_eos.ncsu_dot_edu&gt;</b><br/>
+   <i>1998-07-10 16:43:34+00</i><br/>
+   <br/>
+   <pre>I'm posting this to both air-cooled lists as an inspiration to everyone to
+actually drive and enjoy your busses.
+
+I just got back Tuesday from doing a leg of Furthur Tour (ex Grateful Dead
+members) in my '67 camper. We did a tad over 3300 miles in 12 days, on a 1600
+single port engine. That's a lot of driving, and we didn't really have a single
+problem. The only minor hang up was changing out the crusty old voltage
+regulator that came with the bus. I left it in since it was still working, but
+I had a Bosch spare just in case.
+  Let me once again extol the virtues of carrying spare parts. Having that
+regulator was the difference between an easy 20 minute fix, and a miserable
+overnight wait for parts in a strange city, which some other folks had to do.
+We met a lot of sick busses along the way, and did what we could to help them,
+but there were some that were too far gone.
+   Let me also encourage those of you considering installing a late-model pop
+top to do so. Having that extra double bed was wonderful, and made for a very
+comfortable trip for 4 people and a bunch of stuff..
+   Anyway, this tour took us from Charlotte, NC, up through DC, and then
+several stops in the NY/NJ area, and up to Massachussets for a show. It was my
+first time driving up north, and it was quite an experience in itself. There's
+nothing quite like driving through the Bronx and the greater NYC area in a
+splitty. I'll just say it was quite an adventure trying to keep up with all the
+merges and such, and not get eaten alive by all the tractor-trailers flying all
+around.
+I pretty much stuck to night driving, as the traffic is a LOT lighter, and the
+air is cooler as well, which makes the bus happier. We did have the pleasure of
+driving into 4 sunrises, which are always visually pleasing, if your eyes are
+still open at that time...
+   We mostly stayed at truck stops and service areas, although we did stay at a
+friend's sister's house for 2 nights. Never had any problems with getting
+hassled by The Man or anyone else, and it was always nice to have food and gas
+right there first thing in the morning...
+  There were a LOT of Vanagons on tour this year. I guess they're holding up
+pretty well. Plenty of late models as well, although mostly of the type IV
+variety. There was another 67 that did a few shows, and we also saw isolated
+splitties at various shows. One high point was seeing two other Travel
+Equipment Corporation '67 conversions. That's the same company out of Elkhart,
+Indiana that originally converted my bus. That makes 4 now that I've seen. 3
+were walkthrough's, and the 4th looked like the Elkhart factory might have
+converted it back in the day. They did a pretty decent conversion, although I
+have switched most of my interior over to Westy stuff...
+  There's a LOT of money in the north east...We saw tons of new, expensive
+cars, as well as at least 2 New Beetles a day, as opposed to seeing like 4
+total here in NC. We saw a couple Eurovans at some of the ritzier venues, as
+well as some radio station in Mass. had a pimped-out Rialto EV as their station
+vehicle...crazy. Of course all that money meant people were buying a lot in the
+parking lots, so I can't complain too much...
+  Anyway, we got around 20 mpg for most of the trip, which isn't bad with 4
+people plus stuff. I did an oil change and tune-up right before we left, and at
+a truck stop at 1500 miles. I was pleased to see that the valves were all still
+right on, except for 2 exhaust valves which were a hair loose.
+   That's pretty much the bus side of it. We had a great time, and had no
+problem keeping up with Tour in a Splitty. We got passed on the road by the
+tour busses a couple times, and honked and waved. So, don't doubt the wonderful
+busses.BUT, MAKE ABSOLUTELY SURE YOUR BUS CAN DO IT. Don't leave on a long trip
+with a bus that's sketchy. We talked to at least 2 people that killed their
+busses this tour. I'm sure there are more, who just don't take care of the
+busses. Remember, your bus can do it, but it's not a Toyota, so don't do 80 all
+day and expect things to be fine...
+  I won't go into the music too much except to say that it was GREAT! I highly
+recommend that you check out the Furthur Festival if it comes by. The Bus is
+rollin again, and Phil's drivin this time! Wahoo! St. Stephen! the Eleven! Dark
+Star!!!!! The magic is coming back...
+:)
+Anyway, have a beautiful weekend, and love your bus!
+
+-- 
+    ____________________________    Poor Richard is rapalmer_at_unity.ncsu_dot_edu
+   `/""""/""""/|""|'|""||""|   '\ http://www4.ncsu_dot_edu/eos/users/r/rapalmer/www/
+   /____/____/ |__| |__||__|     |  '62 VW Crew Cab
+  | \  /V\  /====================|  '67 VW Camper-Nellie, the Wild Goose
+  |()\ \W/ /()|  _            _  |"I spend half my life explaining to Christians
+  |   \   /   | / \          / \ |   _-( )  why I'm a Deadhead, and the other 
+ =C========C==_| ) |--------| ) |=] _-{_}_)  half explaining to Deadheads why 
+   \_\_/__..  \_\_/_ \_\_/ \_\_/__.__.             I'm a Christian."</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F656641" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F656641" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F656641" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

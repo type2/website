@@ -1,0 +1,349 @@
+<html>
+<head>
+<title>type2 - Need a speedometer</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/729670 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/729670" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/729670" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Need a speedometer</h1>
+   <b>EF0JPB1_at_mvs.cso.niu_dot_edu</b><br/>
+   <i>1995-09-11 20:44:00+00</i><br/>
+   <br/>
+   <pre>MSG# DATE   FROM              SUBJECT
+   1 09 Sep Dieter Dworkin Mu shift rod assembly changes
+   2 09 Sep Veeduber_at_AOL.COM  Hair Ball Run, D+2
+   3 09 Sep Automatic digest  VINTAGVW Digest - 8 Sep 1995
+   4 09 Sep ehintz_at_MAIL.UTEXA Re: VW-'71 BUS-QUESTION ABOUT MOUNTING BOLTS
+   5 09 Sep RGOLEN_at_UMASSD.EDU Re: Name Bob's Bus Contest
+   6 09 Sep Bradley <bradleym '80 Vanagon for sale or parts, bay area (CA)
+   7 09 Sep dthomas_at_INTERSURF Change me from a sniveling.... (was Weakly Stats
+*  8 09 Sep Joerg Rieger <jri FS in Dallas
+   9 09 Sep Joerg Rieger <jri Middle seat in Westy?
+* 10 09 Sep "Tobin T. Copley" Big Trip Report [part 8, long]
+  11 09 Sep Automatic digest  BELIEF-L Digest - 8 Sep 1995 to 9 Sep 1995 - Spe
+* 12 09 Sep kstevens_at_EESUN2.T Any busses for sale in Austin?
+* 13 09 Sep joliver_at_MUSEUM.ST 1986 synchro for sale
+  14 09 Sep Bob Hufford <bhuf VW Club Newsletters
+* 15 09 Sep Peter&Varshna <zt Re: Any busses for sale in Austin?
+* 16 09 Sep Eric Oster <ekoma Bob's trip (D+3?) Addendum
+* 17 09 Sep SSGSPEAR_at_AOL.COM  For Sale:  '82 Diesel Vanagon
+  18 09 Sep Automatic digest  BELIEF-L Digest - 9 Sep 1995 - Special issue
+  19 09 Sep yvonner_at_CCIT.ARIZ Re: To the guy in Puerto Rico (Alexis)
+  20 09 Sep SSGSPEAR_at_AOL.COM  Re: To the guy in Puerto Rico (Alexis)
+  21 09 Sep jim_at_ATCWEB.ATC.1D Re: To the guy in Puerto Rico (Alexis)
+  22 09 Sep jim_at_ATCWEB.ATC.1D Re: To the guy in Puerto Rico (Alexis)
+  23 09 Sep Joel Walker <JWAL Re: To the guy in Puerto Rico (Alexis)
+* 24 09 Sep SyncroHead_at_AOL.CO Sierra Propylene Glycol Coolant?
+* 25 09 Sep SyncroHead_at_AOL.CO Re: Trip report (shortish)
+  26 09 Sep Automatic digest  BELIEF-L Digest - 9 Sep 1995 to 10 Sep 1995 - Sp
+  27 10 Sep busgirl_at_NETCOM.CO re:  the guy in Puerto Rico
+* 28 10 Sep othneal_at_IX.NETCOM EuroVan Fornt Seats
+  29 10 Sep othneal_at_IX.NETCOM re:  the guy in Puerto Rico
+* 30 10 Sep tfab_at_NETCOM.COM(t More '56 Proress
+  31 10 Sep tfab_at_NETCOM.COM(t Re: the guy in Puerto Rico
+* 32 10 Sep ade_at_IX.NETCOM.COM parts for 67 type 1 Beetle???
+* 33 10 Sep Automatic digest  VINTAGVW Digest - 8 Sep 1995 to 9 Sep 1995
+* 34 10 Sep GNPG52A_at_PRODIGY.C VW Wesstfalia 1990
+  35 10 Sep Bradley <bradleym Some info on my 'new' '80 Vanagon?
+  36 10 Sep Automatic digest  BELIEF-L Digest - 10 Sep 1995 - Special issue
+  37 10 Sep drew_at_INTERPORT.NE Round Elec. Connector Tool Recomendation
+* 38 10 Sep drew_at_INTERPORT.NE Re: winch on bus?
+  39 10 Sep busgirl_at_NETCOM.CO re: Language Designation Filters
+  40 10 Sep RGOLEN_at_UMASSD.EDU Language Designation Filters
+* 41 10 Sep Veeduber_at_AOL.COM  At Seattle
+  42 10 Sep jim_at_ATCWEB.ATC.1D [RN] Re: Language Designation Filters
+  43 10 Sep mcdermot_at_COMPUTEL Shocks For a Camper
+* 44 10 Sep Eric Oster <ekoma What does Bob look like?
+  45 10 Sep Automatic digest  BELIEF-L Digest - 10 Sep 1995 - Special issue
+  46 10 Sep kstevens_at_EESUN2.T Help: A fair price?
+* 47 10 Sep tfab_at_NETCOM.COM(t Surf Trip Report
+  48 10 Sep Automatic digest  BELIEF-L Digest - 10 Sep 1995 - Special issue
+  49 10 Sep busgirl_at_NETCOM.CO re:  language designation nonsense
+  50 10 Sep A_OLIVARES_at_UPR1.U Vanagon parts for sale in P.R.
+* 51 10 Sep Veeduber_at_AOL.COM  Re: Oregon Bashing
+  52 10 Sep "J. A. McEachern" Re: Vanagon parts for sale in P.R.
+* 53 10 Sep Automatic digest  BELIEF-L Digest - 10 Sep 1995 - Special issue
+* 54 10 Sep SyncroHead_at_AOL.CO '87-No oil pressure!
+  55 10 Sep Joel Walker <JWAL Re: Language Designation Filters
+* 56 10 Sep Automatic digest  BELIEF-L Digest - 10 Sep 1995
+* 57 10 Sep tfab_at_NETCOM.COM(t '56 kombi - disaster averted
+  58 10 Sep Lawrence Stivers  Re: Help: A fair price?
+* 59 10 Sep Eric Oster <ekoma Cheap `87 synchro (in Seattle)
+  60 11 Sep Ron Lussier <coyo Waving Vanagon drivers (again)
+* 61 11 Sep Ron Lussier <coyo Re: Oregon Bashing
+* 62 11 Sep dakhlia_at_WUECONA.W can green coolant be phosphate-free?
+  63 11 Sep Joel Walker <JWAL buses in movies
+* 64 11 Sep jim_at_ATCWEB.ATC.1D Long Week for Rusty?
+* 65 11 Sep Automatic digest  VINTAGVW Digest - 9 Sep 1995 to 10 Sep 1995
+  66 11 Sep yvonner_at_CCIT.ARIZ Re: To the guy in Puerto Rico (Alexis)
+  67 11 Sep Automatic digest  BELIEF-L Digest - 10 Sep 1995 to 11 Sep 1995 - S
+  68 11 Sep yvonner_at_CCIT.ARIZ re: the guy in Puerto Rico
+  69 11 Sep yvonner_at_CCIT.ARIZ re: Language Designation Filters
+  70 11 Sep Gary Clayton <coy Re: Waving Vanagon drivers (again)
+  71 11 Sep "Tom Cook" <Tom_C Camper Wanted
+  72 11 Sep Automatic digest  BELIEF-L Digest - 11 Sep 1995 - Special issue
+  73 11 Sep Jon Christensen < Another Great Use of Naval Jelly
+* 74 11 Sep Jonathan Sykes <J Transmission in
+  75 11 Sep GRAZUL_at_ZODIAC.RUT change of seasons,  tighten those clamps
+* 76 11 Sep "Ed." <CLAIBORN_at_C '74 engine rebuild
+* 77 11 Sep tfab_at_NETCOM.COM(t Re: Oregon Bashing
+  78 11 Sep "Erik W. Burtis " Re: buses in movies
+  79 11 Sep Matt Goike <goike looking for 87-newer westy
+  80 11 Sep "Erik W. Burtis " speedo,oil,temp
+* 81 11 Sep John Anderson <ja Re: Another Great Use of Naval Jelly
+  82 11 Sep Automatic digest  BELIEF-L Digest - 11 Sep 1995 - Special issue
+  83 11 Sep Ron Lussier <coyo Re: Waving Vanagon drivers (again)
+* 84 11 Sep Gerald Skerbitz < Clutch replacement questions.
+  85 11 Sep "Joshua R. Poulso Re: Waving Vanagon drivers (again)
+* 86 11 Sep "Joshua R. Poulso Re: Oregon Bashing
+* 87 11 Sep cetin_at_KIRK.BELLCO change of seasons,  tighten those clamps
+* 88 11 Sep BOWMANR%em.EDW_at_MH Sierra Propylene Glycol Coolant?
+* 89 11 Sep wright_at_STORM.SIMP Re: Waving Vanagon drivers (again)
+* 90 11 Sep David Schwarze <d Re: speedo,oil,temp
+* 91 11 Sep dabaker_at_NAS.NASA. RE: Advice Needed
+* 92 11 Sep martino_at_EARTHLINK Re: Surf Trip Report
+* 93 11 Sep Scott Beckstead < Re: Name Bob's Bus Contest
+  94 11 Sep Scott Beckstead < Re: Shocks For a Camper
+* 95 11 Sep Poor Richard <rap Re: Surf Trip Report
+  96 11 Sep Automatic digest  BELIEF-L Digest - 11 Sep 1995 - Special issue
+* 97 11 Sep verbeek_at_THE-HAGUE Bedcover for '73 Pick-Up
+* 98 11 Sep "John T. Croteau" RE: Advice Needed
+  99 11 Sep snuggles_at_VNET.IBM Still Being Screwed...aka--Don't Use PartsPlace
+*100 11 Sep michael.heron_at_MAI Re: Surf Trip Report
+*101 11 Sep snuggles_at_VNET.IBM need part suppliers numbers
+*102 11 Sep "Maher, Steve (SD Re: To the guy in Puerto Rico (Alexis)
+*103 11 Sep David Schwarze <d Re: Surf Trip Report
+*104 11 Sep "Maher, Steve (SD re:  the guy in Puerto Rico
+ 105 11 Sep "Maher, Steve (SD re:  language designation nonsense
+*106 11 Sep Matt Goike <goike high idle all of a sudden
+*107 11 Sep dakhlia_at_WUECONA.W Re: can green coolant be phosphate-free?
+*108 11 Sep 7039ckrah_at_UMBSKY. RE: need part suppliers numbers
+ 109 11 Sep Matt Goike <goike re:Still Being Screwed...aka--Don't Use PartsPla
+*110 11 Sep "Maher, Steve (SD Re: Oregon Bashing
+ 111 11 Sep tfab_at_NETCOM.COM(t Re: Advice Needed
+ 112 11 Sep "Mike White" <MIK '57 Deluxe is sick!
+*113 11 Sep william killian < Re: Waving Vanagon drivers (again)
+ 114 11 Sep Bob Hufford <bhuf Re: buses in movies
+*115 11 Sep "Maher, Steve (SD RE: need part suppliers numbers
+*116 11 Sep "A Brandon Smith" VW organizations in Portland
+*117 11 Sep Joel Walker <JWAL Re: Sierra Propylene Glycol Coolant?
+ 118 11 Sep Automatic digest  BELIEF-L Digest - 11 Sep 1995 - Special issue
+ 119 11 Sep "John T. Croteau" For Sale: '66 MicroBus
+ 120 11 Sep vw_at_GULBRANSEN.COM Request to Change Language Petition
+ 121 11 Sep vw_at_GULBRANSEN.COM RE: US vs WE
+*122 11 Sep cetin_at_KIRK.BELLCO Re: Oregon Bashing
+*123 11 Sep "William R. Kenne VW event at Woodstock this past weekend
+ 124 11 Sep repark_at_SRV.PACBEL 81 Westfalia Blues
+ 125 11 Sep "William R. Kenne RE: 81 Westfalia Blues
+*126 11 Sep "ray hale" <ray.h 1st campout since rebuilt motor
+ 127 11 Sep cetin_at_KIRK.BELLCO 81 Westfalia Blues
+ 128 11 Sep RGOLEN_at_UMASSD.EDU \Just a test...
+ 129 11 Sep cp682_at_CLEVELAND.F Re: Name The Bus Contest
+*130 11 Sep John Anderson <ja need part suppliers numbers
+ 131 11 Sep Scott Beckstead < Re: Request to Change Language Petition
+ 132 11 Sep cp682_at_CLEVELAND.F Need a speedometer
+*133 11 Sep Automatic digest  BELIEF-L Digest - 11 Sep 1995 - Special issue
+*134 11 Sep John Anderson <ja Hot Air Ballon Festival in NE
+*135 11 Sep mantis_at_VT.EDU(bra Re: Waving Vanagon drivers (again)
+*136 11 Sep jim_at_ATCWEB.ATC.1D Jerome Jamboree this weekend (AZ,USA)
+*137 11 Sep dabaker_at_NAS.NASA. 7 door panel...
+*138 11 Sep David Schwarze <d Re: Waving Vanagon drivers (again)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F729670" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F729670" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F729670" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

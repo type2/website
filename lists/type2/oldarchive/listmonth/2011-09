@@ -1,0 +1,1984 @@
+<html>
+<head>
+<title>type2 Mailing List Activity - 2011-09</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/listmonth/2011-09 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/listmonth/2011-09" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/listmonth/2011-09" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+  <div class="panel panel-primary">
+  <div class="panel-heading">type2 - 2011-09</div>
+  <table class="table">
+   <thead><tr><th>Subject</th><th>Date</th><th>From</th></tr></thead>
+   <tbody>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903994">BNNTA has started!</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2011-09-02 04:18:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>We leave in the morning for Mark Twain Lake to host the BNNTA VW camping.
+There are already at least eight Buses who arrived today from Nebraska,
+Missouri, Illinois and Wisconsin in the campground tonight.  The bulk of the
+attendees will cruise into the ca...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944668">Airs list</a></td>
+        <td>"J. P. Henriksen" <a59camper(-at-)yahoo.com></td>
+        <td>2011-09-03 04:59:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I just went to the Airs List to update my info, and got a warning from my
+anti-virus program that I'd been infected.  Anyone else had this problem? 
+Also the last update was early 2010.  Is it still in use?
+
+
+JP...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903948">tie-rod ball joint misplaced ? help needed</a></td>
+        <td>Martin Mikush <martinmikush(-at-)gmail.com></td>
+        <td>2011-09-03 09:54:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello
+I recently got a clicking noise from the inner ball joint of the right
+tie rod. When i checked it - it moves in-out ward but it is still
+working. Hope I still have some time to replace it ? !  Have to order
+a ne w tie- rod, but when i checked on
+http...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944723">Re: [VB] Airs list</a></td>
+        <td>Troy Wical <troy(-at-)wical.com></td>
+        <td>2011-09-03 13:02:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The forces have gathered to start rebuilding AIRS. No timeline right now, but
+it's on our minds.
+
+I don't get any antivirus issues from it. Logged into the server and
+everything looks good.
+
+Peace, Troy
+
+
+
+On Sep 2, 2011, at 10:59 PM, "J. P. Henriksen"  wr...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944718">Re: AIRS</a></td>
+        <td>Conrad Klahn <conradk(-at-)mac.com></td>
+        <td>2011-09-03 21:20:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+
+Can the powers-that-be integrate it with Google apps? A Google db and map would be really awesome to pinpoint locations, plan routes, etc. This would make it easy to access via phone on the road.
+
+Thanks,
+Conrad...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903947">Have to sell 81 vanagon</a></td>
+        <td>John <vanagonvw(-at-)gmail.com></td>
+        <td>2011-09-04 17:19:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I apologize if this is inappropriate here, but I want my vanagon to go to a
+nice home. New pistons rings and cylinders. clean as can be well loved for
+so many years. Lost my house because of health and economics, and no place
+to keep her..... Full set of c...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904022">The BNNTA #26 campout is a "wrap"...</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2011-09-06 15:26:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi all,
+
+A huge thank you goes out to all of you who joined us for the long Labor Day
+holiday weekend! We had Buses and other VWs from S.Carloina, New Mexico and at
+least 12 other States. The newest was a 2011 Jetta and the oldest was a '59
+Double Door Pan...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903999">Update on 71 Westy "Tachometer Problem"</a></td>
+        <td>Neithammer(-at-)aol.com</td>
+        <td>2011-09-06 22:52:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Background: This all started with my VDO tachometer acting up like it first 
+ did when I installed it, before I added the diode, on my 71 Westy (1600 
+DP,  stock carb and distributor).  The tach, with the diode  installed, had 
+worked just fine for a numbe...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903945">RE: Buses By The Depot & Warehouse Sale - PETS now permitted!</a></td>
+        <td>"The Bus Depot" <type2(-at-)busdepot.com></td>
+        <td>2011-09-08 13:53:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> The website for 2011's Buses By The Depot, and the annual
+> Bus Depot Warehouse Sale and Open House, is now up - 
+> http://busdepot.com/BBD2011.htm
+
+
+Good news for dog owners - I have just been informed that Green Lane Park
+has changed their policy, and ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903976">decel valve</a></td>
+        <td>mandy reigle <the_oil_jockey(-at-)yahoo.com></td>
+        <td>2011-09-08 17:26:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+In a couple of weeks, I am going to be having a visit from the itinerant
+air cooled guy Colin, and we are going to reinstall fuel injection on my 1978
+bus.  I'm going through all my parts and I seem to be missing a decel valve,
+it's bracket, and the cu...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903990">Re: [T2] decel valve</a></td>
+        <td>mandy reigle <the_oil_jockey(-at-)yahoo.com></td>
+        <td>2011-09-08 19:11:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks,
+I forgot to add that it's manual transmission.
+
+
+
+________________________________
+From: Chad Connell 
+To: mandy reigle 
+Sent: Thursday, September 8, 2011 10:33 AM
+Subject: RE: [T2] decel valve
+
+Is it automatic or manual transmission ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903960">Re: [T2] Update on 71 Westy "Tachometer Problem"</a></td>
+        <td>Joe <spotop(-at-)gmail.com></td>
+        <td>2011-09-08 21:10:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I would be looking into the distributor for troubles. Vac advance or
+centrifugal?
+Play in the dist shaft or vac advance mechanicals can affect the timing as you
+described....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903943">Re: [T2] Update on 71 Westy "Tachometer Problem"</a></td>
+        <td>Joe <spotop(-at-)gmail.com></td>
+        <td>2011-09-08 21:14:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904024">Re: [T2] decel valve</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2011-09-08 23:30:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Www.BustedBus.com
+Www.thebusco.com...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903991">ratwell.com photos restored</a></td>
+        <td>Richard Atwell <ratwell(-at-)mac.com></td>
+        <td>2011-09-09 11:54:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Folks,
+
+I'm sorry it has taken so long but the missing photos on my website have finally been restored.
+
+Details are here:
+
+http://www.ratwell.com/Contact.html
+-- 
+Richard, 
+'78 Westfalia CDN 
+'76 Doublecab 
+http://www.ratwell.com/ ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903946">FW: [T2] ratwell.com photos restored</a></td>
+        <td>"Pratt, Bob, VBABOST" <bob.pratt(-at-)va.gov></td>
+        <td>2011-09-09 12:17:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Richard,
+
+Thank you so very much for all you work. Hands down, this site is the most
+important VW bus based site on the net. If I could, I'd wait for a crowd to
+appear and kiss you on the lips!! (You know what they say about sailor!!:)) 
+
+Thanks again
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903975">Camper sleeping...</a></td>
+        <td>Tom Tarka <tommy(-at-)slackers.net></td>
+        <td>2011-09-09 13:36:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Friday topic: When you sleep on the lower bed of your camper, do your feet
+face the front or rear of the bus?
+
+Mine have always faced the front, but I'm thinking that with a sturdy enough
+support I could switch and maybe have a little more room to spread o...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904030">Re: [T2] Camper sleeping...</a></td>
+        <td>John Rogers <jnrogers(-at-)verizon.net></td>
+        <td>2011-09-09 13:41:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Head front most of the time ... sometimes rear to catch the breeze ..
+
+
+________________________________
+From: Tom Tarka 
+To: "type2(-at-)type2.com" 
+Sent: Friday, September 9, 2011 7:36 AM
+Subject: [T2] Camper sleeping...
+
+Friday topic: When you sleep on ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904025">Re: [T2] Camper sleeping...</a></td>
+        <td>"Neal F. Jarvis" <njarvis(-at-)leaders.org></td>
+        <td>2011-09-09 13:59:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I prefer to sleep with my head to the rear hatch for fresh air and ease of
+getting into bed.
+When my wife goes with me she insist on head to the from of the bus.
+I feel like you have to be a contortionist to get into bed that way.
+Personal choice I guess...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903973">Re: [T2] Camper sleeping...</a></td>
+        <td>bus pilot <dan(-at-)radom.org></td>
+        <td>2011-09-09 14:15:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 9/9/11 7:36 AM, Tom Tarka wrote:
+> Friday topic: When you sleep on the lower bed of your camper, do your feet
+> face the front or rear of the bus?
+
+
+I keep my feet above my head.  When everything is level I sleep with my 
+feet to the rear.  This avoids ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904008">Re: [T2] Camper sleeping...</a></td>
+        <td>"Phil Parker" <phil(-at-)pagenumberone.co.uk></td>
+        <td>2011-09-09 14:16:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Head at the back of the bus - I'm 6ft 3 and so need to have my feet sticking 
+over the end of the bed a little !
+
+Phil
+
+http://www.philsworkbench.co.uk
+
+
+
+> Friday topic: When you sleep on the lower bed of your camper, do your feet
+> face the front or rear...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903993">Re: [T2] Camper sleeping...</a></td>
+        <td>Tom Tarka <tommy(-at-)slackers.net></td>
+        <td>2011-09-09 14:42:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Yeah, I think part of the problem here is that both of my campers have
+homebrew interiors, and the support end of the bed isn't bomb-proof.  It's
+enough to support two people but it wobbles enough to be
+disconcerting/annoying.
+
+I think it's also as Neal sa...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904035">Re: Camper sleeping...</a></td>
+        <td>John Baker <busvwzen(-at-)yahoo.com></td>
+        <td>2011-09-09 14:46:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Head always goes toward the back hatch.....otherwise I lose my pillow onto the floor twenty times throughout the night!!
+
+PEACE! 
+John Baker
+
+
+"...So we got in the red VW microbus with the
+shovels and rakes and implements of destruction and headed on towar...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903956">Re: [T2] Camper sleeping...</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2011-09-09 15:11:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Fri, 9 Sep 2011, Tom Tarka wrote:
+
+> Friday topic: When you sleep on the lower bed of your camper, do your feet
+> face the front or rear of the bus?
+
+I'm campng as we speak, always with feet to front of bus.
+
+I crack the rear hatch for a little fresh ai...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903974">Re: [T2] Camper sleeping...</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2011-09-09 15:36:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>That bit is funny, indeed I generally sleep head higher if not level as well,
+but would prefer to sleep head forward.   Unfortunately my wife insists on
+sleeping head rearward.  And as I generally get up once in the PM to hit the
+porta-john, I invariably g...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904005">Re: Camper sleeping...</a></td>
+        <td>Susanne <baybridgesue(-at-)yahoo.com></td>
+        <td>2011-09-09 18:30:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I spent some time living in the 77, where it was almost always head to the
+hatch, because that's where the little shelf that holds my alarm clock and
+light and books and other things I may need in a hurry were.  The exception
+was if it was really warm, the...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903997">1974 in Chula Vista boneyard</a></td>
+        <td>Mark Hineline <hineline(-at-)ocotillofield.net></td>
+        <td>2011-09-09 18:41:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>This morning I saw a 1974 in the Pick your Part in Chula Vista.  
+Transmission gone, engine on the ground but complete at 10 AM. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904003">Re: [T2] Camper sleeping...</a></td>
+        <td>Christophe Guilbert <cguilbert(-at-)picasso.ucsf.edu></td>
+        <td>2011-09-09 20:47:47+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>To add up to this extensive survey,
+
+Head always toward the back hatch.....to avoid losing  my pillow and I think it provide a very little better noice and heat isolation (its more confine). Also watching the stars trought the rear windows is not bad eithe...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904041">Re: [T2] Camper sleeping...</a></td>
+        <td>E Burtis <ewdb92(-at-)yahoo.com></td>
+        <td>2011-09-09 21:41:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>If the weather is nice, head to the hatch because I want the breeze thru the
+bug screen.  If the hatch is closed I prefer head to the front to avoid the
+head banger and get any breeze thru the jalousie windows.   Head is always
+uphill if we cannot get the ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903952">Re: [T2] Camper sleeping...</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2011-09-09 22:11:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>As a total aside on this extensive and informative survey.  As I've mentioned
+I prefer head to front to avoid headbanging despite the wife's preference, but
+I will admit you can lose pillows.  However something this brings to mind that
+I've wondered if Van...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903968">Re: [T2] Camper sleeping...</a></td>
+        <td>jules <jules.herr(-at-)gmail.com></td>
+        <td>2011-09-09 22:33:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It's amazingly easy to add a pull chain type of device to the latching
+mechanism on the rear hatch which undoes the latch from the inside of
+the vehicle. There's even holes in the activating arm to attach to.
+It's great to be able to open the hatch and get...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903959">Re: [T2] Camper sleeping...</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2011-09-10 02:23:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Fri, 9 Sep 2011, John Anderson wrote:
+> 
+> As a total aside on this extensive and informative survey.  As I've mentioned
+
+
+> I've wondered if Vanagon's should have come with.  My EVC, now my dad's EVC as
+> the case is, has a rear interior hatch release ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903984">Carburetor Gasket</a></td>
+        <td>Daniel Quirk <cdquirkjr(-at-)gmail.com></td>
+        <td>2011-09-12 20:58:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I am having trouble locating the part number for the gasket that goes
+between the carburetor and intake manifold.
+This is for a stock 1.7 Solex carburetor set up.
+Does anyone know a source for these?
+
+-Daniel...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903964">Re: [T2] Carburetor Gasket</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2011-09-12 21:22:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>>I am having trouble locating the part number for the gasket that goes
+>between the carburetor and intake manifold.
+
+	If the metal faces are OK, won't a home-made gasket (cut with 
+a sharp blade from thick brown paper) do?  The bolt holes are 
+conveniently...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903972">Re: [T2] Carburetor Gasket</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2011-09-12 21:55:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code> 021-129-707D Gasket-Manifold To Head, 1700 72-74 (2 Required Per Manifold)
+$1.15 Each
+
+http://www.bus-boys.com/carb1.html#L
+
+hope that helps
+
+----- Original Message ----- 
+From: "Daniel Quirk" 
+
+
+> I am having trouble locating the part number for the gask...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903977">Re: [T2] Carburetor Gasket</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2011-09-12 22:17:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>VW # 021 129 795  Gasket, 34PDSIT Carb Base to Manifold - superseded
+to 071 129 795 in December 1992, then discontinued November 2000.
+Yep, our Bays are becoming more and more obsolete :(
+
+Use to sell dozens of these many, many years ago, only available fr...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904020">Re: [T2] Carburetor Gasket</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-13 00:28:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I like the EMPI gaskets. They are single piece like the FI blocks, and
+made of a thicker heat-resistant material than plain cardboard.
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904029">Re: [T2] Carburetor Gasket</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2011-09-13 05:40:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>>I like the EMPI gaskets. They are single piece like the FI blocks, and
+>made of a thicker heat-resistant material than plain cardboard.
+
+	For no apparent reason, air-cooled
+classic sickles are assumed not to be much
+affected by heat conduction from the cy...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904027">Re: [T2] Carburetor Gasket</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-13 05:55:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, Sep 13, 2011 at 12:40 PM, Robert Mann  wrote:
+
+>        For no apparent reason, air-cooled
+ classic sickles are assumed not to be much
+ affected by heat conduction from the cyl head
+ into the carb thru this gasket
+
+>        I strongly suspect a gas...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903995">Re: [T2] Camper sleeping...</a></td>
+        <td>Tim Frank <timros(-at-)iinet.net.au></td>
+        <td>2011-09-13 12:56:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 10/09/2011, at 8:11 AM, John Anderson wrote:
+
+> .  In the EVC I did sleep
+> the other direction for reasons that now
+>  escape me, and I would often simply pop the hatch and exit that  
+> direction
+> first thing in the AM.  Wouldn't be hard to retrofit ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903966">re:Camper sleeping</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2011-09-13 15:25:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I always slept with my head at the rear of the bus, unless a slope indicated
+otherwise. Then sometimes I started to get a bit claustrophobic back there,
+so I started sleeping with my head towards the front. This also reduced head
+banging on upper cabinet. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944728">Re: [VB] re:Camper sleeping</a></td>
+        <td>"busdriver" <busdriver(-at-)nc.rr.com></td>
+        <td>2011-09-13 16:54:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Little guys go in the front seat. Make a basket or box to fit. Line with 
+bedding. It will have to grow with the munchkin....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904036">Re: [T2] Carburetor Gasket</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2011-09-13 16:56:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I would think that heated intake manifolds would be a good thing.
+There would be less condensation of gasoline out of the air-gas mix
+onto the surfaces of the manifolds. On the other hand, if the
+manifolds heat the incoming air, that decreases the air dens...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903957">Re: [T2] Carburettor Gasket</a></td>
+        <td>Martin Strandgard <mnstra(-at-)unimelb.edu.au></td>
+        <td>2011-09-13 22:43:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>In my experience:
+
+Heated manifold = good
+
+Heated carburettor = bad
+
+I have Weber icts and with a thin paper gasket between the carb and the
+manifold the left carb would setup a syphon after the engine was shutdown and
+merrily drip fuel into the cylinder a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903985">Re: [T2] Carburetor Gasket</a></td>
+        <td>Andy McKinley <airhedz(-at-)gmail.com></td>
+        <td>2011-09-14 00:17:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>When I had my transmission apart, I had my (very patient arts & crafty
+daughter) cut the gaskets out of a paper grocery bag with an exacto knife.
+Six years later in my daily driver and nary a leak. Don't discount every day
+materials. You can use punches (l...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944649">USB port</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2011-09-14 01:42:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Has anyone put a USB port into their bus?
+
+I'd like to install a charger for my phone, I guess I could put a cigarette
+lighter than a adaptor for that, but it seems like I should be able to just
+wire in USB port more easily, and I don't want to encourage s...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944667">Re: [VB] USB port</a></td>
+        <td>Tom Duffy <tomuo(-at-)comcast.net></td>
+        <td>2011-09-14 02:39:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 2011/09/13 18:42, Kevin Guarnotta wrote:
+> Has anyone put a USB port into their bus?
+>
+> I'd like to install a charger for my phone, I guess I could put a cigarette
+> lighter than a adaptor for that, but it seems like I should be able to just
+> wire in ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944698">Re: [VB] USB port</a></td>
+        <td>Harry Houck <harry.houck(-at-)comcast.net></td>
+        <td>2011-09-14 02:39:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'd put in a standard lighter socket. You can get nice ones from mid-80's BMW's at the salvage yard. They have an optional light too. 
+USB chargers fit as will inflating pumps, Pep boys pathetic defrosters, fans, spotlights and more 12v accessories. It'll ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944690">Re: [VB] USB port</a></td>
+        <td>Gary Gibson <meckie1(-at-)mindspring.com></td>
+        <td>2011-09-14 04:43:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>What's USB?  Gary...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944696">Re: [VB] USB port</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-14 05:10:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Gary,
+
+That's Universal Serial Bus. It was created primarily for connecting
+things to the computer, but the power connection is used to charge
+cell phones, etc.
+
+John
+
+On Wed, Sep 14, 2011 at 11:43 AM, Gary Gibson  wrote:
+
+> What's USB?  Gary...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944734">Re: [VB] USB port</a></td>
+        <td>Gary Gibson <meckie1(-at-)mindspring.com></td>
+        <td>2011-09-14 05:18:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks, John! Anyone driving up to Jerome? Gary...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904013">re:Camper sleeping-pillow dropping & saftey wall I made</a></td>
+        <td>Mike Benthin <muts(-at-)verizon.net></td>
+        <td>2011-09-14 13:00:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Attach (staple?) a nylon "wall" to lip of bed board and sew a continuous 
+loop at the top to hold nylon rope or even a bungee cord that you fasten 
+to the arms for above bed or to upper bed/sides of upper arms- no more 
+lost pillows.  In our 78 a long time...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944661">Opportunity to be a real hippie in Jimmy Carter Land</a></td>
+        <td>Joseph Clark <jsclarkfl(-at-)gmail.com></td>
+        <td>2011-09-14 19:33:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi strangers,
+
+My wife and I order our coffee from a fair trade / organic place in
+Americus, Georgia, and I recently learned that their bus needs work as
+described below. Not sure if they plan to pay in coffee beans, but it
+might be worth further inquiry i...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903950">Re: [T2] Carburetor Gasket</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2011-09-14 22:22:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Andy McKinley confirms my Munroesque approach:
+
+>When I had my transmission apart, I had my (very patient arts & crafty
+>daughter) cut the gaskets out of a paper grocery bag with an exacto knife.
+>Six years later in my daily driver and nary a leak. Don't d...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904012">lost vw video</a></td>
+        <td>JnOK <o_sconet(-at-)yahoo.com></td>
+        <td>2011-09-15 00:20:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Not exactly lost, but no longer available  to view in USA or UK. (SME  
+copyright)  Must have been the background song.
+
+I think I got the  link originally from a vw group but it is not  
+saved in my mail .  It was from Finland and featured a female pop  
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904019">Re: [T2] lost vw video</a></td>
+        <td>Gerald Livingston <gerald.type2(-at-)sysmatrix.net></td>
+        <td>2011-09-15 04:29:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Here's the legal copy on their Vevo youtube channel
+
+http://www.youtube.com/watch?v=AZaz36WpM4Q
+
+Gerald
+
+On Wed, 14 Sep 2011 17:20:37 -0700
+JnOK  wrote:
+
++ Not exactly lost, but no longer available  to view in USA or UK.
++  (SME  copyright)
++ 
++ http://www...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903953">Re: lost vw video</a></td>
+        <td>Martin Strandgard <mnstra(-at-)unimelb.edu.au></td>
+        <td>2011-09-15 04:44:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I think you will find that the message that the video is not available in your
+country actually means not available anywhere! I imagine it (and the numerous
+others blocked in the same way) will appear on pay-per-view sites at some time
+in the future......</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904032">Re: [T2] Carburetor Gasket</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-15 05:01:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, Sep 15, 2011 at 5:22 AM, Robert Mann  wrote:
+
+>  vapor lock, can be deterred at least somewhat this way, as the carb runs
+somewhat cooler
+
+This is an unorthodox usage of the term, "vapor lock". Vapor lock
+describes the phenomenon where gasoline at ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904021">Re: [T2] Re: lost vw video</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-15 05:14:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, Sep 15, 2011 at 11:44 AM, Martin Strandgard
+ wrote:
+> I think you will find that the message that the video is not available in your
+ country actually means not available anywhere! I imagine it (and the numerous
+ others blocked in the same way) wil...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903955">Re: Re: [T2] Carburetor Gasket</a></td>
+        <td>airhedz(-at-)gmail.com</td>
+        <td>2011-09-15 05:54:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thin, metal-clad gaskets are used on carbureted engines to help prevent  
+icing of the carbs and intake manifolds by conducting heat from the heads  
+to the manifolds. Think about the carbed type I engines with their  
+always-on heat risers off the exhaust...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904004">Re: Re: [T2] Carburetor Gasket</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-15 06:12:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, Sep 15, 2011 at 12:54 PM,   wrote:
+
+> Thick, insulating gaskets are used on FI engines because the fuel is not
+ vaporized before passing through the intake manifolds, so there is no need
+ to heat them.
+
+Aha! There's the answer we're looking for!
+
+>...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903988">Re: [T2] Re: lost vw video</a></td>
+        <td>Lourd Baltimore <lourd_baltimore(-at-)yahoo.com></td>
+        <td>2011-09-15 09:07:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The link from the OP doesn't work here in Airstrip One, but the Vevo link
+does.
+
+
+
+________________________________
+From: John Kolak 
+To: 
+Cc: type 2 
+Sent: Thursday, 15 September 2011, 6:14
+Subject: Re: [T2] Re: lost vw video
+
+
+Actually YouTube gives a ta...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904038">lost vw video FOUND _ THANKS</a></td>
+        <td>JnOK <o_sconet(-at-)yahoo.com></td>
+        <td>2011-09-15 15:53:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>These Vw groups are amazing!  someone on Type2.com sent me the legal  
+version.  Sadly has lots of ads now, but that's life today on  
+internet, isn't it?
+
+Thank You  Gerald!
+
+Here's the legal copy on their Vevo youtube channel
+
+http://www.youtube.com/watc...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904034">Re: [T2] Carburetor Gasket</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-15 16:23:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Reposting to list:
+
+On Thu, Sep 15, 2011 at 10:56 PM, John Anderson  wrote:
+
+> You know I'm going to just say it, if you really have your heart set on
+making a gasket, buy gasket paper.  It is cheap.  Now I've used other things
+in a pinch certainly, I agre...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903979">Re: Carburetor Gasket</a></td>
+        <td>cdquirkjr(-at-)gmail.com</td>
+        <td>2011-09-15 19:00:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thank you all for the responses.
+
+I believe I will go to my local auto store and pick up some gasket material.
+
+Way back when I was a youngster in the Army and you had to take your  
+vehicle to the motor pool for service, the crusty old motor sergeant had ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903986">Re: [T2] Carburetor Gasket</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2011-09-15 20:42:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code> You know I'm going to just say it, if you really have your heart set on
+making a gasket, buy gasket paper.  It is cheap.  Now I've used other things
+in a pinch certainly, I agree with John here and prefer the thickness of a
+morning cereal box myself, but ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904018">Re: [T2] Re: Carburetor Gasket</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2011-09-15 20:52:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>You know that is another great point as well, which some may not recognize. 
+Often you can do just that with a moderate thickness paper, tap them out with
+a ball peen hammer and not screw with punches and x-acto blades or whatever. 
+For anyone who doesn't ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903987">Re: [T2] Re: Carburetor Gasket</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2011-09-16 20:01:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I was wondering, do you use any kind of gasket sealant when you
+install a carburetor gasket? Or do you install it dry?
+
+Scott Busby
+74 VW Transporter...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903963">Re: [T2] Re: Carburetor Gasket</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2011-09-16 20:29:10+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Always install dry.  Most, but not all carburetors have vacuum
+ports/chambers in their bases to redirect vacuum singles to other
+parts of the carburetor.  Any kind of sealant could potentially plug
+these ports/chambers rendering the carburetor difficult to...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903944">Re: [T2] Re: Carburetor Gasket</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2011-09-17 00:26:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Boy I don't think I've ever really disagreed with Jim on something in my life,
+but I never install ANY gasket dry, including a carb base gasket, with the
+exception of graphoil coated gaskets (OEM FI intake runner gaskets and the
+like.)  I agree with his po...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903969">Re: [T2] Re: Carburetor Gasket</a></td>
+        <td>Old Volks Home <oldvolkshome(-at-)gmail.com></td>
+        <td>2011-09-17 02:54:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Different strokes for different volks. :)
+
+In 50 years of wrenching on these beasts, plus a few 'murican and
+japanese makes, I have never used gasket sealer on a carburetor base
+and never a leak that I could remember.  Not a bad record, eh?
+Manifold gasket...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904023">Re: [T2] Re: Carburetor Gasket</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-17 03:04:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I believe VW specs most applications to be installed dry, but I'm not
+sure on the specifics without doing a research project. I remember
+them calling for a sealant on case halves, but of course there's no
+gasket sealer there. I remember using gaskacinch on...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903961">vanagon has to go....</a></td>
+        <td>John <vanagonvw(-at-)gmail.com></td>
+        <td>2011-09-17 23:45:13+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi all. I posted recently  about having to send my 81 vanagon to the
+crusher. Time is up, and it has to go. I am in west valley city, Utah.
+Several of you were interested and I am here to emphasize that I am not
+scamming, or trying to jerk anyone around. M...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904007">1976 camper</a></td>
+        <td>Erdette2 <erdette2(-at-)yahoo.com></td>
+        <td>2011-09-18 13:34:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have a 1976 camper, and I'm in need of a new engine. The mechanic I took it
+to "can't" find one and said he can't rebuild this one. He wants it out of his
+shop ASAP! I need it fixed. Can anyone help? I live in Illinois in the south
+subarb of Midlothian.
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903982">Ethanol Fuel Study Posted</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-18 13:39:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Volks!
+
+E85 has come to an area nearby, so I got motivated to do some research
+and experiment with one of my personal vehicles. Bob Glicksman at
+Liquid Sun Energy has graciously hosted the results here:
+
+http://www.liquidsunenergy.com/learning/ppt/Ethan...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904028">Re: [T2] 1976 camper</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-18 13:56:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sun, Sep 18, 2011 at 8:34 PM, Erdette2  wrote:
+> I have a 1976 camper, and I'm in need of a new engine. The mechanic I took it
+ to "can't" find one and said he can't rebuild this one. He wants it out of his
+ shop ASAP! I need it fixed. Can anyone help? ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904042">baby seat lower anchors</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2011-09-18 19:50:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>With baby #1 due any day now, I'm trying to determine if there is a way to
+retrofit seatbelts, or lower anchors for a baby seat in my bus.
+
+ 
+
+I imagine you must be able to buy these anchors, and install them
+anywhere-as long as they are anchored to someth...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944677">Re: [VB] baby seat lower anchors</a></td>
+        <td>Lee Griffiths <l.s.griffiths(-at-)salford.ac.uk></td>
+        <td>2011-09-18 20:07:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Yeah, loads of people have done this.
+
+I fitted lapbelts to the read, anchored them through the angled bulkhead 
+with 1/8" think square plates holding the bolts.  I used a lap belt with 
+a new-born baby carried, using the belt to hold in the seat base so y...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904006">RE: [VB] baby seat lower anchors</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2011-09-18 20:22:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks....I'll print that out, and read it today....
+
+-Kevin
+Jamaica Plain, MA
+'69 single cab
+'65 Kombi - EZ-Camper
+
+-----Original Message-----
+From: type2tom(-at-)earthlink.net [mailto:type2tom(-at-)earthlink.net]
+Subject: Re: [VB] baby seat lower anchors...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904001">Re: baby seat lower anchors</a></td>
+        <td>Martin Strandgard <mnstra(-at-)unimelb.edu.au></td>
+        <td>2011-09-18 23:13:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Kevin,
+
+I installed the baby seat anchor into the deck behind the rear seat in my
+kombi. The anchor uses a large washer to take the load. In Australia all baby
+seats come with the anchor. Note that this anchor is in addition to the use of
+a seat belt. I re...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904039">Fuel Filler</a></td>
+        <td>J Charles Plumb <Charlie(-at-)CharliePlumb.com></td>
+        <td>2011-09-19 00:16:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I have a '75 VW Bus and I can seem to fill the gas tank without dribbling fuel
+all over the side.  The California EPA nozzle doesn't seem to fit the filler
+pipe.  Is there any fix for this?  Thanks,
+
+Charlie Plumb...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903989">Re: [T2] Fuel Filler</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2011-09-19 02:06:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I can fill without spilling on my 74 bus by holding back the vapor
+return, and holding the spout pointing at a steep downward angle into
+the bus.
+There are other possible reasons, including cracks in a gas port
+plastic, and plugged vapor return lines.
+
+Sco...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903978">Where to connect to 12V switched in Engine Compartment</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2011-09-19 19:49:59+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm hooking up an Innovate LC-1 Air-Fuel Meter in my 74 Baywindow Bus
+and am wondering where is a good point to connect to 12V switched in
+the Engine Compartment.
+I see that I could grab a spot on the coil at terminal #15, but maybe
+that isn't be best plac...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904037">Cool Adidas Bay Window Bus</a></td>
+        <td>Pete O <pnoceanwesty(-at-)gmail.com></td>
+        <td>2011-09-20 00:34:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://www.bizcommunity.com/Gallery/196/14/1823.html
+
+
+Pete
+'79 Westy "Aardvark"
+'87 Westy "JoesVan"
+WWW.Busesbythebeach.org ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903965">Re: [T2] Cool Adidas Bay Window Bus</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-20 03:36:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Cool indeed!...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903992">RE: [T2] Where to connect to 12V switched in Engine Compartment</a></td>
+        <td>Mister C <emcrites(-at-)msn.com></td>
+        <td>2011-09-20 19:30:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>That is a fine spot to use as a 12+v switched source, but - put a relay on it
+first.  Chances are it can't supply sufficient current to any additional
+sources, especially with the voltage drop from the ignition switch.  I did
+this on my bus and it works gr...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904017">Can anyone read these corrupted DOC files for a battery charger</a></td>
+        <td>"Courtney Hook" <courtneyhook(-at-)shaw.ca></td>
+        <td>2011-09-22 22:21:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Well, due to a HD crash, I managed to lose the original writeup I did on a
+battery charger installation on my 77 Westy. I was asked to share it with the
+type2 list, but the Doc files (Word) won't read. Wondering if any gurus here
+can open them up with some...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/903962">NEVER MIND - Can anyone read these corrupted DOC files for a</a></td>
+        <td>"Courtney Hook" <courtneyhook(-at-)shaw.ca></td>
+        <td>2011-09-23 00:28:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Many thanks to those who contacted me with a solution. I was able to 
+retrieve the text and put it back with the pictures I found on an SD card. 
+Thanks to Alistair and airhedz !
+Regards,
+Courtney...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/904026">Bumper over riders</a></td>
+        <td>"Pratt, Bob, VBABOST" <bob.pratt(-at-)va.gov></td>
+        <td>2011-09-26 11:50:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi all,
+
+I received a rear bumper from a '79 bay window that had over riders on it.
+They were in really tough shape. I could probably replace the rusted out
+centers of them, but I'd like to buy a set of used/new non-chromed ones. I
+can't seem to find them ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876602">Re: [T2] Bumper over riders</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2011-09-26 15:52:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bob they were VW acessory, even to the later years.  Sets even NOS do pop up
+on samba now and then (though it seems more often for the early bumpers) but
+I've never so much liked the look so haven't ever gotten a set.  I do like the
+rubber impact strips th...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876668">RE:USB Port</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2011-09-26 16:00:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks for all the tips.sounds like cigarette lighter adaptor is the way to
+go. 
+
+ 
+
+I have gotten a cigarette lighter port from my FLAPS, with a mounting
+bracket. I'm going to try to mount this in a somewhat stealth location under
+dash. Then I'll insert a...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876631">re:Baby seat lower anchors</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2011-09-26 16:03:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks for all the tips. I  really liked the "Old Bus Review", unfortunately
+I never subscribed to it. I am guessing it no longer exists?
+
+ 
+
+I think the autors idea on installing belts is great, except my wife says
+the kid has to be in the back seat. This...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876645">[VB] re:Baby seat lower anchors</a></td>
+        <td>craig <vwbus(-at-)ckoon.org></td>
+        <td>2011-09-26 16:46:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>>I think the autors idea on installing belts is great, except my wife says
+>the kid has to be in the back seat. This info is definitely a starting
+>point, that along with the other posts.
+
+
+i haven't looked through all the digest posts since this topic was...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944722">blown fuses</a></td>
+        <td>kahuna <notsobigkahuna(-at-)yahoo.ca></td>
+        <td>2011-09-26 16:53:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>my girlfriend has a nice 66 westy that has been converted to 12v.  it runs and drives like a dream, with one irritating problem - it blows the fuse that is furthest right in the fuse panel. it only happens when she uses the headlights, there is actually a ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944720">blown fuses</a></td>
+        <td>kahuna <notsobigkahuna(-at-)yahoo.ca></td>
+        <td>2011-09-26 16:56:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>my girlfriend has a nice 66 westy that has been converted to 12v.  it runs and drives like a dream, with one irritating problem - it blows the fuse that is furthest right in the fuse panel. it only happens when she uses the headlights, there is actually a ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944688">blown fuses</a></td>
+        <td>kahuna <notsobigkahuna(-at-)yahoo.ca></td>
+        <td>2011-09-26 16:56:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>my girlfriend has a nice 66 westy that has been converted to 12v.  it runs and drives like a dream, with one irritating problem - it blows the fuse that is furthest right in the fuse panel. it only happens when she uses the headlights, there is actually a ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944659">Re: [VB] blown fuses</a></td>
+        <td>Sam W <sglw(-at-)aol.com></td>
+        <td>2011-09-26 17:57:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I had the same problem in my 63 singlecab. It was caused by the wire in the headlight bucket touching the side.  I took out the headlight and found the offending wire and replaced the fuse, now all is fine.
+
+Sam_w
+63 singlecab
+73 Thingster
+87 Vanagon
+
+Sent...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944729">Re: [VB] blown fuses</a></td>
+        <td>Otmar Ebenhoech <Otlist10(-at-)evcl.com></td>
+        <td>2011-09-26 18:24:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Looking at the diagram here:
+http://www.vintagebus.com/wiring/bus-65-usa.jpg
+Key
+http://www.vintagebus.com/wiring/bus-65-usa-key.jpg
+
+
+It looks like the fuse does not supply power to the lighting circuit, 
+but that the power to the lights does go through t...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/944650">Re: [VB] blown fuses</a></td>
+        <td>Otmar Ebenhoech <Otlist10(-at-)evcl.com></td>
+        <td>2011-09-26 18:44:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Update:
+I just reread the description and realize I had missed that the bus 
+is dead when that fuse is blown.
+
+My updated diagnosis it that someone swapped around the red wires on 
+that fuse so that the power going to the ignition and start circuits 
+is go...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876615">Re: [T2] Bumper over riders</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2011-09-26 19:30:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I took the "bumper riders" off of the bumpers on my '74, because I
+didn't like how they look.
+
+I realize I may have traded down my safety in the name of looks, and
+that is probably stupid, but hey, I'm not putting them back on.
+
+Karma will probably have me...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876646">Re: [T2] Re: baby seat lower anchors</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2011-09-26 19:34:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>For my 3 point retractable belts, I mounted the retracting spool on
+the same bottom lug behind the seat as the bottom mount. In other
+words, two of my three points are on the same bottom lug. Works fine.
+
+Scott B
+1974 VW Transporter...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876584">Re: [T2] Bumper over riders</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2011-09-26 20:50:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>You haven't probably made much difference Scott.  I know that the '76 rear
+bumper did not fare well despite the above mentioned overriders from JC
+Whitless.  Of course again they were aftermarket, and thinner than the OEM
+ones I have seen.  And it suffered...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876633">Re: [T2] Bumper over riders</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2011-09-26 22:21:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>They might be to protect what you hit more so than the bumper itself.  
+Like backing up against another bumper.  Or pushing another car or, more 
+probably, being pushed yourself.  Or maybe not.  I've lost two of mine 
+and I do like the looks of them so I'm...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876675">RE: Buses By The Depot & BusDepot Warehouse Sale - Sat Oct 1 </a></td>
+        <td>"The Bus Depot" <type2(-at-)busdepot.com></td>
+        <td>2011-09-26 23:19:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> The website for 2011's Buses By The Depot is now up -
+> http://busdepot.com/BBD2011.htm
+
+Just a reminder that Buses By The Depot and our annual Open House &
+Warehouse Sale are this weekend!  The weather forecast looks great - hope to
+see you there!
+
+- Ro...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876650">camper interior</a></td>
+        <td>John Dillon <johndillon(-at-)johndillon.com></td>
+        <td>2011-09-27 00:35:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Anyone have any contact info - or web addy ... For that guy in florida who
+is reselling the camper interiors he is getting from the U.K.
+
+TIA
+jdd...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876618">Re: [T2] camper interior</a></td>
+        <td>Mike <manikmike(-at-)gmail.com></td>
+        <td>2011-09-27 00:40:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+
+These folks, RVTEC?  http://www.rvtec-camperinteriors.com/index.htm
+
+
+
+On Mon, Sep 26, 2011 at 8:35 PM, John Dillon wrote:
+
+> Anyone have any contact info - or web addy ... For that guy in florida who
+> is reselling the camper interiors he is getting ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876649">an update</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2011-09-27 14:43:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi,
+I haven't posted in a long time and I thought i'd update y'all on this
+past summer's bus news. As some of you might remember, we moved from
+Mississippi to France, but decided to leave the '75 Westy in the US,
+specifically in California as a (mobile) pi...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876644">Re: [T2] an update</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-27 14:50:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>These kinds of updates are what we love to see, especially when we
+might have been a bit stumped or unsure of offered suggestions.
+
+By the way, oil breather fumes go in before the carburetor, so there
+is no leaning of the mixture.
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876635">Re: [T2] an update</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2011-09-27 18:15:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>John wrote:
+> These kinds of updates are what we love to see, especially when we
+> might have been a bit stumped or unsure of offered suggestions.
+
+Definitely. Of course, once mysteries are resolved, the solutions seem
+obvious and their value under-appreci...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876637">Re: [T2] an update</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2011-09-27 21:46:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sami is of course correct here for an FI car, but I'd also wager you get more
+false unmetered air from the oil filler at the aged plastic clamp joint, and
+all those fittings attached to the S hose and intake runners than from hard
+dry valve cover gaskets. ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876605">Re: [T2] an update</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-28 04:21:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Wed, Sep 28, 2011 at 1:15 AM, Sami Dakhlia  wrote:
+
+> That's actually not the case on fuel-injected models, where the oil breather feeds straight into the S-shaped hose, after the AFM.
+
+Ah! Details, details!...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876586">Heat Exchanger Flaps</a></td>
+        <td>Daniel Quirk <cdquirkjr(-at-)gmail.com></td>
+        <td>2011-09-29 01:41:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Can some one tell me the purpose of the flaps that go between the fan
+schroud and the heat exchanger?
+
+I can't figure out how they would effect the cooling or heat.  If the
+engine is on, the fan would be blowing air and the flaps would open.
+Correct? So wh...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876651">Re: [T2] Heat Exchanger Flaps</a></td>
+        <td>Jim and Avalon <Wildthings(-at-)gorge.net></td>
+        <td>2011-09-29 03:32:01+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>They prevent back flow when the auxiliary fan is running.  If the aux 
+fan is missing or otherwise defunct they do nothing but fail and block 
+up the heat exchangers.  I have removed them from all my engines.
+
+Jim
+
+
+
+On 9/28/2011 6:41 PM, Daniel Quirk wrot...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876589">RE:Heat Exchanger Flaps</a></td>
+        <td>"Kevin Guarnotta" <kguarnotta(-at-)usa.net></td>
+        <td>2011-09-29 03:35:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I'm not sure which flaps you are referring to. There are the flaps at the
+bottom of the fan shroud. The opening and closing of these should be
+controlled by a thermostat. When the engine is warming up, the air from the
+fan is not directed over the heads. T...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876666">Re: [T2] Heat Exchanger Flaps</a></td>
+        <td>Sami Dakhlia <sami.dakhlia(-at-)gmail.com></td>
+        <td>2011-09-29 07:05:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Daniel asked:
+
+> Can some one tell me the purpose of the flaps that go between the fan
+> schroud and the heat exchanger?
+
+Here's a diagram of the heating/cooling system, which clearly shows
+the non-return flaps you mention
+http://type2.com/dakhlia/images/V...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876593">Weird Stalling Problem</a></td>
+        <td>Ted Reshetiloff <ted_reshetiloff(-at-)yahoo.com></td>
+        <td>2011-09-29 14:23:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>'78 Westy 2.0 FI stock motor. I have a weird stalling problem. It does not happen all the time and seems to maybe be more frequent when low on gas but also can occur when tank is full. Engine starts fine and runs well but will randomly just die like someon...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876606">Re: [T2] Weird Stalling Problem</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2011-09-29 15:33:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Frequently this problem comes from the idle stabilizer module.
+Disconnect the two plugs and plug them into each other to bypass it.
+
+Another popular candidate is the head temp sensor. This can also be
+bypassed by disconnecting it from the wiring harness an...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876616">Re: [T2] Weird Stalling Problem</a></td>
+        <td>John Anderson <wvukidsdoc(-at-)yahoo.com></td>
+        <td>2011-09-29 16:11:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>'78 won't have an ISV, not even in CA I think, but I won't swear to that.  I
+agree with HTS, but it has to be pretty much failed, you can check resistance
+at ambient temp for an idea, and in a pot of boiling oil if you like, many
+years ago I posted some av...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876629">Re: [T2] Weird Stalling Problem</a></td>
+        <td>Greg Potts <greg(-at-)pottsfamily.ca></td>
+        <td>2011-09-29 16:17:36+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Ted,
+
+I'd suspect the ignition switch. If possible, the next time it quits on
+you coast to a safe stop without touching anything and check for voltage
+at the coil. A check on fuel pressure at that point would also be
+helpful, if you have (or can insta f...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876583">Re: [T2] Weird Stalling Problem</a></td>
+        <td>Ted Reshetiloff <ted_reshetiloff(-at-)yahoo.com></td>
+        <td>2011-09-29 16:25:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks Greg thats a good idea. So next time it happens let it stall and coast to the side of the road. Do not turn off the key, go back and look for current at the + side of the coil? Makes sense. Need to get a Fuel Pressure guage to install on a T off the...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876582">Re: [T2] Weird Stalling Problem</a></td>
+        <td>Greg Potts <greg(-at-)pottsfamily.ca></td>
+        <td>2011-09-29 16:31:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Ted,
+
+There's a fitting on the driver's side rail already there for a guage. 
+Just unscrew the bolt plugging it, save it in a safe place, then install 
+the guage.
+
+I've had one on my bus since my FI install in 2005. It's a very helpful 
+diagnostic tool....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876657">RE: Buses By The Depot & BusDepot Warehouse Sale - Sat Oct 1 </a></td>
+        <td>"The Bus Depot" <type2(-at-)busdepot.com></td>
+        <td>2011-09-29 16:32:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> 2011's Buses By The Depot is this weekend -
+> http://busdepot.com/BBD2011.htm
+
+
+Just a quick note that email confirmations have now gone out with your
+campsite numbers. If you reserved a site but didn't get the confirmation,
+please email me ASAP.  (If yo...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876648">Removing Rear rubber suspension stops</a></td>
+        <td>"SQUID" <sydclarke(-at-)shaw.ca></td>
+        <td>2011-09-29 19:48:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>'74 westy, rear suspension rubber 'snowman shaped', snubbers..just pry them
+off, or..are they threaded inside?  Want to make sure before I tear into
+them.
+Cheers
+SQUID
+
+
+__________ Information from ESET NOD32 Antivirus, version of virus signature
+database ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876634">Help in Livermore.</a></td>
+        <td>Janyce Bartlett <janycebartlett(-at-)msn.com></td>
+        <td>2011-09-29 20:23:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey Guys:
+
+I need help: a place to work and some tools,jack blocks.  I am losing my
+clutch. I have gotten the master and slave cylinders.  I m stuck in 1st
+Safeway parking lot in Livermore.  I do not have funds to pay mechanic.  I
+have left a message with ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876580">Re: [T2] Help in Livermore. -clutchless driving</a></td>
+        <td>Mike Benthin <muts(-at-)verizon.net></td>
+        <td>2011-09-30 12:39:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Is it just the clutch cable (pedal droped to floor or has lots of play 
+as cable stretches if cable broke), or is the release mechanism in the 
+trans to engine?  If the latter, the cable will still seem tight.  I had 
+a clutch disk come apart, got stuck at...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876611">modern VW Factory</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2011-09-30 20:08:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>
+(There was another version of this.)
+
+   I think the sales of this particular model have been very 
+disappointing to its promotors.  Anyhow, this factory would seem to 
+depart thoroughly from any VW tradition.
+
+RM...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876625">Re: [T2] modern VW Factory</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2011-09-30 21:21:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Way Cool Factory!  Must have cost half a billion euros.
+
+Chris
+
+
+
+(There was another version of this.)...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876595">Bay window Koni shocks on a Vanagon?</a></td>
+        <td>Troy Wical <troy(-at-)wical.com></td>
+        <td>2011-09-30 22:33:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Anyone know if the Koni's on our 78 will fit an 81 Vanagon?
+
+Peace, Troy...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/876578">Re: [T2] modern VW Factory</a></td>
+        <td>Kevin H Roberts <kevin(-at-)bopsax.com></td>
+        <td>2011-09-30 22:46:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I haven't been through it yet but the new factory here in Chattanooga is 
+supposed to be state-of-the-art.  But not transparent like that one.  
+:)   The new car is a new design but stilled called the Passat.  Many 
+people are very disappointed with that c...</code></pre></td>
+      </tr>
+    
+    </tbody>
+  </table>
+
+
+
+
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2011-09" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2011-09" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2011-09" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

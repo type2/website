@@ -1,0 +1,312 @@
+<html>
+<head>
+<title>type2 - "Holders" in your Westy</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/486224 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/486224" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/486224" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>"Holders" in your Westy</h1>
+   <b>&quot;Mike Benthin (MUTS)&quot; &lt;benthin_at_prodigy_dot_net&gt;</b><br/>
+   <i>2000-05-14 11:03:38+00</i><br/>
+   <br/>
+   <pre>All this talk of cupholders has led me to describe the myriad holders in
+our MUCH used Westy, past and present.......this is long and shold go in
+the archives like my spare bed descriptions!
+Eyebolts, Screw eyes, velcro, clothspins/spring clips, suction cups,
+bungee cords, toeclip straps, sash cord, soda bottles and spare
+"boxes"/tubs and shelves  all are utilized in our Westy:
+1. Eyebolts are used around the poptop to hold the bungees/ rope which
+fasten anything from lumber to extra bikes up there.  I have 2"
+fenderwashers under them to spread the force- no cracks yet.  2 of them
+(bent to form hookbolts) stick out above the rear hatch to hold the bike
+rack or support the "firewood" box  shelf that bolts to the bumper.  I
+also used them at the ends of the roof crossbar at the FRONT of the
+T-nutted bedboard, facing down- to hold the chains that lift the seatbed
+end up to create a rearfacing "couch" or provide protection for sleepers
+in case of a collision.  At the front of the Westy, I added an eyebolt
+on each side of the airscoop grill (goes through the body behind
+it)...to hold the bikerack that slips over the sparetire.  The bike
+bungees also fasten to these.  For our TV, I was going to use eyebolts
+through the deluxe cabinet top to hold a bungee over the TV, but opted
+to drill double holes to form rope loops to do the same.  I used
+eyebolts in the roof above the sink in the 71 Westy to hold a 9" tv that
+had 2 eyebolts fastened to its handle, thus hanging it by a throughbolt.
+2. Screweyes- useful in the board or cabinet over your head to hold
+earphones or hang your watch or dry a towel. They hold my
+potholder/carpet brush inside the Cabinet door. The are screwed into the
+wooden strip along the poptop roof to hold sashcord upon which hangs the
+drying beach towels!  The same (with a rope going beneath) will hold the
+flipbed up to form a roof "couch" for the kids while giving you
+headroom.
+3.  Velcro- quickly replacing many of the other fasteners.  The "Heavy
+Duty"HomeDepot kind that is self-sticking is great for holding anything
+from curtain ends to fans to laptop computers to cup bottoms.  Cut a
+liter soda bottle off at the top and stick a velcro strip to its
+side...put the matching fuzz on the wall JUST ABOVE the flip bed
+(passenger side) and you have a removable holder there.  Same for the
+other side- put it on the cabinet wall. I use it on the rear window to
+hold the curtain open enough for my fresnel wideangle lens.  Use it to
+hold up the digital alarm or temperature gauge.  I have a flipup table
+on the inside of the sliding door to which is glued velcro for the
+laptop bottom or a food tray.  The portable CD player is velcroed to the
+cabinet wall just left of the upper cabinet door.  The Sega (Genesis) is
+velcroed to the wall of the sinkcabinet.  It's great to hold spare
+curtains, such as the one between driver area and the rear.  I put some
+outside above the windshield to hold the front curtain when it's a sun
+shade (keeps the BTU's from entering).
+4. Clothspins/springclips- indispensible for holding up towels or
+fastening "privacy" curtains to our awning.  Can be ductaped to a
+flashlight.
+5. Suctioncups- the kind with a hook are neat to hang curtains in a
+non-westy bus, and one holds our driver "traffic" fan to the windshield.
+I glued 4" square plexiglass to the sinktop to also hold rear-facing
+fans.
+6. Bungee cords- utilized with eyebolts to hold the potty behind the
+passenger seat or the IceChest.  A separate one keeps the stool/garbage
+can in place.  I have one in back that spans across the space when you
+open up the rear hatch so my folding picnic table doesn't fall out. 
+Their other uses are obvious....
+7.  Toeclip straps- "clipless " bike pedals are making these scarce-
+good for holding together poles; I screwed one to the roof above the
+"cot storage space" to grip a folding umbrella and the poles for my
+spare center bed.  Opposing velcro straps are also good for this.
+8. Containers- My favorites are the square soybean oil plastic tubs
+(about 8" across)  you can get from a Chinese restaurant; they fit
+perfectly under the rear seatbed to separate stuff like tools, bungees,
+etc!  A 5 gallon spacklebucket fits perfectly to line the garbage stool
+if you grind the top lip at opposite corners; inside this can go a 4
+gallon bucket (catlitter one comes to mind) to carry water; the stock
+pail fits inside this).  FWIW, the 22" Sears truck toolboxes fit
+perfectly in the sparetire well if you move it to the front.  I create
+drawers out of sundry boxes to be able to reach to the rear of the
+closet shelves or even the upper cabinet.  
+9. Shelves-I can fit a road atlas FLAT inside our modified glovebox-
+take out the box and make your own from cardboard lined with stickon
+velvet- I ran a board from the front back over the freshair duct to
+create a deep useful box!  -The underdash shelves with the mesh bottoms
+hold a lot of stuff also.  -For those with later Westies, note that a
+useful shelf can be slung between the rear closet and the top side of
+the sinkcabinet- held our TV and VCR/Sega.  I first cut a new doorhole
+for the rear cabinet facing the SIDE and walled over the old hole before
+adding the shelf.  The fridge can still be accessed. For those with
+earlier Westies, note that a shelf can be easily added between the front
+seat rails; mine was removable in the 71, held by pions that slipped
+into holes in the seat pedestal top.  The shelf consisted of a hinged
+top with carpeting so you could step through- when it flipped up, it
+revealed a shelf that had room for sundries like a CD player.- I also
+had my CB radio mounted here facing up.  In the front of this was a
+small extending shelf with 2 cupholders made by cutting a hole in the
+shelf, then adding 6 smaller holes to hold string tied to form a
+flexible cup beneath your drink.  I had a similar shelf in my bug. 
+Under the shelf was a slideout drawer for more sundries.
+10- Outside storage- I'm sure all know of my "mailbox" that fits in the
+roofrack well, and I also have a large plastic (Sears) box that sits on
+a shelf off my rear bumper- it's supported by chains from the bike rack
+eyebolts and by boltholes drilled into a rightanble bracket hiding under
+the bumper.  Goes on and off in 30 seconds.
+
+.   .Mike Benthin in NJ             __ |
+214K mi on original engine!  ______/__\|         63 panel camper
+.   .   .                  /=__==__===_=\         75 bus
+. . . . 78 VW Camper   -T-|E[__][__]|[_]\\       (77 Westy-sold)
+.  .  . all over USA    0 |  _  |  `|__   |}     (77 Westy-parting)
+.   .                     =-(_)-----(_)'--=   (71 Westy rusto in woods)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F486224" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F486224" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F486224" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

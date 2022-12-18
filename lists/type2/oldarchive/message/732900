@@ -1,0 +1,350 @@
+<html>
+<head>
+<title>type2 - virus hoax</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/732900 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/732900" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/732900" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>virus hoax</h1>
+   <b>Katie Buller</b><br/>
+   <i>2013-05-28 17:18:13+00</i><br/>
+   <br/>
+   <pre>Re an earlier note from me...
+
+Your P.O.'d
+listowner...
+
+>From:    IN%"ASTRO_at_GITVM1.BITNET"   "Astronomy Discussion List"
+>To:      Multiple recipients of list ASTRO <ASTRO_at_GITVM1.BITNET>
+>Subject: Re: <<INTERNET VIRUS WARNING>> (fwd)
+>
+>------- Forwarded Message
+>
+>             U.S. DOE's Computer Incident Advisory Capability
+>           ___  __ __    _     ___           __  __ __   __   __
+>          /       |     /_\   /       |\ |  /  \   |    |_   /_
+>          \___  __|__  /   \  \___    | \|  \__/   |    |__  __/
+>
+>Number 94-04                                                December 6, 1994
+>
+> ------------------- A - T - T - E - N - T - I - O - N -------------------
+>|  CIAC is available 24-hours a day via its two skypage numbers.  To use  |
+>|  this service, dial 1-800-759-7243.  The PIN numbers are: 8550070 (for  |
+>|  the CIAC duty person) and 8550074 (for the CIAC manager).  Please keep |
+>|  these numbers handy.                                                   |
+> -------------------------------------------------------------------------
+>
+>Welcome to the fourth issue of CIAC Notes!  This is a special edition to
+>clear up recent reports of a "good times" virus-hoax.  Let us know if you
+>have topics you would like addressed or have feedback on what is useful and
+>what is not.  Please contact the editor, Allan L. Van Lehn, CIAC,
+>510-422-8193 or send E-mail to ciac_at_llnl_dot_gov.
+>
+>  $-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$
+>  $ Reference to any specific commercial product does not necessarily   $
+>  $ constitute or imply its endorsement, recommendation or favoring by  $
+>  $ CIAC, the University of California, or the United States Government.$
+>  $-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$-$
+>
+>THE "Good Times" VIRUS IS AN URBAN LEGEND
+>
+>In the early part of December, CIAC started to receive information requests
+>about a supposed "virus" which could be contracted via America OnLine, simply
+>by reading a message.  The following is the message that CIAC received:
+>
+> ---------------------------------------------------------------------------
+>| Here is some important information. Beware of a file called Goodtimes.    |
+>|                                                                           |
+>|  Happy Chanukah everyone, and be careful out there. There is a virus on   |
+>| America Online being sent by E-Mail.  If you get anything called "Good    |
+>| Times", DON'T read it or download it.  It is a virus that will erase your |
+>| hard drive.  Forward this to all your friends.  It may help them a lot.   |
+> ---------------------------------------------------------------------------
+>
+>THIS IS A HOAX.  Upon investigation, CIAC has determined that this message
+>originated from both a user of America Online and a student at a university
+>at approximately the same time, and it was meant to be a hoax.
+>
+>CIAC has also seen other variations of this hoax, the main one is that any
+>electronic mail message with the subject line of "xxx-1" will infect your
+>computer.
+>
+>This rumor has been spreading very widely.  This spread is due mainly to the
+>fact that many people have seen a message with "Good Times" in the header.
+>They delete the message without reading it, thus believing that they have
+>saved themselves from being attacked. These first-hand reports give a false
+>sense of credibility to the alert message.
+>
+>There has been one confirmation of a person who received a message with
+>"xxx-1" in the header, but an empty message body.  Then, (in a panic, because
+>he had heard the alert), he checked his PC for viruses (the first time he
+>checked his machine in months) and found a pre-existing virus on his machine.
+> He incorrectly came to the conclusion that the E-mail message gave him the
+>virus (this particular virus could NOT POSSIBLY have spread via an E-mail
+>message).  This person then spread his alert.
+>
+>As of this date, there are no known viruses which can infect merely through
+>reading a mail message.  For a virus to spread some program must be executed.
+>Reading a mail message does not execute the mail message.  Yes, Trojans have
+>been found as executable attachments to mail messages, the most notorious
+>being the IBM VM Christmas Card Trojan of 1987, also the TERM MODULE Worm
+>(reference CIAC Bulletin B-7) and the GAME2 MODULE Worm (CIAC Bulletin B-12).
+> But this is not the case for this particular "virus" alert.
+>
+>If you encounter this message being distributed on any mailing lists, simply
+>ignore it or send a follow-up message stating that this is a false rumor.
+>
+>Karyn Pichnarczyk
+>CIAC Team
+>ciac_at_llnl_dot_gov
+>
+>
+>- ------------------------------
+>Contacting CIAC
+>
+>If you require additional assistance or wish to report a vulnerability, call
+>CIAC at 510-422-8193, fax messages to 510-423-8002 or send E-mail to
+>ciac_at_llnl_dot_gov.  For emergencies and off-hour assistance, call 1-800-SKY-PAGE
+>(759-7243) and enter PIN number 8550070 (primary) or 8550074 (secondary).
+>The CIAC Duty Officer, a rotating responsibility, carries the primary
+>skypager. The Project Leader carries the secondary skypager.  If you are
+>unable to contact CIAC via phone, please use the skypage system.
+>
+>- ------------------------------
+>This document was prepared as an account of work sponsored by an agency of
+>the United States Government.  Neither the United States Government nor the
+>University of California nor any of their employees, makes any warranty,
+>express or implied, or assumes any legal liability or responsibility for the
+>accuracy, completeness, or usefulness of any information, apparatus, product,
+>or process disclosed, or represents that its use would not infringe privately
+>owned rights.  Reference herein to any specific commercial products, process,
+>or service by trade name, trademark, manufacturer, or otherwise, does not
+>necessarily constitute or imply its endorsement, recommendation or favoring
+>by the United States Government or the University of California.  The views
+>and opinions of authors expressed herein do not necessarily state or reflect
+>those of the United States Government or the University of California, and
+>shall not be used for advertising or product endorsement purposes.
+>
+>- ------------------------------
+>End of CIAC Notes Number 94-04  94_12_06
+>****************************************
+>
+>- --
+>Ted Lemon                                                        mellon_at_vix_dot_com
+>+1 415 477 5045
+>
+>Fight to preserve your freedom to program: Join the League for
+>Programming Freedom!   For info, contact lpf_at_uunet.uu_dot_net.
+>
+>------- End of Forwarded Message
+
+
+
+  Katie Buller                  Univ. of Wisconsin-Madison
+  KTBULLER_at_MACC.WISC.EDU             School of Library and
+  MSMOO_at_AOL.COM                        Information Studies
+-------------------------------------------------------------
+  Ask me about _ASSOCIATES: the Electronic Library Support
+  Staff Journal_ and about PUBLABOR, the list for public
+  sector employment unionism.
+-------------------------------------------------------------
+================== RFC 822 Headers ==================</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F732900" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F732900" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F732900" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

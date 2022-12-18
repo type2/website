@@ -1,0 +1,300 @@
+<html>
+<head>
+<title>type2 - Three oil changes</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/927756 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/927756" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/927756" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Three oil changes</h1>
+   <b>Stan Wilder <wilden1(-at-)juno.com></b><br/>
+   <i>2001-12-01 22:12:23+00</i><br/>
+   <br/>
+   <pre>Recently one of my neighbors approached me with pictures of a 79
+Westfalia.
+She asked what I thought of it and before I could answer she said she
+bought it and would be bringing it home about December 1st.
+I told he it looked nice.
+She asked what I thought it was worth.
+I replied, probably $1600. to $4000.00 depending on the overall condition
+of it.
+She said it had a Porsche engine.
+I said they all do from about 74-83 in the Air Cooled variety.
+She elaborated on the history of the Westy as relayed by a friends widow
+who was selling / sold the Westy.
+It was all pretty much generic info and I pretended to be excited that
+she got such a great deal on such an exceptional Van.
+She showed up with the van today while I was uncovering my current 81
+Westy project Westy.
+I  said hello! and looked it over right quick before I returned to
+fighting with that giant car cover.
+I knew it was coming and I was trying to avoid it!
+She said it had a problem or two and reminded me that " I had said that
+I'd help her keep it running if she got it."
+I'm going to get brief at this point:
+Problem noisy lifters.
+Solution #1: Check the oil, found it like tar. Sent her after quart of
+Gunk Engine Flush, quart of Marvel Mystery Oil and case of oil and a
+filter.
+Ist measure: Drain enough oil to put a quart of Gunk motor flush in the
+crank case. Run it five minutes like the instructions says. Cranked it up
+after changing the oil and filter / strainer service. Oil still real dark
+almost immediately. Lifters some quieter. Sent her out to run some miles
+on it.
+Solution #2: She came back two hours and 84 miles later, no improvement
+in lifter noise. Removed valve covers and set the hydraulic lifters one
+turn down from just touching. Some help but not much. Sent her off again.
+Solution #3: She came back an hour and 35 miles later and I drained
+enough oil off at the strainer plate to get a quart of Marvel Mystery oil
+in it. Sent her off again.
+Solution #4: Sure enough she came back again, Noisy lifters. I pulled the
+dipstick and the oil was still black as tar (with only 35 miles on it
+*#(-at-)^7*&). whats going on here?). This was getting to me, "I'm trying to
+fix these brakes". Hurt her feelings (I was getting paid for these
+services), sent her out again to run it with the mystery oil for a while
+for another hour run and gave her my phone numbers.
+Solution #5: After she left I dropped everything and went for another
+quart of Gunk Engine Flush, quart of Marvel Mystery Oil and a new filter.
+Solution #6: Its now 2 PM Saturday and "She's Back". Checked the oil, yes
+black, yes thick, lifters still noisy. I didn't waste much time
+explaining I just drained enough oil to get the Gunk Engine Flush in
+without overfilling the crankcase. I ran it for the recommended five
+minutes and drained it......... still very thick, very black. Removed and
+cleaned the strainer, installed new filter, poured in new oil 10/30w this
+time. She walked home about eight houses down in the next block. I
+adjusted the lifters again, made it some quieter.
+Just let it set there idling making sure it got good and hot without
+activating the idiot light. The lifters got real nice and quiet, at last.
+I drove it the fifteen blocks to dump the used oil in the recycling
+barrel at the auto parts store. Poured a quart of Mystery oil in the gas
+tank so the exhaust would have a little color. Ran out just fine and had
+nice power. Got back home and went back to my brake job on my 81 Westy.
+Solution 7: She walks back to the my house and asked me "why I didn't
+stop and get me for the test drive?".
+I didn't answer, I just started explaining about the things I had done
+and passed the auto parts receipts to her hoping to close the account and
+move on. While I'm calculating my time at $65.00 an hour and making her
+makeshift receipt on a notepad, she says "I've got the automatic
+transmission fluid in the back for the seals and lifters". 
+Seems in her leisure time she had called the widow of the previous owner
+and got the report that he always used a quart of ATF with each oil
+change for the ten plus years he owned it to quieten the lifters.
+I was a little surprised to hear that and I knew it was useless to
+inquire farther so I just told her that "the PO must have been from the
+old school" and that "You don't need it with the better oils we have
+today."
+The wrap up: She's OK with the $65.00 rate I charged her, $100.00 today +
+receipts for filter/chemicals/4 quarts 10/30w. She wants a tune up soon.
+The miracle: She drove this van 160 highway miles to get it to my house
+with that molasses viscosity engine oil.
+Final parting: I told her to stop by one day next weekend if she saw me
+outside and we'd see if the engine needed any more internal cleaning. She
+said she'd get the tune up parts if I'd make a list. I made the list of
+Bosch parts and told her where to get extra filters, oil drain plug
+washers, strainer kits, spark plugs etc.
+
+Stan Wilder
+83 Westfalia Air Cooled
+________________________________________________________________
+GET INTERNET ACCESS FROM JUNO!
+Juno offers FREE or PREMIUM Internet access for less!
+Join Juno today!  For your FREE software, visit:
+http://dl.www.juno.com/get/web/.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F927756" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F927756" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F927756" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

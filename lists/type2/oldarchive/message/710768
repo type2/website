@@ -1,0 +1,321 @@
+<html>
+<head>
+<title>type2 - Home from Inuvik (Long, Part1)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/710768 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/710768" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/710768" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Home from Inuvik (Long, Part1)</h1>
+   <b>dkane_at_mail.arc.nasa_dot_gov (Don Kane)</b><br/>
+   <i>1996-08-12 23:55:36+00</i><br/>
+   <br/>
+   <pre><fontfamily><param>Palatino</param><bigger><bigger>It's hard to adjust
+to being back at work, sitting in front of my computer just three weeks
+after leaving Vancouver. It was an incredible trip, as you've read
+about in the other dispatches, so I'll just update on the problems I
+had with my Van ("85 GL)and my dash for home.
+
+At Frenchman's lake, less than a week into the trip, The van wouldn't
+start. The night before I had removed the aircleaner, which entails
+removing the airflow box, to clean it out, as the whole two previous
+days had been spent on unpaved roads eating a lot of dust. I also put
+in a new O2 sensor. It started fine after doing this, but next morning,
+no start. The starter was fine, lots of cranking power, plenty of fuel
+after the filters and fuel pump, spark at the plugs, but nothing but a
+tiny spurt of fuel from the injectors, not enough to start. My wife
+says she got a picture of about 6 of us with our heads stuck in the
+engine, but we couldn't get it to start. Since I had worked on it a
+little the night before, my first suspicion was related to that, and I
+put the old O2 sensor back on. Made no difference. _at__at_We were sharing a
+campsite  with Tobin and Christa which was about 100 yards down a bad
+road from the rest of the group, and I got a tow out and to the top of
+the road from a 4wd ford F350 in the area. At the top of the road I
+tried starting it again, and after about 15 seconds of cranking it
+started. For the rest of that day into Dawson it would usually start
+reluctantly when warm, and not at all when cold. I suspected the temp
+sensor, which is a thermistor that sends info the the fuel injection to
+tell it if it's a cold start or a warm start. But I was also
+experiencing wierd electrical problems, no lowbeams, radio coming on
+for a second with the key and then turning off. In Dawson that night we
+stayed at a motel, the El Dorado, and it was like Heaven. _at__at_Our 3 year
+old was being difficult about wearing clothes to protect him from the
+mosquitos, and was suffering from the bites. To his credit, he hardly
+complained about them at all, but he had lots of them and needed a
+bath. The water was so hot at the El Dorado, that I created a steam
+room in about 2 minutes, and the water pressure was so high that it
+just blasted the dirt off. I think we all took about 4 showers each
+during the 12 or so hours we were there. _at__at_ Still no progress on my
+starting problem, but since the van ran fine once it was started, i
+figured i could keep going and push start when necessary. Jack and
+Dennis were both having to push start occasionally, and it didn't seem
+an overwhelming problem. _at__at_The next night we stayed at the campground,
+and in the morning headed up the Dempster toward Inuvik. About 30
+kilometers up the Dempster, my alternator light went on and the temp
+started to climb. I found a safe turnoff almost immediately and had the
+belt changed before all of the group had even caught up, as they had
+been held up getting Sue back on the road after her mishap. To
+visualize the Dempster, keep in mind that it's built on Permafrost. On
+a typical road, they dig down into the earth and built the road so that
+it's more or less at the same level as the surrounding land. The
+Dempster is built up from the ground level, and in many places is as
+much as 10 feet or more above the land next to it. Sue was really lucky
+to go off the road where she did and get back unscathed. The insane
+family that passed us like bats out of hell didn't fair so well. They
+flipped their car going down the embankment. So I was also lucky to
+find a turnoff right away to change my belt. After about another 20 k I
+started noticing a loss of power, and the person behind me told me on
+the CB that I was leaking coolant. I pulled over again and checked it,
+and I had a leak in my expansion tank. Bob Hoover pulled up behind me
+and used his 12 volt welder to melt the plastic in the tank, shaving
+off some small strips from the edge of the tank to fill in. On my way
+again with no more leaks, I still had the power loss problem, missing
+at high RPM, and the gas gauge told me I was eating up gas. I ran out
+of gas after 161 miles, meaning i was getting about 10 mpg. 5 gallons
+from my extra can, and 6 from Eddie's got me to Eagle Plains. It was
+raining there, and very muddy, so I decided to leave the van their and
+go on to Inuvik with others. I called Kyle at Volks Cafe and asked him
+to send me a coolant tank, a temp sensor, an airflow box if he had it,
+and a couple other things. I had it sent to Dawson, planning to nurse
+my van back there after Inuvik. I rode with Jack Stafford along with
+Casey, my Austrailian Shepard, My wife Bess and our son Alan rode with
+Denis, and our Daughter Vivian went up with Neil and back with Tobin
+and Christa. _at__at_ Inuvik was great, and we stayed the first night in the
+vans we rode up in, and got a hotel the next nigh. It was the eve of
+Bess's 40th Birthday, so we had a party at the hotel before the flight
+up to Tuk. Bess put together a couple of Fruit tarts with stuff
+purchased at the Northern Store in Inuvik (surprisingly good fresh
+produce available), and Christa provided some tequila, with a nice
+bottle of Austrailian wine from Jack._at__at_The next day we headed back to
+Eagle Plains and my van. After having read the Bentley and the Bosch
+fuel injection book on the ride up to Inuvik and back, I was pretty
+sure it was the temp sensor, which can affect cold starts as well as
+mixture when running warm, and i knew how to check it with the
+multimeter. Much to my dismay, it checked out fine, and the van was
+running worse than ever. The Hall sensor connected to the distributor
+had become brittle and was broken, causing all sorts of rough running
+and stalling. I used duct tape and bailing wire to get it back where it
+belonged. Gary Millang and I had a discussion about the starting
+problem and decided it might be the ignition switch. The instruments on
+the dash would go out when the key was in the start position, and that
+plus the radio problems suggested the ignition switch. Bob Hoover ahd
+also suggested it as a possibility. Gary hotwired it, and it started
+perfectly. The only problem left was the power loss and missing. Eagle
+Plains is a pit, and several people had decided not to stay the night
+there, pushing on for Dawson, even though it was almost 400 kilometers
+and already close to midnight. Not that midnight means as much in the
+land of the midnight sun. My wife was dying to get out of there, not
+wanting to spend her birthday night in the mud, with more rain on the
+way. Tobin said he'd tow me if it came to that, let's just get out of
+Eagle Plains. So off we went. Imagine knowing at best you're going to
+get 10 mpg, leaving Eagle Plains down the Dempster highway at midnight,
+and seeing a sign saying "Next services 367 Kilometers" Tobin and I
+fortified ourselves with some of Christa's Tequila, and we were off. It
+was a beautiful drive in the twilight of 2 and 3 in the morning, with
+the mountains around us. Tobin and I both got pretty tired after a
+while and parked at a turnoff to sleep. It was far more pleasant and
+quiet than the Eagle Plains Hotel, and free to boot. We didn't wake up
+till late morning, and looked around at the nearby mountains that had
+been snowed on during the night not to far above us. We filled my car
+up with from our extra cans, and made it the rest of the way to
+Dawson.
+
+End of part 1</bigger></bigger></fontfamily></pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F710768" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F710768" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F710768" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

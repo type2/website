@@ -1,0 +1,299 @@
+<html>
+<head>
+<title>type2 - Walmart awning - "Dining Canopy"</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/475051 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/475051" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/475051" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Walmart awning - "Dining Canopy"</h1>
+   <b>&quot;Kevin H. Roberts&quot; &lt;bopsax_at_yahoo_dot_com&gt;</b><br/>
+   <i>2006-04-07 00:06:05+00</i><br/>
+   <br/>
+   <pre>Ok guys and gals, I finally got around to making pics of the Walmart  awning.  I had a lot of requests.  I was going to make a web  page of them but my HTML is rusty and I got frustrated trying.  So  I'll just do it here.  If you just want to see the assembled  product, scroll to the bottom pic.  It's cheap and easy to  assemble and it's the perfect height for the bus.  
+  
+  The carrying case:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/Case.jpg
+  
+  The tarp clips for cheap, cheap at Harbor Freight:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/HF-AwningClips.jpg
+    
+  Buy two of these connectors in the PVC pipe section of your hardware  store.  IIt takes a 7/8" wrench.   I don't know what they're  called and neither did the kid in the store.  So here are 3 Pics:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/Connector1.jpg
+  Http://www.bopsax_dot_com/Bopmobile/Awning/Connector2.jpg
+  Http://www.bopsax_dot_com/Bopmobile/Awning/Connector3.jpg
+  
+  The first time, you'll need the wrench to thread it up into the leg  holders.  There are fine plastic strips up in side and it will cut  threads into these.  After that, they go in and out pretty easily  by hand.  Self-tapping, har.   When screwed in it looks  like this:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/InLegHolder.jpg
+  
+  The poles are spring-loaded so they just pop right into place:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/PoleSprings.jpg
+  Http://www.bopsax_dot_com/Bopmobile/Awning/AssembledPole.jpg
+  
+  Three sizes of poles:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/AllPoles.jpg
+  
+  Assemble the frame as per pretty good factory instructions:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/Frame.jpg
+  
+  Not easy with one person, you'll let it fall apart a couple of times at first, but assemble the whole thing first like this:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/FrameAssembled.jpg
+  
+  
+  Now remove a rear corner leg, screw that fitting into it, and carefully  rotate the frame around until one end and the fitting will set in the  gutter.  Now do the other side.  It helps to make sure that  all the fittings are all the way in.   Go around to the other  corners and the center and move everything a little at a time checking  the fittings as you go:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/FrameOnBus.jpg
+  Http://www.bopsax_dot_com/Bopmobile/Awning/ConnectorInGutter.jpg
+  Http://www.bopsax_dot_com/Bopmobile/Awning/InRearGutter.jpg
+  
+  Now, pull the tarp over and snap the velcro tabs over the sides.   In the gutters, pull tarp up underneath the leg holder/connector.   Take a tarp clip and clip it over the tarp and into the gutter.   Roll up the excess and tuck it under the frame:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/TarpInGutter.jpg
+  Http://www.bopsax_dot_com/Bopmobile/Awning/InFrontGutter.jpg
+  
+  Now take the other two clips.  One in the gutter and one on the  tarp and a piece of string to pull them together and secure the  center.  I didn't get it as tight as normal in this pic.  If  you monkey with it, you can get it down below top level:
+  
+  Http://www.bopsax_dot_com/Bopmobile/CenterClips.jpg 
+  
+  Here's it fully assembled:
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/FullyAssembled.jpg
+  
+  But this one's the best,har.  Cya at EveryBus!
+  
+  Http://www.bopsax_dot_com/Bopmobile/Awning/CyaAtEverybus.jpg
+  
+  I spent all afternoon messing with my computer to get these pics  up.  USB cable to camera must be bad.  Wolf Camera put them  on a disc for me.   
+  For a price!  I'm just praying that there's not a link limit or  something that will kick this back.  Then I'll have to brush up on  my HTML to do it.  Hope this was helpful.  Cheers...KR
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+_____________________________
+Kevin H. Roberts, W4KHR
+PO Box 91342
+Chattanooga, TN  37412-6342
+Cell 423-503-8051
+'76 Bopmobile (Westy Camper)
+'74 Jaguar XJ-6
+'76 Jaguar XJ-12L
+'04 Wills Wing Falcon II 195 (Hang Glider)
+Website:  http://www.bopsax_dot_com
+Email:  kevin_at_bopsax_dot_com
+Alternate: bopsax_at_yahoo_dot_com</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F475051" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F475051" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F475051" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

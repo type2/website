@@ -1,0 +1,284 @@
+<html>
+<head>
+<title>vintagebus - Doin' stuff to the bus.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/658449 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/658449" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/658449" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Doin' stuff to the bus.</h1>
+   <b>&quot;No Quarter&quot; &lt;silent_at_beatricene_dot_com&gt;</b><br/>
+   <i>2001-01-07 01:28:20+00</i><br/>
+   <br/>
+   <pre>Well today was a really nice day outside.  Well over half of the accululated
+snow has melted off and kind of formed half-breed snow/ice piles (sn'ice)
+all over the place.  The thaw has been nice enough that I was even able to
+push an 8" thick slab of clear ice that measured roughly 4 foot square off
+the of roof at work (the area directly above our kerosene heater.)
+
+Last time I looked today, the temps were in the low 50's so I decided to
+fire up the old bus and drive it around and see if I felt like doing
+maintenance to it.  I took a little 15 to 20 mile jog north of town and back
+on the 4 lane highway.  It's kind of my testing grounds.  If I can get my
+project to a little town north of here and back, then it'll probably make a
+farther trip okay.
+
+After rolling into the driveway, I decided the time was right so I worked on
+changing the oil.  It took about 6.5 quarts to fill the system.  The new oil
+filter went on okay and the weight of the old one was testament to the fact
+that it had indeed been filtering the contaminants out.  I couldn't believe
+just how nice the oil looked - I am used to the black color of oil at 1500
+mile intervals on the Super Beetle.  Poking around in the engine compartment
+and toasting off a can of brake cleaner to tidy things up, I found out the
+reason for my fast idle - a broken return spring on the right carb.  I was
+able to fix that in a jiffy and now my bus idles nice and slow again.  I
+also put in a different op sender unit and this time, to test my suspicions
+as to what exactly was causing the oil leak around the OP area, I made a
+little gasket to fit around the threaded portion of the sending unit.  As a
+test drive later indicated, a lot of the oil I was loosing was not coming
+from sender itself, but from around the threads and seeping out.  When the
+case was originally drilled and tapped for the OP unit (this was a T3 case
+originally), the bore was just tad oversize and my powerful wrench hand damn
+near bottomed the sender out.  Well now it has bottomed out but thankfully
+it hasn't cracked the boss.  Making a gasket and then using liberal amounts
+of green loctite and gaskasinch has all but elimated the oil leak from the
+OP area.  Now there is still a persistant trickle from the distributor base
+though.  That one is kind of weird because I put in a new o-ring at BNNTA in
+Septermber 2000 and although it helped, it didn't elimate the problem.
+
+After that was fixed, I turned my attention to the linkpins.  It's nice
+being able to be on this side of things and telling all of you about
+adjusting linkpins.  In the early days of the list, I remember people
+talking about it but never knew what they meant.  Now I know. :-)  I slid
+under the bus and loosed the 4 hold down bolts and backed the pins off.
+Then I grabbed the grease gun and it was empty.  Darn.  Put a new plug in
+the moped and stripped out some more threads so I took off the crush washer
+to get a bite on a couple more threads and success was mine!  After
+adjusting the carb and grabbing my helmet, I sped on down to the local
+O'Reilly auto parts store which just opened yesterday and finally, I found a
+supplier of Stalube GL-4.  I of course sung their praises on that stuff and
+while I was singing, grabbed a couple tubes of quality red grease.  My
+grandfather always insists on red or blue grease so "you can see the dirt
+coming out" as you pump the new stuff in.
+
+Amidst a cacaphony of laughter behind me from customers walking in the
+store, I put on my helmet, tied my sack of grease to the handlebars, and ran
+my overall strap through the handle on the sta-lube and I was off.
+Necessity IS the mother of all invention and it sure can be a mother
+alright.  I made it back okay and loaded up the grease gun.  Started pumping
+away on the front end - trying to grab all 18 zerks.  The swing arm pin zerk
+was loose and about ready to fall out so I removed it and put a new one in.
+They used to throw zerks away by the gallon can full at the drive line parts
+place I use to work at back in 95 and 96 so I grabbed a few and saved them.
+They came in handy today!  I finally got the whole front end greased
+including the clutch pedal arm bushing. (Back when I was doing the front end
+work in April of '00, I drilled a hole up through the frame to the clutch
+arm bushing and installed a copper pipe with a zerk in each end.  I drilled
+into the clutch arm bushing and tapped a hole so a zerk would fit.  Now when
+I grease the front end, the most often used pedal of the cluster gets fresh
+grease!  This way I don't have to pull off the splash pan and disassemble
+that clutch pedal assembly.  Man that worked great - I knew I had at least
+done one thing right!)
+
+Next I tightened up the linkpins then backed them off just a hair.  The
+grease popped and snapped in disgust letting me know I had pumped in a good
+fresh supply.  I tightened up the securing bolts and let her down off the
+jackstands.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F658449" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F658449" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F658449" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

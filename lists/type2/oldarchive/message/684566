@@ -1,0 +1,371 @@
+<html>
+<head>
+<title>type2 - VW parts for sale</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/684566 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/684566" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/684566" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>VW parts for sale</h1>
+   <b>Roger Lippman &lt;bg238_at_scn_dot_org&gt;</b><br/>
+   <i>1996-02-05 21:08:09+00</i><br/>
+   <br/>
+   <pre>
+Following is a list of Volkswagen parts and equipment for sale.
+ 
+After retiring as a VW mechanic, I have decided to let go of my 
+parts stock, along with some equipment.  All items are new 
+unless otherwise indicated.
+ 
+I will consider offers for any or all items.  For new parts, I 
+would ideally like 75% of wholesale cost.  Feel free to make 
+offers or ask for prices on any item or combination.
+ 
+VW PARTS AND EQUIPMENT FOR SALE
+(All NEW unless otherwise indicated; priced below wholesale.)
+ 
+Call Roger Lippman, 206/329-1906, or respond via e-mail.
+ 
+Part #        Quantity        Description        Comments
+111 101 483        2        Valve cover gaskets        36 HP
+113 101 483        2        Valve cover gaskets        40 HP
+021 101 481        2        Valve cover gaskets        1700
+                3        Self-tapping replacement head studs 7", used
+                4        Self-tapping replacement head studs 8", used
+                2        Self-tapping replacement head studs 9", used
+                1        Short stud kit(2 heads)        early 40 HP heads
+                1        Calibrated crankshaft power pulley
+113 105 209        2        Timing gear        40 HP-1600 Brazil
+111 105 223        1        Distributor drive gear        40 HP-1600 Brazil
+113 105 245F        1        Front main engine oil seal        40 HP-1600
+113 105 401A        4        Conn. rods        40 HP rebuilt
+111 105 433        8        Rod bushings        40 HP
+311 105 431A        8        Rod bushings        1500-1600
+113 105 707        1/2 set        Rod bearings 0.25 over        40 HP-1600, German
+113 105 713        1 set        Rod bearings 0.50 over        40 HP-1600, German
+113 105 719        1 set        Rod bearings 0.75 over        40 HP-1600, German
+113 105 725        1 set        Rod bearings 1.00 over        40 HP-1600, German
+113 107 411        1        Conn. rod wrist pin        40 HP
+111 109 301A        1        Cam follower/push rod 36 HP, used, good cond.
+113 109 301D        10        Push rod 40 HP, used
+311 109 301A        3        Push rod        1500-1600 used
+                1        Emergency replacement push-rod tube
+113 109 601        4        Intake valve        40 HP Brazil
+113 109 601B        4        Intake valve        Brazil
+311 109 601        1        Intake valve        1500-1600 Brazil
+113 109 612        4        Exhaust valve        40 HP/1300 German
+311 109 612        5        Exhaust valve        1500-1600 German
+113 115 181A        2        Oil strainer cover plate 40 HP-1600 used
+113 115 411        3        Oil pr. relief piston        standard
+                1        Oil pr. relief piston        small (dual systems)
+                1        Oil pr. relief piston        grooved
+                1        Oil pump, stock        40 HP-1600, German 
+                1        Oil pump, hi performance 40 HP-1600, 25 mm gears
+113 119 357        1        Air deflector, left  hole
+113 119 358        1        Air deflector, right Fresh air 40 HP (no hole)
+113 119 358A        3        Air deflector, right  1500 on
+CTK83 Bosch        1        Carburetor kit        40 HP-1600
+                2        In-line fuel filters        plastic
+                1        Fuel injection fuel filter, Bosch        Type 3
+113 141 701C        1        Clutch operating shaft        40 HP-1600
+113 198 026        1        Clutch shaft bush/spring kit bug/bus (111 141 798)
+                1 set        Piston rings        40 HP Hastings (U.S.)
+113 198 031        19        Oil change gasket kit        40 HP-1600
+311 198 163A        1 set        Piston rings        83 mm. ATE (German)
+                        Misc. partial piston ring sets        Misc. engines
+111 198 451        1 set        Main bearing set std.        36 HP German
+                                        [crank/case]
+111 198 473        1         Main bearing set .25/.50 German 40 HP-1600  
+111 198 473        partial Main bearing set .25/.50 German 40 HP-1600
+111 198 473        partial Main bearing set .25/.50 Brazil 40 HP-1600
+111 198 483        partial Main bearing set .25/.75 Brazil 40 HP-1600
+111 198 475        1         Main bearing set .50/.50 German 40 HP-1600
+111 198 465        1         Main bearing set .50/std German 40 HP-1600
+111 198 465        partial Main bearing set .50/std Australia 40 HP-1600
+                Misc. small engine parts & gaskets 40 HP-1600
+ 
+                2        Heater box repair pipe        40 HP non-fresh air
+111 251 221        2        Asbestos seal 32 mm        non-fresh air
+111 251 223        4        Retaining ring 32 mm        non-fresh air
+111 251 233A        4        Retaining ring 35 mm        fresh air, tail pipe
+111 251 269A        1        Clamp, 35 mm.
+211 251 269        7        35 mm exhaust clamps         3 point bus
+111 298 051        1        Tail pipe clamp kit 35 mm
+ 
+211 405 645        1        Front wheel bearing outer        Bus 1964-75
+211 405 625        1        Front wheel bearing inner        Bus 1964-75
+311 405 625        2        Front wheel brg inner Bug 1966-May 68; Type 3 thru 68
+111 405 641A        1        FWB seal        to 1965
+311 405 641A        1        FWB seal        Type 3, 1965-67+
+311 405 641        2        Front wheel bearing seals        Type 3 to 1964
+211 405 641B        2        Front wheel bearing seals        Bus 1964-67
+211 405 641A        1        Front wheel bearing seals        Bus to 1963
+211 405 641D        1        Front wheel bearing seals        Bus 1968 on
+111 405 645A        1        Front wheel bearing outer        Bug to 1965
+111 405 681        4        FWB lock rings        Bug
+ 
+113 501 277A        2        Rear wheel bearing outer Bug,Type 3 1969 on
+113 501 283        2        Rear wheel bearing inner(6206) Bug,Type 3 1969 on
+211 501 283        2        Rear wheel bearing        Bus 1964-70
+311 501 283        2        Rear wheel bearing (6306) Bug,Type 3 to 68; Bus to 67
+211 501 285        1        Reduction gear bearing        Bus to 1967
+211 501 315        6        RWB gasket        Bug to 68; bus to 67
+                3        Cotter pins 5x45 mm.        rear axle nut bug
+113 501 615A        1        Rear brake drum        5-hole used
+ 
+                1 set        Brake shoes        Front bus 55-63
+                1 set        Brake shoes        Front bug thru '57
+                2 sets        Brake shoes        Rear bus thru '63
+113 698 293        l        Cyl. repair kit 22.2 mm        58-70 Bug, German 
+113 698 293        l        Cyl. repair kit 22.2 mm        58-70 Bug, Brazil
+361 698 301        2        cyl repair kit 23.8 Bug front, 1971-,  German
+331 698 361        2        cyl repair kit        German Rab-Dash-Scir rear 
+211 698 411        5        cyl repair kit 25.4 Bus front to 1970, German
+311 698 471        1        caliper repair kit Type 3 66-71 front, German
+                2        Stud snow tires 5.60x15 Mounted, 5-hole, good condition
+                1 set        Tire chains, 5.60x15        unused
+ 
+                1        Clutch pedal return spring        bug/bus
+111 721 615        7        Accelerator pedal S-bar        early bug
+111 721 555E        1        Accelerator cable        bug Dec. 65-
+111 831 722D        1        Weatherstrip - door
+111 813 741C        1        Weatherstrip 
+                1        Engine lid, locking, '67 Bug used, white, good condiiton
+                1        Rear seat bottom, '67 Bug used, black, good condiiton
+ 
+111 905 261        2        Distributor o-ring
+111 905 449        11        Spark plug wire air seals
+111 941 037C        1        6 V. Beetle headlight assembly        complete
+6014                1        Headlight 12 V. round
+211 957 801F        1        Speedo cable        Bus 1968-
+                8        Non-resistor spark-plug wire ends
+                60        Fuses, 8 amp        German
+ 
+Bosch #                [All parts below are Bosch]
+ 
+0 356 100 014        4        Resistor spark-plug wire ends
+02 054                 1        Condenser(1 237 330 220) Bug 70-73 auto;71-73 manual;+
+W7D                  8        Spark plugs (W175T30)        Rabbit-Dasher-Scirocco 
+W8AC                4        Spark plugs (W145T1) copper All air-cooled non- F.I.
+01 001                1        Points        Screamer (mech. advance)
+02 170                2        Condenser        Screamer (mech. advance)
+02 054                1        Condenser        71-74
+02 187                2        Condenser  Rabbit-Dasher-Scirocco '75; R-S '76
+02 100                1        Condenser        Dasher '76, R-D-S '77
+01 006                6        Points        61-64 big distributor
+02 006                6        Condenser        61-64 big distributor
+03 001                1        Distributor cap        64-69
+04 006                2        Rotor        64-69
+03 037                3        Distributor cap,         61-64 big distributor
+04 010                4        Rotor,         61-64 big distributor
+11 002                1 set         Generator brushes        6 volt 
+11 008                1 set         Generator brushes        12 volt 
+30 020                1        Voltage regulator, 6 volts, 45 amps 
+35 158                3        Oil pressure switch        
+50 012                1        Horn, 12 volts        
+0 332 003 016        1        6 V. starter relay         
+ 
+                Equipment (used):
+ 
+        1        Quality metal barrel pump with crank handle
+        1        Economy plastic barrel pump (push-pull)
+        1        Air compressor, DeVilbiss        
+        1        Ignition parts cabinet (Echlin)        3' x 3' x 1'</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F684566" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F684566" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F684566" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

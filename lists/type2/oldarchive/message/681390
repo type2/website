@@ -1,0 +1,291 @@
+<html>
+<head>
+<title>type2 - The Idiot factor, my story</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/681390 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/681390" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/681390" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>The Idiot factor, my story</h1>
+   <b>limbo_at_bcn_dot_net (Jim Digennaro)</b><br/>
+   <i>1996-01-19 00:36:41+00</i><br/>
+   <br/>
+   <pre>Hi Volks,
+   Ok, so you want to here my most embarrasing and costly moment?  Here goes.
+
+   A year ago last halloween, I received a call from a friend (Dale Ward)
+and he said that he knew where a lady was giving away 2 buses and a bug.
+Just come a get 'em.  Well, I told my bride, Barbra, about the buses.  She
+said it wasn't a good idea. I deceided to go after them. I told the her
+that I would look at them and if they were not worth it I would just grab a
+couple of parts off of them and come home.  I called up the lady giving the
+buses way and got directions and a fage discription of the vehicles.  She
+told me the bug was already gone. Rats!  Saturday came and after some phone
+calls, I came up with a truck and trailer to use. The truck came from my
+brother-in-law and the trailer came from a friend, John who used to own
+several VW's, (now he owns a Baja).
+    Barbra deceided to come along with our 3 year old daughter, Angela. So
+about noon we take off an a 1 an half hour trip to belchertown (MA).  The
+first part of the trip, getting there, went without a hitch.  We arrived at
+the ladies house to find a '79 bus and a '70 deluxe bus.  The '70 was
+whipped.  Rusted out everywhere. I asked the wife to remove the crome
+strips, I had a deluxe with some missing trim at the time. She also grabbed
+the VW emblem and other easily removeable pieces from the bus.  The '79 was
+in better shape body wise in fact it was in really good for a New England
+bus. I thought it was a keeper. Only problem was the interior pieces were
+gone. It did have a VW engine stand and an old FI bug motor inside.
+    After getting some help from the ladies husband we loaded up the '79,
+tied it down and got ready to head home.  I thanked the lady, (I never did
+get her name) told her I didn't want the other bus and headed home. We
+started driving home and as soon as we got going about 25mph the truck
+became very unstable. So we kept it under 25. Now that may not be to bad it
+will just take us alot longer to get home.  Only thing is that
+Massachusettes isn't flat.
+   We started down one hill headed into Amherst on route 9 and the truck
+started to sway.  I tried the brakes but it only made it worse. Before we
+knew it the truck and trailer were doing 180 degree spin in the road.  We
+ending up going the other way, semi jack-kniffed in the road and the corner
+of the van was on top of the bed of the truck. I checked on the family,
+Barb was shaken but ok, Angela, locked into her car seat, was laughing and
+asking to do it again. I go out and  looked at the damage and deceided to
+move the truck off the road.  When we moved the truck the van landed back
+on the trailer on top of the landing gear. The trailer tunge was bent and
+the truck had a nice dent in the rear quarter where the trailer hit it.
+During the spin the stuff in the van rolled around a bit making the sides
+of the van look pregnent. The engine stand was mounted on a piece of 1/4in
+steel and when it slid around it made holes in the side of the van and it
+also knocked out the side window. So much for a good deal.  The police came
+we called a tow truck and waited. I called a friends towing service from
+town and it took them hours to get to us.  I had unhooked the trailer and
+left to get some food.  We came back and waited some more.  This whole
+incident started about 5pm and when 10pm came and the tow truck wasn't, we
+went home. My friends tow truck was busy and then she didn't know what
+truck to bring thats why it took so long to get out to us.
+     Anyway, they arrived to get the trailer and van. It was 12:30am.  They
+worked though the night to get the van off the trailer and get home. I got
+a call about 8 am and Carol said it was a bitch of a job and it will be
+$400 bucks fee.  She also said that she was keeping the van and the trailer
+until I paid. You can imagine what my friend said. ($#&$#!%$!)
+     I had a hard time coming up with the cash but I did it. Not to mention
+the money for fixing the trailer and truck.  My brother-in-law was really
+cool. He fixed the truck as best as possible, it was a work truck and had a
+lot of dents anyway, and I had to clean and wax the truck for him.  My
+friend fixed his trailer, I had to buy the materials and pay him for his
+time. All said and done it cost me $550 dollars.
+    The van still sits in the yard. I have no hope of getting my money out
+of it. Its just a reminder of how stupid I can be. I have used the engine
+stand.  Thats about it.  The front end is still good if anyone needs one.
+Thats my story. Live and learn. Next time I'm renting a dolly and truck.
+Thats if there is a next time.  Bye for know...
+
+                        Keep on Busin' -Jim D
+
+------------------------------------------------------------------------------
+James Digennaro        The Late Model Bus Organization,International
+Advertising and Promotions Director, Official  On-line Represenative.
+20 First St
+Adams, MA. 01220                  82 Westfalia  'GTI'
+E-Mail limbo_at_bcn_dot_net
+         "Come out to 'Transporters By The Tunnel' July 19th- 21st"
+
+Volkswagen Disc Jockey, Have VW will travel.'I DJ most shows in the Northeast'
+----------------------------------------------------------------------------
+--                                  </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F681390" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F681390" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F681390" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,509 @@
+<html>
+<head>
+<title>type2 - Garage Door Transmitter Mod</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/747059 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/747059" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/747059" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Garage Door Transmitter Mod</h1>
+   <b>&quot;Harvey Chao&quot; &lt;Harvey_Chao_at_smtp.svl.trw_dot_com&gt;</b><br/>
+   <i>1995-07-19 17:26:59+00</i><br/>
+   <br/>
+   <pre>1)  Perhaps one of you will put this in a FAQ for the  future reference of
+others.?
+
+2)  Although I have done this modification on two different brands of
+transmitters, to a total of about 8 units, I have NOT verified the proceedure
+(which I wrote from memory) by taking a unit and modifying  it as described in
+the enclosed/below proceedure.  As is often stated:  "Any modifications or
+changes may void your warranty and are the sole risk of the owner"  YMMV.  I
+am available to answer any questions.
+==========
+Garage Door Opener Modification
+Purpose:
+This describes how to modify the transmitter from a garage door opener so that
+it can physically be located in the glove box, under the dash, or elsewhere at
+your convenience and have a remote push button to trigger it.  I have done
+this to two different brand openers, the differences in implementation are
+purely a matter of the mechanics/packaging of the particular transmitter you
+need to work with.  
+Skills:
+This will require modest skills to solder some wires, mechanical abilities to
+open the transmitter housing and reassemble it, and to install a switch on the
+dash board of your vehicle.  Alternately, if you have an existing switch with
+a pair of unused contacts, normally open, momentary contact, you can use them.
+ (I have heard words to the effect that some cars have such spare contacts on
+one of othe steering column control "stalks", this I cannot verify or deny -
+YMMV).
+Parts:
+In addition the the transmitter(s) to be modified, for each unit to be
+modified you will need:\
+a)  One momentary contact "push-On"  switch.  You can finde something suitable
+at Radio Shack, and electronic surplus store, or best option - get a switch
+(prefereably from a wrecking yard) that will fit a spare/unused cut out in the
+dash.  For example on E28s there is a fader on one side of the dash, and on
+the other side is a cut out not used.  If you can only get a switch that is
+"push on - push off" ( like the a/c or emergency flasher switches) it is
+possible to disassemble the switch and remove the small part that makes it
+latch.
+b)  A miniature earphone plug and jack set.  Get the smallest available. 
+Radio Shack is a good source.  I think there are two basic sizes, the larger
+size has a plug with a shaft diameter of around 1/8" and is a common size for
+headphones.  You want the one that is smaller than that.  The reason is that
+space in the transmitter housing is usually at a premium.  You don't need a
+"stereo" or 3 connector plug, all you will need is the two wire version.
+c)  Some small gauge, stranded wire for hook up.  Around 22 to 24 gauge will
+do.
+Procedure:
+Caution:  Make sure no one and nothing is in the way of your garage door.  It
+will cycle during this proceedure when you test things and perhaps other times
+when you are working on the modifications/installation.
+1)  Take the battery out and find a way to open the transmitter's housing
+without destroying it.
+2)  Locate the switch on the printed circuit board inside the transmitter
+housing that is activated when you push the button on the housing to open or
+close the door.  Examine it carefully to locate the contacts that are closed
+when you push the button.  
+3)  Find a location in the housing where you can drill/file a hole to mount
+the jack. and make the appropriate hole.  Don't mount the jack in the hole
+yet.  
+4)  Prepare 2 lengths of wire to connect the switch contacts to the jack
+contacts.  Make them long enought to reach taking into account how you may
+have to route them to get from the switch to the mounting location of the
+jack.  Length isn't critical but don't leave too much slack that will be hard
+to control when you are re-assembling the housing. 
+5)  The jack will have 3 places to attach wires.  Insert the plug into the
+jack and see which 2 of the 3 terminals on the jack make contact with the tip
+and shaft of the plug.  Solder the two wires to those contacts.  Connect the
+other ends of the wires to the two switch terminals on the printed circuit
+board located in 2) above.  The idea is that the two wires on the jack are in
+parallel with the two terminals on the switch.  Which wire goes to which
+switch terminal doesn't matter.
+6)  Prepare the switch that you will mount on your dash.  Do this by soldering
+the terminals on this switch to the wires that will connect to the terminals
+of the plug.  The length of the wires depends on where you locate the switch
+and transmitter.  It helps to twist the two lengths of wire together so that
+the become a "twisted pair". Be aware that as you twist the two wires
+together, the overall length of the wires will "shorten" -  cut yourself a
+little slack, literally!   Likewise, solder the free ends of the wire to the
+terminals on the plug.
+7)  Now is a good time to check for any solder bridges and or shorts. 
+Reconnect the battery to the transmitter and test to see if it will actuate
+your door opener.  When satisfied, remove the transmitter battery,  install
+the jack in the housing, re assemble the housing but do not yet reinstall the
+battery.
+8)  Install the swtich in the dash and route the wire to the location where
+you want to locate the transmitter.  Insert the plug into the transmitter
+jack, reinstall the transmitter battery, and stash the transmitter.
+9)  The new location you have choosen for your transmitter may adversely
+affect the distance from the garage that it will trigger the opener, but at
+the very least, it should still work from your driveway.  Do a "road test!"
+
+
+For
+  Your
+    Information
+dcp'90
+
+begin 666 Xmitter mod procedure
+M``46```"``````````````````````````4````(````5_at_```!`````)````
+M9_at_```"`````#````A_at_```!4````"```!```````````!```!````(_at_#WE68#
+M]Y_V7(````"`````5T1"3DU35T0!``````````````````````````````!8
+M;6ET=&5R(&UO9"!P<F]C961U<F4`````````````````````````````````
+M````````````````````````````````````````````````````````````
+?``````````````````````````````````````````!,
+M_C<`(P```````"0``!D```````````$````*(0``()8````````3_at__at_``````
+M````````````````````````````$```&_at_``$```&_at_``&9P`````&9P`````
+M&9P`#_at_``&:H`(```&J``````&J``````&J``````&J``"_at_``&JH`"_at_``&K0`
+M````&K0`3```&P``>```&<H`U_at_``&W_at_`(```&Y_at_`%_at_``'B$`*_at_``'DL""P``
+M&9P````!``$``!XA`````!NN`G,``!XA`````!XA`````"!6`$```!XA````
+M`!XA`````!XA`````!XA`````!XA`````!XA`````$=A<F%G92!$;V]R($]P
+M96YE<B!-;V1I9FEC871I;VX-4'5R<&]S93H-5&AI<R!D97-C<FEB97,_at_:&]W
+M('1O(&UO9&EF>2!T:&4_at_=')A;G-M:71T97(_at_9G)O;2!A(&=A<F%G92!D;V]R
+M(&]P96YE<B!S;R!T:&%T(&ET(&-A;B!P:'ES:6-A;&QY(&)E(&QO8V%T960_at_
+M:6X_at_=&AE(&=L;W9E(&)O>"P_at_=6YD97(_at_=&AE(&1A<V_at_L(&]R(&5L<V5W:&5R
+M92!A="!Y;W5R(&-O;G9E;FEE;F-E(&%N9"!H879E(&$_at_<F5M;W1E('!U<V_at__at_
+M8G5T=&]N('1O('1R:6=G97(_at_:70N("!)(&AA=F4_at_9&]N92!T:&ES('1O('1W
+M;R!D:69F97)E;G0_at_8G)A;F0_at_;W!E;F5R<RP_at_=&AE(&1I9F9E<F5N8V5S(&EN
+M(&EM<&QE;65N=&%T:6]N(&%R92!P=7)E;'D_at_82!M871T97(_at_;V8_at_=&AE(&UE
+M8VAA;FEC<R]P86-K86=I;F<_at_;V8_at_=&AE('!A<G1I8W5L87(_at_=')A;G-M:71T
+M97(_at_>6]U(&YE960_at_=&\_at_=V]R:R!W:71H+B`_at_#5-K:6QL<SH-5&AI<R!W:6QL
+M(')E<75I<F4_at_;6]D97-T('-K:6QL<R!T;R!S;VQD97(_at_<V]M92!W:7)E<RP_at_
+M;65C:&%N:6-A;"!A8FEL:71I97,_at_=&\_at_;W!E;B!T:&4_at_=')A;G-M:71T97(_at_
+M:&]U<VEN9R!A;F0_at_<F5A<W-E;6)L92!I="P_at_86YD('1O(&EN<W1A;&P_at_82!S
+M=VET8V_at__at_;VX_at_=&AE(&1A<V_at__at_8F]A<F0_at_;V8_at_>6]U<B!V96AI8VQE+_at_U087)T
+M<SH-26X_at_861D:71I;VX_at_=&AE('1H92!T<F%N<VUI='1E<BAS*2!T;R!B92!M
+M;V1I9FEE9"P_at_9F]R(&5A8V_at__at_=6YI="!T;R!B92!M;V1I9FEE9"!Y;W4_at_=VEL
+M;"!N965D.EP-82D_at_($]N92!M;VUE;G1A<GD_at_8V]N=&%C="`B<'5S:"U/;B(_at_
+M('-W:71C:"X_at_(%EO=2!C86X_at_9FEN9&4_at_<V]M971H:6YG('-U:71A8FQE(&%T
+M(%)A9&EO(%-H86-K+"!A;F0_at_96QE8W1R;VYI8R!S=7)P;'5S('-T;W)E+"!O
+M<B!B97-T(&]P=&EO;B`M(&=E="!A('-W:71C:"`H<')E9F5R96%B;'D_at_9G)O
+M;2!A('=R96-K:6YG('EA<F0I('1H870_at_=VEL;"!F:70_at_82!S<&%R92]U;G5S
+M960_at_8W5T(&]U="!I;B!T:&4_at_9&%S:"X_at_($9O<B!E>&%M<&QE(&]N($4R.',_at_
+M=&AE<F4_at_:7,_at_82!F861E<B!O;B!O;F4_at_<VED92!O9B!T:&4_at_9&%S:"P_at_86YD
+M(&]N('1H92!O=&AE<B!S:61E(&ES(&$_at_8W5T(&]U="!N;W0_at_=7-E9"X_at_($EF
+M('EO=2!C86X_at_;VYL>2!G970_at_82!S=VET8V_at__at_=&AA="!I<R`B<'5S:"!O;B`M
+M('!U<V_at__at_;V9F(B`H(&QI:V4_at_=&AE(&$O8R!O<B!E;65R9V5N8WD_at_9FQA<VAE
+M<B!S=VET8VAE<RD_at_:70_at_:7,_at_<&]S<VEB;&4_at_=&\_at_9&ES87-S96UB;&4_at_=&AE
+M('-W:71C:"!A;F0_at_<F5M;W9E('1H92!S;6%L;"!P87)T('1H870_at_;6%K97,_at_
+M:70_at_;&%T8V_at_N#6(I("!!(&UI;FEA='5R92!E87)P:&]N92!P;'5G(&%N9"!J
+M86-K('-E="X_at_($=E="!T:&4_at_<VUA;&QE<W0_at_879A:6QA8FQE+B`_at_4F%D:6\_at_
+M4VAA8VL_at_:7,_at_82!G;V]D('-O=7)C92X_at_($D_at_=&AI;FL_at_=&AE<F4_at_87)E('1W
+M;R!B87-I8R!S:7IE<RP_at_=&AE(&QA<F=E<B!S:7IE(&AA<R!A('!L=6<_at_=VET
+M:"!A('-H869T(&1I86UE=&5R(&]F(&%R;W5N9"`Q+S_at_B(&%N9"!I<R!A(&-O
+M;6UO;B!S:7IE(&9O<B!H96%D<&AO;F5S+B`_at_66]U('=A;G0_at_=&AE(&]N92!T
+M:&%T(&ES('-M86QL97(_at_=&AA;B!T:&%T+B`_at_5&AE(')E87-O;B!I<R!T:&%T
+M('-P86-E(&EN('1H92!T<F%N<VUI='1E<B!H;W5S:6YG(&ES('5S=6%L;'D_at_
+M870_at_82!P<F5M:75M+B`_at_66]U(&1O;B=T(&YE960_at_82`B<W1E<F5O(B!O<B`S
+M(&-O;FYE8W1O<B!P;'5G+"!A;&P_at_>6]U('=I;&P_at_;F5E9"!I<R!T:&4_at_='=O
+M('=I<F4_at_=F5R<VEO;BX-8RD_at_(%-O;64_at_<VUA;&P_at_9V%U9V4L('-T<F%N9&5D
+M('=I<F4_at_9F]R(&AO;VL_at_=7`N("!!<F]U;F0_at_,C(_at_=&\_at_,C0_at_9V%U9V4_at_=VEL
+M;"!D;RX-4')O8V5D=7)E._at_TQ*2`_at_5&%K92!T:&4_at_8F%T=&5R>2!O=70_at_86YD
+M(&9I;F0_at_82!W87D_at_=&\_at_;W!E;B!T:&4_at_=')A;G-M:71T97(G<R!H;W5S:6YG
+M('=I=&AO=70_at_9&5S=')O>6EN9R!I="X-,BD_at_($QO8V%T92!T:&4_at_<W=I=&-H
+M(&]N('1H92!P<FEN=&5D(&-I<F-U:70_at_8F]A<F0_at_:6YS:61E('1H92!T<F%N
+M<VUI='1E<B!H;W5S:6YG('1H870_at_:7,_at_86-T:79A=&5D('=H96X_at_>6]U('!U
+M<V_at__at_=&AE(&)U='1O;B!O;B!T:&4_at_:&]U<VEN9R!T;R!O<&5N(&]R(&-L;W-E
+M('1H92!D;V]R+B`_at_17AA;6EN92!I="!C87)E9G5L;'D_at_=&\_at_;&]C871E('1H
+M92!C;VYT86-T<R!T:&%T(&%R92!C;&]S960_at_=VAE;B!Y;W4_at_<'5S:"!T:&4_at_
+M8G5T=&]N+B`_at_1FEN9"!A(&QO8V%T:6]N(&EN('1H92!H;W5S:6YG('=H97)E
+M('EO=2!C86X_at_9')I;&PO9FEL92!A(&AO;&4_at_=&\_at_;6]U;G0_at_=&AE(&IA8VLN
+M(&%N9"!M86ME('1H92!A<'!R;W!R:6%T92!H;VQE+B`_at_1&]N)W0_at_;6]U;G0_at_
+M=&AE(&IA8VL_at_:6X_at_=&AE(&AO;&4_at_>65T+B`_at_#0)U``U#875T:6]N.B`_at_36%K
+M92!S=7)E(&YO(&]N92!A;F0_at_;F]T:&EN9R!I<R!I;B!T:&4_at_=V%Y(&]F('EO
+M=7(_at_9V%R86=E(&1O;W(N("!)="!W:6QL(&-Y8VQE(&1U<FEN9R!T:&ES('!R
+M;V-E961U<F4_at_=VAE;B!Y;W4_at_=&5S="!T:&EN9W,_at_86YD('!E<FAA<',_at_;W1H
+M97(_at_=&EM97,_at_=VAE;B!Y;W4_at_87)E('=O<FMI;F<_at_;VX_at_=&AE(&UO9&EF:6-A
+M=&EO;G,O:6YS=&%L;&%T:6]N+_at_TS*2`_at_#30I("`O!1"``````S4N,20U+C$L
+M(*D_at_,3DX.2TY,B!-:6-R;W-O9G0_at_0V]R<&]R871I;VX````C````````````
+M````34%)3$E#,#"``````````_at_`````````````G```(`0````````,`````
+M``````````````````I/<&5N($UA:6S)````)P``"`$````(```#````````
+M```````````````*4V5N9"!-86ELR0``0C9.5O_\2.<#."1N``Q.N_at_QB*$`_at_
+M;_at_`((%`F:``.(`QG``%$2I)G""\23KHF)&`D<`"A(BU(__QG&E6/+R[__$ZZ
+M)?!*7V8&)*[__&`&```!`````2````$H```"OP```L<```.````#A_at_``"!P`
+M``_at_E```()_at_``"B$```HD```*)0``"BP```HO```*^```"OD```K^```*_P``
+M"P````L#```0&_at_``$74``!%Z```1TP``$=4``!'T```2?P``$Z,``!.L```3
+MT0``$_```!/Y```4L0``%3\``!5````5B```%F```!:!```6F0``%J<``!:]
+M```6O_at_``%RT``!>8```8;0``&&X``!AY```9DP``&98``!F<_OD`^0#Y`/G^
+M`//^__at_#R``````#S````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M``%`"_at_!```(8`````!_at_`"(`$```````"``&``#(```$````!(````2D```*_
+M```"QP```X````.'```#YP``!_at_0```?+```('```""<```B(```*(0``"B4`
+M``KZ```*_P``$78``!->```5B0``%K\``!>9^?'I\>'Q\=G1\?'QR?')X>G1
+MV<G)````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M```````````````````````````````````'```#)V``#!,"T!4`\```!P``
+M!2=_at_``P3`M`5`/````<```8G8``,$P+0%0#P```'```")V``#!,"T!4`\```
+M!P``!"=_at_``P3`M`5`/````<```$G8``,$P+0%0#P```&```!)V``#`4!%0#P
+M%0````,```<$`!``%``*!P````````$``0#>4')E<&%R92`R(&QE;F=T:',_at_
+M;V8_at_=VER92!T;R!C;VYN96-T('1H92!S=VET8V_at__at_8V]N=&%C=',_at_=&\_at_=&AE
+M(&IA8VL_at_8V]N=&%C=',N("!-86ME('1H96T_at_;&]N9R!E;F]U9VAT('1O(')E
+M86-H('1A:VEN9R!I;G1O(&%C8V]U;G0_at_:&]W('EO=2!M87D_at_:&%V92!T;R!R
+M;W5T92!T:&5M('1O(&=E="!F<F]M('1H92!S=VET8V_at__at_=&\_at_=&AE(&UO=6YT
+M:6YG(&QO8V%T:6]N(&]F('1H92!J86-K+B`_at_3&5N9W1H(&ES;B=T(&-R:71I
+M8V%L(&)U="!D;VXG="!L96%V92!T;V\_at_;75C:"!S;&%C:R!T:&%T('=I;&P_at_
+M8F4_at_:&%R9"!T;R!C;VYT<F]L('=H96X_at_>6]U(&%R92!R92UA<W-E;6)L:6YG
+M('1H92!H;W5S:6YG+B`--2D_at_(%1H92!J86-K('=I;&P_at_:&%V92`S('!L86-E
+M<R!T;R!A='1A8V_at__at_=VER97,N("!);G-E<G0_at_=&AE('!L=6<_at_:6YT;R!T:&4_at_
+M:F%C:R!A;F0_at_<V5E('=H:6-H(#(_at_;V8_at_=&AE(#,_at_=&5R;6EN86QS(&]N('1H
+M92!J86-K(&UA:V4_at_8V]N=&%C="!W:71H('1H92!T:7`_at_86YD('-H869T(&]F
+M('1H92!P;'5G+B`_at_4V]L9&5R('1H92!T=V\_at_=VER97,_at_=&\_at_=&AO<V4_at_8V]N
+M=&%C=',N("!#;VYN96-T('1H92!O=&AE<B!E;F1S(&]F('1H92!W:7)E<R!T
+M;R!T:&4_at_='=O('-W:71C:"!T97)M:6YA;',_at_;VX_at_=&AE('!R:6YT960_at_8VER
+M8W5I="!B;V%R9"!L;V-A=&5D(&EN(#(I(&%B;W9E+B`_at_5&AE(&ED96$_at_:7,_at_
+M=&AA="!T:&4_at_='=O('=I<F5S(&]N('1H92!J86-K(&%R92!I;B!P87)A;&QE
+M;"!W:71H('1H92!T=V\_at_=&5R;6EN86QS(&]N('1H92!S=VET8V_at_N("!7:&EC
+M:"!W:7)E(&=O97,_at_=&\_at_=VAI8V_at__at_<W=I=&-H('1E<FUI;F%L(&1O97-N)W0_at_
+M;6%T=&5R+_at_TV*2`_at_4')E<&%R92!T:&4_at_<W=I=&-H('1H870_at_>6]U('=I;&P_at_
+M;6]U;G0_at_;VX_at_>6]U<B!D87-H+B`_at_1&\_at_=&AI<R!B>2!S;VQD97)I;F<_at_=&AE
+M('1E<FUI;F%L<R!O;B!T:&ES('-W:71C:"!T;R!T:&4_at_=VER97,_at_=&AA="!W
+M:6QL(&-O;FYE8W0_at_=&\_at_=&AE('1E<FUI;F%L<R!O9B!T:&4_at_<&QU9RX_at_(%1H
+M92!L96YG=&_at__at_;V8_at_=&AE('=I<F5S(&1E<&5N9',_at_;VX_at_=VAE<F4_at_>6]U(&QO
+M8V%T92!T:&4_at_<W=I=&-H(&%N9"!T<F%N<VUI='1E<BX_at_($ET(&AE;'!S('1O
+M('1W:7-T('1H92!T=V\_at_;&5N9W1H<R!O9B!W:7)E('1O9V5T:&5R('-O('1H
+M870_at_=&AE(&)E8V]M92!A(")T=VES=&5D('!A:7(B+B!"92!A=V%R92!T:&%T
+M(&%S('EO=2!T=VES="!T:&4_at_='=O('=I<F5S('1O9V5T:&5R+"!T:&4_at_;W9E
+M<F%L;"!L96YG=&_at__at_;V8_at_=&AE('=I<F5S('=I;&P_at_(G-H;W)T96XB("T_at_(&-U
+M="!Y;W5R<V5L9B!A(&QI='1L92!S;&%C:RP_at_;&ET97)A;&QY(2`_at_($QI:V5W
+M:7-E+"!S;VQD97(_at_=&AE(&9R964_at_96YD<R!O9B!T:&4_at_=VER92!T;R!T:&4_at_
+M=&5R;6EN86QS(&]N('1H92!P;'5G+_at_TW*2`_at_3F]W(&ES(&$_at_9V]O9"!T:6UE
+M('1O(&-H96-K(&9O<B!A;GD_at_<V]L9&5R(&)R:61G97,_at_86YD(&]R('-H;W)T
+M<RX_at_(%)E8V]N;F5C="!T:&4_at_8F%T=&5R>2!T;R!T:&4_at_=')A;G-M:71T97(_at_
+M86YD('1E<W0_at_=&\_at_<V5E(&EF(&ET('=I;&P_at_86-T=6%T92!Y;W5R(&1O;W(_at_
+M;W!E;F5R+B`_at_5VAE;B!S871I<V9I960L(')E;6]V92!T:&4_at_=')A;G-M:71T
+M97(_at_8F%T=&5R>2P_at_(&EN<W1A;&P_at_=&AE(&IA8VL_at_:6X_at_=&AE(&AO=7-I;F<L
+M(')E(&%S<V5M8FQE('1H92!H;W5S:6YG(&)U="!D;R!N;W0_at_>65T(')E:6YS
+M=&%L;"!T:&4_at_8F%T=&5R>2X-."D_at_($EN<W1A;&P_at_=&AE('-W=&EC:"!I;B!T
+M:&4_at_9&%S:"!A;F0_at_<F]U=&4_at_=&AE('=I<F4_at_=&\_at_=&AE(&QO8V%T:6]N('=H
+M97)E('EO=2!W86YT('1O(&QO8V%T92!T:&4_at_=')A;G-M:71T97(N("!);G-E
+M<G0_at_=&AE('!L=6<_at_:6YT;R!T:&4_at_=')A;G-M:71T97(_at_:F%C:RP_at_<F5I;G-T
+M86QL('1H92!T<F%N<VUI='1E<B!B871T97)Y+"!A;F0_at_<W1A<V_at__at_=&AE('1R
+M86YS;6ET=&5R+_at_TY*2`_at_5&AE(&YE=R!L;V-A=&EO;B!Y;W4_at_:&%V92!C:&]O
+M<V5N(&9O<B!Y;W5R('1R86YS;6ET=&5R(&UA>2!A9'9E<G-E;'D_at_869F96-T
+M('1H92!D:7-T86YC92!F<F]M('1H92!G87)A9V4_at_=&AA="!I="!W:6QL('1R
+M:6=G97(_at_=&AE(&]P96YE<BP_at_8G5T(&%T('1H92!V97)Y(&QE87-T+"!I="!S
+M:&]U;&0_at_<W1I;&P_at_=V]R:R!F<F]M('EO=7(_at_9')I=F5W87DN("!$;R!A(")R
+M;V%D('1E<W0A(B`_at_06QT97)N871E;'DL(&EF('EO=2!H879E(&%N(&5X:7-T
+M:6YG('-W:71C:"!W:71H(&$_at_<&%I<B!O9B!U;G5S960_at_8V]N=&%C=',L(&YO
+M<FUA;&QY(&]P96XL(&UO;65N=&%R>2!C;VYT86-T+"!Y;W4_at_8V%N('5S92!T
+M:&5M+B`_at_*$D_at_:&%V92!H96%R9"!W;W)D<R!T;R!T:&4_at_969F96-T('1H870_at_
+M<V]M92!C87)S(&AA=F4_at_<W5C:"!S<&%R92!C;VYT86-T<R!O;B!O;F4_at_;V8_at_
+M;W1H92!S=&5E<FEN9R!C;VQU;6X_at_8V]N=')O;"`B<W1A;&MS(BP_at_=&AI<R!)
+M(&-A;FYO="!V97)I9GD_at_;W(_at_9&5N>2`M(%E-358I+_at_```````!."0`(```HA
+M````````#;4``!."4`#__P````$`L0``__\````"````````````(````"D`
+M``&_```!QP```Z,```.J```$"_at_``!B<```?N```(/P``"$H```D?```)_at_```
+M"H````L>```,?_at_``#F8``!"1```1QP``$J$``!."``$G8``,``$G8``,``0G
+M8``,``$G8``,``````````$G8``,``$G8``,``8G8``,``4G8``,``$G8``,
+M``$G8``,``,G8``,``$G8``,``,G8``,``(G8``,``0G8``,``4G8``,``8G
+M8``,``,G8``,``,G8``,``,G8``,```!````&9P`!_at_```0```!>9``<````"
+M``,`!``-``X`#P`0`!(`%``5`!8`%P`A`"('T`?1!]('TP?4!]4'U_at_?7!]_at_'
+MV_at_?;"=,.C3(-,FHRASO//!$\<SQT/(`\^CYM``,```!(`$_at_``````MH"*/_A
+M_^("^0)&`T<%*`/\``(```!(`$_at_``````MH"*``!````9`````$``0$!````
+M`2</``$``0`````````````````"`!D!D```````0`````````````$`````
+M````````````````/>`OT`+0!#_at_"T`0X```"T%(```$``0`!0````````$_at_`
+M%_at_TM.DQA<V5R5W)I=&5R``H``````"8`````!T-H:6-A9V\````""$YE=R!9
+M;W)K`````P9'96YE=F$````$!DUO;F%C;P````T-6F%P9B!$:6YG8F%T<P``
+M``X'0F]O:VUA;_at_````\23B!(96QV971I8V$_at_3F%R<F]W````$`A086QA=&EN
+M;P```!(-6F%P9B!#:&%N8V5R>0```!0%5&EM97,````5"4AE;'9E=&EC80``
+M`!8'0V]U<FEE<_at_```!<&4WEM8F]L````(0M!=F%N="!'87)D90```"(23F5W
+M($-E;G1U<GD_at_4V-H;&)K```'T`Q!<FEA;"!.87)R;W<```?1!4%R:6%L```'
+MT_at_Q";V]K($%N=&EQ=6$```?3$4)O;VMM86X_at_3VQD(%-T>6QE```'U`Y#96YT
+M=7)Y($=O=&AI8P``!]4+0V]U<FEE<B!.97<```?6$$UO;F]T>7!E($-O<G-I
+M=F$```?7#DUO;F]T>7!E(%-O<G1S```'V!)#96YT=7)Y(%-C:&]O;&)O;VL`
+M``?:#U1I;65S($YE=R!2;VUA;_at_``!]L)5VEN9V1I;F=S```)TPA-5"!%>'1R
+M80``#HT/0V]M;65R8VEA;%!I($)4```R#0Q&=71U<F$_at_0FL_at_0E0``#)J#$)O
+M9&]N:2!"9"!"5```,H<16F%P9DAU;6YS="!5;'0_at_0E0``#O/#D)E<FYH87)D
+M36]D($)4```\$0I);7!R97-S($)4```\<PQ+=65N<W0T.#`_at_0E0``#QT$$MU
+M96YS=#0X,"!";&L_at_0E0``#R`"4)O9&]N:2!"5```//H-6F%P9DAU;6YS="!"
+M5```/FT,1G5T=7)A($UD($)4_at_`$``````YP```.<``:``(`````#G```````
+M1_at_!"`UP"A`!%``(!RP)$`_at_((`````````G\```.9```#G````Z(```A)```(
+M2_at_``"%$```A4```)'0``"1X```I_```*A```"QT```L>```+'P``"R(```Q]
+M```,_at__at_``#-L```S=```,_```#8<```ZK```.M```#MD```[X```/`0``#[D`
+M`!!'```02```$)```!%H```1B0``$:$``!&O```1Q0``$<8``!(U```2H```
+M$W4``!-V```3_at_0``$X(``_at_```0```(`"```8>0``_at_`(``!F3``"``_at_``&98`
+M```"```#?P````(```HD``"``_at_``"B4``(`"```*+```_at_`(```HO``"``_at_``
+M"O_at_````"```()_at_````(```KY``"``_at_``"8<````"```*__at_``_at_`(```K_``"`
+M`_at_``"P```(`"```0&_at_````(``!%U``"``_at_``$7H``(`"```1TP``_at_`(``!'5
+M``"``_at_``$?0````"```2?P``_at_`(``!.C``"``_at_``$ZP``(`"```3T0``_at_`(`
+M`!/P``"``_at_``$_D``(`"```4L0``_at_`(``!4_``"``_at_``%4`````"```5B```
+M_at_`(``!9_at_``"``_at_``%H$``(`"```6F0``_at_`(``!:G``"``_at_``%KT````"```6
+MO_at_``_at_`(``!<M`````_at_``%Y_at_``(`"```8;0``_at_`(``!AN`````_at_``"B````!`
+M%5AM:71T97(_at_;6]D('!R;V-E9'5R90`115-,+"!)3D-/4E!/4D%4140``!%%
+M4TPL($E.0T]24$]2051%1```````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+3`````````````````````````&YD
+`
+end</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F747059" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F747059" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F747059" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

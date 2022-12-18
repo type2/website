@@ -1,0 +1,301 @@
+<html>
+<head>
+<title>type2 - 87 Vanagon: installing VDO oil pressure and temperature senders [long]</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/683140 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/683140" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/683140" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>87 Vanagon: installing VDO oil pressure and temperature senders [long]</h1>
+   <b>Mark McCulley &lt;raven_at_halcyon_dot_com&gt;</b><br/>
+   <i>1996-05-29 06:13:10+00</i><br/>
+   <br/>
+   <pre>This past weekend I purchased VDO gauges and senders to monitor the oil 
+pressure and temperature on my '87 Vanagon syncro Westfalia. I'm planning a 
+trip up to the Canadian Rockies in about a month and would like to be able 
+to keep an eye on the oil temp as I climb the mountain passes. I haven't 
+installed the gauges, but I did manage to finish installation of the two 
+senders. Since I found the installation of these senders to be non-trivial, 
+I think that some list members could benefit from what I learned. So here's 
+a complete report, starting with the parts list:
+
+231 002 087D VDO oil temp gauge 300F, $34.95
+221 002 042D VDO oil pressure gauge 80psi, $34.95
+532 900 037D VDO oil temp sender 300F, $14.50
+521 001 019D VDO oil pressure sender 80psi, $29.95
+
+2 1/8 npt fitting
+1 1/8 npt T fitting
+1 2" nipple w/ npt threads
+4' 1/8 copper tubing
+roll of teflon pipe tape
+
+I purchased the VDO stuff at Bow Wow, a local VW FLAP. They specialize in 
+air-cooled rigs and have little knowledge of waterboxers. Consequently, 
+they were of little help in helping put this project together, other than 
+getting me the correct VDO parts. I got the npt fittings at another FLAP, 
+B&B Auto Parts in Seattle. They were able to help me assemble the correct 
+npt (National Pipe Thread, I think) fittings. They had a kit that included 
+everything I needed except the T fitting and the 2" nipple. I'm not sure 
+I'm giving the exact specs on the npt fittings, so let me describe them. 
+The 2 1/8 npt fittings have 3/8" threads and a compression fitting for 1/8" 
+tubing. The T fitting is tapped for three 3/8" threaded connections. The 
+nipple is simply a 2" pipe with 3/8" threads on each end. Take your sender 
+to the parts store and it should be fairly obvious what to buy. All of the 
+fittings are used in mounting the oil pressure sender, none are required 
+for the temperature sender.
+
+First, let me say that installation of these senders is not a "bolt-on, 
+shrink wrapped" type of project--you have to do some creative problem 
+solving to get through this one. But that makes it all that much more 
+rewarding once the job is completed. Let's start with the oil pressure 
+sender. First step is to remove the tin on the bottom of the engine that 
+covers the push rod tubes on the left side. This entails removing two bolts 
+that also fasten exhaust headers. Be sure to replace these with new 
+exhaust-grade bolts and use anti-seize compound. There is an oil pressure 
+switch mounted on the case up between two of the push rod tubes. Remove 
+this switch and hang on to it. There's not enough room in there to mount 
+the pressure sender because it is quite a bit larger than the switch it 
+replaces. That's why you have to fabricate all this tubing and fittings to 
+mount the sender somewhere else. I chose to mount the new sender and the 
+old switch in the T fitting and locate them on top of the left head just in 
+front of the intake manifold tubes. They are easily accessible there and  
+ it's also easy to spot any leaks in the fittings. Screw the 2" nipple into 
+the case where you removed the pressure switch. Then use one of the  npt 
+fittings to connect the 1/8 tubing. I ran the tubing over the top of the 
+push rod tubes, up the rear of the head along the rubber gasket, and under 
+the intake manifold. Then use the other npt fitting to connect the tubing 
+to the T fitting. Screw the new pressure sender into one side of the T and 
+the old pressure switch into the other side. I chose to reuse the existing 
+pressure switch instead of buying a dual VDO sender with a built in switch. 
+(You could buy the dual sender and do away with the T fitting altogether.) 
+I had plenty of tubing so I made a couple of loops about 3" in diameter to 
+dampen any resonances that might occur from vibration. Next, fasten the T 
+fitting and senders to something to keep them from flopping around. I used 
+plastic tie-wraps to secure everything to one of the intake manifold tubes. 
+Once I had all of the fittings tight, I replaced the exhaust header bolts 
+and fired up the engine to look for oil leaks. I had leaks where sender and 
+the switch connected to the T and where the 2" nipple connected to the 
+case. I suppose this is because the npt fittings are close but not exact 
+matches for the metric threads. I then reworked these connections using 
+some teflon pipe tape I had in my tool box. This fixed the leaks and didn't 
+break the electrical connection between the sender and the engine block. I 
+suggest trying the fittings without the teflon tape first and if you have 
+to use the tape, checking electrical continuity once you get all of the 
+fittings tight. I'm going to keep an eye on these connections for a while, 
+but so far they are not leaking at all.
+
+That done, I tackled the oil temperature sender, figuring it would be a 
+breeze. Not so. The sender is designed to be mounted in an oil sump plate 
+by removing the plate and drilling a hole for the sender. Trouble is, my 
+engine does not have an oil sump plate. However, the threads on the sender 
+are identical to the threads on the oil drain plug. No problem I thought, 
+just drain the oil and screw the sender in place of the drain plug. The 
+sender screwed in nicely by hand but because the drain plug is recessed 
+into a small circular housing, I couldn't get a 19mm socket on it. Damn. I 
+had to have a reliable way to get this thing in and out without screwing up 
+the sender or the threads on my case. To me that meant I had to be able to 
+get a socket on it. I called around looking for thin-wall sockets, but 
+nobody had such a thing. Then I went to Sears and bought a cheap ($2.50) 
+19mm socket that was deep enough to work with the sender (there's a tab on 
+the bottom of the sender for the electrical connection). I pulled out my 
+drill and a grinder attachment and went to work fabricating a thin-wall 
+socket. Took about ten minutes and worked like a champ!</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F683140" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F683140" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F683140" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

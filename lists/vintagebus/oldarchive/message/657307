@@ -1,0 +1,311 @@
+<html>
+<head>
+<title>vintagebus - clean livin'</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/657307 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/657307" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/657307" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>clean livin'</h1>
+   <b>Isaiah &lt;punkerbat_at_vbe_dot_com&gt;</b><br/>
+   <i>2000-09-05 19:32:08+00</i><br/>
+   <br/>
+   <pre>Hey all,
+I got back from the Health Fest 2000 (aka buses nowhere near the arch)
+last night around midnight....but was far too beat to write any trip
+report.
+
+I woke up around 8-9 AM on wednesday morning to get ready for the trip.
+I crammed all of the goodies I could/wanted to into the bus and then
+headed to meet up with some friends in the town where I used to live
+about 30 miles south west of here.  We then proceeded to go to Milwaukee
+for the AC/DC concert.  Great show!!  Angus was incredible....and when
+isn't he really? ;-)
+We then rode back from milwaukee to Ripon (where i used to live) so that
+I could pick up the bus and drive to near Aurora, IL to meet up with
+fellow DBGer Ben Hawley.  I left ripon at about 1:30 AM Thursday morning
+and while heading down to Ben's place...something awful happened.  My
+passenger says "I smell gas!"  This was about 5:00 AM on Hwy 36 (i
+think). I immediately pull over and kill the motor and stop on the side
+of the road.  In a mad rush I opened the cargo doors....grabbed a flash
+light to see what was wrong... and opened the engine lid carefully.
+Turns out the brass fitting into the carb where the gas line hooks on to
+had popped out!!  I even checked it when I had the motor out!!  It
+sprayed gas all over the passengers side of the engine compartment and
+all over the passengers side head tin and fan shroud and heat
+riser...etc etc.  There was this white gas vapor that, if ignited, could
+probably have shot me and my friend right across the freeway blowing the
+back end of the bus off.  BUT... I got LUCKY and no fire happened.  Some
+guy in a Jetta with bikes on the top who had passed us earlier, but
+stopped to get gas, pulled over to see if we were alright.  He was from
+MN heading to Ohio or something like that.  He used to have a 68 bus he
+said...thats why he pulled over.  VW people are just plain cool!  So...I
+knurled the fitting...and tapped it back into the carb...and limped to
+the Petro station about 15 miles down the road.  It was getting light by
+then.  I got some brake cleaner and JB weld and proceeded to fix my
+buses flaw in the parking lot.  I cleaned the area free of grease or
+anything else with brake cleaner...and then applied JB weld and also
+peened in the boss of the fitting with a hammer and screwdriver to
+insure that the fitting would never come out again.
+On the road again.... got to Ben's place at about 8:00AM and waited for
+Chris and his family in his V'gon before we left.  In the mean time Ben
+and I went grocery shopping and I went to the hardware store to get some
+hose clamps and bailing wire.  I clamped the rest of my fuel lines and
+then applied a safety wire to the fitting in the carb with the wire I
+bought.  (it was thick enough that I could even make an accelerator
+cable if i had to...i later found that i did indeed have a spare clutch
+and acc. cable though...)  Loaded all of Ben's stuff in the bus...and
+took off with Chris, his family, and us behind.  3 people and all their
+stuff in a split gets it pretty loaded down.  We left around 12:30 and
+met up with John Flowers in Dixon at the Hardees' there.  Ate some
+grub...and then moved on.  About 50? miles out of Dixon John's shifter
+coupling fails....so..i throw a vice grips on there...but its really
+hard to shift with just a vice grips on there if its not *just* right we
+found.  So...Chris towed him with his V'gon a little bit down this road
+in the middle of nowhere to a gas station where John called one of his
+buddies with a flat bed and he got towed home later.  (John later made
+it to buses with him and his daughter in the new beetle)  We make it to
+the campground late thursday night and I get some rest.  I'd been up for
+40 or so hours straight I figured...  This was a campground right by the
+group campground for buses.  So i get up friday...we get in the gates
+after a little parking incident... and I park the bus next to a buddy of
+mine from here in town.  I was talking with some other DBGers when I
+heard this horride grinding and smashing sound.  I look over and this
+V'gon is getting intimate with my bus.  Thats not right!  I was pretty
+steamed...but the guy came over and apologized and later made up for
+it.  Nothing too bad...but a little crease in my passengers side rear
+corner by the wheel arch and battery tray.  I'm still a little urked
+over that one.
+All is well the rest of the weekend....except for the 105' heat every
+day!!  Not so bad if it was just heat...but you could see the humid
+haze.  I woke up and went to bed wet every night...even after repeated
+showers.
+NQ pulled in and I spotted him and knew it was him right away...as he
+also knew who I was.  We got to talking and bs'ing some more and we took
+a spin in his bus later.  WOW!  He even let me drive it! :-)  Every
+penny stuck in that bus was worth it.  It drives like a dream.  After
+driving his...mine just doesn't feel 'right' any more...if you know what
+I mean?
+
+I also met up with Shawn and Sarah with the 15 window...and tried
+snaking his shift pattern shift knob off of him...but he wouldn't
+budge...  so...he let me drive the bus to ease the pain :-)  Shawn and
+Sarah are great people to be around...and a LOT of fun.  That hopefully
+wasn't the last time I'll see them.  Although...the his and hers captain
+america undergarments did scare me!  ;-)
+
+I hung around with Kent for quite some time (15 window deluxe...the
+logo'd one..also has the 56 sunroof at Kelly's) and we had some fun
+together...he made me sit in his bus and play with the ambo fans.  I'm
+sorry...but those things are overrated.  Just stick a knob with a red
+light on your air vent cover plate if you wanna be kewl.  Those things
+block more air than they move.  Too bad he had to leave early....
+
+I met up with a lot of people I've been wanting to meet....or see
+again.  Steve White, Rob Lafoon (spel?), Terry (forgot your last
+name...sorry!), NQ, David Schwarze, Bill Bowman, the DBG clan, and some
+of the missouri micros (great camp setup!), Shawn and Sarah, the list
+goes on...
+
+I took home a 67 2/3 middle seat, all clamps, and appropriate floor mat
+(a nice donation from the guy that hit me), and a turkis split bus
+"1500" decklid...and rid myself of a floor mat, a firemans mask
+setup...and some other odds and ends.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F657307" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F657307" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F657307" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

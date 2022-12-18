@@ -1,0 +1,301 @@
+<html>
+<head>
+<title>type2 - YAEBTR (Yet Another EveryBus Trip Report) (Long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/476872 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/476872" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/476872" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>YAEBTR (Yet Another EveryBus Trip Report) (Long)</h1>
+   <b>David Schwarze &lt;sde_at_home_dot_com&gt;</b><br/>
+   <i>2001-04-26 23:12:14+00</i><br/>
+   <br/>
+   <pre>I've always tried to plan so that roadtrips in the bus involve as little 
+preparation and teardown as possible.  The reason for this is that the 
+memories of packing and preparing for days in advance to go camping then 
+spending another day to clean everything up when we got home took a lot of 
+the fun out of camping.  Unfortunately, everything broke down this time and 
+we ended up working frantically for hours, up until the last minute, and 
+even then I had to take off work early to get things done and we ended up 
+leaving an hour late.  Part of this problem was brought on by the discovery 
+of deep cracks in three of my four tires and the need to get them replaced 
+within 48 hours - thanks again to everyone that contributed to that 
+effort.  There were no tire-related failures on the trip!
+
+We left Wednesday at 5pm with a full load.  Fridge full of food plus an 
+extra case of assorted beverages, clothes for three people, bedding, 
+folding chairs and table, and an arsenal of spare parts and tools including 
+an extra cylinder head and driveshaft.  I have found that bringing a spare 
+part seems to prevent that particular part from breaking, and I worry most 
+about cylinder heads, so I always put one of those under the seat.  Filled 
+up with gas at $1.61/gallon, highest price we paid on the whole trip I 
+think, right in hometown Texas.  For a state with a lot of refineries, gas 
+has gotten relatively expensive here.
+
+As we headed towards the freeway Bonnie and I both noticed how quiet the 
+bus was.  This was partly from the new tires (LT8.5x27x14C TrailFinders 
+from Discount Tire) and I think partly from the Q-pads I installed last 
+week.  Bought one box of them for $23 and put them on the forward-facing 
+firewall which has very little "stuff" covering it in the Safare 
+floorplan.  Since the search for a good alternative to Q-pads seems to have 
+turned up nothing, I've decided to just buy a box every now and then so the 
+price hit won't be so noticeable.  Coasting up to stoplights in neutral we 
+could barely hear the engine anymore.  Very nice - I can't wait to stick on 
+another box.  Once on the freeway, I noticed that the bus tended to wander 
+more than before, not helped by the constant 10mph south wind.  We were 
+headed NorthEast on I-30 towards Little Rock.  At the first stop I let the 
+tires down from 40/45 to 36/42, which helped a bit.  The extra weight in 
+the bus, much of it up in the highroof on the slide-out bed, probably 
+didn't help.  Had to pay a bit more attention to trucks and road conditions 
+than in the past.  Stayed near Little Rock, AK the first night - got up and 
+on the road by 8:15am.  Picked up I-40 and cruised all the way through 
+Tennessee.  Nice drive, especially the Eastern portion.  Made it within a 
+few miles of Asheville where we stopped at a KOA and squeezed in between 
+two 40+ ft motorhomes.  I usually don't stay in KOA's but this one was 
+there when we needed it, had hot showers, and was "relatively" scenic.  We 
+parked out front and walked up to the closed office, where the note said to 
+grab an empty site and pay in the morning.  As we turned back towards the 
+bus, a man drove hurriedly up and opened up the office so we could pay our 
+$24 right then and there.  No doubt he figured we were a flight risk.
+
+Friday morning we took our time with the remaining 250 miles, stopped and 
+did some shopping, etc. and arrived at the park about 3pm.  Up until we 
+entered the park, we hadn't seen a single other bus heading our way and 
+were beginning to wonder if it was the right weekend.  :-)  We were 
+relieved to finally see the Everybus signs pointing us towards the group 
+camp area.  We were early enough to score one of the edge sites with 
+electricity, which enabled me to plug in the very hip (I thought) 
+Baywindow-shaped lamp that my lovely bride-to-be got me for Easter and 
+leave it running all night.  Also a way to charge the batteries for the 
+"Scruffy Huffy" E-bike.  Next to us was a 2001 Eurovan Winnebago camper 
+with not one, but TWO tents!  On the other side of us was an early 'loaf 
+with the Mystic (green, blue, gold, etc.) paint job... kewl!  Todd was 
+quickly absorbed by the local gang of children who were having a blast 
+riding bikes, playing on the open grass fields and in the suprisingly nice 
+playground.  We met up with Ted Finesman, Poor Richard, David Raistrick, 
+Steve Dolan, Mike Benthin, John Yost (sp?), Denmeister, and of course 
+"ncbus" Chris the organizer, and many others whos names I can't recall at 
+the moment.  Of all the campouts I have been to, this one seemed to have 
+the highest percentage of listmembers present - a real who's who of the 
+type2 list.
+
+Some cool things about Everybus, in no particular order:
+
+1)  The automagic bubble-making machine.  Sheer genious!  I want one.
+2)  Ted's 100 proof cherries - what a way to make friends... with the floor!
+3)  Chili cookoff - I only had room for 4 kinds and they were all awesome.
+4)  Case burning - the biggest I have been to, but I missed the water 
+balloon... drat!
+5)  Kids games and prizes - The kid-friendly attitude made the campout a 
+pleasure for all.
+6)  Art show, puttputt golf, paddle boats and hiking trails - Lots to do at 
+the park other than camp.
+7)  Rob (of FMBC) giving me a full-color sales brochure for a blue Safare 
+Custom Camper!!!  Whadda guy.
+8)  The weather.  Partly cloudy, moderate temps, NO RAIN!  :)
+9)  The nice people in the Class A motorhome who put up with our 
+festivities and let us take pictures from their roof.
+10)  Poor Richard's T-shirts, which we were lucky enough to score two of 
+when we arrived.
+11)  H. Steve Dolan for carting around my transaxle for 9 months.  I owe ya.
+12)  Chris for putting this whole thing together.  I owe you too.
+13)  Winning the long distance award.  :)
+14)  My lovely fiance Bonnie for enduring the 2,200 mile trip with me.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F476872" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F476872" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F476872" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

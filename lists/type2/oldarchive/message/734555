@@ -1,0 +1,261 @@
+<html>
+<head>
+<title>type2 - Weakly Statz ...</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/734555 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/734555" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/734555" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Weakly Statz ...</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1996-02-16 09:09:16+00</i><br/>
+   <br/>
+   <pre>well, here it is, another Friday ... time to play Where's What again. :)
+
+so here's WHERE all the buses are ...
+-AUS         5  -NOR         1  CT           4  MN           6  OR.NW       11
+-CAN.AB.Cal  2  -NZ          1  DE           1  MO           5  PA.C         2
+-CAN.AB.Edm  2  -SWE         1  FL.N        10  MS           1  PA.E         9
+-CAN.AB.Med  1  -UK.ENG.Bir  2  FL.NW        2  MT           2  PA.W         6
+-CAN.BC.Van 11  -UK.ENG.Bri  1  FL.S         1  NC.C        16  PR           1
+-CAN.BC.Vic  6  -UK.ENG.Lon  8  FL.SW        1  NC.E         1  RI           2
+-CAN.MN.Win  1  -UK.ENG.Man  2  GA.N         7  NE           2  SC           2
+-CAN.NB.Fre  1  -UK.WAL.Clw  1  GA.S         1  NH           2  TN           4
+-CAN.NS.Hal  1  -ZA          1  GA.SE        1  NJ.C         2  TX.ASA      12
+-CAN.NW.YK   1  AK           3  IA           4  NJ.N         5  TX.D         4
+-CAN.ON.NBa  1  AL           5  IL           6  NJ.S         4  TX.H         6
+-CAN.ON.Ott  7  AR           3  IN           4  NM           2  TX.LA        1
+-CAN.ON.Tor  8  AZ.S.Phoe    4  KS           3  NV           1  UT           6
+-CAN.PQ.Mon  2  AZ.S.Tucs    4  KY           2  NY.NYC      11  VA.N         8
+-CAN.SA.Reg  1  CA.BA       35  LA           2  NY.W.Buff    3  VA.W         3
+-DEN         1  CA.N        14  MA.C.Worc    1  NY.W.Itha    2  VT           3
+-FIN         1  CA.S.LA     19  MA.E.Bos    12  NY.W.Roch    1  WA.W        27
+-FR          1  CA.S.SD     12  MA.E.NBed    2  OH.N.Cle     4  WI.NE.GB     1
+-GER         2  CA.S.SLO     2  MD.C.Balt   11  OH.N.Tol     2  WI.S.FdLO    1
+-IRE         1  CO.N         7  MD.C.Fred    1  OH.S.Col     5  WI.S.Mad     4
+-IT          1  CO.S         1  MD.SE.LP     1  OH.SW.Cin    1  WV           1
+-NL          2  CO.W         2  MI           7  OR.NE        1
+       Unknown     111      Total       576
+
+and here's WHAT all the buses are:
+
+50 Microbus   0  59 Microbus   8  68 Bus   7  80 Vanagon  20  91 Eurovan   1
+51 Microbus   0  60 Microbus   9  69 Bus  10  81 Vanagon  26  92 Eurovan   1
+52 Microbus   1  61 Microbus   8  70 Bus  11  82 Vanagon  28  93 Eurovan  16
+53 Microbus   0  62 Microbus  11  71 Bus  39  83 Vanagon  13  94 Eurovan   0
+54 Microbus   3  63 Microbus   4  72 Bus  27  84 Vanagon  32  95 Eurovan   3
+55 Microbus   0  64 Microbus   8  73 Bus  24  85 Vanagon  34  96 Eurovan   0
+56 Microbus   3  65 Microbus  11  74 Bus  15  86 Vanagon  16
+57 Microbus   2  66 Microbus  20  75 Bus   6  87 Vanagon  40
+58 Microbus   1  67 Microbus  24  76 Bus   9  88 Vanagon  11
+                                  77 Bus  21  89 Vanagon  12
+                                  78 Bus  17  90 Vanagon  14
+                                  79 Bus  12  91 Vanagon   9
+
+ Microbus 113 - Camper  29, Panel   10, Pickup  21, Kombi   15, Deluxe  16
+ Bus      198 - Camper 115, Panel    0, Pickup   5, Kombi    7
+ Vanagon  255 - Camper 130, Panel    0, Pickup   1, Diesel  13, Syncro  35
+ Eurovan   21 - Camper   7, Panel    0, Pickup   0, Diesel   1
+ Total    587
+
+ Vanagon Mailing List   573 people,   587 vehicles
+  113 Microbus,  198 Bus,  255 Vanagon,   21 Eurovan
+   26 Wanabus,   106 Unknown Lurking Snivelers :)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F734555" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F734555" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F734555" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

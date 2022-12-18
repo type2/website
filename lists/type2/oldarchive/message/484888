@@ -1,0 +1,295 @@
+<html>
+<head>
+<title>type2 - rollin' rollin' rollin' got that bus a rollin'</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/484888 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/484888" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/484888" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>rollin' rollin' rollin' got that bus a rollin'</h1>
+   <b>myangelmorgan_at_juno_dot_com</b><br/>
+   <i>2002-11-23 05:31:57+00</i><br/>
+   <br/>
+   <pre>well, my bus is finally rolling again... and i dont hear the droning
+noise!!! WOO HOO! of coarse that could be just because the CV joints are
+fully greased now, muffling the noise. the bearings in one joint were
+very nasty looking, so i will have to replace that soon :(  so... after
+10 days without a wheel and replacing just about EVERYTHING on it, i
+finally have my bus back!! YAY!!! 
+
+(long, slightly humorous version)
+i was going to just do the bearings, but i had to remove the half shaft
+so i figured i would repack the CV joints... one boot was torn, so i
+decided to replace that, too... so here i am with inner and outer wheel
+bearings and a new boot, ready to go... start dissasembly wednesday last
+week... got the outer grease seal out, the c-clip and that spacer outside
+the outer bearings. started to remove the 6 bolts on either end of the
+drive shaft when ONE damn bolt wouldnt let go (at this point, my ex is
+doing most of the work... i am feeding him while he catches up on his
+bills, the least he can do it work on my car!) well, he stripped out the
+head on it (hex nut, not the star type that came with the new boots) so i
+cut a slit into it with my dremel so we could try using a screwdriver...
+still no go... i was about to cut the head off when i decided to call a
+local shop *Der German Imports* and ask if they could get the bolt out if
+i cut the head off and bring it to them... he said dont do that, use vice
+grips, so i borrowed my dad's (my mom said i might get some for christmas
+as often as i borrow his) and asked his advice... i know, very hazardous,
+but worth a try... and he suggested something i had thought of earlier
+but discounted, thinking "would that REALLY make that much
+difference?"... well, it did... i put the other 5 bolts back on,
+tightened them down and used the vice grips to loosen the stuck one...
+VOILA!!!! i was SO proud of myself for getting this bolt off when my ex
+couldnt make it budge! so i decided to continue without his help and show
+him up... that is when i got confused. muir and bentley BOTH told me to
+remove the brake backing plate. my dad came by to see what kind of tool i
+needed to borrow to get a c-clip off the end of the half shaft so i could
+replace the boot. that's when he tried to help me figure out what to do
+next... i showed him where muir said to place a piece of wood on the
+shaft and hammer it toward the inside of the bus... so he proceeded to do
+so... couldnt find any wood hard enough at my house, so he said he would
+be right back (after going home to get some wood and a big hammer)... and
+he did. after demolishing some very strong wood, he pulled some boards
+off some wooden pallets i had and smashed those to bits too, but hey...
+IT FINALLY CAME OUT! YAY! that sucker was STUCK! it looked like we were
+missing something. once that was out, he removed the inner race and
+bearings from the outer bearings and the middle spacer. he said we were
+in over our heads and that he would come back friday (his day off) to
+help finish as he was still on his lunch break and had to get back to
+work. i tried to explain how you guys had made it sound simple the rest
+of the way, and it pretty much was... except for the C clip... but he was
+convinced it was going to be a HUGE ordeal. it really wasnt that bad
+after the shaft was out.
+
+the rest was relatively uneventful and i didnt really get to even touch
+anything once my dad got here and started "helping". i was looking
+forward to doing it myself, but i am glad he did it. he did a MUCH better
+job cleaning everything than i ever would have done. he is so anally
+thorough! anyway, he told me i NEEDED to replace the brake shoes, and i
+NEEDED what is called a brake cylinder (he reiterated this SEVERAL times,
+to which i was tempted to say "in MY world, we call it a WHEEL cylinder!"
+but i was a good girl and held my tongue). he told me "while we have the
+brake line open, might as well replace the hose... and the adjustors...
+and this boot is old and cracked... instead of going through all this
+later, do it all now... so my wheel bearing job (which i bought parts for
+a month ago) turned into a total wheel rebuild that caused me to spend
+money i LITERALLY didn't have to spend... i tried to explain that to him,
+and he was so determined to do it all while we were there that he did the
+UNSPEAKABLE... HE GAVE ME THE MONEY!!! now i know none of you know my
+dad, so let me give you a clue... he HATES my bug and has always been
+against me owning one... even before i remember even WANTING one! i
+thought they were neat, but wouldnt have said "i want a beetle" if you
+asked what kind of car i wanted... when i moved to PHX in 91, he wouldnt
+put the 85 jetta in my name because he KNEW i was going to sell it and
+buy a "piece of junk VW"... not sure where he ever got that in his
+head... GLAD IT CAME TRUE, THOUGH! lol! he said "if you are in a front
+end collision, there is nothing, no engine to protect you... ironically,
+he seemed rather relieved when he saw my bus... i was afraid to point out
+that there is NOTHING in front of my feet but a single thin sheet of
+metal... he also didnt seem as angry working on it as he was when he
+worked on the bug. i think it was because he had more room to work.
+
+anyway, at least we finally got everything done and i was able to drive
+my bus tonight to pick up the kids from day care. now i can try to get
+some window painting jobs so i can start paying people back... or
+maybe... GET A REAL JOB!!! AHHHHH!
+
+waving and wondering where bus depot is located...
+chris</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F484888" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F484888" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F484888" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,423 @@
+<html>
+<head>
+<title>type2 - re:  secret rituals</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/684701 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/684701" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/684701" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>re:  secret rituals</h1>
+   <b>EF0JPB1_at_mvs.cso.niu_dot_edu</b><br/>
+   <i>1996-01-12 02:28:00+00</i><br/>
+   <br/>
+   <pre>MSG# DATE   FROM              SUBJECT
+   1 10 Jan William Alan Kill /f Re: WTB Waterboxer camper or Westy
+   2 10 Jan Robert W Taylor < WTB Waterboxer camper/Westy
+   3 10 Jan rickgo_at_HALCYON.CO re: new camping toy - NOT
+   4 10 Jan Bradley <bradleym RE: Wet Feet - Windshield Gasket Repair
+   5 10 Jan Automatic digest  VINTAGVW Digest - 8 Jan 1996 to 10 Jan 1996
+   6 10 Jan Claralw_at_AOL.COM   Re: Van Update
+   7 10 Jan Veeduber_at_AOL.COM  Rincon Rocket Rescue
+   8 10 Jan Veeduber_at_AOL.COM  450 missed messages
+   9 10 Jan Claralw_at_AOL.COM   Re: Early bus/window seals
+  10 10 Jan Bradley <bradleym Re: 16lb/800W/80A_at_12VDC
+  11 10 Jan Holger Mootz <moo Re: Front-end shimmies
+  12 10 Jan Jon Christensen < Re: Early bus
+  13 10 Jan AClark.rxl_at_EUR.XE Camper Conversions
+  14 10 Jan Michael Bryant <f
+  15 10 Jan David B Rankin <d Crossover Pipe 80 Vanagon
+  16 10 Jan Andy Erskine <a.c Sharan news
+  17 10 Jan Andy Erskine <a.c Re: Camper Conversions
+  18 10 Jan mwagner_at_DELTANET. 1971 Sun Dial?
+  19 10 Jan University of Tor Re: Camper Conversions
+  20 10 Jan Gcarlen_at_AOL.COM   85 waterboxer problem
+  21 10 Jan jonesl_at_TCPLINK.NR
+  22 10 Jan "Miller - James W is anybody out there?
+  23 10 Jan 7039ckrah_at_UMBSKY. RE: replacing strut assembly
+  24 10 Jan "Ervolina, Thomas Taller tranny for Vanagon (was: a snowy day)
+  25 10 Jan L.S.Griffiths_at_PHY Re: Early bus
+  26 10 Jan Steve Johnson <sj RE: Wet Feet - Windshield Gasket Repair
+  27 10 Jan cetin_at_SEAS.BELLCO forced induction
+  28 10 Jan cetin_at_SEAS.BELLCO Re: forced induction
+  29 10 Jan "Tobin T. Copley" Re: 85 waterboxer problem
+  30 10 Jan AClark.rxl_at_EUR.XE RE: is anybody out there?
+  31 10 Jan raven_at_HALCYON.COM wild bus sightings
+  32 10 Jan Al Knoll <alf_at_HPP Prudhoe Bay ?
+  33 10 Jan David Schwarze <d Re: forced induction
+  34 10 Jan snuggles_at_VNET.IBM re: I'm buying a Westy Interior
+  35 10 Jan "Clark M. Carr" < What is that thing under the seat?
+  36 10 Jan busgirl_at_NETCOM.CO pfeiffer trip report
+  37 10 Jan "Harvey Chao" <Ha Re: 85 waterboxer problem
+  38 10 Jan cetin_at_SEAS.BELLCO Re: forced induction
+  39 10 Jan "Edward Claiborne Re: Camper Conversions
+  40 10 Jan raven_at_HALCYON.COM Re: What is that thing under the seat?
+  41 10 Jan "Richard Alexand  List Sticker Update
+  42 10 Jan "Maher, Steve (SD RE: forced induction
+  43 10 Jan "Tobin T. Copley" Re: Prudhoe Bay ?
+  44 10 Jan "Jack Bateman" <j What Is It??
+  45 10 Jan "Maher, Steve (SD Re: forced induction/Rusty's back
+  46 10 Jan Gerald Skerbitz < Re: is anybody out there? (rebuked)
+  47 10 Jan "Clark M. Carr" < RE: What is that thing under the seat?
+  48 10 Jan Scott Beckstead < Re: replacing strut assembly
+  49 10 Jan "William R. Kenne RE: What Is It??
+  50 10 Jan Scott Beckstead < Humor: Stages of a party!
+  51 10 Jan Claralw_at_AOL.COM   Re: '70 Door Locks
+  52 10 Jan "Richard Alexand  Get yer LIST STICKERS here!!(repost)
+  53 10 Jan "Clark M. Carr" < RE: What is that thing under the seat?
+  54 10 Jan Sandy/John Mac/Ho Re: is anybody out there?
+  55 10 Jan "Maher, Steve (SD RE: Taller tranny for Vanagon (was: a snowy day)
+  56 10 Jan "Michael A. Radtk RE: replacing strut assembly
+  57 10 Jan Sami Dakhlia <dak RE: replacing strut assembly
+  58 10 Jan cetin_at_SEAS.BELLCO RE: replacing strut assembly
+  59 10 Jan "David Easterwood Ex-wives and VW Buses
+  60 10 Jan "Maher, Steve (SD '80 V6anagon sliding door
+  61 10 Jan "Harvey Chao" <Ha Re: replacing strut assembl
+  62 10 Jan H2obxr_at_AOL.COM    Re: 85 Vanagon Head Gasket Question
+  63 10 Jan djones_at_SAM.I3.NET Re: coil over shock info
+  64 10 Jan Ron Lussier <coyo Second battery solution?
+  65 10 Jan raven_at_HALCYON.COM RE: What is that thing under the seat?
+  66 10 Jan "Miller - James W Re: Taller tranny for Vanagon (was: a snowy day)
+  67 10 Jan VWVan81_at_AOL.COM   Re: Men, Women and VWs-OFFLIST
+  68 10 Jan wabbott_at_MTEST.TER Going slow in CA
+  69 10 Jan walshp_at_IPPDSGI3.N Re:  '80 V6anagon sliding door
+  70 10 Jan Gary Shea <shea_at_X Re: Crossover Pipe 80 Vanagon
+  71 10 Jan "Miller - James W what is it?
+  72 10 Jan sherwin_at_GNN.COM(. VWUS Came Through
+  73 10 Jan smitht_at_JUPITER.SU Re: VWUS Came Through
+  74 10 Jan "Edward Claiborne Re: Taller tranny for Vanagon (was: a snowy day)
+  75 10 Jan mattd_at_RATIONAL.CO RE: what is it?
+  76 10 Jan Automatic digest  VINTAGVW Digest - 10 Jan 1996 - Special issue
+  77 10 Jan "Brian Isherwood" Stovetop coffee makers
+  78 10 Jan Bradley <bradleym Re: Stovetop coffee makers
+  79 10 Jan vw_at_GULBRANSEN.COM Mr. Holland's Opus with lot's of VW busses
+  80 10 Jan John Huguenard <h Re: Stovetop coffee makers
+  81 10 Jan Bradley <bradleym Re: Second battery solution?
+  82 10 Jan Ron Lussier <coyo Re: Stovetop coffee makers
+  83 10 Jan busgirl_at_NETCOM.CO re:  stovetop coffee makers
+  84 10 Jan Bradley <bradleym Re: Stovetop coffee makers
+  85 10 Jan 7039ckrah_at_UMBSKY. '67 Splitty F.S.
+  86 10 Jan "Brian Isherwood" I'm going to drip mode
+  87 10 Jan "Harvey Chao" <Ha Re: Second battery solution?
+  88 10 Jan "Harvey Chao" <Ha Re: Stovetop coffee makers
+  89 10 Jan Porter_Fred%PAX9_at_ emergency parts bag
+  90 10 Jan Porter_Fred%PAX9_at_ Jacobs ignition system
+  91 10 Jan Porter_Fred%PAX9_at_ halogen backup lights
+  92 10 Jan "Mark M. Schirmer Re: WTB Waterboxer camper or Westy
+  93 10 Jan Afmoa_at_AOL.COM     the all euro engine swap
+  94 10 Jan "Harvey Chao" <Ha Re: emergency parts bag
+  95 10 Jan "Mark M. Schirmer Re: Van Update
+  96 10 Jan "Mark M. Schirmer Re: Sharan news
+  97 10 Jan tfab_at_NETCOM.COM(T Re: I'm going to drip mode
+  98 10 Jan "Mark M. Schirmer Re: Ex-wives and VW Buses
+  99 10 Jan "William R. Kenne RE: the all euro engine swap
+ 100 10 Jan "Scott Allred" <S RE: halogen backup lights
+ 101 10 Jan Ed McMullin <Ed_M Re: the all euro engine swap
+ 102 10 Jan "Mark M. Schirmer Re: Stovetop coffee makers
+ 103 10 Jan "William R. Kenne Don't Swap -- Add!
+ 104 10 Jan Steve Johnson <sj Re: emergency parts bag
+ 105 10 Jan David Schwarze <d Re: Jacobs ignition system
+ 106 10 Jan jim_at_ATCWEB.ATC.1D RE: the all euro engine swap/  80*f by friday
+ 107 10 Jan "Maher, Steve (SD RE: Don't Swap -- Add!
+ 108 10 Jan Robinson <erobins hydraulic lifter question.
+ 109 10 Jan Steve Johnson <sj Re: Ex-wives and VW Buses
+ 110 10 Jan "Mike White" <MIK RE: halogen backup lights
+ 111 10 Jan "howard quigley"  Which Carbs?
+ 112 10 Jan SyncroHead_at_AOL.CO Re: halogen backup lights
+ 113 10 Jan "Mark E. White" < FW: halogen backup lights
+ 114 10 Jan SyncroHead_at_AOL.CO Re: Don't Swap -- Add!
+ 115 10 Jan SyncroHead_at_AOL.CO Fwd: FS: Siku VW,and other European toy cars
+ 116 10 Jan smitht_at_UNB.CA(Tim Re: Which Carbs?
+ 117 10 Jan "Clark M. Carr" < RE: What is that thing under the seat?
+ 118 10 Jan Jeffrey Olson <jj manual coffee grinders
+ 119 10 Jan Claralw_at_AOL.COM   re:   'The Rincon Rocket
+ 120 10 Jan "Paul Bjork" <PBJ RE: halogen backup lights
+ 121 10 Jan Al Knoll <alf_at_HPP paper code coffee?
+ 122 10 Jan ehintz_at_MAIL.UTEXA Re: Mr. Holland's Opus with lot's of VW busses
+ 123 10 Jan tfab_at_NETCOM.COM(T Barndoor Page Update
+ 124 10 Jan "J. Anton Elmquis My front axle...
+ 125 10 Jan PWIES_at_LOYOLA.EDU  startup question
+ 126 10 Jan "Paul Bjork" <PBJ Re: emergency parts bag
+ 127 10 Jan JonahGold_at_AOL.COM Nashville to Ashville to Triangle
+ 128 10 Jan "Miller - James W A SILVER SOCKET SALUTE!!!
+ 129 10 Jan GOLDBERG_DAVID_at_MP Second Battery Charging....kinda long
+ 130 11 Jan Joel Walker <JWAL Re: halogen backup lights
+ 131 11 Jan plima_at_INDIRECT.CO re: backup (non)lights?
+ 132 11 Jan rickgo_at_HALCYON.CO '80 tips
+ 133 11 Jan rickgo_at_HALCYON.CO Volvo 6cyl motors
+ 134 11 Jan JOHNSON THOMAS H  Re: Prudhoe Bay ?/top of the world tour
+ 135 11 Jan dmarsden_at_CIX.COMP Bosch Blue Coils
+ 136 11 Jan "Mark E. White" < FW: Bosch Blue Coils
+ 137 11 Jan A20NEB1_at_MVS.CSO.N Emo quotes from Mark
+ 138 11 Jan Bob Hufford <bhuf Micro Fish
+ 139 11 Jan mwagner_at_DELTANET. Re: Second battery solution?
+ 140 11 Jan snuggles_at_VNET.IBM Installing Westy Interior, part I
+ 141 11 Jan Gerald Skerbitz < Re: Micro Fish
+ 142 11 Jan jonesl_at_TCPLINK.NR 12V Coffee Grinders
+ 143 11 Jan Gerald Skerbitz < Aerostar in bed with Westie
+ 144 11 Jan Gerald Skerbitz < Re: Stovetop coffee makers
+ 145 11 Jan Gerald Skerbitz < re: backup (non)lights?
+ 146 11 Jan Gerald Skerbitz < Revised Barndoor Schedule
+ 147 11 Jan "Tom Forhan" <TFO DC Blizzard Report
+ 148 11 Jan tfab_at_NETCOM.COM(T Coffee Grinders /f
+ 149 11 Jan Ron Lussier <coyo Re: Second battery solution?
+ 150 11 Jan John Brown <jlbro RE Stovetop coffee makers
+ 151 11 Jan "Shawn Wright, SM re: proprane heaters
+ 152 11 Jan CATHERINE R DESAI Attn: Mr. Derek Drew : 4x4 Vanagon
+ 153 11 Jan David Schwarze <d Re: proprane heaters
+ 154 11 Jan 7039ckrah_at_UMBSKY. Makin' copies, er I mean coffee...
+ 155 11 Jan David L Finet <fi Re: RE Stovetop coffee makers
+ 156 11 Jan Jeffrey Olson <jj FS: 66 VW Bug $250 (fwd)
+ 157 11 Jan "Dan Houg" <hougd f/ coffee futures
+ 158 11 Jan "Harvey Chao" <Ha Re: Coffee Grinders /f
+ 159 11 Jan William Alan Kill Re: DC Blizzard Report
+ 160 11 Jan William Alan Kill Re: Attn: Mr. Derek Drew : 4x4 Vanagon
+ 161 11 Jan William Alan Kill Re: Coffee Grinders /f
+ 162 11 Jan Claralw_at_AOL.COM   Re: Micro Fish
+ 163 11 Jan repark_at_SRV.PACBEL Re: Aerostar /Westie
+ 164 11 Jan Bob Hufford <bhuf Re: Micro Fish
+ 165 11 Jan David L Finet <fi Re: FS: 66 VW Bug $250 (fwd)
+ 166 11 Jan "Tom Forhan" <TFO Re[2]: DC Blizzard Report
+ 167 11 Jan "Shawn Wright, SM re: I'm going to drip mode
+ 168 11 Jan "Renee L. Norris" (no subject)
+ 169 11 Jan Automatic digest  VINTAGVW Digest - 10 Jan 1996
+ 170 11 Jan "Maher, Steve (SD Re: Stovetop coffee makers
+ 171 11 Jan "Robert J. Schrei FS '71 Sportmobile
+ 172 11 Jan repark_at_SRV.PACBEL Re: Stovetop coffee makers
+ 173 11 Jan "Maher, Steve (SD Re: Stovetop coffee makers
+ 174 11 Jan Porter_Fred%PAX9_at_ Re: backup (non)lights?
+ 175 11 Jan wabbott_at_MTEST.TER Fans,
+ 176 11 Jan Ed_Pyrik_at_MINDLINK VW mailing received
+ 177 11 Jan Joachim Beek <bee Re: (no subject)
+ 178 11 Jan RagDoll517_at_AOL.CO Re: what do 1975 westies sell for?
+ 179 11 Jan Jack Lowry <jack_ Vanagon manual forsale
+ 180 11 Jan Veeduber_at_AOL.COM  Re: Stovetop coffee makers
+ 181 11 Jan "Scott A. Harvey" F/ List Stickers
+ 182 11 Jan "Dan Houg" <hougd Re: Stovetop coffee makers
+ 183 11 Jan "Tom Forhan" <TFO C Codes for VW Type II (long)
+ 184 11 Jan A20NEB1_at_MVS.CSO.N Re: Temperature control
+ 185 11 Jan rapalmer_at_UNITY.NC Hire '66 red/white bus immediately! - rec.autos.
+ 186 11 Jan eugp_at_UCLINK3.BERK Almost caught the big fish (71 bus)
+ 187 11 Jan "Harvey Chao" <Ha Re: Stovetop coffee makers
+ 188 11 Jan Joachim Beek <bee Re: F/ List Stickers
+ 189 11 Jan "Maher, Steve (SD RE: F/ List Stickers
+ 190 11 Jan daukes_at_MMTS.EDS.C Re: F/ List Stickers
+ 191 11 Jan "Harvey Chao" <Ha O2 sensors
+ 192 11 Jan Clay_Perry_at_WE.XER Propane setups
+ 193 11 Jan "Mark E. White" < FW: F/ List Stickers
+ 194 11 Jan busgirl_at_NETCOM.CO secret rituals (was f/ list stickers)
+ 195 11 Jan Joel Danke <JDANK engine swaps
+ 196 11 Jan Gerald Skerbitz < Pledge time!
+ 197 11 Jan "William R. Kenne RE: engine swaps
+ 198 11 Jan Bill Ernest <bill VWoA Warranties?
+ 199 11 Jan Gerald Skerbitz < Pledge Time!
+ 200 11 Jan Clay_Perry_at_WE.XER RE: Jacobs Ignition
+ 201 11 Jan jim_at_ATCWEB.ATC.1D Re: Pledge time!
+ 202 11 Jan jim_at_ATCWEB.ATC.1D Re: secret rituals (was f/ list stickers)
+ 203 11 Jan SyncroHead_at_AOL.CO Optima Batteries
+ 204 11 Jan "Brian Isherwood" Re: secret rituals (was f/ list stickers)
+ 205 11 Jan Derek Drew <drew_at_ chains
+ 206 11 Jan SyncroHead_at_AOL.CO Re: secret rituals (was f/ list stickers)
+ 207 11 Jan Craig Standley <c heat
+ 208 11 Jan Matthew Henricks  safari windows
+ 209 11 Jan Matthew Henricks  6 - 12 Volt inverter
+ 210 11 Jan Matthew Henricks  sand seals
+ 211 11 Jan busgirl_at_NETCOM.CO re:  secret rituals
+*212 11 Jan "Mark M. Schirmer Re: Vanagon manual forsale</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F684701" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F684701" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F684701" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

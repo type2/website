@@ -1,0 +1,309 @@
+<html>
+<head>
+<title>type2 - Re: Parts Failure Survey -LOAFS</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/465874 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/465874" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/465874" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: Parts Failure Survey -LOAFS</h1>
+   <b>al brase &lt;braseelec_at_forbin_dot_com&gt;</b><br/>
+   <i>2013-05-28 17:18:08+00</i><br/>
+   <br/>
+   <pre>Dave Kinerson wrote:
+> 
+> Volks... it's Friday and I'm finally able to ask a survey type
+> question.  Yea!!
+> 
+> I am trying to identify the common failure items of VW vans.  Although I
+> own a '76 Westy, I am interested in all of the vans of the same body
+> style.  I won't call 'em breadloafs 'cause it tends to confuse the
+> newbies, of which I was one untill just recently.
+> 
+> Example of the items that I have in mind are:
+> 
+>         1.  Front axle beam -The rust on mind killed Ralphy my 76 Westy.
+>         2.  Mirrors support bracket - Mine fell off at 65 mph
+>         3.  The sliding door latch.
+>         4.  Dirsctional signal switch.  The internal levers broke off <snip>
+> Obviously, ignition parts, clutch and accelerator cables are very useful
+> as would valve cover gaskets and seals for the push rod tubes.  But what
+> other parts have frequent failure on the VW bus? Does anybody have any
+> suggestions?
+<snip>
+> Thanks for reading.
+> 
+> Dave Kinerson
+> Albany NY
+> owner of 1976 Westy, now retired
+> 1988 VW Jetta
+> 1990 VW Jetta
+> and a lot of dreams
+Dave:
+1. Nomenclature- loafs (or is it loaves) works for me, it creates a nice
+mental picture, and it's distinctly non-German. ( Don't get me wrong,
+some of my best friends are Germans[it's Friday] -not to mention my four
+grandparents), but I think this obsession with preciseness and numbers
+and complexity only illustrates my theory that "Germans are legends in
+their own minds". Germans call loafs T2a's 68-71 and T2b's 72-79,
+although they are not sure to split between 71-72 or 72-73 (see! loafs
+works for all)
+2. Turn signal switch: I'm a little hazy about 76's, but I drove a 78 
+about 80k miles and never had trouble with that. It did burn up 4 motors
+before I figured out what was wrong. [Temp sensor II (?), the one in the 
+AFM was defective, a good clue should have been excessive richness at
+temps below 0F., it took me a long time to make the leap to realize that
+the inverse (or is it converse) was happening at high ambients (too
+lean) This is something all fi bus owners should pay attention to. 
+Earlier loaf turn signal switches 68-72 always worked loose from their
+moorings and eventually broke wires at the solder joint (not too hard to
+fix if you know how to solder).
+3. Clutch cables break suddenly and it's a good idea to check out the
+recent post on fixing the lever, too. Accelerator cables will eventually
+fray from wear, but it takes about 100k miles, so if you're there, just
+fix it now and mark your calender to check it in 2010.
+4. FI parts eventually fail. I went thru several fuel filters, a few 
+injectors, one bellows-type hose that hooks the throttle body to the
+AFM, the aforementioned AFM,and I changed the small fuel hoses that make
+up the high pressure fuel ring. (Incidently, VW changed to steel lines
+from the left side to the cold start injector and from the cold start
+injector to the right side in about 77 or 78 so if anyone has an earlier
+car that hasn't already incinerated itself this would be a really good
+upgrade. I never had a fuel pump fail, but if you're traveling any
+distance from civilization, I'd sure take along a known good spare. I've 
+had used ones check out okay and after 2 years of rattling around in my
+van not work when offered to a friend, so probably the best spare is a
+new one in a box with proper plugs on the nipples, but I never had $180
+extra for that!
+5. While on the subject of fires, EVERY CAR NEEDS A FIRE EXTINGUISHER!
+Because of my care in replacing hoses my cars never burned, by my wife
+and I have each used our extinguisher to put out someone else's fires!
+(I have to admit I was surprised at her level-headedness in this
+incident!)
+6. I changed the clutch disc and t-o bearing at 130k miles. It wasn't
+slipping, but the shock springs in the disc were worn out. I think we're
+really not very hard on clutches, but this is Iowa, not San Francisco,
+so that helps.
+7. Front axle beams: EVERYTHING got rusty on my 78 about the same time, 
+1990, I guess, so the rusty axle beam wasn't the biggest problem.
+However there are many loafs in western junkyards that have axle beams
+that look like NEW. I got a perfect one for my 69 double cab for $120
+freight included from somewhere in Aridzona .
+8. CV joints: I replaced them all at about 90k miles because I had
+access to a lift and got a good price on 4 kits. I've since then learned
+better (or just have less spare time) and now just inspect the boots
+when I change the oil. I'm of the opinion that these things last about
+forever if the boots are intact and they are serviced around every
+40-50k miles.
+9. Exhaust, brake pads, shocks. Replace as needed. Climate is harder on
+exhaust than use. Brakes and shocks are easy to determine where you're
+at.
+10. Pushrod tube seals did eventually fail. New viton seals (are they
+white or green?) are much better than original equipment.
+
+That's about all that failed on my 78, which except for the engine
+getting roasted by the lean conditions, was really quite a low 
+maintenance vehicle. But as many listees know, they are really quite
+wonderful  vehicles! Quirky but they build a lot of loyalty in their
+owners! I can't say the same about vanagons.
+Al Brase
+69 doublecab
+4 vanagons (slow learner)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F465874" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F465874" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F465874" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

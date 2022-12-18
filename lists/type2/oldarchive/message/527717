@@ -1,0 +1,289 @@
+<html>
+<head>
+<title>type2 - Sandblasting, bodywork, safety, and bonding.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/527717 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/527717" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/527717" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Sandblasting, bodywork, safety, and bonding.</h1>
+   <b>&quot;John Anderson&quot; &lt;janderson_at_iolinc_dot_net&gt;</b><br/>
+   <i>2013-05-28 17:18:11+00</i><br/>
+   <br/>
+   <pre>Al Brase pointed out to me about my post regarding sandblasting that perhaps
+I assume too much of the readership of the list, and I feel this is a wise
+point.
+
+I do assume too much so I'm going for a little warning here in general.  All
+body work products have a little CYA litigious US inspired warning reading
+something to the effect, only to be sold, mixed, applied by trained
+professionals using appropriate equipment etc.  Now, this doesn't stop
+anyone round here (MD, PA, WV) from selling to anyone off the street, even
+with the HVLP laws that I believe are now in effect in MD.  (On that issue
+as I said, HVLP is smart, works for you and the environment, I'm all for
+it.)  Although I believe that DP40 recently changed to a slightly safer
+formulation for heavy metal reasons, MOST ANY GOOD EPOXY OR URETHANE PRIMER
+OR TOPCOAT SYSTEM WILL KILL YOU DEAD.  Heavy metals, and worse isocynates,
+ready to do nasty things.  When you buy a product get the application
+literature (I think it is law that it is provided, I know the MSDS has to
+be) and read it.  Then face some facts, a respirator rated for isocynates if
+they still exist (haven't seen one sold since the late 80's) is rather
+expensive ($80-$100 then.)  An average organic vapor respirator from Lowes
+for $30 don't cut it "by the book" for most systems.  I know a lot of people
+who use them, but technically it isn't up to it.  The literature will tell
+you what NIOSH,
+MSA level respirator is needed and will likely suggest positive pressure
+instead of a respirator, a move I made a few years back as I am inclined to
+respiratory problems due to my stupidy involving fiberglass dust during my
+MS research years.  For that matter during sandblasting you should wear at
+least the $30 respirator and I've moved to using a QUALITY dust mask for
+mere sanding, the paint still has heavy metals and is an extreme nuisance
+dust with fine sanding.  I recently tried the N95 rated nuisance mask, about
+$20 for 20 at Lowes or $5 for 2 (you figure which to buy) these are 3M 8210?
+masks.  Much nicer than the average cheapo dust mask, fit tight, dual layer,
+fit so well that your breath doesn't fog your glasses if you wear them, that
+gives you a good idea, and you should be wearing them (glasses), when
+sanding, when painting with the respirator if you don't have a half or full
+mask, and a
+good hood obviously during sandblasting (I wear hooded Tyvek coveralls taped
+at ankles and wrists as well as I don't like sand up my orfices.)
+
+You've got one body, make the most of it, decide what level safety you need
+to afford, and don't go whining later if you die, shoot all the lawyers and
+get over it and all in the immortal words.  A hobby positive pressure system
+is about $350, your life is worth a tad more or maybe not, but a lot of cars
+have been painted with mere dust masks even with urethane catalysts.  Decide
+what you need, how much you intend to do, and obviously if predisposed to
+respiratory problems, don't do it period.  Of course if you are an idiot,
+please do, but please shoot your entire family before you go so we don't
+have to deal with the lawsuit from your stupidity.
+
+That's all well and good, except maybe you're addicted, maybe you can't
+stop, because it is the only thing left in life you truly enjoy.  Running
+your
+hand over the freshly finished contours of a nice bus, or a nice vette, or
+whatever.  Or turning a wrench, or lying in the mud under the van with
+antifreeze running all over you (have I mentioned recently I hate my
+waterboxers), or gasoline, or motor oil.  The truck really got under my skin
+this weekend.  I had intended in common sense to part with it because I know
+I'll take it too far, don't have the time, or the money now, but damn if I
+didn't see an add asking more this last week for one in worse shape, and
+after the windshield surround was done I looked down at the perfect contours
+in gleaming new pastel white paint, and started saying, well it isn't that
+bad, if I just this, or just that I can stop real easy at a daily driver,
+and I've got that gallon fof french blue enamel I bought for that bus and
+never used, and I've got enough white for the top, and the sheetmetal will
+only cost me $300, and what else do I have to do next summer?  I mean I
+initially was going to blast just the windshield surround, do a quality
+quicky repair, but I just can't do this stuff half assed, so then I figured
+well no better time than now to pull and blast and paint that dash as I need
+to pull the wiper motor anyway and its SO much easier with the dash out, and
+then hell since I did that might as well blast down to the beltline, then
+thank god I was about to go ahead and blast the whole front end but I
+stopped short, I mean it is December for crying out loud even if I got a 70
+degree day to do the topcoat.  These things get under your skin, buy a MIG
+and you want a blaster, by the blaster you need a new spray gun, buy the gun
+and you need that positive pressure system.
+
+Bonding and whatnot.
+
+Hey the one with the most toys wins, even if you go 20 years early from lung
+cancer, what they hell I don't smoke :-)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F527717" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F527717" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F527717" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

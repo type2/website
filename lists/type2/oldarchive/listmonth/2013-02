@@ -1,0 +1,1679 @@
+<html>
+<head>
+<title>type2 Mailing List Activity - 2013-02</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/listmonth/2013-02 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/listmonth/2013-02" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/listmonth/2013-02" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+  <div class="panel panel-primary">
+  <div class="panel-heading">type2 - 2013-02</div>
+  <table class="table">
+   <thead><tr><th>Subject</th><th>Date</th><th>From</th></tr></thead>
+   <tbody>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825939">RE: [T2] door panels</a></td>
+        <td>"Bob Pratt" <ka1dza(-at-)verizon.net></td>
+        <td>2013-02-01 19:08:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bob
+ 
+In God We Trust!!
+       (Deal With it)
+-----Original Message-----
+From: Steve MacD [mailto:weemac(-at-)gmail.com] 
+Sent: Monday, January 28, 2013 4:53 PM
+First, if there is any rust AT ALL, you'll want to clean the rust as best a
+you can, Spray Phos...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825910">Buses by the Beach - Bus BRRR at Pokagon State Park in Angola,</a></td>
+        <td>Pete O <pnoceanwesty(-at-)gmail.com></td>
+        <td>2013-02-02 15:59:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>2013 9th Annual Bus BRRR at Pokagon State Park in Angola, Indiana!
+
+February 24-25th, 2013
+
+This fund raising charity event is hosted by Buses By the Beach. (
+www.busesbythebeach. org) Bus BRRR is
+definitely for the *true*camping enthusiast and a great use...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825980">RE: [T2] door panels</a></td>
+        <td>"Bradley Spear" <mnexplorer(-at-)comcast.net></td>
+        <td>2013-02-04 17:06:17+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Or an Active Duty, Reserve, or Retired Military ID (like I have) will be
+accepted.
+
+Brad Spear
+'72 Westy
+Burnsville, MN
+USMC 1974-1980, US Army 1981-2001, Retired
+-----Original Message-----
+From: Steve MacD [mailto:weemac(-at-)gmail.com]
+Sent: Monday, Janu...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825901">Bus Sighting in Olympia</a></td>
+        <td>Lourd Baltimore <lourd_baltimore(-at-)yahoo.com></td>
+        <td>2013-02-07 08:35:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Does anyone own a bus in the Olympia area that has cedar shake siding?
+I
+friend of mine out there told me about it. 
+Just curious.
+
+Josh
+....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825929">TCWBC Head Count request</a></td>
+        <td>Greg Potts <greg(-at-)pottsfamily.ca></td>
+        <td>2013-02-07 22:56:46+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Volks,
+
+Could those interested in attending the True Canadian Winter Bus Campout 
+this weekend please p-mail to let me know if they'll be needing a campsite?
+
+I need to get a headcount to call the campground to make sure they have 
+enough sites plowed o...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825957">TCWBC Head Count request</a></td>
+        <td>Greg Potts <greg(-at-)pottsfamily.ca></td>
+        <td>2013-02-07 23:36:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Volks,
+
+Could those interested in attending the True Canadian Winter Bus Campout 
+this weekend please p-mail to let me know if they'll be needing a 
+campsite?
+
+I need to get a headcount before I call the campground to make sure they 
+have enough site pl...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825894">=?windows-1252?Q?child=27s_cot_=85_?=</a></td>
+        <td>John Dillon <johndillon(-at-)johndillon.com></td>
+        <td>2013-02-11 02:06:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825956">=?Windows-1252?Q?Re:_=5BT2=5D_child's_cot_=85_?=</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2013-02-11 02:39:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>http://type2.com/library/camper/cotpoles.htm
+
+57 1/4", 3 sided, galvanized = 74 - 75
+
+----- Original Message ----- 
+From: "John Dillon" Subject: [T2] child's cot  ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825963">Hankook RA08 owners</a></td>
+        <td>"treyjung" <treyjung(-at-)comcast.net></td>
+        <td>2013-02-11 15:48:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>What air pressure are you running in your tires? 
+
+ 
+
+Trey 
+
+1971 Westy Camper
+
+ 
+
+sub-header-bus...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825897">Re: [T2] Hankook RA08 owners</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2013-02-11 18:58:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Trey,
+
+I have been rolling Hankook RA08 on all my type 2 vehicles for many years
+now. Pretty much you follow the original guidelines and pressures for
+radial tires.
+
+30 psi front
+42 psi rear (unladen) 46 psi rear (with load)
+
+On a Westy, I run 30 psi front...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825932">Re: [T2] Hankook RA08 owners</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2013-02-12 05:19:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jon Stiles, on considerable experience, recommends
+
+>  42 psi rear (unladen) 46 psi rear (with load)
+
+	no dissent
+
+
+but then
+
+>  On a Westy, I run 30 psi front...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825976">Axle Lengths on '71 versus '72</a></td>
+        <td>"Jeffrey J. Westcott" <hull3551(-at-)yahoo.com></td>
+        <td>2013-02-12 21:49:24+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Are these the same length (and interchangeable) for both the T1 and T4 drivetrains from 68-79? From what I've seen online, they seem to be. 
+
+Thanks!
+
+Jeff
+'72 Weekender...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825965">Re: [T2] Axle Lengths on '71 versus '72</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-12 22:24:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 12 Feb 2013, Jeffrey J. Westcott wrote:
+
+> Are these the same length (and interchangeable) for both the T1 and T4 drivetrains from 68-79? From what I've seen online, they seem to be.
+
+
+Automatics have different half shaft lengths from all other bus...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825899">Re: [T2] Axle Lengths on '71 versus '72</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-13 00:34:23+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 12 Feb 2013 accessys(-at-)smart.net wrote:
+
+> Automatics have different half shaft lengths from all other buses and they 
+> are different left and right, however all automatics are the same.
+
+correction, type too fast.
+Automatics have different hal...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825948">naturalbus rafflebus</a></td>
+        <td>VWBrain(-at-)aol.com</td>
+        <td>2013-02-15 13:46:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>_http://www.thesamba.com/vw/classifieds/detail.php?id=1409166_ 
+(http://www.thesamba.com/vw/classifieds/detail.php?id=1409166) ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825982">Re: [T2] Hankook RA08 owners</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-16 00:25:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 12 Feb 2013, Robert Mann wrote:
+>
+> 	I know we have hevi-doodi theorists who can lay down dogmatic theory 
+> in response to such unusual ideas.  But has anyone actual experience with 
+> front 185R14c at 40 psi?
+
+I run mine just a bit higher at 32-3...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/960739">The 1959 DC is now Dove "freakin' " Blue...</a></td>
+        <td>"Bill Bowman" <bill(-at-)bnnta.com></td>
+        <td>2013-02-16 10:28:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi all,
+
+After about three months in the body shop for a slow but steady body
+work/restoration, the dis-assembled shell of my '59 Double-Cab was finally
+painted on Friday afternoon. Here is a link to a theSamba.com "what did you do
+for your Bus today" thre...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/960801">Re: [VB] The 1959 DC is now Dove "freakin' " Blue...</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2013-02-16 13:13:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Looks nice. Did you use bondo to smooth out the ribs in the floor? I'm
+just wondering if it will hold up under the stress of use. Mine need
+smoothing too.
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825978">mofoco</a></td>
+        <td>John Dillon <johndillon(-at-)johndillon.com></td>
+        <td>2013-02-16 23:39:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825923">Re: [T2] mofoco</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-17 00:22:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Such language!!! GRIN!
+
+Are they still in business?
+
+Chris in TN...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825930">TCWBC 2013 Trip Report</a></td>
+        <td>Greg Potts <greg(-at-)pottsfamily.ca></td>
+        <td>2013-02-17 03:04:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It's hard to believe it was already a week ago that I was sitting at the 
+campfire swapping stories with a few of the local VW crowd, but it's 
+true nonetheless.
+
+Get this: TCWBC 2013 set a new record for the number of buses!!!
+
+Unfortunately, it was a rec...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825962">Re: [T2] mofoco</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2013-02-17 04:35:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sat, 16 Feb 2013, Joe Average wrote:
+
+> Are they still in business?
+
+Yep.  Roy's active over on TS.
+
+Sounds like he's generally busy busy, but has been working hard to revive 
+the company after the bad years.
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825931">FI Fuel Leak - and Ice?</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2013-02-17 17:15:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>For starters, I have a 1968 with a 1915cc engine using an aftermarket
+Redline/Weber F.I. system.  I have a late model (~1976) gas tank with two
+fuel lines (feed and return).
+
+Yesterday I was treated to gas dripping onto the driveway. One of the fuel
+lines ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825907">Re: [T2] FI Fuel Leak - and Ice?</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2013-02-17 18:15:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>you pretty well answered your first question,,,
+if you didn't have that filter,, the crap in it would have been in your 
+pump....
+good idea to have one there..
+
+as for ice.... leaking gas is COLD.. and will attract moiture in the air.. 
+so at the right dew...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825888">Re: [T2] FI Fuel Leak - and Ice?</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2013-02-17 19:28:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks, Jamie.
+
+The filter on the low pressure side is the same filter I used when I had a
+normal carb'd engine.  I guess I was concerned that it might have trouble
+keeping up with the draw of the FI fuel pump, given the much higher
+pressure the FI fuel fi...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825913">Re: [T2] FI Fuel Leak - and Ice?</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2013-02-17 19:36:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Yes,, a filter for the EFi pump must flow enough ,,, not enough flow will 
+speed up the liquid, and liquid moving at a fast pace will displace its 
+latent heat.. and freeze...
+put a large filter in place, and the flow goes down, allowing less temp 
+change,...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825967">Re: [T2] FI Fuel Leak - and Ice?</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2013-02-18 00:57:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Greg,
+How is that FI working out for you?
+
+I am in the process of installing an FI system on my 64 with a 1776cc 
+engine. The kit supplier recommended that the fuel filter be installed 
+upstream of the pump. Sounds like a good idea. The kit is a megasquirt...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825905">Re: [T2] FI Fuel Leak - and Ice?</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-18 01:24:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sun, 17 Feb 2013, C. Dreike wrote:
+
+> I am in the process of installing an FI system on my 64 with a 1776cc
+> engine. The kit supplier recommended that the fuel filter be installed
+> upstream of the pump. Sounds like a good idea. The kit is a megasquirt...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825951">Re: [T2] FI Fuel Leak - and Ice?</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2013-02-18 01:51:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>To be clear, upstream means between the tank and the pump, right?
+
+.
+.
+.
+Greg U
+
+On Sun, Feb 17, 2013 at 7:57 PM, C. Dreike  wrote:
+
+> Greg,
+> I am in the process of installing an FI system on my 64 with a 1776cc
+> engine. The kit supplier recommended that...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825926">Re: type2 Digest 18 Feb 2013 04:00:00 -0000 Issue 14042</a></td>
+        <td>Bob Hodgin <mtnair(-at-)skybest.com></td>
+        <td>2013-02-18 04:26:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello,
+Do you mind sharing who you are getting the FI system for your bus 
+is? I would like to replace the carb
+with a dependable FI system.
+Thanks,
+Bob
+
+
+
+At 11:00 PM 2/17/2013, you wrote:
+>type2(-at-)type2.com...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825972">Re: [T2] FI Fuel Leak - and Ice?</a></td>
+        <td>"C. Dreike" <c.dreike(-at-)verizon.net></td>
+        <td>2013-02-18 05:14:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Yes, upstream means the filter is between the fuel tank and the pump.
+
+Chris 
+
+Scientists seek to understand what is, 
+while engineers seek to create what never was....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825986">Delete from your address book</a></td>
+        <td>"HaitiLarry" <baillybusbarn(-at-)juno.com></td>
+        <td>2013-02-19 04:04:25+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>As most of you already know, my husband, Larry, passed away October 30,2012.
+Due to his past involvement with many groups and individuals,he is receiving
+many emails and i just can't seem to keep up. I have other things attached to
+this email address so i ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825950">Re: [T2] Re: type2 Digest 18 Feb 2013 04:00:00 -0000 Issue</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2013-02-19 14:50:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The FI system I have is from
+
+http://www.redlineweber.com/html/Fuel_Injection/Fuel_Injection_Table_of%20_Contents1.htm
+
+I have only driven it ~3,000 miles so it is hard to talk about
+reliability.  So far, it has worked well on a non-stock engine (Type1
+191...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825945">[T2] Re: type2 Digest 18 Feb 2013 04:00:00 -0000 Issue</a></td>
+        <td>Martin Strandgard <mnstra(-at-)unimelb.edu.au></td>
+        <td>2013-02-19 21:53:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> The engine is smooth, powerful, and thirsty.
+>Hopefully I can finally get that last point sorted out this spring.
+
+If you don't already have one, get a wideband air fuel meter and read the
+following:
+
+http://www.thesamba.com/vw/forum/viewtopic.php?t=2938...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825983">Power</a></td>
+        <td>Mark L Hineline <hineline(-at-)ocotillofield.net></td>
+        <td>2013-02-19 22:00:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Yesterday I was going up grade, not too bad, but floored and losing  
+speed, when an older baywindow with (I presume) an upright engine blew  
+past me. I've got some work to do, don't I? (1982 Vanagon Westfalia).
+
+Mark...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/960742">Body repair in Phoenix</a></td>
+        <td>Bob Wohl <bob.wohl(-at-)gmail.com></td>
+        <td>2013-02-19 22:14:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi All,
+
+I'm attempting to locate some VW experienced body guys in the phoenix
+area that could replace the corner on my 67 microbus. The guys I know
+have a long list of people in line before me (we're talking months
+out) so I'm trying to expand my circle s...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825933">Re: [T2] Re: type2 Digest 18 Feb 2013 04:00:00 -0000 Issue</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-19 22:19:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 19 Feb 2013, Martin Strandgard wrote:
+
+>> The engine is smooth, powerful, and thirsty.
+>> Hopefully I can finally get that last point sorted out this spring.
+>
+> If you don't already have one, get a wideband air fuel meter and read the
+> following:...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825922">Re: Power</a></td>
+        <td>j syder <scintilla_22(-at-)yahoo.com></td>
+        <td>2013-02-19 23:28:12+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi Mark,
+Nah, probably bone stock Bay.  I just got used to everything being faster,
+especially uphill. 1983 Westy (A/C). I don't try to keep up, just be happy
+that it is still going and will get there.    CHT is good to have.  Only way
+to "keep up" is to g...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825981">Re: [T2] Re: Power</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-20 02:52:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Passing anything in a VW bus - even if another VW bus - has always been 
+a proud moment for me personally. ;)
+
+Chris in TN...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825909">Vanagon AC Westy vs Bay Westy</a></td>
+        <td>Earthshterman <earthshelterman(-at-)gmail.com></td>
+        <td>2013-02-20 04:16:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>This is a discussion that never ends.
+Keep both of them as light as possible and you BOTH will be happy. My favorite
+was the 71 Westy with a dual port 1600. Have a 85 Westy with 2.2 Suby and am
+quite pleased. All the air cooled units work great if you slow...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825936">Re: [T2] Power</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2013-02-20 05:18:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 19 Feb 2013, Mark L Hineline wrote:
+
+> Yesterday I was going up grade, not too bad, but floored and losing speed, 
+> when an older baywindow with (I presume) an upright engine blew past me. I've 
+> got some work to do, don't I? (1982 Vanagon Westfa...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825961">Re: [T2] Re: type2 Digest 18 Feb 2013 04:00:00 -0000 Issue</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2013-02-20 05:27:20+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 19 Feb 2013, accessys(-at-)smart.net wrote:
+
+> which will drive you nuts,  I have one and I swear it is dead on by the specs 
+> but my engine is still thirsty, is dead of winter now so am waiting for 
+> spring to pull out the rest of my hair...
+
+ye...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825906">Re: [T2] Power</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2013-02-20 05:52:48+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>At 12:18 AM -0500 20/2/13, David Raistrick wrote:
+>On Tue, 19 Feb 2013, Mark L Hineline wrote:
+>
+>>Yesterday I was going up grade, not too bad, but floored and losing 
+>>speed, when an older baywindow with (I presume) an upright engine 
+>>blew past me. I'v...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/825970">Re: [T2] Power</a></td>
+        <td>"Fairview Mail" <ajmcginn(-at-)comcast.net></td>
+        <td>2013-02-20 06:28:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>      Ya just gotta get in the slow lane with the trucks and hang-in there, 
+in third if possible, hoping for 45 mph, and knowing a downhill is usually 
+not far off. I blew about four engines in a '68 bus learning this. Instead 
+of a life being trapped beh...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901767">Re: [T2] Re: Power</a></td>
+        <td>David Kelly <volknstein(-at-)yahoo.com></td>
+        <td>2013-02-20 14:08:07+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It is funny. After burning up a couple or engines myself (One not completely
+my fault, GEX...) I look at passing cars on the highway the same way an smoker
+looks at smoking. I think to myself,"There goes another 15 min off the end off
+my life, but man that...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901833">Re: [T2] Power</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-20 15:36:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Tue, 19 Feb 2013, Fairview Mail wrote:
+
+>     Ya just gotta get in the slow lane with the trucks and hang-in there, in 
+> third if possible, hoping for 45 mph, and knowing a downhill is usually not 
+> far off. I blew about four engines in a '68 bus lear...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901796">Re: [T2] Re: Power</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-20 15:39:15+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Wed, 20 Feb 2013, David Kelly wrote:
+
+> my fault, GEX...) I look at passing cars on the highway the same way an smoker
+> looks at smoking. I think to myself,"There goes another 15 min off the end off
+> my life, but man that felt good!"
+>
+> On Feb 19, 20...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901810">Re: [T2] Re: Power</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-20 20:12:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>> about the only thing I pass
+> is a parked car.
+> .
+
+HAHAHA - I know what you mean!
+
+Chris...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901780">Mystery VW seats...</a></td>
+        <td>Jonathan Stiles <misterstiles(-at-)gmail.com></td>
+        <td>2013-02-21 20:22:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>An old timer hot-rod builder gave me a set of front seats a couple of days
+ago. He swore they were out of "an old VW". What type he could not say.
+They are offset like a Type 3 and pretty bare bones. They most likely came
+off of a vehicle with a transmissi...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901811">Re: [T2] Mystery VW seats...</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-21 20:47:11+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>They are low back seats so they are older than 1967 I think.
+
+Chris...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901749">Re: [T2] Re: Power</a></td>
+        <td>Mark L Hineline <hineline(-at-)ocotillofield.net></td>
+        <td>2013-02-21 20:55:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks for all your thoughts about power, passing, and whatnot. Maybe  
+I just won't worry about it.
+
+Mark
+1982 Westfalia...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901798">Re: [T2] Mystery VW seats...</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2013-02-21 21:10:52+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My 1968 Kombi had low back (no headrests) seats.
+
+Greg U
+.
+.
+.
+
+On Thu, Feb 21, 2013 at 3:47 PM, Joe Average wrote:
+
+> They are low back seats so they are older than 1967 I think.
+>
+> Chris...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901840">Re: [T2] Re: Power</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-21 21:20:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 21 Feb 2013, Mark L Hineline wrote:
+
+> Thanks for all your thoughts about power, passing, and whatnot. Maybe I just 
+> won't worry about it.
+
+enjoy the scenery
+drive at a human pace
+man was never made to go that fast.
+my sweet spot is about 58mph
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901815">Re: [T2] Re: Power</a></td>
+        <td>David Kelly <volknstein(-at-)yahoo.com></td>
+        <td>2013-02-21 22:17:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>You should always make sure your VW is in tune especially dwell,(if using
+points)  timing, and make sure you have the correct dizzy so that you have the
+right advance curve. You can verify that with the part number and check out
+oldvolkshome.com. That is s...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901783">Re: [T2] Mystery VW seats...</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2013-02-21 22:29:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 21 Feb 2013, Jonathan Stiles wrote:
+
+> An old timer hot-rod builder gave me a set of front seats a couple of days
+> ago. He swore they were out of "an old VW". What type he could not say.
+> They are offset like a Type 3 and pretty bare bones. They ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901814">Re: [T2] Mystery VW seats...</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-21 22:32:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I was certain that after 1967 everything had to have some sort of 
+headrest if sold in the USA.
+
+Chris
+
+On 02/21/2013 03:10 PM, Gregory Urban wrote:
+> My 1968 Kombi had low back (no headrests) seats....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901809">Re: [T2] Mystery VW seats...</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-21 22:36:08+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 02/21/2013 04:32 PM, Joe Average wrote:
+> I was certain that after 1967 everything had to have some sort of 
+> headrest if sold in the USA.
+Looks like D.R. answered those questions. Thanks.. .
+
+C...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901800">Re: [T2] Mystery VW seats...</a></td>
+        <td>David Kelly <volknstein(-at-)yahoo.com></td>
+        <td>2013-02-21 22:39:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My 68 also has low back seats without head rests. I know it was produced in
+67. Do 69 buses have head rests? Didn't VW buses use the same seats until 73
+or so?
+
+David
+Sent from my iPhone
+
+On Feb 21, 2013, at 5:32 PM, Joe Average  wrote:
+
+> I was certain th...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901802">Re: [T2] Mystery VW seats...</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2013-02-21 22:49:44+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 21 Feb 2013, Joe Average wrote:
+
+> I was certain that after 1967 everything had to have some sort of headrest if 
+> sold in the USA.
+
+Busses may have fallen into "truck" categories, dunno.  but I've 
+personally owned 69 and 75s with known histories...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901751">Re: [T2] Re: Power</a></td>
+        <td>Scott Busby <swbusby(-at-)gmail.com></td>
+        <td>2013-02-22 00:24:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Yup my sweet spot is also cruising about 58 mph on my 74 Bay 1800. I can
+relate to the part about accelerating before a hill to help with the speed
+during the climb. I do have a CHT, so if my temps start to rise into the
+high 300s, its time to downshift an...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901770">Re: [T2] Mystery VW seats...</a></td>
+        <td>Neal Jarvis <njarvis(-at-)leaders.org></td>
+        <td>2013-02-22 00:26:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My 71 Westfalia has low back seats that are original to the bus.
+
+Neal
+
+Please Note My Personal Email: nealfjarvis(-at-)gmail.com
+
+
+Sent from my iPhone.
+Please forgive the typos.
+
+On Feb 21, 2013, at 5:33 PM, Joe Average  wrote:...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901816">Sorry, </a></td>
+        <td>"Squid" <sydclarke(-at-)shaw.ca></td>
+        <td>2013-02-22 00:47:39+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I was driving a '79 Westy with FI..wonderful vehicle!
+Cheers
+Syd...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901754">Re: [T2] Mystery VW seats...</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-22 00:57:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Thu, 21 Feb 2013, Neal Jarvis wrote:
+
+> My 71 Westfalia has low back seats that are original to the bus.
+
+hmm, my 71 kombi bought new from the dealer had headrests.
+
+Bob...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901831">Re: [T2] Re: Power</a></td>
+        <td>Tom Tarka <tommy(-at-)roadtrip.net></td>
+        <td>2013-02-22 01:02:14+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I had a blast passing RVs on the way to burning man a few years ago in my
+splitty.
+
+We were westbound on I-80 heading up into the Rockies when I stopped for gas
+and to zip tie the heaters open. It was in the low thirties and we were
+freezing... We met a bu...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901758">Door lock/handle(inner)</a></td>
+        <td>Mister C <emcrites(-at-)msn.com></td>
+        <td>2013-02-22 01:46:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello listees,
+I already checked the Samba and Busted Bus and I'm drawing a blank here.  I
+need a chrome D/S door handle/lock for a '70 bus.  Anybody have a stash or a
+good donor?  Please email me off-list.  Thanks!
+Eron...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901771">Re: [T2] Re: Power</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2013-02-22 02:05:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I was doing the same... I love stuffing my license plate in their face... 
+2SLO2BAD .... lol
+then.. a blasted split bus zoooms by..... $%^* .... ruins the day!   Making 
+my 80mph look like 45...
+
+Jamie
+74 Westfalia.. 457 R&P 0.82 4th... 2.0 T4 ....150psi
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901781">Re: [T2] Re: Power</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2013-02-22 02:13:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>From: "Scott Busby"
+> Yup my sweet spot is also cruising about 58 mph on my 74 Bay 1800. I can
+> relate to the part about accelerating before a hill to help with the speed
+> during the climb. I do have a CHT, so if my temps start to rise into the
+> high 30...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901794">Re: [T2] Re: Power</a></td>
+        <td>"Thomas J. Tarka" <tommy(-at-)roadtrip.net></td>
+        <td>2013-02-22 04:25:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Jamie,
+
+I've had that happen to me to on the way to Burning Man when I was in my 
+'71.  I wasn't going 80 though... :-)
+
+Cheers,
+    Avo
+
+On 2/21/13 9:05 PM, Jamie wrote:
+> I was doing the same... I love stuffing my license plate in their 
+> face... 2SLO2B...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901748">Re: [T2] Re: Power</a></td>
+        <td>Robert Mann <robtm(-at-)xtra.co.nz></td>
+        <td>2013-02-22 08:08:31+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Dave 'Kelly' Volknstein quoth wisely:
+
+>You should always make sure your VW is in tune especially dwell, (if using
+>points)  timing, and make sure you have the correct dizzy so that you have the
+>right advance curve.  You can verify that with the part numb...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901747">Re: [T2] Re: Power</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2013-02-22 08:44:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>425 is engine damage range:
+
+http://www.914world.com/specs/JakeRabyHeadTemps.php...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901822">Re: [T2] Power</a></td>
+        <td>Andy McKinley <airhedz(-at-)gmail.com></td>
+        <td>2013-02-22 12:01:50+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I cannot believe the Prius owners here In California. When you have a VW
+bus riding your ass in the number one lane, move the fock over; You're
+going too slow.
+
+I have attained speeds in excess of 95 mph (gps) on the downhill of a pass
+(Altimont) in a bone...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901799">Re: [T2] Mystery VW seats...</a></td>
+        <td>Max Bronsema <max.bronsema(-at-)gmail.com></td>
+        <td>2013-02-22 15:36:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>My '71 Westphalia has low back seats with no head rests. They are OE as far
+as I have seen on other '71 buses. What do the dealer headrests look like?
+
+Max
+
+On Thu, Feb 21, 2013 at 4:57 PM, Bob wrote:
+
+> On Thu, 21 Feb 2013, Neal Jarvis wrote:
+>
+>  My 71 W...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901745">Re: Power</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-22 15:37:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>And how!!!
+
+Even in my daily driver I've begun to slow down. Its a well used 247,000 
+mile CR-V and it's kind of noisy on the highway - lots of road noise. 
+Like a VW van in that regard.
+
+Anyhow it has a quiet spot at 72 mph when the engine seems to be 
+qu...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901776">Re: [T2] Mystery VW seats...</a></td>
+        <td>gretnagreg <gretnagreg(-at-)yahoo.com></td>
+        <td>2013-02-22 15:42:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>1973 was the first year that built-in headrests were offered in type 2's.
+
+
+
+________________________________
+My '71 Westphalia has low back seats with no head rests. They are OE as far
+as I have seen on other '71 buses. What do the dealer headrests look l...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901790">Re: [T2] Mystery VW seats...</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-22 18:11:58+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>So headrests were an option for a while before they became standard?
+
+Chris...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901760">Re: [T2] Mystery VW seats...</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2013-02-22 18:16:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Fri, 22 Feb 2013, Joe Average wrote:
+
+> So headrests were an option for a while before they became standard?
+
+Yep.
+
+It's possible they became standard or were a more typical option on 
+passenger busses earlier than for campers.   A lot of early bay pass...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901743">Re: [T2] Mystery VW seats...</a></td>
+        <td>gretnagreg <gretnagreg(-at-)yahoo.com></td>
+        <td>2013-02-22 18:19:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I worked at the VW dealership back in the 70's.  There were no pre-'73's with
+headrests.  If you go to the samba dot com and look at the owner's manuals,
+1973 is the first year which references head rests.
+
+
+
+
+
+--...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901824">Re: [T2] Re: Power</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2013-02-22 21:54:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>yah,, I know...  I am happy as if I am in my right mind...as I 
+get 100k, km out of T4 engine running ,, tuned up my way... so,, maybe my 
+VDO guage is not accurate... cause 425 is avg,,  I usually get off the pedal 
+when it hits near 450... let it cool ba...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901791">Re: [T2] Power</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2013-02-22 21:56:34+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Amen! ,,, I get 20mpg tho... maybe the imperial gallon is larger? ;)
+
+----- Original Message -----
+
+> Why do I get only 15 mpg?
+> If it's not WOT, you're not going as fast as you possibly can. It's a good
+> thing I drive a VW bus and not a Porche....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901746">Re: [T2] Power</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-22 22:04:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>With the imperial gallon, you'd be getting 39 mpg... GRIN!
+
+I'm always getting confused by those conversions.
+
+Chris
+
+On 02/22/2013 03:56 PM, Jamie wrote:
+> Amen! ,,, I get 20mpg tho... maybe the imperial gallon is larger? ;)...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901775">Re: [T2] Power</a></td>
+        <td>"Jamie" <jrivers(-at-)globalserve.net></td>
+        <td>2013-02-22 22:10:00+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>well,, just for fun on friday,,, go ahead and convert 10 liters / 100 km
+
+to $ of gas per hour....
+
+assuming the Interstate average speed limit.. at todays gas prices
+
+Thanks Class!
+Jamie :-)
+
+
+From: "Joe Average" 
+> With the imperial gallon, you'd be gett...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901830">72 dash in a 74 bus</a></td>
+        <td>Monty Rowden <montyrowden(-at-)yahoo.com></td>
+        <td>2013-02-23 18:15:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey guys, will a 72 dash fit in a 74 bus without modifications? ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901825">72 dash in a 74 bus</a></td>
+        <td>Monty Rowden <montyrowden(-at-)yahoo.com></td>
+        <td>2013-02-23 21:11:58+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I should have clarified, will I have to make any modifications to the steering column bracket, to fit the 72 dash in my 74 bus? Or any other modifications for that matter ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901773">bumper</a></td>
+        <td>blueram1016(-at-)cs.com</td>
+        <td>2013-02-24 18:13:41+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hey guys and girls, I am looking for a front bumper part num
+211707111BU for a 1971 Bay Window Bus.I found stainless but would like
+to get one either primed or painted. My back one is painted white and
+would like to match them. Thanks Blueram1016(-at-)cs.c...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901808">70 Door Latch Assemblies</a></td>
+        <td>Gofishpokey <gofishpokey(-at-)cox.net></td>
+        <td>2013-02-24 18:47:54+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Does anyone know where I can locate 1970 bus door latch assemblies?
+
+Be yourself, everyone else is taken.
+Kind regards and have a fun day!
+Keith...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901793">Re: [T2] bumper</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2013-02-24 21:11:35+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Bus Depot sells them.
+
+http://www.busdepot.com/211707311h
+
+They were only $149 when I bought mine in 2010.
+
+Greg U
+
+
+On Sun, Feb 24, 2013 at 1:13 PM,  wrote:...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901835">RE: [T2] bumper</a></td>
+        <td>"Bradley Spear" <mnexplorer(-at-)comcast.net></td>
+        <td>2013-02-24 23:36:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>The link is for a rear bumper.  He is looking for a front one.  I just sold
+a really nice one to a friend of my son for $125.
+
+Brad Spear
+'72 Westy
+Burnsville, MN
+
+-----Original Message-----
+From: Gregory Urban [mailto:urban(-at-)yaic.com] 
+Sent: Sunday, 2...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901756">Re: [T2] bumper</a></td>
+        <td>John Kolak <jkolak(-at-)gmail.com></td>
+        <td>2013-02-25 00:08:55+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Mon, Feb 25, 2013 at 4:11 AM, Gregory Urban  wrote:
+
+> They were only $149 when I bought mine in 2010.
+
+I guess the days of the $20 JC Whitney bug bumpers are over! Of
+course, JC Whitney wasn't heavy duty steel either!
+
+John...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901774">Argo VW Scene</a></td>
+        <td>Lourd Baltimore <lourd_baltimore(-at-)yahoo.com></td>
+        <td>2013-02-25 08:51:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>https://www.youtube.com/watch?v=QOdelmR6dkA
+
+Haven't seen the movie, but it's
+picked up a bunch of awards at the Golden Globes, BAFTAs, and Oscars.
+They put
+some gratuitous bus Pr0n in it for us...
+
+Josh
+....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901805">Re: [T2] Hankook RA08 owners</a></td>
+        <td>Tim Frank <timros(-at-)iinet.net.au></td>
+        <td>2013-02-25 11:23:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On 12/02/2013, at 2:48 AM, treyjung wrote:
+
+> What air pressure are you running in your tires?
+>
+Hi
+
+Only just saw this post (haven't been able to read emails for a while).
+
+We run 32psi front and 42 psi rear (195C14) for normal running.
+When going on long...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901797">Fwd: [T2] bumper</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2013-02-25 13:26:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Oops.  My bad.
+
+Need. More. Coffee.
+
+Greg U
+.
+
+
+On Sun, Feb 24, 2013 at 6:36 PM, Bradley Spear wrote:
+
+> The link is for a rear bumper.  He is looking for a front one.  I just sold
+> a really nice one to a friend of my son for $125....</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901803">Re: [T2] 70 Door Latch Assemblies</a></td>
+        <td>Gregory Urban <urban(-at-)yaic.com></td>
+        <td>2013-02-25 13:33:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Try Justin (-at-)
+
+Baughman Locksmith
+1201 South 9th Street
+Altoona PA 16602
+(814)931-8538
+vwkey)yahoo.com
+
+He might be able to point you in the right direction.
+
+Greg U
+
+
+On Sun, Feb 24, 2013 at 1:47 PM, Gofishpokey  wrote:...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901841">Re: type2 Digest 25 Feb 2013 04:00:00 -0000 Issue 14059</a></td>
+        <td>David C Matthews <dcm7293(-at-)gmail.com></td>
+        <td>2013-02-25 18:33:51+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Greetings-
+
+Well, at long last my bus is *very* close to being ready for a road trip --
+just in time for Spring!
+
+Any suggestions?
+
+I'm in the SouthEast US, btw, and am trying to avoid the temptation to jump
+right in with a long-ish trip.  Maybe a coordina...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901752">Bus Gettin' Ready</a></td>
+        <td>David C Matthews <dcm7293(-at-)gmail.com></td>
+        <td>2013-02-25 18:35:32+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Greetings-
+Well, at long last my bus is *very* close to being ready for a road trip --
+just in time for Spring!
+Any suggestions?
+I'm in the SouthEast US, btw, and am trying to avoid the temptation to jump
+right in with a long-ish trip. Maybe a coordinated ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901768">Re: [T2] Bus Gettin' Ready</a></td>
+        <td>accessys(-at-)smart.net</td>
+        <td>2013-02-25 18:59:26+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>maybe a carabus to an upcoming get together, not sure when everybus is 
+this year.
+
+Bob...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901759">Re: [T2] Bus Gettin' Ready</a></td>
+        <td>David Raistrick <keen(-at-)icantclick.org></td>
+        <td>2013-02-25 20:11:03+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Depending on where in the southeast you are, the No Dough Bus Show in Daytona
+is only a few weeks away.  Grab onto a carabus and join the weekends fun...
+:)
+
+
+...
+--...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901784">Re: [T2] Re: type2 Digest 25 Feb 2013 04:00:00 -0000 Issue</a></td>
+        <td>David Kelly <volknstein(-at-)yahoo.com></td>
+        <td>2013-02-26 00:22:43+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello David,
+
+First off, congratulations on getting this far on your bus project!  No one
+knows how hard that is unless they have attempted it. Can you give the list a
+list of things that you have checked/restored on your bus? Just want to make
+sure you ha...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901764">Re: [T2] Re: type2 Digest 25 Feb 2013 04:00:00 -0000 Issue</a></td>
+        <td>Joe Average <joeaverage(-at-)frontiernet.net></td>
+        <td>2013-02-26 15:54:40+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Start by driving that bus everyday for a month back and forth on your 
+errands and to work if you can.
+
+All the problems will work themselves out that way.
+
+Chris in TN...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901772">Carabus?</a></td>
+        <td>dcm7293(-at-)gmail.com</td>
+        <td>2013-02-26 17:25:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Sounds interesting!  Ends in Boone, NC (?), but starts where?
+
+-David
+
+
+Sent from my iPad...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/901777">tow bar advice</a></td>
+        <td>Happy Jack Feder <happyfeder(-at-)yahoo.com></td>
+        <td>2013-02-28 23:08:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi All!
+ 
+Hey, I'm looking for advice on buying a tow bar for my 76 Westy.
+Ease of installation, quality, and hopefully one with the square inset for
+hanging a bike rack or luggage box. Will usually pull a small utility trailer,
+maybe once every few years ...</code></pre></td>
+      </tr>
+    
+    </tbody>
+  </table>
+
+
+
+
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2013-02" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2013-02" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F2013-02" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

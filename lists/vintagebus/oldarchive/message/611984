@@ -1,0 +1,355 @@
+<html>
+<head>
+<title>vintagebus - Re: HELP E&B, part 3</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/611984 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/611984" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/611984" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: HELP E&B, part 3</h1>
+   <b>VeeWee111_at_aol_dot_com</b><br/>
+   <i>2002-05-31 02:39:32+00</i><br/>
+   <br/>
+   <pre>--part1_cc.c4969b6.2a283c64_boundary
+
+In a message dated 5/28/2002 11:53:43 AM Pacific Daylight Time,=20
+bfoley_at_integermidwest_dot_com writes:
+> Another frustrating weekend. Spark when turned by hand, no spark when turn=
+ed
+> by switch. So I figure it needs new + and - cables(the old ones were REALL=
+Y
+> bad). The starter didn't bog down as quickly but it still won't fire, even
+> when gas or ether is added to carb. So it's an ignition problem. Maybe.
+>=20
+> Too many variables, maybe. I'm quite sure the dizzy drive is in wrong but=20
+> in
+> my ignorance, I thought it could only go in 2 ways: Correct and 180=BA off=
+.
+> But since it has a gear on the end, I believe there are, like, 8 ways to
+> screw it up.  SO I put the motor at TDC (#1 piston was all the way up,
+> right?), the slot on the disty drive was not pointing straight up as shown
+> in the idiot book, it looks to be advanced one cylinder. So I moved all th=
+e
+> wires clockwise one setting. RRR-RRR-RRR-RRR-RRR -- nada.
+>=20
+> One other possibility: The webbed ground strap on the tranny? It's all=20
+> kinds
+> of gunked up. Could that be the problem?
+>=20
+> Can you advise me on any of this mess?
+>=20
+> Bill
+> 66 Standard
+
+Hi Bill,
+First the position of the distributor drive is not a problem as long as it=20
+allows the distributor to align up as to allow proper timing!  Next remove=20
+and clean your tranny grounding strap.  Followed by buying a voltage/ohm=20
+meter from your local hardware store for about $15-20.00.  Make sure to buy=20
+one that shows well the 0-15 range and we prefer the non-digital LCD type, i=
+n=20
+other words the ones with the old fashion needle to watch swing back a forth=
+.=20
+ Then check your voltage at the battery directly and check for voltage drop=20
+at each and every connection going from the battery to the starter to the=20
+fuse box to the headlight switch to the ignition switch and back the the=20
+starter solinoid.  Clean all connections and add a dab of vasalene, or=20
+dielectric grease to help prevent future corrosion.  Any componants that do=20
+not clean up either need to be replaced or repaired by soldering internal=20
+compontents together!
+Eric&Barb
+
+> >=20
+> >> It's a late '66, factory 12V with an aftermarket alternator/ regulator.=
+=20
+> It
+> >> was running in the early fall, but hasn't run after putting my dash bac=
+k
+> >> together after painting it. For a while, I wasn't getting juice to the
+> >> coil,
+> >> so I ran a new wire from the top of #2 fuse and the coil. Points, coil=20
+> and
+> >> regulator are now getting juice with switch in on position. Starter is
+> >> turning. I tried to get a spark by turning the engine by hand and=20
+> holding
+> >> the spark plug wire 1/2 inch from some bare metal. No spark, but the fa=
+n
+> >> belt that came with my alternator kit is sort of loose, even with no=20
+> shims
+> >> between the pulley (do you know the right part # for a smaller alt=20
+> belt?)
+> >> so it's tough to get her to spin. The distributor rotor turns okay,=20
+> though.
+> >> I even tried ether but it didn't fire. Out of about 10 attempts I THINK=
+=20
+> I
+> >> got
+> >> a brief sputter for about a second.
+> >=20
+> > You can check for spark without all the turning of the engine.  Though i=
+f=20
+> you
+> > have a helper just turn it over for you is the easiest way to do it.  Yo=
+u=20
+> can
+> > also turn the engine till it is at TDC #1 cylinder and check to make sur=
+e=20
+> the
+> > points are closed.  Remove the #1 sparkplug and make sure it is against
+> > something to ground it.  Turn on the ignition switch to power and remove=
+=20
+> the
+> > wire from the distributor that goes to the condensor on the distributor=20
+> and
+> > you should get a spark at the plug!
+> > If you have spark then you need to figure out if you have fuel.  Often i=
+t
+> > is a good idea to pour about a tablespoon down the carb to get the engin=
+e
+> > going.
+> > As for your fan belt problem we have no idea which lower, let alone whic=
+h
+> > upper pulley or even if they are stock that you are using.  Hopefully at
+> > least you are using the 2:1 lower pulley which almost always has a "D"=20
+> about
+> > 3/8" tall stamped on one of the pie shaped coragations of the pulley.
+> >=20
+> >> One clue: Starting drains the battery quickly and the - terminal clamp=20
+> was
+> >> so hot it gave me a blister. Zoinks! The ground strap appears okay.
+> >=20
+> > Do you have one of those darned repair clamped on to the cable battery
+> > terminal?  If so either get a new battery cable with clamp on it or=20
+> solder a
+> > brass clamp onto your old cable.  Otherwise take the repair clamp off th=
+e
+> > cable and brush clean the clamp and cable areas where they connect and=20
+> repeat
+> > this cleaning two or three times a year.  Also for any battery clamp it
+> > really helps to cut down on corrosion by soaking these battery clamps in=
+=20
+> a
+> > baking soda water solution to nuetralize all acid that has soaked into=20
+> them.
+> >=20
+> >=20
+> >> I'm ready to to tow the thing in to someone who knows what they're=20
+> doing.
+> >> I'm also considering trying to rig a switch in the back so I can test=20
+> spark
+> >> and so on whilst working alone.
+> >>=20
+> >> Any suggestions?    Bill     66 Standard
+> >=20
+> > Best you try to do as much as you can.  It will save you $$ in the long=20
+> run
+> > and better yet give you experience so you can do repairs yourself in the
+> > future!  So break out the Idiots manual by John Muir which is quite=20
+> hepfull
+> > for the begginer VW owner, & have the bus shop manual from Bentley for=20
+> all
+> > the tech info you will need.  above all keep asking questions!
+> > Eric&Barb
+> >=20
+>=20
+
+
+--part1_cc.c4969b6.2a283c64_boundary--</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F611984" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F611984" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F611984" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

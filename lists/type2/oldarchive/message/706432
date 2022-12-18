@@ -1,0 +1,344 @@
+<html>
+<head>
+<title>type2 - Tune Up into CV repair story</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/706432 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/706432" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/706432" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Tune Up into CV repair story</h1>
+   <b>Joel Danke &lt;JDANKE_at_macc.wisc_dot_edu&gt;</b><br/>
+   <i>1996-05-22 03:51:00+00</i><br/>
+   <br/>
+   <pre>Hi, peoples.
+ 
+This last weekend was spent elbow-deep in my bus ('77).  As with
+most time spent with our busses, the days turned into nights,
+and minor setbacks and successes took on a larger scale than
+perhaps warranted.
+ 
+The main job was to perform the tune-up which I had delayed
+throughout the winter and (much colder than average) spring.
+The bus had been subject to its first Chicago winter, and I am
+appalled at the amount of salt this area dumps onto its roadways!
+The corrosion had begun to inhibit the electrical connections, so
+a good scraping was also in order.
+ 
+I began (bright and early!) by reviewing what I needed to do, and
+performed a very thoughtful and easy-paced inspection of the engine
+bay and surrounding environs. "Ahh!" I said. "Look at the carbon on
+the plugs. Hmm... What is that pip on the points?  Ahh, I see."
+Then, crawling underneath for the visual inspection; what to my
+wondering eyes did appear, but a split CV boot and grease far and near!
+Actually, there wasn't all that much grease, and there seemed to
+be plenty inside the boot. Looks like I caught it in time.
+ 
+My previous experience with CV joints was repacking those in a
+Rabbit Diesel I have that used to run before I let my sisters get
+hold of it.  Actually, I didn't actually repack them so much as
+hang around while my dad repacked them, dropped the bearings all
+over, swore, sweated, and grunted, sheared off the special star
+socket, swore some more, tried to force the joint back into order,
+and so on.  I briefly thought about wrapping the boot in Saran Wrap,
+but my conscience got the better of me and I added two new boots
+to the shopping list.
+ 
+Onto my trusty bike, and pedal pedal pedal to a parts store. I get
+the boots, but no Bosch.  OK, I'll just try these other two nearby
+stores.  No Bosch.  Well, there's always TRAK. Lots of Bosch (and
+there was much rejoicing)! Closer inspection revealed that they
+only carried the condenser and points. Plenty of plugs, wires, caps,
+and rotors, but none for the bus. And, no, they can't order any other
+Bosch stuff, except the stuff they stock.  Very wacky.  Why on earth
+would they stock the points and condenser, but nothing else for the
+vehicle?  Another imponderable mystery of the universe to keep me
+company as I bike around to a couple more stores and fix-it shops.
+No luck.  And, oh yeah, the parts counter at the VW dealer a block
+from my house is closed on Saturdays.  Satisfaction is job 43, right
+after throwing in a mountain bike with a new Jetta. (No, I'm sorry,
+but you can't upgrade to an OCLV.)
+ 
+Anyway, it's plenty late, so I head home with Autolite plugs
+(and a tube of anti-sieze) and start gapping and adjusting and
+installing and scraping.  Get the tune-up part done right before
+dark, check that the bus starts, idles OK (not great, but better)
+and calls it a day.  I've gotta get those wires (just for completeness).
+ 
+Sunday morning, bright and early, I trek out to my bus with the
+6mm allen socket (I got lucky -- no starfangled recessed head cap
+bolts for me!) and a sharp pointy thing and get to work.  Because I
+was so smart yesterday, I had doused the bolt areas with Liquid Wrench
+to ease the pain.  Scrape, scrape, blow! and carefully loosen the
+bolts while watching to ensure the bolt was turning instead of rounding
+out.  Twenty minutes later I'm back at the ranch scraping off grease
+and struggling with the circlip.  Luckily, I was able to stop the first
+one from its aerial escape by knocking it to the ground with my left
+eye.  The reflexes of youth!  I'm staring at the shaft wondering how
+hard I need to pound on it when I give the star a tenative pull and
+it slides almost all the way off! Cool!
+ 
+The joint looks OK (SAE definition, of course) to my eyes; just a
+little black & blue, and definitely not as smooth of bearing surfaces
+as I see on my bike stuff.  But I make a decision, based partly on the
+fact that I don't want to drop the dough at this moment for a new joint.
+The grease was a little "loose," but not rusty or gritty, so I was
+lucky.  If any of youse think that the surfaces should be very smooth
+instead of "not tore up," please let me know so I can start saving
+pronto.  Oh, yeah, another observation is that the Previous Owner,
+who also had rebuilt the engine, had a fairly conscientious demeanor.
+The CV joints had previously been repacked, and they have small chisel
+marks to prove it. (much like the punch marks on the rods and pistons.)
+ 
+Reassembly was accompanied by my constant repitions of "easy, now... easy"
+as I thoughtfully tilted the outer part while inserting the bearings.
+It reminded me of those "old-timey" puzzles made of iron or wire, with
+loops and such that can be separated only a certain way.
+ 
+The near disaster came as I was lying underneath the bus and installing
+the driveshaft.  Start a couple of bolts to hold the wheel side, and then
+start the bolt into the tranny side.  It won't match up! I didn't pay
+attention and didn't put the star onto the shaft correctly! Oh no! Panic!
+Panic! Panic!
+ 
+I walked half a block to my apartment to get my tools and workstand when
+my mammalian brain kicked in.  "If the transmission is not connected to
+the wheel, and the bus is moved to and fro, then the alignement of the...
+Wait, wait, I got it!"  Near-disaster of needless work avoided! Woo-hoo!
+I *ran* back to the bus in joy.  Now I know why the crossmember of the
+frame has those holes cut in it -- handles for pulling the bus around
+while lying underneath!
+ 
+So, all in all, the repairs went smoothly and quickly.  I was soon heading
+out to a bike race with plenty of time to spare.  Of course, that's when
+the bus completely died unexpectedly; a recurrance of a problem I hoped
+had gone away.  This is that problem which everyone gets sometime -- the
+mysterious "fart" or "misfire" as it has most recently been called.
+ 
+So I spent many hours in a K-Mart parking lot testing my fuel injection
+system with no success.  I blame the temperature sender II located on
+the cylinder head, even though it demonstrates 1500 Ohm resistance.
+I found that terminal 9 on the air intake sensor was loose, the dual
+relay seemed to be operating correctly, and the grounds were solidly
+connected and clean. I also found that the juice to the injectors
+increased with the throttle (a crude test I know), and the timing and
+point gap were still OK.
+ 
+I need to completely replace the vacuum hoses, instead of just cutting
+off the split ends, assemble a fuel pressure guage, and spend more time
+with the air intake, including the temperature sender and flap.
+ 
+This post has gone on long enough, though, so I'll stick to the point
+by saying that my bus really exemplifies the Facts of Life. (You take
+the good, you take the bad, add them up and there you have the Facts
+of Life -- wasn't that written by Alan Thicke?)  Also, that if I were
+able to perform the repacking of CV joints in only a couple of hours,
+I am fully capable of tackling the other hurdles thrown at me by my
+happy little bus.  It really is happy, and though it has been beaten
+up by a drunk driver, and sways way too much in a crosswind, it makes
+me smile every time I walk to it.
+ 
+Watch for an upcoming story on The Hunt For the Component Which Causes
+My Bus to Stall and Die, Yet Permits Full and Normal Operation Only
+Moments Later, Though the Bus is Sometimes Hard to Restart.
+ 
+ 
+joel danke
+ </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F706432" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F706432" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F706432" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

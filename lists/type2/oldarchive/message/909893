@@ -1,0 +1,358 @@
+<html>
+<head>
+<title>type2 - Re: [T2] head temperature sensor</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/909893 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/909893" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/909893" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: [T2] head temperature sensor</h1>
+   <b>"Charles Watson" <sbcwat(-at-)hotmail.com></b><br/>
+   <i>2002-03-23 23:47:59+00</i><br/>
+   <br/>
+   <pre>Sorry Matt
+
+Its WD40 not WD9 (Just a elder moment).  I haven't used WD40 this way so 
+can't recommend it. Propane works but both are a little scary.
+
+Chuck
+
+>From: "MATT GUERWITZ" 
+>To: sbcwat(-at-)hotmail.com, type2(-at-)type2.com
+>Subject: Re: [T2] head temperature sensor
+>Date: Sat, 23 Mar 2002 23:00:57 +0000
+>
+>Hey Chuck,
+>
+>How are you? I just finished some work on my van. No success yet. This is
+>what I did today.
+>
+>I installed a new head temperature sensor. I started the van and the same
+>thing occured. It ran and then died shortly after. I next checked all 
+>vacuum
+>connections. Everything seemed to be fine. No cracked hoses and everything
+>seems to be connected properly. To confirm this I completely turned in
+>(clockwise) the hex screw on the Air Flow Measurement box as you suggested.
+>I started the van and the same thing happened. Absolutely no change. I
+>returned the screw to its original position (2 and one quarter turns out)
+>and tried the van again. Same thing happened. All battery connections are
+>clean.
+>
+>So what do you think? I don't know what to try next. Any advice?
+>
+>Thanks,
+>
+>Matt
+>
+>
+>----Original Message Follows----
+>From: "Charles Watson" 
+>To: bretty(-at-)hotmail.com
+>Subject: Re: [T2] head temperature sensor
+>Date: Thu, 21 Mar 2002 17:15:29 -0800
+>
+>Matt
+>I think that you have a major leak. Low level leaks would have to be
+>numerous to cause such a condition on their own. I have had ground strap
+>(battery to chassis) that caused all sort of weird symptoms. Just last 
+>month
+>a rusty strap caused starting problems. As I wiggled it it would go too a
+>few ohms. A big ugly NAPA strap fixed that problem. A poor strap from the
+>tyranny to chassis can cause the clutch cable to fail I am told. Seems
+>conduction through the cable causes metal migration problems.
+>
+>Its hard to work in the cold.  Hunting for vacuum leaks has been a way of
+>life for me and my 77.  I have to believe leaks are problematic in the 
+>older
+>FI models.
+>
+>You can adjust the Air Fuel Mix with the hex screw on top of the Air Flow
+>Measurement box. Turn it clock wise until it hits bottom (count the turns).
+>This is as rich a it can go. Hook up the sensor and see if it will run. 
+>This
+>mixture adjust inter acts with the idle adjust screw so the idle will most
+>likely be off. But if this lets it run with sensor hooked up it points to a
+>vacuum leak.
+>
+>In this case go to the Type2 search engine and type Vacuum leak for a 
+>wealth
+>of info.
+>
+>Good luck and let me know what you find.
+>Chuck
+>
+>>From: "MATT GUERWITZ" 
+>>To: sbcwat(-at-)hotmail.com
+>>Subject: Re: [T2] head temperature sensor
+>>Date: Fri, 22 Mar 2002 00:35:20 +0000
+>>
+>>Chuck,
+>>
+>>Last fall I was driving and the bus just died out. It didn't sputter or 
+>>run
+>>rough it just stop running. I pulled over took a look at the engine and
+>>seen nothing. It immediately started again and off I went. This continued
+>>happening. Not at an exact interval but consistently happening. It was
+>>usually around 10 or 15 minutes of driving. It was at the end of the year
+>>so I only drove a few times before I stored it for winter.
+>>
+>>I just took it out of storage and started it up and voila the new problem
+>>has come up. It starts, runs at high rpm(around 2000), and then dies after
+>>a minute. Everybody has been saying battery connections, vacuum tubes, or
+>>head temperature sensor.
+>>
+>>I have cleaned all battery connections but have yet to check the ground
+>>strap as someone mentioned. I have tested the sensor as I mentioned before
+>>and from what you were saying it seems to be working. I have not started 
+>>to
+>>look for vacuum leaks but I do know that there is a big vacuum hose that
+>>has a loose fit. It's the one that goes to the deaccellerator valve I
+>>believe. It's connected but should be clamped. Would a loose fitting hose
+>>cause such a problem?
+>>
+>>It has been snowing up here for the last week so not the most pleasent
+>>weather to work in. Anyway I would like to get it running and tune it up
+>>for spring.
+>>
+>>Thanks alot for your help,
+>>
+>>Matt
+>>
+>>
+>>----Original Message Follows----
+>>From: "Charles Watson" 
+>>To: bretty(-at-)hotmail.com
+>>Subject: Re: [T2] head temperature sensor
+>>Date: Thu, 21 Mar 2002 11:46:54 -0800
+>>
+>>Matt
+>>You are not wrong the colder the temp the higher the resistance and the
+>>richer the fuel/air mix. What happened to start this problem off?
+>>
+>>Chuck
+>>
+>>To: sbcwat(-at-)hotmail.com
+>>>Subject: Re: [T2] head temperature sensor
+>>>Date: Thu, 21 Mar 2002 18:33:20 +0000
+>>>
+>>>Thanks Chuck,
+>>>
+>>>I live in Ottawa, ON, Canada and it was about 0 degrees celcius yesterday
+>>>when I did the testing. Perhaps the cold temp is responsible for the high
+>>>resistance before start up. I always thought it was the opposite though.
+>>>That resistance decreased as temperature increased. Am I wrong? Anyway I
+>>>will check all the vacuum hoses and get back to you with what I find.
+>>>
+>>>Matt
+>>
+>>
+>>
+>>
+>
+>
+>
+>
+>
+>
+>_________________________________________________________________
+>Get your FREE download of MSN Explorer at http://explorer.msn.com/intl.asp.
+>
+></pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F909893" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F909893" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F909893" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

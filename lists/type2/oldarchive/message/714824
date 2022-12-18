@@ -1,0 +1,311 @@
+<html>
+<head>
+<title>type2 - Bus Trek Vol II</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/714824 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/714824" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/714824" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Bus Trek Vol II</h1>
+   <b>&quot;Richard Alexand Palmer&quot; &lt;rapalmer_at_eos.ncsu_dot_edu&gt;</b><br/>
+   <i>1996-07-19 17:08:48+00</i><br/>
+   <br/>
+   <pre>Howdy all. As we left our intrepid bussers, setting out about the country in a
+'67 and '70 bus, they were in the scenic mountains of NC.
+
+  I neglected to mention that when the '70 bus crew finally caught up with us
+Sunday evening on the Blue Ridge Parkway, the bus could barely cough her way up
+the road. As it was near dusk, we decided the problem would have to wait until
+we could see to fix it. Bright and early the next morning, we dug in. The
+valves were all fine, so the timing was next to check. AHA! the distributor
+clamp was loose as the steering on a 30 year old bus. It was one of those
+cheap, chrome clamps, and it just wouldn't work properly. Finally, after much
+coersion, we got the timing set, and the distributor firmly in place. The
+journey was finally about to start...
+  Uncle Joel had kindly agreed to let us visit him in Tuscaloosa, Alabama, so
+that was where we headed. After a day of driving, it became apparent that we
+were not going to make it that night, so we called him from a pay phone to tell
+him that he could rest easy, as the hippies would not be invading his driveway
+for another day.
+  The next day, we got an early start, and rolled into the lovely metropolis of
+Tuscaloosa in mid-afternoon. After pulling into his serene driveway, in a
+peaceful neighborhood, we beeped the horn, and all piled out of the
+multi-colored busses, ready to make the neighbors complain. After introductions
+and such, we were led into his house, a treasure trove of VW literature from
+all over. We pored over all sorts of books, and he let me log into his computer
+for a bit...He also showed us his model collection. Having made my share of
+messes with model glue, I was amazed with the collection he had built, to the
+extent of kitbashing a vanagon crew cab from a plain vanagon kit. It looked
+truly professional.
+  He gave us a tour of Gus, his heavily-gadgeted '88 Vanagon. He had all sorts
+of nifty things installed, from super foglights, to a CB, to a nifty trip
+computer which calculated mph, mpg, and other such wonders. (In metric as well)
+To match the round foglights, he had installed an earlier Vanagon front grill,
+with the round headlights.
+  We also checked out his super-clean '68 crew cab, as it sits waiting for me
+to buy it!
+:)
+It was in very good shape, but needed engine and brake work to get it up and
+running.
+  However, soon we had to get down to the dirty business of tracking down the
+oil leak in the '70 bus. We pulled the engine, and discovered a pinhole in a
+pushrod tube, and creases in another on the same side. So we stripped it down
+to the longblock, and removed the head. After agreeing to get parts the next
+day, we cleaned up and headed to a dinner buffet at a local restaurant. After
+previously dining sparsely on vegetables, the buffet was a welcome
+smorgasboard. We amused all the locals, who were trying to figure out what a
+respectable man like Joel was doing with 6 hippies. No doubt a probation
+officer taking his charges out for a treat!
+:)
+ After a tour of scenic Tuscaloosa, we turned in, agreeing to make an early
+morning of it. Joel mysteriously decided that it would be more fun to go poking
+through VW junkyards than go to work, so he would be our chauffer the next day.
+  Early the next morning, we set out in search of parts. After once again
+playing get-stared-at-by-locals in Hardee's, we set out in search of pushrod
+tubes. We found some things we needed at the FLAPS, but still needed to head to
+a VW yard out in the country. We arrived to find a heavenly assortment of old
+Bugs and Busses. While Joel and Nicole took care of business,  the rest of us
+wandered about in a daze through acres of early 60's bugs, and a ton of late
+model busses. I nearly cried at the sight of several busses sitting there that
+easily could be on the road. There was a PRISTINE '76 westy, just begging to be
+traveling. Another unusual sight was a '76 panel van, also in good shape.
+  All to soon, it was time to go. We had the parts we needed, including a
+better distributor clamp. Back at Joel's, we set about re-assembling
+everything. This proved to take longer than expected, and soon it was dinner
+time. Joel's nephew joined us for dinner, having never seen a split-window bus,
+or a bunch of hippies.
+  After dinner, we decided it was too late to set out, so we agreed to leave
+first thing in the morning. In the meantime, Joel regaled us with a slideshow.
+He had all sorts of pictures of his busses through the years, starting with a
+brand new '71, then a '73, and then his 3 Vanagons...There were also slides of
+his trip to the Grand Canyon years ago. I must say, he is a splendid
+photographer, and videographer as well. A while back, he had mounted a
+videocamera in a bus, and we got to watch action footage of him truckin' around
+in the snow. We then made him show us some of his drawings, which we had seen
+slides of. Wow, I know who I'm getting to design the next t-shirt!
+   Bright and early (and I do mean early) the next morning, we all set out, as
+we followed Joel to work, and then hit the highway.
+ I must thank him again, as well as all the other unsuspecting bus folks who
+had the pleasure of having us do engine work in their driveway.
+  A ways outside Tuscaloosa, on our way to Memphis, we turned 1000 miles of our
+trip so far.
+  Ok then, I shall leave off at this point. Tune in next week for "Hippies
+visit the King" or "Travelers find Memphis taken over by vicious mosquitoes"
+  Happy Friday,
+
+-- 
+Poor Richard
+
+ "I spend half my life explaining to Christians why I'm a Deadhead,
+ and the other half explaining to Deadheads why I'm a Christian."
+                    _______
+    .--------------/_______\-----.
+    `/""""/""""/|""|'|""||""|    '\    Richard Palmer rapalmer_at_unity.ncsu_dot_edu
+    /    /    / |__| |__||__|      |
+   /----------=====================|    '67 Walkthrough Pop-top, the Wild Goose
+   | \  /V\  /    _.               |    
+   |()\ \W/ /()   _            _   |    
+   |   \   /     / \          / \  |   _-( )
+  =C========C==_| ) |--------| ) |==] _-{_}_)
+    \_\_/__..  \_\_/_ \_\_/ \_\_/__.__.
+
+http://www4.ncsu_dot_edu/eos/users/r/rapalmer/www/
+Give me the simple life.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F714824" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F714824" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F714824" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

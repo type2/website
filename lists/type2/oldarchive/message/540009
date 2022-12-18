@@ -1,0 +1,315 @@
+<html>
+<head>
+<title>type2 - trip report pt. 3 long</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/540009 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/540009" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/540009" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>trip report pt. 3 long</h1>
+   <b>MotorHole_at_aol_dot_com</b><br/>
+   <i>2000-01-07 03:33:57+00</i><br/>
+   <br/>
+   <pre>12/27-12/30
+ I woke up the next morning and phoned the two sources for longblocks. One 
+was in Raleigh - a T. Hoff a German who rebuilds upright engines himself 
+and apparently did good work. The Second place was Hicks VW in Durham, which 
+sold the Mexican longblocks. The prices were fairly close but the Hicks block 
+came with a new oil cooler and though the price was a lot more than I could 
+rebuild one for back home, I was in a jackpot and had to get out, so I 
+ordered the Mexican block. I also purchase a new clutch plate and disc, two 
+new heater boxes and a generator for good measure, plus a couple of odds and 
+ends, including the heater accordian tubes. Christine wanted and needed heat 
+and I was going to deliver. 
+My friend Tony piled his wife and two kids into the rent a van and went to 
+pick up the motor, unfortunately the guy who I dealt with on the phone was at 
+lunch and somehow no one could take of me
+until he returned so they waited. Meanwhile I waited, pacing and watching the 
+sun. Talking to the guy who owned the motorcycle - turned out he was trapped 
+too, waiting for a new transmission.
+Finally they arrived at about 3pm - I had an hour and a half of sunlight at 
+best. I needed to be somewhat 
+social as these friends threw me a solid and hadnt seen me in six months, 
+but at the same time I really needed to get this motor built and in the bus 
+as quickly as I could. I worked as the little kids ran around  me and the 
+tools and parts making me nervous but I kept at it, installing the clutch, 
+pulley, shroud, oil cooler, heater box, intake and muffler combination. I 
+decided to remove the flaps as I was heading south and really didnt need to 
+worry about them getting stuck. After a while they left and I had the motor 
+built.
+It was now pitch black and getting cold again. I got the motor on the jack 
+and offered it up to the transmission. working the jack with my foot, on my 
+side guiding the motor bolts in, occasionally making adjustments to the 
+scissor jack under the tranny. I tried for two hours getting frustrated. It 
+wasnt going home. I tried the rocking horse winner - one hand on the fan 
+housing one on the muffler, no good, I greased prodded poked raised and 
+lowered but not good. I packed up washed up bought more fast food and ate 
+dinner with Christine - considering that we could could begin to rot away 
+from the food like Scotts men at the pole from lack of Vitamin C. But after 
+another pep talk from Charlie who called for a progress report, a good nights 
+sleep and a reflective ciggie and coffee - it occurred to me that the tranny 
+should be in gear when installing the motor, I had made this mistake millions 
+of times before - so I put it in gear and no it didnt quite go in, but 
+enough so I could get the bottom nuts on it and tighten it in a bit, then the 
+tops so it went in square, then the hookups and oil check now try it - turned 
+the key, the starter motor began whirring merrily but no pop - of the 
+turnover hmmm, now turning the key off but the starter continued to whirr, 
+damn how did this happen quickly disconnect the battery. check all wiring - 
+try again. same thing. Another problem was the generator belt they sold me 
+was way too small. I used my old one and it was still too tight using all the 
+shims. Called Hicks they claimed the battery was bad - it was a week old, and 
+the starter was bad - it was three weeks old - but admittedly a motorola 
+starter not a bosch. Anyway I had some discussion with The VW shop suggesting 
+they come out and help but they said they didnt think so. I asked them to 
+talk to the boss and give me a call back after talking to the boss - see if 
+they could bring me out a new starter, belt and generator pulley, but I never 
+heard from them again. Instead I went out and rent a car, which I should have 
+considered 3 days earlier, drove down to Bunn & Son, which is a real nice 
+outfit I highly recommend, I told the guy my story and he looked at me over 
+his half glasses and said that 10,000 bug motors had been rebuild in this 
+room in the 70s but he didnt have even one in stock these days. He did have 
+a couple of vanagons around the lot. Anyway he accurately diagnosed a bad 
+motorola starter which I confirmed by the screwdriver short test which also 
+caused the starter to run on until I disconnected the battery, and the tight 
+belt a result of a mismatched and tainted pulley. I dropped a small amount of 
+money for a used bosch starter which was all he had, a new pulley, some shims 
+and a new starter bushing. He also told to put my 009 back on the motor, for 
+fear the biscuit went bad. Its a hotly debated issue and Ive always been 
+all for the 009 but had recently tried the stock distributor and found it to 
+work okay. But I felt safe with the trusty 009 in this case. I got back, 
+switched on the  parts, the motor started and idle and ran beautifully. I 
+returned the rental car and within an hour we were on 95 south trying to put 
+Wilson NC in the rearview mirror. 
+I wouldnt go above 50 or so and we drove that way for about 200 miles 
+straight until my gas almost was gone and I was exhausted. We pulled into a 
+motel in Summerton SC and had a good rest. The next day I did a quick check 
+of the valves and again we had to jump on the highway and head south. The 
+motor would just have to break in on the job. It was the 29th and the concert 
+started on the 30th at 4pm. Didnt think I could make it but I upped my top 
+speed to 55 for the second day and put about 550 more miles on 
+the bus, making it to Jensen Beach Florida. Next morning, the morning of the 
+show I really felt like changing the oil and rechecking the valves but I was 
+parked in my in-laws driveway and it was the type of neighbhorhood that 
+didnt have Vws and the driveway was the new kind that didnt have any oil 
+stains on it so I prayed and started it up and headed down to Fort Lauderdale 
+and then west on 595 for Alligator Alley to get to the show. On 595 west, 
+maybe an hour from the show - it looked like we might make it and then I 
+started hearing a high pitched noise - said to Christine do you hear that? 
+She didnt said I was being paranoid. or maybe I convinced myself I was, but 
+I hear a subtle change. It sounded to me like the circlip on my crosshaft was 
+loose and somehow the throw out bearing was rubbing or about to unclip and 
+throw itself around the inside of the bell housing. Well I said nah - weve 
+suffered enough kept going then suddenly there was no more moving forward. 
+the motor was still doing fine, we were still in the center lane of the 
+highway, but when I shifted into any gear there was nothing there. I wrestled 
+the bus to the exit and found a corporate parking lot to freak out in. I lost 
+it for a few seconds. Told her it was the transmission and that was the end 
+of the party. I got out and looked under and saw my driveshaft hanging. Oh, 
+okay jacked the bus up got under there with my allen key and managed to 
+reattach 5 of the 6 bolts, burned my foream on the heater box but didnt 
+really feel it in my exuberence we jumped back in and went to leave but now 
+it the motor wont catch - its as though its gasping for air, drowning 
+until some violent gas pedal pumping clears its throat and gets it clear 
+again. Keep going get close to the show. Get caught in traffic for two hours. 
+The clutch starts jerking when I let it out. Its hot out - high 80s, tired, 
+tire clutch tired driver somehow I make it into the show, park and we head 
+in. Only missed the first set. good. First song they play in called Wilson 
+I know it was for us</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F540009" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F540009" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F540009" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

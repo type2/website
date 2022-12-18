@@ -1,0 +1,337 @@
+<html>
+<head>
+<title>vintagebus - RE: Emergency spare parts list for traveling.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/617815 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/617815" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/617815" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>RE: Emergency spare parts list for traveling.</h1>
+   <b>&quot;Jamie Rivers&quot; &lt;meester_jamie_at_hotmail_dot_com&gt;</b><br/>
+   <i>1999-05-22 15:40:59+00</i><br/>
+   <br/>
+   <pre>Ya Brian,,, but YOU just *pass out* ;-) ontop of all this stuff when YOU hit 
+the sack! Don't forget that Great big dangerous German Flag You have Brian. 
+Hmmm scared that Ghia away...(inside joke Brian can explain)
+
+
+Hi all!
+I just had to *kid* with Brian, actually he does have all this stuff and 
+room for the dog too. I was so surprised by what could fit into a Bus that i 
+couldn't resist adding my 2¢
+When we first got our Westy, my Wife and I were discussing what we had 
+onhand to put in the camper for our first trip, and I was wondering what I 
+would need in the event of a breakdown. She was quite happey to have me 
+*take off* (I think those where her exact words) to get some spares. When I 
+returned she had all the camping gear spread out in the house, all over the 
+kitchen, dining room AND the living room! I think my comment was "Remember 
+Honey, It is only a small camper,,,,, and WE have to fit in!" Umm, I better 
+not type what she told me THEN! Other than "Remember! WE have FIVE of 
+everything, unless you want me to leave YOUR stuff behind!" So I went to  
+pack my list of spares and things like, 4 short 2x6's to level the camper, 
+my stunt kites (8ft wingspan), kids driving games, artificial turf carpet to 
+keep the kids from dragging in the great outdoors on their feet etc. I have 
+since added, 5 bicycles to the rear bumper,(2 full size and 3, 16" kids 
+bikes), And a canvas bag that holds the lawn chairs and the BBQ on the roof 
+rack.
+The only thing I scrimped on was the spare tire,,, I took a spare tire in a 
+can... I still havn't had to use that, <fingers crossed>
+Well, I left the farm for a few hours to get some supplies and when I came 
+back, I peeked into the Westy to see how far She had got, hmmm nothing new 
+in here, so I went into the house and there was nothing there???  uh Oh! she 
+got mad and put it all away,?? Hmm, I looked around and found her gathering 
+up the swimming gear, (oops, I forgot that) So I asked where all the camping 
+stuff was? Did she want me to load it?  SHE SAID "It is all put in the 
+Camper DEAR!"  *MY eyes open wide* Really??? I just looked there, where did 
+you put it all??
+..........<mean stare from a Woman scorned> JUST get in, shut UP and DRIVE!  
+:-) She is so cute when she is the Boss.
+Back to my point... we , err She got enough gear into the Westy to keep 3 
+kids and a Hubby happy, food, toys, clothes etc and tools and spares also! I 
+was getting worried, What does this VW weight now and what is the max. 
+carrying capacity??? So, as we have a truck scale in the gravel pit behind 
+us, I weighed it!  Glad I got new Continental Contact Tires with the 1540lb 
+rating, This Westy weighed in at 5180_lbs!!! yeee, that is sooo close to 
+1300_lbs / tire,,,
+Anyways, It didn't seem to be all that bad driving this much weight.And it 
+was quite comfortable to drive and sleep in that we have spent 7 more years 
+doing it! never needed the tools to do repairs, but they come in handy for 
+other things while camping.
+I really believe in what Paul wrote: "Why not do a walk-around each time you 
+drive the vehicle, and set up monthly and/or other frequencies of 
+maintenance checks.  I check out essential items before I drive it each time 
+and make sure I go over the entire vehicle about every 8 weeks."
+That is exactly what I do , so i can just jump in and go on the spur of the 
+moment... 14hr drive "LEAVE NOW, SLEEP WHEN YOU GET THERE"
+Simple shoe box Quote.
+GONE Camping!
+Jamie Rivers
+Southern Ontario Canada!
+
+>From: "Brian M. Wittling" <kdfmotors_at_primary_dot_net>
+>Reply-To: <kdfmotors_at_primary_dot_net>
+>To: "Paul Williamson" <paul_at_stmarys-schools.pvt.k12.md_dot_us>,        "Vintage 
+>Bus List (E-mail)" <vintagebus_at_type2_dot_com>
+>CC: <VeeWee111_at_aol_dot_com>
+>Subject: RE: Emergency spare parts list for traveling.
+>Date: Sat, 22 May 1999 04:37:38 -0500
+>
+>Hey now,
+>
+>I carry all that stuff, and then some.  AND it all fits quite nicely
+>underneath a Westy Jump-Seat (or in my case the rear facing SO-33 seat) in 
+>a
+>standard Craftsman 3 drawer tool-box, a small fishing tackle box for seals,
+>silicone, nuts & bolts and stuff, plus my complete Dizzy, starter, carb,
+>fuel pump, wheel bearings, generator, idiot book, and coils go in the
+>compartment under the front seat.   I also carry a full 2 ton floor jack in
+>the Westy under said seat on extended journeys.
+>
+>It doesn't take up nearly as much space as it sounds.
+>
+>And with that, I also carry a full SO-33 camping interior, cookware, tiki
+>torches, citronella fuel, a small grill, Coleman 'dual-fuel' lantern and
+>burner, propane bottles, food, tea, plates, utensils, etc, Westy side tent,
+>5 gal water bottle, dog food, dog corkscrew chain thingy, chain, dog,
+>blankets, sleeping bags, rain coats, BEER, LeatherMan super-tool, small
+>stool, spare tire(s), food, gigantic Mag-Lite, batteries, Palm-Pilot, GPS
+>receiver, CD's, large Coleman cooler, vintage luggage and cameras,
+>cam-corder and other photo equipment, clothes, toiletries, and once every
+>other leap-year or so, I actually have a travel companion with me.
+>
+>So you see, the list ain't so bad after all, now is it?   I recently pulled
+>all my stuff out to make new panels, and was astonished at how mstuff 
+>really
+>was in there after all!
+>
+>Very good listing Eric, I would never have had the patience to type up a
+>list of all the crap I carry these days!
+>
+>-Brian
+>
+>-----Original Message-----
+>From:	Paul Williamson [mailto:paul_at_stmarys-schools.pvt.k12.md_dot_us]
+>Sent:	Friday, May 21, 1999 8:19 PM
+>To:	Vintage Bus List (E-mail)
+>Cc:	VeeWee111_at_aol_dot_com
+>Subject:	RE: Emergency spare parts list for traveling.
+>
+>And you expect to have room for luggage AND people as well?  You'd be lucky
+>to fit all that stuff in a bus with you passengers, and if driving a 
+>pickup,
+>I guess be prepared to fill the entire cargo area up with parts!  Why not
+>just carry a cell phone instead of the 50 items on the list?  Maybe a spare
+>tire, jack, and crowbar.  I'd have trouble finding space in my garage for
+>all that stuff, let alone carrying it around in a bus!  Why not do a
+>walk-around each time you drive the vehicle, and set up monthly and/or 
+>other
+>frequencies of maintenance checks.  I know on my 73 bug, I check out
+>essential items before I drive it each time and make sure I go over the
+>entire vehicle about every 8 weeks.  Seems to work for me.  I plan to take
+>the same approach with Fritz once he's alive again.
+>
+>Paul
+>66 Crew (Fritz)
+>
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail_dot_com</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F617815" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F617815" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F617815" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

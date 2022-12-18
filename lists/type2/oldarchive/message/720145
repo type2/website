@@ -1,0 +1,393 @@
+<html>
+<head>
+<title>type2 - another edition of the dictionary  ...</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/720145 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/720145" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/720145" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>another edition of the dictionary  ...</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1995-01-04 22:18:08+00</i><br/>
+   <br/>
+   <pre>ok, gang ... see what you think is missing (needs to be added) or is just
+flat wrong (needs to be fixed).
+
+
+Dictionary of Terms          from the Bus/Vanagon List
+<all years are by definition for U.S. Models. European, Canadian, and
+Australian years and models may vary slightly>
+--------------------------------------
+** Bus Terminology **
+--------------------------------------
+BAY WINDOW  another name for the buses made from 1968-1979. so called for
+            the large single-piece windshield.
+BRICK       1. Vanagon model Transporters.  2. any VW Bus or Transporter
+BREAD LOAF  usually refers to the buses made from 1968-1979, due to
+            the resemblance of the body shape to that of a loaf of bread
+BULLI       the German nickname for the original VW buses. loosely
+            translated, it means "work horse" or "oxen" (some sort of
+            strong animal used for pulling heavy loads.
+BUS         1. any Volkswagen Transporter of any model and any year.
+            2. specifically those VW transporters from 1968 to 1979,
+            distinquished by a large one-piece windshield and rounded
+            body contours. all had 'swing-axles'. also called T2
+            Transporters.
+CAMPER      a model of bus that contained interior features such as a
+            bed, stove, cabinets, and in some versions, a refrigerator.
+            some versions had a pop-up roof to allow extra room,
+            ventilation, and sleeping room 'upstairs'. some of the
+            many companies making Campers were Westfalia, Devon,
+            and Country Homes.
+CAMPMOBILE  another name for Camper versions of the VW Transporter. for
+            whatever reasons, this term seems to have been dropped for
+            the Vanagons, except in Canada.
+CREW CAB    another name for Double-Cab pickup trucks.
+CV-JOINT    one of the small circular devices at an end of an axle on
+            a bus. Microbuses have only two of these, Buses, Vanagons,
+            and Eurovans have four, while Syncros have eight. these
+            are necessary to allow the axle to move up and down while
+            still turning to propel the car. the joints need to be
+            keep greased to function properly. when they are worn, they
+            make a knocking-noise that strikes fear into the hearts of
+            bus owners everywhere.
+DEVON       an English company that made camping conversion VW buses.
+DOPPLE-     the German name for Double-Cab Pickup Truck.
+  KABINE
+DORMOBILE   another company that made camping conversions of VW buses.
+DOUBLE-CAB  the VW Pickup Truck characterized by seating for six and
+            three doors. a 1/2-ton vehicle.
+EUROVAN     any of the Volkswagen Transporters from 1992 to present.
+            some were sold in Europe in 1991. generally characterized
+            by their engine located in the front of the vehicle,
+            driving the front wheels, and their very rounded shape and
+            huge rear hatch.
+KOMBI       generally accepted to mean a mid-range trim model of a
+            Volkswagen Transporter. that is, NOT a utility/commercial
+            truck, and yet NOT a Deluxe model with all the bells and
+            whistles of luxury and convenience. usually, a Kombi has
+            windows along the side, seats, and some side paneling.
+MICROBUS    any Volkswagen Transporter from 1949 to 1967,
+            characterized by a split (two-piece) windshield and rounded
+            body contours. all were powered by beetle Type 1 engines
+            and all had 'reduction gears' on the half-axles. known also
+            as T1 Transporters.
+PANEL       a model of bus that has no side windows behind the front
+            doors. usually a commercial model.
+PICKUP      a model of bus that had a flat load bed with no fixed roof
+            over the rear half of the vehicle. see Single-Cab and
+            Double-Cab. optional canvas tents were available to cover
+            the rear flat bed area.
+PRITSCHEN-  another name for the Single-Cab pickup truck.
+  WAGEN
+SAFARI      a type of front windshield that tilts outward for additional
+  WINDOWS   ventilation. found only on Microbuses, and usually only on
+            on those in equatorial/tropic countries.
+SAMBA       usually refers to the Microbus Deluxe Station Wagen, with
+            21 or 23 Windows and a Sunroof.
+SINGLE-CAB  the 3/4-ton version of the VW Pickup Truck. seating for
+            three people.
+SPLIT       the Microbus, made from 1949 to 1967. also called a
+            Split-Window.
+SYNCRO      the four-wheel drive version of the Vanagon, made between
+            1986 and 1991. using a viscous coupling arrangement, the
+            front wheels could be made to automatically provide pulling
+            power (at any time the rear wheels began to slip or spin).
+TRANSPORTER any of Volkswagen smaller trucks and vans. known as Type 2,
+            they evolved through four (4) 'generations': T1, T2, T3, and
+            T4. but the entire line of vehicles has always been called
+            'Type 2'.
+TRANNY      1. an affectionate name for Transporter. 2. an American
+            slang term for Transmission.
+VANAGON     any Volkswagen Transporter from 1980-1991, distinguished
+            by squarer body contours and extremely large windows and
+            windshield. also known as T3 Transporters, or Caravelle.
+WESTY or
+WESTFALIA   one of many Camper versions made from a basic VW Transporter
+            usually the only Camper version imported into the U.S. by
+            VW and sold at their dealers.
+--------------------------------------
+** Slang **  Abbreviations & Acronyms
+--------------------------------------
+BTW      By the Way
+DPO      Dreaded Previous Owner (the sorry so-and-so who owned and
+            mistreated YOUR bus before you bought it).
+FLAG     Friendly Local Auto Garage
+FLAPS    Friendly Local Auto Parts Store/Supplier/Source
+FLARS    Friendly Local Auto Repair Shop
+FLATS    Friendly Local Auto Tire Store
+FUBAR    Fouled Up Beyond All Recognition
+FYI      For Your Information
+IMHO     In My Humble Opinion
+NOS      New Original Stock (not rebuilt, and not manufactured by some
+            non-OEM company).
+OE       Original Equipment
+OEM      Original Equipment Manufacturer
+SNAFU    Situation Normal: All Fouled Up
+TIA      Thanks in Advance
+TTFN     Ta-Ta For Now  (So Long until later)
+YMMV     Your Mileage May Vary
+--------------------------------------
+** Technical Terms **      (real ones)
+--------------------------------------
+ABS      Anti-Locking Braking System. a computerized method of helping
+            to prevent wheel skid/lock-up during braking. it does NOT
+            prevent spins, NOR does it allow you to stop in a shorter
+            distance. it DOES allow you to steer the car while braking
+            as hard as possible. available as an option on some Vanagons
+            and Eurovans in Europe during the late 1980's-1990's.
+AFM      Air Flow Meter. the silver box next to the air cleaner box
+            on the fuel injection model buses. it measured the volume
+            of air entering the intake system, and allowed the computer
+            to adjust the amount of gasoline required.
+CAT      Catalytic Converter. a large, usually round cannister in the
+            exhaust system. it helps convert emission gases into more
+            harmless, less noxious vapors.
+CCA      Cold Cranking Amps. a bogus number printed on the sides of
+            automobile batteries to confuse the buyers. generally, the
+            bigger this number is, the easier the battery will crank
+            your car when everything is frozen. assuming everything is
+            in perfect operating condition, of course.
+DIGIFANT a form of fuel injection found on VW vanagons/transporters
+            from 1986 and later. a later variation of Digijet. also
+            reported to be a slightly less complicated version of the
+            Bosch Motronic fuel injection used on BMW's and Porsches.
+DIGIJET  a form of fuel injection found on VW vanagon/transporters
+            from 1983.5 to 1985. characterized by a digital 'map' of
+            the 'proper' fuel quantity vs engine rpm and temperature.
+DOT      Department of Transportation. an agency of the U.S. Federal
+            Government that has authority over some aspects of auto-
+            mobile construction, especially in the safety-related areas.
+ECU      Electronic Control Unit. generally refers to the 'computer'
+            that controls the fuel injection system.
+EFI      Electronic Fuel Injection. computerized metering and
+            squirting of fuel, replacing the carburetor systems.
+            introduced into the buses in the mid-70's.
+EGR      Exhaust Gas Recirculation. one of the emission control
+            techniques, in which gases are sucked from the exhausht
+            pipes (before the muffler) and re-circulated through the
+            intake manifold (to be 'burned' again). the high heat
+            associated with exhaust gases required expensive metals
+            ... so replacing/repairing this system can be costly.
+EPA      Environmental Protection Agency. another agency of the U.S.
+            Federal Government that gets involved in automobile
+            construction, especially in the engine emissions area.
+KPH      Kilometers per Hour. speed measured in the metric system.
+L/100km  Liters per 100 Kilometers. a measurement of fuel economy in
+            the metric system. note that this is exactly backwards from
+            the American system of miles/gallon.  the metric measurement
+            denotes the amount of fuel required to go a certain distance
+            roughly, 10 L/100km = 23 mpg.
+LED      Light Emitting Diode. those little red/green/yellow 'lights'
+            that almost never burn out. sort of solid plastic light
+            bulbs. and they use very very little amounts of electricity.
+LPG      Liquid Propane Gas. the stuff that the stove and refrigerator
+            use for fuel in the campers.
+MPG      Miles per gallon. the American measurement of fuel economy,
+            denoting the distance traveled for a certain amount of fuel.
+            roughly, 20 mpg = 12 L/100km.
+MPH      Miles per hour. the American measurement of speed.
+PCV      Positive Crankcase Ventilation. a method of reducing the
+            pressure inside the engine crankcase (the middle part where
+            things are whirling around, but nothing is exploding).
+TUV      an agency of the German Federal Government. sort of a
+            combination of DOT and EPA, as well as being responsible
+            for inspecting cars before they are allowed to be driven.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F720145" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F720145" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F720145" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

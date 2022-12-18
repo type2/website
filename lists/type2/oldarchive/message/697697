@@ -1,0 +1,318 @@
+<html>
+<head>
+<title>type2 - Re: funny story</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/697697 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/697697" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/697697" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: funny story</h1>
+   <b>TVCR50A_at_prodigy_dot_com ( MICHAEL G BENTHIN)</b><br/>
+   <i>1996-06-18 04:01:00+00</i><br/>
+   <br/>
+   <pre>Guy on our oboe/bassoon list sent me this- all you Westy campers should
+appreciate this one!
+
+>"   The Boston Globe Magazine, June 25, 1995
+>
+>Today's culinary topic is: how to light a charcoal fire.
+>Everybody loves a backyard barbecue. For some reason, food just
+>seems to taste better when it has been cooked outdoors, where
+>flies can lay eggs on it. But there's nothing worse than trying
+>to set fire to a pile of balky charcoal.
+>
+>The average back-yard chef, wishing to cook hamburgers, tries to
+>ignite the charcoal via the squirt, light, and wait method,
+>wherein you squirt lighter fluid on a pile of briquettes, light
+>the pile, then wait until they have turned a uniform gray color.
+>When I say "they have turned a uniform gray color," I am
+>referring to the hamburgers. The briquettes will remain as cold
+>and lifeless as Leonard Nimoy. The backyard chef will keep this
+>up - squirting, lighting, waiting; squirting, lighting, waiting
+>- until the bacterial level in the side dishes has reached the
+>point where the potato salad rises up from its bowl, Bloblike,
+>and attempts to mate with the corn. This is the signal that it's
+>time to order Chinese food.
+>
+>The problem is that modern charcoal, manufactured under strict
+>consumer- safety guidelines, is one of the lease-flammable
+>substances on Earth. On more than one occasion, quick-thinking
+>individuals have extinguished a raging house fire by throwing
+>charcoal on it. Your backyard chef would be just as successful
+>trying to ignite a pile of rocks.
+>
+>Is there a solution? Yes. There happens to be a technique that
+>is guaranteed to get your charcoal burning very, very quickly,
+>although you should not attempt this technique unless you meet
+>the following criterion: You are a complete idiot.
+>
+>I found out about this technique from alert reader George Rasko,
+>who sent me a letter describing something he came across on the
+>World Wide Web, a computer network that you should definitely
+>learn more about, because as you read these words, your
+>11-year-old is downloading pornography from it.
+>
+>By hooking into the World Wide Web, you can look at a variety of
+>electronic "pages," consisting of documents, pictures, and
+>videos created by people all over the world. One of these is a
+>guy named (really) George Goble, a computer person in the Purdue
+>University engineering department. Each year, Goble and a bunch
+>of other engineers hold a picnic in West Lafayette, Indiana, at
+>which they cook hamburgers on a big grill. Being engineers, they
+>began looking for practical ways to speed up the
+>charcoal-lighting process.
+>
+>"We started by blowing the charcoal with a hair dryer," Goble
+>told me in a telephone interview. "Then we figured out that it
+>would light faster if we used a vacuum cleaner."
+>
+>If you know anything about (1) engineers and (2) guys in
+>general, you know what happened: The purpose of the
+>charcoal-lighting shifted from cooking hamburgers to seeing how
+>fast they could light the charcoal.
+>
+>>From the vacuum cleaner, they escalated to using a propane
+>torch, then an acetylene torch. Then Goble started using
+>compressed pure oxygen, which caused the charcoal to burn much
+>faster, because as you recall from chemistry class, fire is
+>essentially the rapid combination of oxygen with the cosine to
+>form the Tigris and Euphrates rivers (or something along those
+>lines).
+>
+>By this point, Goble was getting pretty good times. But in the
+>world of competitive charcoal-lighting, "pretty good" does not
+>cut the mustard. Thus, Goble hit upon the idea of using - get
+>ready - liquid oxygen. This is the form of oxygen used in rocket
+>engines; it's 295 degrees below zero and 600 times as dense as
+>regular oxygen. In terms of releasing energy, pouring liquid
+>oxygen on charcoal is the equivalent of throwing a live squirrel
+>into a room containing 50 million Labrador retrievers. On
+>Gobel's World Wide Web page (the address is
+>http://ghg.ecn.purdue_dot_edu/), you can see actual photographs and
+>a video of Goble using a bucket attached to a 10-foot-long
+>wooden handle to dump 3 gallons of liquid oxygen (not sold in
+>stores) onto a grill containing 60 pounds of charcoal and a lit
+>cigarette for ignition. What follows is the most impressive
+>charcoal-lighting I have ever seen, featuring a large fireball
+>that, according to Goble, reached 10,000 degrees Fahrenheit. The
+>charcoal was ready for cooking in - this has to be a world
+>record - 3 seconds.
+>  There's also a photo of what happened when Goble used the same
+>technique on a flimsy $2.88 discount-store grill. All that's
+>left is a circle of charcoal with a few shreds of metal in it.
+>"Basically, the grill vaporized," said Goble. "We were thinking
+>of returning it to the store for a refund."
+>   Looking at Goble's video and photos, I became, as an American,
+>all choked up with gratitude at the fact that I do not live
+>anywhere near the engineers' picnic site. But also, I was proud
+>of my country for producing guys who can be ready to barbecue in
+>less time than it takes for guys in less-advanced nations, such
+>as France, to spit.
+>
+>Will the 3-second barrier ever be broken? Will engineers come up
+>with a new, more powerful charcoal-lighting technology? It's
+>something for all of us to ponder this summer as we sit outside,
+>chewing our hamburgers, every now and then glancing in the
+>direction of West Lafayette, Indiana, looking for a mushroom
+>cloud.
+_____________________________________________________________________
+They didn't say if air pollution was less with liquid oxygen :>  !!
+My trusty frying pan and gas stove is a lot faster....MB in NJ</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F697697" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F697697" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F697697" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

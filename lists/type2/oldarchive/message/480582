@@ -1,0 +1,335 @@
+<html>
+<head>
+<title>type2 - Agent 009....</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/480582 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/480582" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/480582" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Agent 009....</h1>
+   <b>NotaJeep_at_aol_dot_com</b><br/>
+   <i>1999-03-12 00:18:00+00</i><br/>
+   <br/>
+   <pre>As we all seem to be both shaken *and* stirred about the poor 009...
+I'll jump in to muddle it *all* up..
+VW engineers operate(ed) under the same parameter as do their counterparts
+everywhere..make a perfect product that cost nothing to make and sells for all
+the money in the world and is propraitary to your company with 15 patents...
+Or build and ship anything so your "end of the month" (1/4..year) looks
+good....
+let's look at the distributor..
+The V-dub has had many different types of distributors and caburators...
+with a given carb/manifold/valve size/cam and CR the engine will need a spark
+right *now* ,at any temperature, air pressure, load and fuel type.......
+OKFINE.....
+if your engine ran at one speed, temperature and load it would only need a
+fixed spark timing..a typical Briggs and Stratton has just such a set up...
+But, although on long hills it *seems* that you only have one spped, the
+engine has to perform under many different types of conditions...hence the
+advance "curve"...
+We all understand that the spark has to happen sooner at high speeds to allow
+the mixture time to burn and reach the peak pressure *just* when we need
+it....
+modern engines do this electronicly with computer "maps" and knock sensors..
+at any given set of conditons the computer signals the coils(s) to fire the
+plug at the time it thinks it needs to..the knock sensor is a feed back device
+to let the computer know that it got a *wee* bit carried away on the
+advance..it will drop back just a *smidge* and run the engine right at the
+edge of detonation...neat...
+the older cars had to do this mechanically....so right off the bat, the system
+has a lot of built in margin...ain't no feed back on a 57 bug....(until you
+blow a hole in a piston.).
+Total mchanical advance....what this is the basic timing setting for the
+engine at any RPM at wide open throttle under the "worst case" conditons of
+pressure and temperature...(maybe minus a bit for safety)..it's all the engine
+will take at that rpm...
+"Put a 009 in my bug..get more power..'cause it's just like the Porsche
+distriburor...."
+Umm..no...
+The Porsche didn't bother with a vacuum advance..the idea was that you would
+*always* be a wide open throttle....if not, why did you buy ths car??? so the
+vacuum advance would never come in to play anyway..ditto for the early
+transporter..look at a early splitty..the gas pedal is bent to match the
+contour of the floor where some cat spent all his time trying to push it into
+the pavement......
+So..for some engines, VW (Bosch) made mechanical advance distributors..
+Ok for fullpower settings, but at lower throttle settings, engines can use
+some more advance...the flame front moves slower as the mixture in the
+cylinder gets less dense..so we can get started earlier and catch the peak
+pressure just where we want it, even a low out puts...this helps the engine
+temperature as the mixtrue is not burning late, helps the power as the peak
+pressure is at the right place in the stroke, and helps the fuel economy as
+the fuel is being used effectively....OK?
+The full vacuum advance VW distributors are nothing of the sort....ir you put
+one on a distributor machine and run it up without the vacuum hooked up, it
+*still* advances!
+Huh???...it has a crude mechanical advance..the friction of the rubbing block
+on the cam drags the breaker plate around and changes the positon of the
+points...
+Ok, you, the wiseguy in the back row...
+'Ah, yeah man..but if it pulls the points around with the cam, dosen't that
+*retard* the time..?".
+remind me to give you an A on the next test..
+Yes, that is true.....*BUT*..the point swing is not concentric with the
+cam..and the change in dwell advances the time more than it gets retarded!
+clever, no? Ford did this for *years* with a vengence..look at a mid-sixties
+ford with the pivot point out near the edge of the cap!
+The vacuum added advance at anything less than about WOT...there is a built in
+lag in the vaccum advance that allowed you to change throttle settings quickly
+and snap back to where you were and the advance would not have a chance to
+change (much) this makes the engine seem "smoother"...you are unable to
+"suprize" the things with quick throttle motions...This is what JM was saying
+about keeping your foot on the gas with "elan"...
+these "vacuum" distributors worked well...the limited rpm range and the
+typical bug driving conditons, all was well...not *great*..but hey, it was
+cheap and it ran well..
+As the car got heavier and speeds went up they needed more power *and* economy
+form the flat 4..they finally gave in and put a mechanical advance with a
+vacuum advance to get the best of both worlds....a combo unit acts like a full
+mechanical under full power (because it *is* a full mechanical) and adds more
+advance under low throttle settings when the engine needs and wants
+it...great....the best (mechanical) system...
+then steps in the smog regulators...Oh boy...what is good for the engine, fuel
+economy and power is *not* always good for the air...
+more power, better economy and smog *too*!?!? argggggH!
+VW went to the duel port 1600...power went up to 60 hp! the bigger manifold
+has a larger internal volume...due to all kinds of strange atmospherics in the
+manifold, the pulse through the carb is"softened" with this "big"
+manifold.....years before this simply ment bigger main jets or smaller air
+correction jets..but the emisson/economy gremlins were out in force...and,face
+it, the upright has a *weird* manifold.setup...
+ok fine..they brought everything right to the edge...jetting, timing, cam and
+valve timing...and when everything is spot on..the car ran pretty well...let
+one thing get "loose" and God couldn't get it to run right
+*Blame* the carb, *blame* the distributor....
+Ok fans._dot_carb *perfectly* clean, good throttle shaft bushings..centered and
+un-worn throttle plate..float height?..fuel pressure??
+hmmmm
+Pre-heated air hooked up?..adjusted correctly?
+valves set? (cam bearings worn out?)
+distributor set up *exactly* to spec on a distributor machine??? (the specs
+are in the book)
+manifold boots in good nick?
+proper (metal) gaskets under the intake castings at the head?
+engine thermostat set correctly? (or did the PO bin it?)
+Correct plugs with the correct wires and ends?
+Hmmm
+*When* you have checked/adjusted all of this and the car *still* dosen't run
+correctly, you have a beef....until then............
+Fussing with different distributors or screwing with the carb is a waste of
+time..
+Do what you want/can with what you have.....
+chances are your *best* bet for the 1600 dual port is a vaccum/mechancal
+unit..
+Oh yeah..the dual diaphram distributor?._dot_used manifold vacuum to retard the
+spark so much that the chambers ran hot enough to burn all the fuel (rich
+mixture needed at an idle) as soon as you crack the throttle it's back to the
+base setting like a single diaphram unit......
+the 72 bus (1700) used a vacuum advance cut-off..no vacuum advance until you
+hit high gear .it's the little gismo next to the heater fan and the "extra"
+back-up light switch on the tranny....
+and now you know.........
+
+steve.......
+
+
+
+  </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F480582" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F480582" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F480582" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

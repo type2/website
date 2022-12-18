@@ -1,0 +1,294 @@
+<html>
+<head>
+<title>type2 - Re: Propane Setup</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/728249 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/728249" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/728249" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: Propane Setup</h1>
+   <b>jonesl_at_tcplink.nrel_dot_gov</b><br/>
+   <i>1996-01-15 15:31:43+00</i><br/>
+   <br/>
+   <pre>     Clay,
+     
+     Just got thru reading your post on this subject on the vanagon list.  
+     
+     What you should consider is running appropriate tubing to an access 
+     point (wherever is most convenient and appropriate) on the perimeter 
+     of you van.  Install a "quick disconnect" female fitting on your 
+     propane tubing at that point.  
+     
+     Then get a regulator with LH propane tank fitting, a flex hose of 
+     appropriate length, and a male "quick disconnect" fitting.  Install 
+     them on your large propane tank, set the tank beside the van, and 
+     (literally) plug the large tank into your van's system, open the tank 
+     valve, and enjoy.  
+     
+     This doesn't prevent you from installing and using an 0n-board propane 
+     tank. If you install the quick disconnect fitting properly, and if you 
+     set the large tank regulator a trifle higher than the on-board tank 
+     regulator, the large tank will empty itself first, followed by the 
+     on-board (reserve) tank.  Not a bad idea if you think about it.  When 
+     you are camping, and the large tank empties out, you will still have a 
+     propane supply while you go to town to fill the big bottle.     
+     
+     Some tips - 
+     
+     1)  There are several types or "weights" of copper tubing.  You want 
+     the heavy duty flexible kind.  You don't want rigid tubing and you 
+     don't want the light duty refrigerator tubing.  As I recall, the type 
+     you want is "Type K."
+     
+     2)  You should use flared fittings on your propane system.  You 
+     absolutely DO NOT want to use compression type fittings (known as 
+     Swedgelok and by several other trade names).  The compression type 
+     fittings have two nasty habits, in my experience:  1) they tend to 
+     come loose in situations where there is vibration (like on a vehicle)  
+     and 2) it is very easy to overtighten compression fittings - this 
+     creates a high stress point in the vicinity of the ferrule, which will 
+     later crack or break.  You will have to buy or borrow a flaring tool - 
+     which won't be too expensive  - and working with flared fittings takes 
+     a little more pre-planning and a little patience.  Save the 
+     compression type fittings for water, compressed air, and other less 
+     dangerous fluids.  
+     
+     3) Make sure you use a good brand of liquid (or semi-liquid) pipe dope 
+     on all threaded fittings.  For some reason the teflon tape doesn't 
+     work well with propane, natural gas, or similar stuff.    
+     
+     4) Try to plan your propane system so that ALL fittings are 
+     accessible.  This may require some creative tubing bending and a lot 
+     of prior planning.  But it's worth it.  You sure as heck don't want a 
+     leak to develop behind some cabinets where you may not detect it right 
+     away or where you may not be able to get to it to fix it without 
+     tearing your whole interior apart.  
+     
+     In most of the systems I've worked on, we ran the main line around 
+     underneath the vehicle - thru the frame - installed tee's where 
+     appropriate and ran uninterrupted sections of tubing up to each 
+     appliance.  If you do this, make sure to avoid potential pinch points, 
+     contact with exhaust sytem, moving parts, places frequently hit by 
+     thrown up gravel, etc.
+     
+     5) Install a shut off cock at each appliance. 
+     
+     6) Pressure up your newly-installed system and go over every inch of 
+     it with soapy water to make sure there are no leaks - especially 
+     before you conceal any of it behind cabinets, etc.  You should follow 
+     up by checking parts you can reach - esp. fittings - again at least 
+     once a year - preferably every time you use the system after you 
+     haven't used it for a while.  Get a laboratory squirt bottle - use a 
+     couple of tablespoons of diswashing liquid per pint of water (more or 
+     less  -  not a magic formula or anything).  With the soapy water, even 
+     small leaks will be obvious - bubbles everywhere!   
+     
+     7)  As a matter of convenience, think about providing a "quick 
+     disconnect" fitting on the side of your van so you can hook up 
+     appliances with flex hoses to work outside.  There is definitely 
+     cooking you won't want to do inside the van -  anything that is really 
+     greasy and anything (like cooking spaghetti) that will put a lot of 
+     water vapor in the air.  You haven't lived until you get rained on 
+     inside your canper when it gets cold enough at night to condense the 
+     water vapor on the ceiling.  I installed a convenience propane outlet 
+     on the side of a popup camper trailer I had a few years ago.  It was 
+     set up so that I could run the stove outside or use an outside propane 
+     lantern.  Nifty!        </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F728249" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F728249" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F728249" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

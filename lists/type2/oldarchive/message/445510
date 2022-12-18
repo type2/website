@@ -1,0 +1,286 @@
+<html>
+<head>
+<title>type2 - distributor vacuum test</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/445510 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/445510" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/445510" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>distributor vacuum test</h1>
+   <b>&quot;Gary G. Martin&quot; &lt;ggmartin_at_coin_dot_org&gt;</b><br/>
+   <i>2003-08-09 15:17:38+00</i><br/>
+   <br/>
+   <pre>>To: type2_at_type2_dot_com
+>From: "aircooled chris" <midwestbass_at_hotmail_dot_com>
+>Subject: new vaccum advance available?
+>Message-ID: <Law14-F115UeaCYPct10001d91a_at_hotmail_dot_com>
+>
+>I have what I believe to be a good working distributor, but the vaccum is
+>shot on it,
+>and by that I mean when I suck on it, it doesnt move the plate at all.
+>(thats the sign, right?)
+snip snip
+ggme replies
+the vacuum advance distrbutor has systems that need to be tested
+independently and then together. (for pedgological reasons, here are my
+definitions; big round chunk of metal on side of distributor is called
+"vacuum motor"; it has a flexible rubber drum head streched inside from edge
+to edge; one side is vacuum accuation side; other side is motor output
+shaft)
+
+Any system could be good and the some other bad. When you find the good
+systems, you can swap parts around.
+
+It is much better to test the vacuum diaphram with a vacuum tester than by
+sucking on the vacuum line yourself. I once sucked on a distrubutor vacuum
+line on a carbureted engine. I sucked in a bunch of stale gasoline. I then
+bought a cheap hand held vacuum pump. On an old carbureted VW engine, there
+is suppossed to be a metal vacuum line with a very high loop. The top of
+this loop, must be higher than the top of the carburetor fuel bowl vent. On
+the engine I was testing, someone had run a rubber vacuum line from the
+carburetor vacuum port straight down to the distributor vacuum diaphram
+motor. When the diaphram got a crack in it. somehow the vacuum motor chamber
+filled with fuel. I don't know exactly how this happened, but it did, no
+flames please. It was wintertime with a lot of cold nights and hot running
+engine temperature changes. I think there was a weird vacuum differential
+and some wierd vapor to liquid condestion syphoning going on with the
+frequent very cold to very hot engine temperature changes. Besides never
+having to taste the carcinogenic terrible tasting stale fuel, a cheap hand
+held vacuum pump also has the advantage of a gauge that you can watch over
+time to test for slow leaks.
+
+To test a distributor, first gently twist the rotor clockwise and counter
+clockwise and let go of it at the end of each direction rotation. The rotor
+should have no movement on the shaft, but the shaft should move only one way
+just a little bit and automatically snap back the other direction. This is a
+crude test of the centrifugal advance. Then put your hand held vacuum pump
+tester on the vacuum motor and pump up a little vacuum. You should see the
+distributor points's plate rotate. If the plate moves a little, maintain the
+vacuum for a while to be sure you don't have a slow leak. If the vacuum
+holds, then dump the vacuum real fast and see if the plate rotates rapidly
+back to its origina position. If you keep pumping and pumping and you never
+build up any vacuum, then the diaphram is shot and has a hole in it. If you
+build up some vacuum and the points plate doesn't move, then expand your
+testing by separating the "two systems" The vacuum motor has an actuating
+shaft hooked onto the points's plate by a tiny circlip.
+
+If you already know all about how to deal with tiny circlips, then just take
+it off. If you aren't familar with tiny circlips, then pull out the
+ditributor, get a big magnet, get in your bathtub, tape the drain and the
+overflow shut with duct tape, close the shower curtain, seal the curtain to
+the wall edges with duct tape, tape a piece of plastic to the top of the tub
+shower stall, as a ceiling, and then before you run out of air to breath,
+put you fattest and smartest finger over the circlip to "hold it" , stick a
+tiny screwdrive in the slot in the circlip and pry the circlip away from the
+shaft it is gripping, catch the circlip when it pops off, or if it pops off
+and goes flying through the air and dissappears, start looking for it with
+your magnet. At least you know it can't get very far away in your sealed
+small volume of space.
+
+You want the vacuum motor accuator shaft separted from the points's plate so
+that you can test the motor by itself and so that you can test the points's
+plate by itself. With the two systems separated, put vacuum on the motor,
+you should see the shaft pull in and stay in, hold the vacuum for a while to
+look for a slow leak (shaft slowing moving  back out and vacuum going to
+zero)  (You can't suck long enough with your mouth because you won't be able
+to stand the taste for that long) Then dump the vacuum and watch for a fast
+responce. It is always best to compare the movement to a known good vacuum
+motor movement.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F445510" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F445510" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F445510" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

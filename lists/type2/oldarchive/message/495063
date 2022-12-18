@@ -1,0 +1,297 @@
+<html>
+<head>
+<title>type2 - Electrical Issues</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/495063 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/495063" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/495063" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Electrical Issues</h1>
+   <b>Eric Sedgley &lt;esp_at_designthebest_dot_com&gt;</b><br/>
+   <i>2004-05-22 10:07:34+00</i><br/>
+   <br/>
+   <pre>Ok, I did manage to get out and work on the bus for a couple of hours.  I got my
+first part in ($2.50 + S/H, thanks BusBoys) and needed to install it.  Also wanted to
+test the battery I had on the charger.  Also, wanted to check the windshield wipers
+out, and see what needs to be done.
+
+First, the new part.  I got an accelerator cable.  No problems
+installing, and now I'm not worried that while puttering about town, I will suddenly
+have no throttle.  Being stuck in idle sucks.
+
+So, next project, battery.  It actually came first, as I put the battery that had
+been on the charger for 24 hours, and then on my floor for a few days, hooked it up
+to the engine, flipped the switch, and click-nothing.  It had enough surface charge
+to light up the battery light (I have a short! )  but not enough to crank the motor. 
+So, that battery is off to the shop for a specific gravity test, and likely straight
+out their back door after.  So, I need a new battery to call my own.  Not a big deal.
+
+Last project for the day - windshield wipers.  The driver side one was not working at
+all, the shaft/spindle was spinning, but the wiper arm was not responding to it.  The
+passenger side was at a bit of a weird angle, off about 10-15 degrees.  It was ok,
+operational.  I think.  I seem to remember me and Josh hitting the switch and they
+worked. Anyway, I wanted to pull off the arms and see if I would need to replace the
+shafts/spindles. at $40 a piece for spindle kits, I'd rather not.  The arms are only
+$20 each from Bus Depot.  So, off came the arms. (a 10mm nut for each, the driver
+side without washer, the passenger side with lock washer.)  From the driver side
+spindle (I think that's the correct name for it), I removed first tin foil (Josh
+admitted he had tried this quick fix without success) and then Duct Tape.  I cleaned
+it up a bit with some WD-40 and a battery contact cleaner wire brush, and the
+attempted to re-attach the wiper arm.  The fit seems to be a pressure fit, aided by
+the splines on the spindle/shaft. (the hole in the wiper arm may also have some
+splines in it, but if so, they are worn almost smooth - it seems more likely that the
+spliny indents are from the shaft splines)  So I cranked pretty good on that little
+10mm bolt.  Everything seemed pretty tight.  So, I did some swapping, and I ended up
+with the passenger arm (both blades are shot, but that one was minorly better,
+besides, I knew the arm tightened to the shaft ok on the other side, with similar
+spline wear on the shaft, so if it were the arm, I had a better chance of getting
+things working with this configuration.)  Anyway, the passenger side arm is on the
+driver side, with the lock washer.  The driver side arm is now on the passenger side,
+angle is corrected, and I found a flat washer to use temporarily until I can find a
+lock washer for it.  Both wipers seemed firmly attached to the shafts.  If they
+continue to be a problem, I think I'm going to get out my drill and drill a small
+hole through arm and shaft/spindle, through which I can put a nail/cotter pin/baling
+wire and make sure that the arms move in synch with the shaft/spindle.  I need to get
+wiper blades.  The current blade-holders appear to be 15" while I thought the stock
+blades were 14".  I will consult my tape measure before ordering replacements.  These
+may be the next part I order for the bus.
+
+Then there is electrical hell.  I mentioned I had a short.  (battery light on when
+key not in ignition, not on while engine is running! )  The turn signal switch was
+for shite, so it has been chucked.  The new one is $60 from BusDepot, and I'm trying
+to hunt one down from a junkyard.  Better yet, my '74 bus has the old 73 and previous
+style turn signal switch (which seems simpler to install and less stuff to send, but
+it may cause some confusion at the various part-houses.)  In any case, in
+anticipation of this short, I have been simplifying the wiring system.  The fuse
+block is disconnected from the bus, hanging with wires sprouting out of it.  I have
+no documentation which fuse is for what, and no hope that any order has been
+preserved.  I am basically at the point where I want one hot wire coming forward from
+the battery, and going to a fuseblock and then to the ignition, then having the
+ignition switched wire going to a separate fuse block, and the proper relay wires
+headed back to the starter & engine compartment.  Then, from those fuse blocks, I can
+run lights (headlights, emergency flashers and brake lights from the hot block,
+running lights, reverse lights, interior lights from the switched block), wipers
+(currently not really hooked up or working as far as I can tell, I need to run power
+direct to wiper motor and see if it turns over...)  I can also run hot from battery,
+or off the alternator (how the f*** does one get to the back of that thing!!! ) to a
+engine fuse/relay block to properly power fuel pump, ignition system (coil,
+distributor), electric choke on carb, and whatever else actually needs power.  This
+can all be nicely done off that relay line coming back off the ignition with clean
+power from the battery... I can use a pretty basic relay to get it done, may have to
+run a second relay for the fuel pump off a secondary oil pressure switch (this is
+from a tip on having a budget safety shutoff on the fuel pump.)  So, rewiring the bus
+is going to be a pain in the ass, but I think most of it can be done with the current
+failure of a system in place.  I need a few relays, preferably 15-20 amp type, single
+trigger should do.  I need some more wire.  I have a spool of bright yellow 14g.  I
+want to run my main power forward at 12g, or even 10g.  The rest of it can be 14g.  I
+need some other colors, too.  I have black 10g (or is it 8g) for grounds (brown would
+be better, I know), but some red and green and blue would be nice too.  Then I need
+some connectors.  Looks like a trip to HomeDespot. (can usually find connectors and
+wiring cheaper than at FLAPS.)  Also, would anyone know where to get conduit similar
+to what is currently running under the bus?  I don't mind using the flex stuff for
+interior conduit, but if it's going underneath, it needs to be a bit more hardy.
+
+Also, does anyone know where I can get a good (free? ) primer on wiring diagrams and
+how to actually read them?  I despise auto diagrams.  I like to see diagrams that
+include the actual terminals of the system I am hooking up.  The alternator/voltage
+regulator/battery/starter/ignition system is pretty critical to get right on the
+first try, so I don't want to screw it up too badly.  Any good diagrams of how this
+system is supposed to be wired would help. </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F495063" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F495063" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F495063" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

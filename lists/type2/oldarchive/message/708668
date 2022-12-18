@@ -1,0 +1,1071 @@
+<html>
+<head>
+<title>type2 - Car Battery FAQ 2.0</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/708668 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/708668" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/708668" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Car Battery FAQ 2.0</h1>
+   <b>smitht_at_unb_dot_ca (Tim Smith)</b><br/>
+   <i>1996-09-16 23:31:04+00</i><br/>
+   <br/>
+   <pre>I had a large response for this, 16+ replies so far.  Forgive me all you
+others but this is easiest way to do it.  There is a note on a deep cycle
+battery FAQ site at the very bottom too, maybe for Westies/solar folks.  
+Tim Smith
+
+
+>--- Forwarded message follows ---
+>From: wdarden_at_mcimail_dot_com (William Darden)
+>Subject: Car Battery Frequently Ask Questions 2.0
+>Date: 9 Sep 1996 11:35:14 GMT
+>
+>
+>
+>               CAR BATTERY FREQUENTLY ASKED QUESTIONS 2.0
+>                            September 8, 1996
+>
+>                            
+>A word of caution.  Batteries contain a sulfuric acid electrolyte which is 
+>a highly corrosive poison, that will produce gasses when recharged and 
+>explode if ignited.  This will hurt you--BAD!  When working with 
+>batteries, you need to have plenty of ventilation, remove jewelry, wear 
+>protective clothing and eye wear, and exercise caution.  Whenever 
+>possible, please follow the manufacturer's instructions for testing, 
+>jumping, installing and charging.  This FAQ assumes a six cell, 12 volt 
+>negatively grounded system found in most cars, light trucks or vans.
+>
+>The technical stuff is in [brackets].  
+>
+>
+>CONTENTS
+>
+>     1.  WHAT IS THE BOTTOM LINE?
+>     2.  WHY BOTHER?
+>     3.  HOW DO I PERFORM PREVENTATIVE MAINTENANCE?
+>     4.  HOW DO I TEST A BATTERY?
+>     5.  HOW DO I KNOW IF THE CHARGING SYSTEM IS OK?
+>     6.  HOW DO I JUMP START MY CAR?
+>     7.  WHAT DO I LOOK FOR IN BUYING A NEW BATTERY?
+>     8.  HOW DO I INSTALL A NEW BATTERY?
+>     9.  HOW DO I RECHARGE MY BATTERY?
+>     10.  WHAT IS PARASITIC LOAD?
+>     11.  HOW CAN I INCREASE THE LIFE OF MY BATTERY?
+>     12.  WHAT ARE THE MOST COMMON CAUSES OF PREMATURE BATTERY 
+>            FAILURES?
+>     13.  WHAT ARE THE MYTHS ABOUT BATTERIES?
+>     14.  WHERE CAN I FIND MORE INFO ON BATTERIES?     
+>
+>
+>1.  WHAT IS THE BOTTOM LINE?
+>
+>     A.  Perform regular preventative maintenance, especially during HOT 
+>weather and before COLD weather,  (See Section 3)
+>
+>     B.  Remove surface charge before load testing and check the specific 
+>gravity in each cell and the terminal voltage,  (See Section 4)
+>
+>     C.  Keep the battery charged, but do NOT overcharge,  (See Section 9)
+>
+>     D.  Buy the freshest and largest Reserve Capacity (RC), non-sealed 
+>battery that will physically fit with a Cold Cranking Amp (CCA) rating for    
+>your climate that meets or exceeds the car's Original Equipment 
+>Manufacturer's (OEM) cranking amp requirement, and  (See Section 7)
+>
+>     E.  Retest after deep discharges or jump starts for latent damage.  
+>(See Section 4)
+>
+>
+>2.  WHY BOTHER?
+>
+>Because only the rich can afford cheap batteries.....
+>
+>A good quality battery will cost between $50 and $100 U.S. and, if 
+>properly maintained, it should give you an average of five years of 
+>service.  The primary purpose of a car battery is to start the engine, 
+>filter or stabilize the power, and provide extra power for the ignition, 
+>lighting and other accessories when their combined load EXCEEDS the 
+>capability of the charging system, i.e., when the engine is idling.  
+>Secondarily, a car battery provides power to the electrical system when 
+>the charging system is not operating.  
+>
+>A battery "ages" as the active plate material sheds (or flakes off) due 
+>to the expansion and contraction that occurs during the discharge and 
+>recharge cycles.  Deep discharges, heat and vibration accelerate this 
+>"aging" process.  Eventually, the sediment builds up and the cell shorts 
+>out or the active material in the plates can no longer sustain a discharge 
+>current and the battery "dies".  In a hot climate, the harshest 
+>environment for a battery, a recent survey of junk batteries revealed that 
+>the AVERAGE life of a good qualify battery was 37 months, whereas, for a 
+>poor quality battery, it was 23 months.   Slow cranking, especially on a 
+>cold day, is another good indication that your battery is going bad and it 
+>should be tested.
+>
+>Deeply discharged batteries almost always occur at the most inopportune 
+>times, e.g., AFTER you have jump started your car, at the airport 
+>returning home from a long trip, during bad weather, late at night in a 
+>dark parking lot, or when you are late for an appointment.  You can easily 
+>spend the cost of a new battery or more for an emergency jump start or 
+>tow.  
+>
+>Most of the "defective" batteries returned to the manufacturer  are good.  
+>This suggests that most SELLERS of new batteries do not know how to 
+>properly test batteries. 
+>
+>
+>3.  HOW DO I PERFORM PREVENTATIVE MAINTENANCE?
+>
+>Maintaining the correct electrolyte levels, tightening loose hold-down
+>clamps and terminals, removing corrosion, and checking the alternator 
+>belt tension is normally the ONLY preventative maintenance required for 
+>a battery.  The preventive maintenance frequency is dependent upon climate 
+>and battery type, but you should perform at least once before cold weather 
+>starts and once a month in hot weather.
+>
+>If the electrolyte levels are low, add DISTILLED water to the level 
+>indicated by the battery manufacturer or to 1/8" BELOW the bottom of the 
+>filler tube (vent wells).  DO NOT OVERFILL, especially in hot climates!
+>
+>
+>4.  HOW DO I TEST A BATTERY?
+>
+>The are four simple steps to test a car battery--inspection, remove 
+>surface charge, state-of-charge test and load test.  To test a battery 
+>(or to troubleshoot charging or electrical systems), you will need a 
+>digital voltmeter with .5% or better accuracy.  A digital voltmeter can be 
+>purchased at an electronics store and will cost between $20 and $200 U.S.  
+>If you have a non-sealed battery, you will need a temperature compensating 
+>hydrometer which can be purchased at an auto parts store for approximately 
+>$5 U.S.       
+>
+>     A.  INSPECTION
+>
+>Visually inspect for obvious problems, e.g., loose alternator belt, low 
+>electrolyte, corroded cable or terminal clamps, loose hold-down clamps or 
+>cable terminals, or a damaged case.
+>
+>     B.  REMOVE SURFACE CHARGE
+>
+>If you have just recharged you battery or driven your car, eliminate any 
+>surface charge by one of the following methods; otherwise, go to the next 
+>step:
+>
+>          1.  Allow the battery to sit for two to three hours,
+>
+>          2.  Turn the headlights on high beam for five minutes and 
+>                wait five minutes, or
+>
+>          3.  With a battery load tester, apply a load at one half the 
+>                battery's CCA rating for 15 seconds and wait five minutes.
+>
+>     C.  STATE-OF-CHARGE TEST
+>
+>Using the following table, determine the battery's state-of-charge:  
+>
+>     Open Circuit          Approximate           Average Cell
+>    Battery Voltage      State-of-charge       Specific Gravity
+>
+>         12.65                100%                  1.265
+>
+>         12.45                 75%                  1.225
+>
+>         12.24                 50%                  1.190
+>
+>         12.06                 25%                  1.155
+>
+>         11.89                  0%                  1.120
+>
+>[If the temperature of the electrolyte is below 70 degrees F (21.1 degrees 
+>C), then add .012 volts (12 millivolts) per degree below 70 degrees F to 
+>the reading.]
+>
+>Check both the specific gravity in each cell with a external hydrometer 
+>AND the battery terminal voltage with a digital voltmeter without the 
+>engine running.  For sealed batteries, measuring the battery's voltage 
+>without the engine running with a digital voltmeter is the only way you 
+>can determine the state-of-charge.  Some batteries have a built-in 
+>hydrometer which only measures the state-of-charge in ONE of it's six 
+>cells.  If the indicator is clear or light yellow, then the battery has a 
+>low electrolyte level and should be refilled before proceeding, or if 
+>sealed, the battery should be replaced.
+>
+>If the state-of-charge is BELOW 75% using either the specific gravity or 
+>voltage test or the built-in hydrometer indicates "bad" (usually dark), 
+>then the battery needs to be recharged BEFORE proceeding.  Replace the
+>battery, if one or more of the following conditions occur:
+>
+>           1.  If there is a .050 or more difference in the specific 
+>                 gravity reading between the highest and lowest cell, you 
+>                 have a weak or dead cell(s), 
+>
+>           2.  If the battery will not recharge to a 75% or more 
+>                 state-of-charge level or if the built-in hydrometer still 
+>                 does not indicate "good" (usually green, which is 65% 
+>                 state-of-charge or better), 
+>
+>           3.  If digital voltmeter indicates 0 volts, you have an open
+>                 cell, or
+>
+>           4.  If the digital voltmeter indicates 10.45 to 10.65 volts, 
+>                 you have a shorted cell.  [A shorted cell is caused by 
+>                 plates touching, sediment build-up or "treeing" between 
+>                 plates.
+>
+>     D.  LOAD TEST
+>
+>If the battery's state-of-charge is at 75% or higher or has a "good" 
+>built-in hydrometer indication, then load test the battery by one of the 
+>following methods:
+>
+>          1.  Turn the headlights on high beam for five minutes,  
+>
+>          2.  Disable the ignition and turn the engine over for 15 
+>                seconds with the starter motor, 
+>
+>          3.  With a battery load tester, apply a load equal to one half
+>                of the CCA rating of the battery for 15 seconds, or
+>
+>          4.  With a battery load tester, apply a load equal to one half 
+>                the OEM cranking amp specification for 15 seconds.
+>
+>DURING the load test, the voltage on a good battery will NOT drop below 
+>9.7 volts with the electrolyte at 80 degrees F (26.7 degrees C).  [If the 
+>electrolyte is above 80 degrees F, add .1 volt for every 10 degrees  above 
+>80 until you reach 100 degrees.  If below 80 degrees F, subtract .1 volt 
+>for every 10 degrees until 40 degrees.]  After the load is removed, wait 
+>five minutes and the battery should "bounce back" to the 50% 
+>state-of-charge level or above.  If the battery drops below minimum test 
+>voltage, does not bounce back, or will not start the engine, then you 
+>should replace it.  If the battery passes this test, you should recharge 
+>it to restore it to peak performance.
+>
+>
+>5.  HOW DO I KNOW IF MY CHARGING SYSTEM IS OK?
+>
+>A car's charging system is composed of an alternator (or DC generator), a 
+>voltage regulator, battery and indicator light or gauge.  While the engine 
+>is running, it's purpose is to provide power for the car's electrical 
+>load, e.g., ignition, lighting, accessories, etc., and to recharge the 
+>car's battery.
+>
+>When the charging system fails, usually an indicator light will come on or 
+>the gauge will not register "good".  The most common charging system 
+>failure is a loose, worn or broken alternator belt, so check it first.  If 
+>OK, then with a known good battery and the engine running at 2000 RPM or 
+>more for two minutes, depending on the load and ambient temperature, the 
+>voltage should increase to between 13.0 and 15.1 volts.  Most cars will 
+>measure between 14.0 and 14.5 volts on a warm day.  [Most voltage 
+>regulators are temperature compensated to properly charge the battery 
+>under different environmental conditions.  As the ambient temperature 
+>decreases, the charging voltage is increased to overcome the higher 
+>battery resistance.  Conversely,  as the ambient temperature increases, 
+>the charging voltage is reduced.  Other factors affecting the charging 
+>voltage are the battery's condition, state-of-charge, electrical load and 
+>electrolyte level and purity.]  
+>
+>If terminal voltage is below 13.0 volts and the battery tests good after 
+>being externally recharged or if you are still having problems keeping it 
+>charged, then have the charging system's output voltage and current and 
+>car's parasitic (key off) load tested.  A loose alternator belt or bad 
+>diode will significantly reduce the alternator's current output.  
+>
+>If output voltage is above 15.1 volts with the ambient temperature above 
+>freezing, the battery's electrolyte level is frequently low, or you smell 
+>"rotten eggs" around the battery, then you are probably overcharging the 
+>battery and the charging system should be tested.    
+>
+>
+>6.  HOW DO I JUMP START MY CAR?
+>
+>In cold weather, a good quality booster cable with four to six gauge wire
+>is necessary to provide enough current to the disabled car to start the
+>engine.  [The smaller the wire gauge number, i.e., the larger the wire
+>diameter, the better.]  Please check the owner's manual for BOTH vehicles
+>BEFORE attempting to jump start and follow the manufacturer's procedure
+>because some cars should not be running during a jump start.  However,
+>starting the disabled car with the good car running can prevent having 
+>two disabled.  DO NOT allow the booster cable clamps touch each other or 
+>the POSITIVE clamp to touch the frame or engine block. 
+>
+>     A.  If BELOW freezing, determine that the electrolyte is NOT frozen 
+>in the dead battery.  If frozen, allow to thaw BEFORE proceeding.  A 
+>discharged battery, i.e., battery voltage or 12.0 volts or less or 
+>specific gravity of 1.140 or less, will freeze at approximately 8 
+>degrees F (-15 degrees C).
+>
+>     B.  Without the cars touching, turn off all unnecessary accessories 
+>and lights on BOTH cars and insure there is plenty of ventilation.
+>
+>     C.  Start the car with the good battery and let it run for at least
+>two or three minutes at fast idle to recharge it's battery BEFORE 
+>proceeding.
+>
+>     D.  Connect the POSITIVE booster cable clamp (usually RED) to the
+>POSITIVE terminal on the dead battery.  Connect the POSITIVE booster 
+>cable clamp on the other end of the booster cable to the POSITIVE terminal 
+>on the good battery.
+>
+>     E.  Connect the NEGATIVE booster cable clamp (usually BLACK) to the
+>NEGITIVE terminal on the good battery and the NEGATIVE booster cable clamp
+>on the other end to a clean, unpainted area on the engine block or frame 
+>on the disabled car AWAY from the battery.
+>
+>     F.  Let the good car to continue to run at high idle for five minutes 
+>OR MORE to allow the dead battery to receive some recharge and to warm 
+>it's electrolyte.
+>
+>     G.  Start the disabled car and allow to run at high idle.  If the car
+>does not start the first time, recheck the connections, wait a few minutes
+>and try again.
+>
+>     H.  Disconnect the booster cables in the REVERSE order, starting with 
+>the NEGITIVE clamp on the block or frame of the disabled car to minimize 
+>the possibility of an explosion.
+>
+>     I.  As soon as possible, fully recharge and test the dead battery 
+>for latent or permanent damage as a result of the deep discharge.
+>
+>
+>7.  WHAT DO I LOOK FOR IN BUYING A NEW BATTERY?
+>
+>Battery buying strategy for use in Canada, for example, is different than 
+>hot climates that you find in Texas.  In the colder climates, higher CCA
+>ratings are more important; whereas, in a hot climate, a higher RC ratings
+>are more important once the CCA rating has satisfied the OEM cranking amp
+>requirement.
+>
+>     A.  Cold Cranking Amps (CCA)
+>
+>The most important consideration is sizing the battery's CCA rating to
+>MEET OR EXCEED, depending on the climate, the car's OEM cranking
+>requirement.  [CCAs are the discharge load measured in amps that a fully
+>charged battery at 0 degrees F (-17.8 degrees C) can deliver for 30 
+>seconds and while maintaining the voltage above 7.2 volts.  Batteries are 
+>sometimes advertised by their Cranking Performance Amps (CA) or Marine 
+>Cranking Amps (MCA) measured at 32 degrees F (0 degrees C) or Hot Cranking 
+>Amps (HCA) measured at 80 degrees F (26.7 degrees C), which are not the 
+>same as CCA.  Do not be mislead by CA, MCA or HCA ratings.  To convert CAs 
+>to CCAs, multiply the CAs by .8.  To convert HCAs to CCAs, multiply HCAs 
+>by .69.]  
+>
+>In hot climates, buying batteries with double or triple the CCA ratings 
+>that exceed the OEM requirement is a WASTE of money.  However, in colder
+>climates the higher CCA rating the better, due to increased power 
+>required to crank a sluggish engine and the inefficiency of the cold 
+>battery.  As batteries age, they are less capable of producing CCAs.
+>
+>One of the major battery manufacturers, Exide, publishes the following 
+>table:
+>
+>    Available Power        Temperature        Power Required
+>     From Battery           degrees F         To Crank Engine
+>
+>        100%                   80                  100%
+>
+>         65%                   32                  155%
+>
+>         40%                    0                  210%
+>
+>         25%                  -32                  350%
+>
+>[If more CCA capacity is required, two (or more) 12 volt batteries can be
+>connected in parallel.  Within a BCI group size, generally the battery 
+>with more CCA will have more plates because a larger surface area is 
+>required to produce the higher current.]
+>
+>     B.  Reserve Capacity (RC)  
+>
+>The second most important consideration is the Reserve Capacity rating
+>because of the effects of an increased parasitic (key off) load and in 
+>emergencies.  [RC is the number of minutes a fully charged battery at 80 
+>degrees F (26.7 degrees C) can be discharged at 25 amps until the voltage 
+>falls below 10.5 volts.]  More RC is better in every case!  In a hot  
+>climate, for example, if your car has a 360 OEM cranking amp requirement, 
+>then a 400 CCA rated battery with 120 minute RC with more electrolyte 
+>would be more desirable than one with 1000 CCA with 90 minutes of RC.  
+>
+>[If more RC is required, two six volt batteries can be connected in series 
+>or two (or more) 12 volt batteries can be connected in parallel.  Within a 
+>BCI group size, generally the battery with larger RC will weigh more 
+>because it contains more lead.]
+>
+>     C.  Type
+>
+>The two most common types of CAR batteries are low maintenance 
+>(non-sealed) and maintenance free (non-sealed or sealed).  [The low 
+>maintenance batteries have a lead-antimony/calcium (dual alloy or hybrid) 
+>plate formulation; whereas, the maintenance free batteries have a 
+>lead-calcium/calcium formulation.]  The advantages of maintenance free 
+>batteries are less preventative maintenance, longer life, faster 
+>recharging, greater overcharge resistance, reduced terminal corrosion and 
+>longer shelf life, but are more prone to deep discharge (dead battery) 
+>failures. In hot climates, buying non-sealed batteries is recommended 
+>because a sealed battery will NOT allow you to add water when required or 
+>to test the specific gravity with an external hydrometer.   
+>
+>Some manufacturers introduced a third type of car battery, "dual", that 
+>combined a standard battery with switchable emergency backup cells.  For 
+>about the same cost a better approach was to buy two batteries and isolate 
+>them.
+>
+>For off road applications in trucks, recreational vehicles (RVs), 4x4s, 
+>vans or sport utility vehicles, some manufacturer's distribute "high 
+>vibration" or RV battery versions designed to reduce the effects of 
+>moderate vibration.  For excessive vibration applications, it is best to 
+>buy a commercial battery.
+>
+>Car batteries are specially designed for high initial cranking amps
+>(usually for five to 15 seconds) to start an engine; whereas, deep cycle 
+>(or marine) batteries are designed for prolonged discharges at lower 
+>amperage.  A "dual marine" battery is a compromise between a car and deep 
+>cycle battery;  however, a CAR battery will give you the best performance 
+>in a CAR.  For RVs, a car battery is used to start the engine and a deep 
+>cycle battery is used to power the accessories.  [The batteries are 
+>connected to a diode isolator and both are automatically recharged by the 
+>RV's charging system when engine is running.  For additional information 
+>on multi-battery applications, call (800) 845-6269 or (503) 692-5360 and 
+>request a free copy of "Introduction to Batteries and Charging Systems" by 
+>Ralph Scheidler.]
+>
+>     D.  Size
+>
+>Manufacturers build their batteries to an internationally adopted Battery 
+>Council International (BCI) group number (24, 26, 70, 75, etc.) 
+>specification, [which is based on the physical case size, terminal 
+>placement and terminal polarity.]  The OEM battery group number is a good 
+>starting place to determine the replacement group.  Within a group, the 
+>CCA and RC ratings, warranty and battery type will vary in models of the 
+>same brand or from brand to brand.  Batteries are generally sold by model, 
+>so the group numbers will vary for the same price.  This means that for 
+>the SAME price you can potentially buy a physically larger battery with 
+>more RC than the battery you are replacing, e.g. a 34/78 group might 
+>replace a smaller 26/70 group and give you an additional 30 minutes of RC.  
+>If you do this, be sure that the replacement battery will fit, the cables 
+>will connect to the correct terminals, and that the terminals will NOT 
+>touch the hood when closed.
+>
+>BCI and the battery manufacturers publish application guides that will 
+>contain the OEM cranking amperage requirements and group number 
+>replacement recommendations by make, model and year of car, and battery 
+>size, CCA and RC specifications.  Manufacturers might not build or the 
+>store might not carry all the BCI group numbers.  To reduce inventory 
+>costs, dual terminal "universal" batteries that will replace several group 
+>sizes are becoming more popular and fit 75% or more of cars on the road 
+>today.  
+>
+>Battery manufacturers or distributors will often "private label" their 
+>batteries for large chain stores.  Below is a list of the largest domestic 
+>battery manufacturers/distributors in North America and my understanding 
+>of some of their brand names and private labels.
+>
+>          Johnson Controls Inc. (JCI)
+>                Ameriton
+>                Duralast  (Contact local Auto Zone store)
+>                Energizer  (Contact local Target store)
+>                Eveready  (800-331-9926 or contact local Costco store)
+>                Interstate  (800-272-6548)
+>                Motorcraft  (800-392-3673)
+>                Power Connection                
+>                older Sears Diehards
+>
+>          East Penn  (610-682-6361)
+>                American 
+>                Electro
+>                Deka
+>                Hi-Tech
+>                Pow-R-Surge
+>
+>          Douglas  (800-368-4527)
+>                Farmland  (Contact local store)
+>
+>          AC Delco/Delphi  (800-223-3526)
+>                Diehard Gold  (Contact local Sears store)
+>                Double Eagle  (Contact local Firestone store)
+>                Dura Power
+>                Everstart  (Contact local Wal-Mart store)
+>                Freedom  (Contact local Sears store)
+>                Lastcell  (Contact local Trac Auto store)
+>                Tough One  (Contact local Western Auto store)
+>                Voyager
+>
+>          GNB   (800-242-6750)
+>                Champion  (Contact local Sams store)
+>                Omaga  (800-925-6278 or contact local Wal-Mart store)
+>                Voyager  (Contact local Sams store)
+>
+>          Exide (800-346-3760)
+>                Auto Express  (Contact local Wards store)
+>                Centura  (Contact local K-Mart store)
+>                DieHard non-Gold  (Contact local Sears store)
+>                Edge
+>                Legend  (800-538-6272 or contact local NAPA store)
+>                Motorvator  (Contact local K-Mart store)
+>                Power-Tron
+>                Prestolite  (Contact local HiLo store)
+>                Pro Start  (Contact local Pep Boys store)
+>                Quick Start  (Contact local Wards store)
+>                Sears  (Contact local store)
+>                Titan
+>                Value-Lite  (Contact local Firestone store)
+>
+>     E.  Freshness
+>
+>Determining the "freshness" of a battery is sometimes difficult.  NEVER 
+>buy a battery that is MORE than SIX months old because it is starting to
+>sulfate.  [Sulfation occurs when lead sulfate can not be converted back to 
+>charged material and is created when discharged batteries stand for a long 
+>time or from excessive water loss.]  The date of manufacture is stamped on 
+>the case or printed on a sticker.  It is usually a combination of alpha 
+>and numeric characters with letters for the months starting with "A" for 
+>January (skipping "I") and digit for the year, e.g., "J6" for September, 
+>1996.  Like bread, fresher is definitely better.
+>
+>     F.  Warranty
+>
+>As with tire warranties, battery warranties are NOT necessarily indicative 
+>of the quality or cost over the life of the car.  Most manufacturers will
+>prorate warranties based on the LIST price of the bad and replacement 
+>battery, so if a battery failed half way or more through its warranty 
+>period, buying a NEW battery outright might cost you less than paying the 
+>difference under a prorated warranty.  The exception to this is the free 
+>replacement warranty period.  This represents the risk that the 
+>manufacturer is willing to assume.  A longer free replacement warranty 
+>period is better and is usually an indication of the quality of the 
+>battery.
+>
+>
+>8.  HOW DO I INSTALL A BATTERY?
+>
+>A car battery weights between 30 and 60 pounds, so the first question is
+>do I want to  install it myself?  The second question is what do I do with 
+>the old battery if not exchanged for the new one?
+>
+>     A.  Thoroughly wash and clean the old battery, battery terminals and
+>case or tray with water to minimize problems from acid or corrosion.  
+>Heavy corrosion can be neutralized with a mixture of baking soda and 
+>water.  Also, mark the cables so you do not forget which one it is which 
+>when you reconnect.
+>
+>     B.  Remove the NEGATIVE cable first because this will minimize the
+>possibility of shorting the battery  when you remove the other cable.  
+>Next remove the POSITIVE cable and then the hold-down bracket or clamp.  
+>If the hold down bracket is severely corroded, replace it.  Dispose the 
+>old battery by exchanging it when you buy your new one or by taking it to 
+>a recycling center.  Please remember that batteries contain large amounts 
+>of harmful lead and acid.  
+>
+>     C.  After removing the old battery, be sure that the battery tray 
+>and cable terminals or connectors are clean.  Auto parts stores sell a 
+>cheap wire brush that will allow you to clean the inside of a terminal 
+>clamps and the terminals.  If the terminals, cables or hold down brackets 
+>are severely corroded, replace them.  Corroded terminals or cables will 
+>significantly reduce starting capability.
+>
+>     D.  Thinly coat the terminal and terminal clamps with a high 
+>temperature grease or petroleum jelly (Vaseline) to prevent corrosion.
+>
+>     E.  Place the replacement battery so that the NEGATIVE cable will
+>connect to the NEGATIVE terminal.  Reversing the polarity of the 
+>electrical system will severely damage or DESTROY it.  
+>
+>     F.  After replacing the hold-down bracket, reconnect the cables in 
+>reverse order, i.e., attach the POSITIVE cable first and then the NEGATIVE 
+>cable last.  
+>
+>     G.  Before starting the engine, check the electrolyte levels and
+>state-of-charge.  Refill or recharge as required.  
+>
+> [If you want to retain your car's computer memory, security codes or radio
+>settings, a second battery can be temporarily connected to the electrical
+>system in parallel before disconnecting the first one.  A cigarette 
+>lighter plug can used to easily connect a parallel battery.]
+>
+>
+>9.  HOW DO I RECHARGE MY BATTERY?
+>
+>In addition to the earlier cautions, some more words of caution:  
+>
+>     A.  NEVER, NEVER disconnect a battery cable from car with the engine
+>running because the battery acts like a filter for the electrical system.
+>Unfiltered [pulsating DC] electricity can damage expensive electrical
+>components, e.g., computer, radio, charging system, etc.
+>
+>     B.  Check the electrolyte level and be sure it is not frozen BEFORE 
+>recharging.  
+>
+>     C.  Do NOT add water if the electrolyte is covering the top of the 
+>plates because during the recharging process, it will warm up and expand.  
+>After recharging has been completed, RECHECK the level. 
+>
+>     D.  Reinstall the vent caps BEFORE recharging and recharge ONLY in 
+>well ventilated areas.  NO smoking, sparks or open flames because while
+>the battery is being recharged because they give off explosive gasses.  
+>
+>     E.  If your battery is sealed, do NOT recharge with current ABOVE 25 
+>amps.
+>
+>     F.  Follow the charger manufacturer's procedures for connecting and 
+>disconnecting cables and operation to minimize the possibility of an 
+>explosion, but generally you should turn the charger OFF before connecting 
+>or disconnecting cables to a battery.
+>
+>     G.  If a battery becomes hot, or if violent gassing or spewing of 
+>electrolyte occurs, turn the charger off temporarily or reduce the 
+>charging rate.
+>
+>     H.  Insure that in car charging with an external charger will not 
+>damage the car's electrical system with high voltages.  If this is even a 
+>remote possibility, then disconnect the car's negative battery cable from 
+>the battery BEFORE connecting the charger.
+>
+>Usually, a when car is jump started, it is run to recharge (or equalize) 
+>the battery. This might NOT fully charge it!  The length of time to fully
+>recharge the battery depends on the amount of discharge, the amount of
+>surplus current that is diverted to the battery, how long the engine is
+>run, RPM, and temperature.  That is, an alternator is sized by the car
+>manufacturer to carry the maximum accessory load and maintain a battery--
+>NOT recharge a dead one.  
+>
+>[For example, if 300 amps are consumed for ten seconds to start a car from 
+>a fully charged battery, it will take the charging system approximately 
+>two and one half  minutes to replace the power used if 25 amps are 
+>available to the battery, or six minutes at ten amps, and an hour at one 
+>amp.  Using the same example with a dead 120 minute RC battery, it would 
+>take approximately 86 times longer to recharge it or three and one half 
+>hours at 25 amps, 8.7 hours at 10 amps or 86.4 hours at one amp].
+> 
+>If you have added lights, audio amplifiers, alarms, cellular telephones or 
+>other accessories, and "stop-and-go drive occurs frequently, the 
+>alternator might NOT produce enough current to keep your battery fully 
+>charged.  You might need to increase the capacity of the charging system.  
+>[Ideally the combined load of all the lights,  fans, and accessories 
+>should be less than 75% of the charging system's maximum output, so that 
+>at least 25% is available to recharge the battery.] 
+>
+>A better method to recharge batteries is to use an external constant
+>current charger which is set not to deliver more than 12% of the RC rating
+>of the battery and monitor the state-of-charge.  For fully discharged 
+>batteries, the following table, published by BCI, lists the recommended 
+>battery charging rates and times:
+>
+>    Reserve Capacity         Slow Charge           Fast Charge
+>      (RC) Rating 
+>
+>  80 Minutes or less      15 Hours _at_ 3 amps     2.5 Hours _at_ 20 amps
+>
+>  80 to 125 Minutes       21 Hours _at_ 4 amps    3.75 Hours _at_ 20 amps
+>
+>  125 to 170 Minutes      22 Hours _at_ 5 amps      5 Hours _at_ 20 amps
+>
+>  170 to 250 Minutes      23 Hours _at_ 6 amps     7.5 Hours _at_ 20 amps
+>
+>  Above 250 Minutes       24 Hours _at_ 10 amps     6 Hours _at_ 40 amps
+>    
+>The BEST method is to SLOWLY recharge it using an external constant
+>voltage (or tapered current charger) because the electrolyte has more time
+>to penetrate the plates.  A constant voltage "automatic" charger applies
+>regulated voltage at approximately 14.4 volts.  A 10 amp automatic charger
+>will cost between $30 and $60 U.S. at an auto parts store.  [To prevent
+>damage to a fully discharged battery, the current should be less than 1%
+>of the CCA rating during the first 30 minutes.]  With a taper charger, a
+>high current, up to 30 amps, can be applied to non-sealed batteries for a
+>short period up to 30 minutes maximum and then is regulated downward until
+>the charge state reaches 100%.  
+>
+>[An excellent automatic constant voltage battery charger is a 15 volt 
+>regulated power supply adjusted to 14.4 volts at 80 degrees F (26.7 
+>degrees C).  If 32 degrees F (0 degrees C), then increase the charging 
+>voltage to 15.3 volts.  When charging a maintenance free battery, add .2 
+>volts.]
+>
+>If left unattended, a cheap, unregulated trickle battery chargers can
+>overcharge your battery because they can "boil off" the electrolyte.  Do
+>NOT use fast, high rate, or boost chargers on any battery that is sulfated
+>or deeply discharged.  This condition requires a constant current from one
+>to two amps for 60 to 120 hours.  The electrolyte should NEVER bubble
+>violently while recharging because high currents only create heat and
+>excess explosive gasses.
+>
+>
+>10.  WHAT IS PARASITIC LOAD?
+>
+>Parasitic (key off) is the cumulative load produced by electrical devices, 
+>e.g., clocks, computers, alarms, etc., that operate after the engine is 
+>stopped.  Parasitic loads typically run 20 to 120 milliamps.  To test the 
+>parasitic load an amp meter must be inserted in series with either the 
+>positive or negative battery terminal and it's cable without the engine 
+>running.  If the parasitic load is prematurely discharging your battery, 
+>start removing fuses one-at-a-time until the offending electrical 
+>component is identified.  Leaving your headlights on will generally 
+>discharge a fully charged battery (with 90 minutes of RC) in four to six 
+>hours.
+> 
+>
+>11.  CAN I INCREASE THE LIFE OF MY BATTERY?
+>
+>     A.  Keeping your battery and engine well maintained is the BEST way 
+>to extend the life of your battery.  
+>
+>For cold climates, keeping the battery fully charged and the engine warm 
+>will help increase the life of the battery.  In the warmer climates and 
+>during the summer, the electrolyte levels need to be checked more 
+>frequently and DISTILLED water added, if required.  This is due to the 
+>high underhood temperatures.  In a study conducted by the Society of 
+>Automotive Engineers (SAE), the underhood temperature have increased 30% 
+>since 1985.  Heat shields are becoming more popular and are being used by 
+>a number of car manufacturers to protect the batteries from the high 
+>underhood temperatures.  Some battery manufacturers build "hot climate" 
+>versions by increasing the amount of electrolyte in the battery to provide 
+>more "cooling" or by special plate formulations.  Batteries last 
+>approximately two thirds as long in hot climates as cold ones.  
+>
+>     B.  Add distilled water--NEVER add acid or tap water and DO NOT 
+>OVERFILL. 
+>
+>     C.  Turning off unnecessary accessories and lights BEFORE starting 
+>your car will decrease the load on the battery while cranking, especially 
+>when it is cold.  
+>
+>     D.  Leaving your lights or other accessories on and fully 
+>discharging the battery can ruin your car battery, especially if it is 
+>maintenance free.  If this should this occur, you should test the battery 
+>AFTER it has been fully recharged to determine if there is any latent or 
+>permanent damage.
+>
+>     E.  Reduce the parasitic (key-off) load to 120 milliamps or less.  
+>
+>     F.  Storing batteries in cool locations and periodically recharging 
+>them.
+>
+>     G.  In cold climates, increasing the diameter (smaller wire gauge) of 
+>the battery cables will increase the power available to the starter motor.
+>
+>
+>12.  WHAT ARE THE MOST COMMON CAUSES OF PREMATURE BATTERY FAILURES?
+>
+>     A.  Loss of electrolyte (which account for over 50% of the failures) 
+>due to underhood heat or overcharging,
+>
+>     B.  Deep discharges (leaving your lights on),
+>
+>     C.  Misapplication or using an undersized battery,
+>
+>     D.  Undercharging or loose alternator belt,
+>
+>     E.  Excessive vibration (due to a loose holdown clamp),
+>
+>     F.  Using tap water,
+>
+>     G.  Corrosion, and
+>
+>     H.  Freezing.
+>
+>
+>13.  WHAT ARE SOME OF THE MYTHS ABOUT BATTERIES?
+>
+>     A.  Storing a battery on a concrete floor will discharge them.
+>
+>Modern lead acid battery cases are better sealed, so external leakage 
+>causing discharge is no longer a problem.  [Temperature stratification 
+>within large batteries can accelerate the internal "leakage" or self 
+>discharge if the battery is sitting on an extremely cold floor in a warm 
+>room or installed in a submarine.]
+>
+>     B.  Driving a car will fully recharge a battery.  
+>
+>There are a number of factors affecting alternator's ability to charge 
+>a battery.  The greatest factors are how much current from the alternator 
+>is diverted to the battery to charge it, how long the current is available 
+>and temperature.  Generally, running the engine at idle or short 
+>"stop-and go trips" during bad weather at night will not recharge the 
+>battery.  
+>
+>     C.  A battery will not explode.  
+>
+>While spark retarding vent caps help, recharging, a battery produces 
+>hydrogen and oxygen gasses.  If  a spark occurs, an explosion can occur.  
+>Remember the "Hindenburg"!
+>
+>     D.  A battery will not lose it's charge sitting in storage.  
+>
+>A battery has self discharge or internal electrochemical "leakage" that 
+>will cause it to become fully discharged and sulfated over time.  Prior to 
+>storing a battery, it should be fully charged,  placed in a cool location 
+>above freezing, and recharged when it reaches the 50% state-of-charge 
+>level or once every six months, whichever occurs first.  If left in a car 
+>or RV, disconnect the negative cable.  
+>
+>     E.  Maintenance free batteries never requires electrolyte.  
+>
+>In hot climates, the electrolyte could be "boiled off" due to the high
+>underhood temperatures .  Electrolyte could also be lost due to excessive 
+>charging voltage or charging currents.
+>
+>     F.  Test the alternator by disconnecting the battery with the engine
+>running.
+>
+>A battery as like a voltage stabilizer or filter to the pulsating DC 
+>produced by the alternator.  Disconnecting a battery while the engine is 
+>running can destroy the electronic components, e.g., computers, radio, 
+>stereo, alarm system, etc., or the charging system.  Just say NO! if 
+>anyone suggests this.
+>
+> 
+>14.  WHERE CAN I FIND MORE INFO ON BATTERIES?
+>
+>AC Delco Counterman Training Program, www.apaa_dot_org/delco/internet.html.
+>
+>AC Delco Home Page, www.apaa_dot_org/delco.
+>
+>"Auto Batteries", Consumer Reports, October, 1991.
+>
+>"Automotive Battery FAQ", Exide Batteries, http://204.170.84.25/power
+>  /autofaq.htm.
+>
+>"Automotive Electrical Troubleshooting Manual", Interstate Batteries, 
+>  Dallas.
+>
+>"Batteries", Consumer Reports, February, 1987.
+>
+>"Battery Replacement Data Book", Battery Council International, Chicago, 
+>  1996.
+>
+>"Battery Service Manual",  Battery Council International, Chicago.
+>
+>"Battery Training Guide", Exide, Reading, PA.
+>
+>"Best Bet in Auto Batteries", Consumer Reports, October, 1995.
+>
+>Darden, William E., "Deep Cycle Battery FAQ", http:
+>  //nyquist.ee.ualberta_dot_ca/~schmaus/dcbat.html.
+>
+>Electrochemical Science and Technology Information Resource Home Page,
+www.cmt.anl_dot_gov/estir/info.htm.
+>
+>Exide Battery Home Page, 205.170.84.25/power/exidepg5.htm.
+>
+>"First Aid for an Auto Battery", Consumer Reports, November, 1995.
+>
+>Hawkins, Tim, "Batteries:  Playing Pinball with Atoms", Nuts & Volts 
+>  Magazine, November, 1995. 
+>
+>Interstate Batteries Home Page, www.interstatebatteries_dot_com.
+>
+>Johnson Controls Inc. Home Page, www.jci_dot_com.
+>
+>Lead Acid Batteries Home Page, www.ncf_dot_carleton_dot_ca/~bf250/leadacid.html.
+>
+>Scheidler, Ralph E., "Introduction to Batteries and Charging Systems", 
+>  Sure Power Systems, Tualatin, OR.
+>
+>Sci.chem.electrochem.battery, USEnet Newsgoup.
+>
+>
+>Comments are always welcomed by Bill Darden at wdarden_at_mcimail_dot_com or 
+>(214) 361-9566.  For additional information on deep cycle batteries, the
+>Deep Cycle Battery FAQ maybe found on the Web server at 
+>nyquist.ee.ualberta_dot_ca/~schmaus or by requesting one via email from
+>wdarden_at_mcimail_dot_com.
+>
+>                                -------
+>
+></pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F708668" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F708668" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F708668" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

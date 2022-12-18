@@ -1,0 +1,303 @@
+<html>
+<head>
+<title>type2 - Re: replacing main jet in Kadrons</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/486309 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/486309" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/486309" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: replacing main jet in Kadrons</h1>
+   <b>Jason Black &lt;vwbus_at_earthlink_dot_net&gt;</b><br/>
+   <i>2013-05-28 17:18:08+00</i><br/>
+   <br/>
+   <pre>Jack,
+	Personally, I think a 120 main jet in Kadrons for a 1776 seems right...
+My '71 bus (just sold to a friend) is running 110 mains with a 1641, and
+it positively screams!
+	Preliminaries... The timing is set with a strobe at 28 to 32 degrees
+total advance (for a .009 dist only!), revved up??? A dwell meter
+reveals the right figure at idle? (I think it's like 48-52 or
+something??) Try this, too, while you have the strobe light out: Take
+the inductive clamp and clamp it on the other plug wires, one by one,
+while pulling the trigger. Each time, rev the engine. Any missing
+flashes will indicate a misfire. (It's a good check)... The valves are
+adjusted right-on??? Plugs at the right gap? It is very important that
+everything is in order BEFORE you deal with the carbs, or else you'll
+	Now... since you have a '71 bus, you'll have the front disc brakes with
+the brake booster. What you must do when adjusting the carbs is this:
+Securely plug BOTH intake manifolds at their vacuum fittings on the
+intake manifolds, where the balance tube between the carbs goes. They
+must be independent to be adjusted properly! Now, disconnect the
+throttle linkage at the right side carburetor so that they, too, operate
+independent of each other.
+	Remove both air cleaner assemblies, including the bottom plates, from
+the carbs. Find the idle mixture screws for both carbs. They will be on
+the right sides of the carbs, slightly above the bowls, and pointing at
+about a 50 degree angle upwards. (Find the one on the right carb
+first... it's easier to find.. then find the one on the left)  Find a
+screwdriver that you can use to adjust those screws. It's a little
+tricky to get one that will work, but find one...
+	As a beginning step, I like to set the idle at about 850 rpm. Set it at
+1000 or so if the idle is too rough. Do it in stages, by turning each
+carb's idle speed screw (not the mixture screw) down or up by 1/4 turn
+until the idle is OK. Use ONE carburetor synchronizer (I have a Uni-syn)
+to dial in the carbs until they both have the same vacuum. If the vacuum
+is off the gauge, you may screw the center of the uni-syn in or out to
+allow for this. But, get the same vacuum when the uni-syn is placed on
+top of each carb. 
+	Then, shut off the engine. Take your special idle MIXTURE screw
+screwdriver and screw the mixture screws in fully (be GENTLE!). Then,
+unscrew each one about half to 3/4 of a turn. Restart the motor. Now
+what you have to do is find the "sweet spot"... Screw the screws in or
+out (probably out for yours) in 1/8-turn increments, for both carbs,
+until the idle starts to increase. Once the RPMs have reached their
+limit (i.e. you unscrew a little and no difference is noted) then
+unscrew another 1/16 turn for each and call that part done. 
+	Your idle should have changed notably, idling better and smoother. It
+may have changed the idle speed. Recheck the RPMs and re adjust the idle
+speed like you did before to about 850. Now, use the uni-syn again to
+make the vacuum levels match on each carb by adjusting the idle speed
+screws (again, not the mixture screws)... 
+	OK... now you must shut off the motor and reinstall the air cleaner
+assemblies. Restart the motor. You must reconnect the carb throttle
+linkage back to the right side carburetor, without the rpms changing at
+all. Usually, the rod's length must be readjusted so that the
+socket-part slips on the ball easily. Two 8mm wrenches make this pretty
+simple. Just loosen the lock-nut where the right side socket is and
+screw it in or out for the right length, then retighten the locknut.
+Most of the linkage is adjustable for length, but I was lucky and had
+plenty of adjustment on the right side...
+	Now, shut off the motor. You may reconnect the vacuum balance tube
+between the carburetors.
+	One problem here might be a vacuum leak somewhere in the balance tube
+setup, or (likely) in the line that goes to the brake booster...
+	I installed this motor in a van with an untested brake boosting system.
+It did, however, have a terrible-looking line that went up front. I
+spent 40 bucks or so down at the hardware store and ended up with a
+copper line going most of the way between the carbs, for the vacuum
+equalization part of it... maybe 5/16"??? This is important because any
+equalization line that will flex WILL rob you of all kinds of power and
+make a big flat spot upon acceleration, so I'd try to minimize it if
+possible.
+	I also got a 5/16"(?) to 1/2" adapter fitting, with a handy cutoff
+valve in the middle, if anything forward of it should fail... I could
+turn the valve to "off" and limp around until I could fix the problem...
+	I plumbed the 1/2" copper line down to the steel line, under the body.
+I replaced all the 1/2" rubber, reinforced vacuum booster line with some
+clear, semirigid plastic stuff i found at the hardware store as well.
+Clamps everywhere... I used rubber or plastic hose sparingly, to
+minimize any power loss problems. But... I also left enough for the
+whole works to be able to move a bit, naturally, as the engine moves...
+	If you have a flexible rubber line between the carbs, it is really akin
+to a vacuum leak. The engine will run like crap and you'll be unhappy. I
+was unhappy, having done this. Then, one day I revved the engine while I
+was feeling of the line. I could feel it "breathe" and realized that i
+had used the wrong type. No instructions came with my kit, and I had to
+make my best guess at how it all went together... I messed up and used
+the wrong line for it...
+	This was in addition to hooking my valve cover breather tubes directly
+to the intake manifold fittings... It was embarrassing, but I had to
+learn the hard way... 
+
+Good luck and let us know!
+
+Jason Black
+vwbus_at_earthlink_dot_net</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F486309" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F486309" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F486309" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

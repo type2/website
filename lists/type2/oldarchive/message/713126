@@ -1,0 +1,287 @@
+<html>
+<head>
+<title>type2 - Don't try this at home</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/713126 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/713126" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/713126" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Don't try this at home</h1>
+   <b>John Anderson &lt;vwbus_at_netbiz_dot_net&gt;</b><br/>
+   <i>1996-09-17 01:53:41+00</i><br/>
+   <br/>
+   <pre>Neatest thing happened today, or seems that way now in afterthought,
+figured I'd share even though it's embarrasing, definitely DO NOT
+try this at home boys and girls.
+
+A bit of background first, about 2 months ago bought the '81 Westy
+for a long deserved late August vacation, needed an engine and much
+more and in the final dash to get it running I ended up scavenging the
+'78 and the '85, the former for FI parts the latter for both driveshafts
+as I felt too lazy to deal with the annoying howl from the '81's.
+
+So last weekend when FRAN passed I was unable to move the
+'85 as I still hadn't got around to doing the driveshafts and it caught
+about 8" of water, busy all week I finally decided Sunday I better
+get her moving before the brakes rusted totally and spent the day
+dissasembling CV's, second nature to me as I've done like 20 bus CV's
+this year.  Well all were canditates for Haynes do not use picture
+but for 15,000 on the '78 I've been running similar, reversed to wear
+the
+opposite surface with agreeable results, I just carry a spare, of
+which I have 4 that have been the worst but still work so I pick the
+four best I got place them appropriately for more wear, repack and
+reinstall.  After 10 or so rocks I finally get the rear drums to
+break loose and I'm on my way.  Here's where it gets interesting.
+Take her on the 20 mile jaunt to work this morning, notice the
+handling is odd, but I've been driving the heavier '81 and don't care.
+After work I decide to go track down a new lead on a split Westy and
+head out over a real twisty back road, as I'm going around the last
+couple of curves before I get to the main road I get a nasty growl,
+shit I figure one of those CV's is worse than it seemed, and its raining
+HARD and about 50F.  I figure might as well press on no point in
+stopping till I got to.  So I'm coming to the last curve before the road
+ends in a T and suddenly nasty vibration as well, thats weird I think
+as I begin to slow down, now I'm in a 50 degree banked right hander at
+about 40 mph on a drenched road known for treacherous curves and
+accidents.
+So as I slow, suddenly WHOOMP, big bang, shit I figure I've
+blown a tire that's the real problem.  Now history is racing in my
+head again, the left rear tire was in fact the spare from the '81
+but had a slow leak so for vacation my old roomate had exchanged one
+from
+the '85 so we had a solid spare for the trip as the '85's spare was
+shot.  Well I figure that slow leak must have become a fast one, I'm
+in the turn see something in my peripheral vision and ignore it as
+I concern myself with getting off the road, as I slow to about 25mph
+now on the berm get that groaning of steel on pavement and figure
+wonderful the rim is toast now.  I'm also worrying that I got no spare
+and no jack, both of which are in the '81.  So I get out to see how bad
+AND THE REAR DRUM IS SITTING ON THE PAVEMENT, NO FREAKIN WHEEL AT ALL.
+About now this dog starts barking and a minute later this guy walks
+up and asks if I lost a wheel, I say yeah I guess so.  I go retrieve
+the wheel from his yard, in fine shape, he cordially lets me borrow
+a jack and helps me jack the car, I reinstall hoping to steal 3 nuts
+from the other wheels only to now be reminded that unlike Buses
+Vanagon's are nearly the only vehicle in the world to use front bolts
+and rear nuts.  So I walk back up the road expecting nothing and
+miraculously find one lug nut, the last one I guess, bolt on 3 and 3
+and go home.  Needless to say call my old roomate (half owner of the
+'81) and give him some amount of hell, he goes "oh yeah" when he
+exchanged them we were in a rush and he figured I'd reinstall the
+correct wheel first thing so he had only tightened the nuts FINGER
+TIGHT.  I had driven like 35 miles that way before they let loose.
+I was not amused and let him know graphically, but in the end nothing
+appears damaged except the backing shield a teeny bit, I'm alive
+the wheel didn't hit anybody, the guy behind me must have thought it
+was all funny as hell, the guy with the dog sure did, never quit
+laughing the whole time he helped me and I didn't even get to roll
+another Vanagon like I did the ole '86.  So all in all a fun experience
+but one I wouldn't recommend, just like the one Love Bug movie where
+they lose the wheel in the turn.
+
+John
+vwbus_at_netbiz_dot_net
+
+PS.  Always check work done on your car, assume nothing, and boy
+am I going to take ribbing from this at work, the union guys love
+it when one of us "rocket scientists" does something idiotic, this
+will be the talk for a week.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F713126" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F713126" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F713126" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

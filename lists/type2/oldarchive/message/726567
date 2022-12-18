@@ -1,0 +1,321 @@
+<html>
+<head>
+<title>type2 - NEATO Article-here it is</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/726567 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/726567" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/726567" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>NEATO Article-here it is</h1>
+   <b>Richard &lt;rapalmer_at_unity.ncsu_dot_edu&gt;</b><br/>
+   <i>1995-06-30 19:32:15+00</i><br/>
+   <br/>
+   <pre>Well gang, here it is, for your enjoyment. Hopefully this will appear in
+the next OLD BUS REVIEW, the NEATO newsletter
+
+              Buses on the Internet
+
+   One of the reasons I love my '67 Standard Bus is because the
+ technology that makes it go is so simple. Having peered under the hood
+ of many of the newer vehicles on the road, including VW's, the mess of
+ hoses and wires is mind boggling. All the major functions are now
+ computer controlled. Because of this engine-computer phobia, and certain
+ evil computer class teachers, I used to avoid computers at all costs.
+    However, about a year or so ago, a friend was telling me of all these
+ nifty news groups on the internet, which were available free of charge
+ on my university computer system. He spoke of groups for everything
+ imnaginable, from music, to cooking, to various automobiles. This of
+ course sent me delving deep into the computer network news reader, where
+ I finally found what I was looking for, a group called Rec.autos.vw. I
+ subscribed to this, and found myself receiving perhaps 100 or so
+ messages a day, but was disappointed to discover that around 75% of
+ these articles, or posts, were about Jettas, Golfs, and other vehicles
+ with radiators. 
+     After days of reading about leaking head gaskets, air conditioning,
+ and the like, I stumbled across someone posting the address for a group
+ specifically about Type II's. This was more like it, I thought, and
+ subscribed. Unlike a newsgroup, this was a mailing list, where members
+ mail a post to a central computer server, which distributes it to all
+ the members. The list was called Vanagon, but included all generations
+ of buses. As a "newbie", I gingerly posted a few questions I had, and
+ was amazed at the almost instant  replies I got, from very knowledgable
+ folks. I was indeed impressed, as their suggestions worked! 
+      As time wore on, I began to get a feel for this group. I read many
+ different groups for various subjects, but none had the same comraderie
+ as this one. Along with the Threads, or continuing discussions on the
+ same subject, on serious technical matters, there were also
+ light-hearted discussions on sillier aspects. Fridays are also funny
+ days, as people post bus-related poetry, jokes, and tease each other
+ over which generations of bus are better. I really grew to like this
+ place.
+      I came to find that the list was started by Gerry Skerbitz, a
+ Vanagon owner,at the prodding of Joel Walker, another vanagon owner over
+ 1000 miles across the country. Started in April, 1994, it grew from 2 to
+ over 350 members in the first year, and now at only 14 months is around
+ 400. As a near-charter member, I have watched many personalities come
+ out on the list. There are several members who regularly post articles.
+ There's a fellow in California, who keeps us up to date as he is
+ restoring his '56 Kombi. There are quite a few Eurovan owners, who
+ constantly defend the honor of their vehicles as being "real" buses. Every
+ Friday, Joel Walker posts a "who's-who" of the list, breaking down
+ membership by state and country. There are list members in Europe, Australia,
+ and South Africa, each of who offers a different view of how the VW scene
+ is across the world. The memberships are also shown by year of bus; this
+ week there are 62 splits, 143 late models, 173 Vanagons, 13 Eurovans,
+ and the rest are those either in the "wanabus" category, or those who
+ have not announced what year they drive. Also posted with the weekly
+ stats is the address for the FAQ, or file of Frequently Asked Questions,
+ and several peoples' web sites.
+      Yes, the World Wide Web, the final frontier. Soon, I became comfortable
+ enough with my computer skills to attempt "surfing" around the web,
+ which is sort of like an
+ electronic library that lets you view "pages" as set up by people or
+ large groups. These pages have a certain address, and once you get to
+ that address through your web-browser, you can read articles, see
+ amazingly clear pictures, hear sounds, and even watch brief movies, all
+ scanned into the computer. I soon found web pages on everything from
+ Westfalia tents, to neat bus pictures, to one fellow's complete photo
+ documentation of his Sunroof Deluxe major rust repair and restoration. 
+ There are websites set up by VW dealers, on new models, and you can
+ also find sites dealing with different kinds of gasoline. These pages
+ all have links to other similar and related pages, so once you get
+ started, it's easy to sit for hours looking around. If you are
+ interested in almost any subject, chances are someone has set up a web
+ page about it.
+      Through the computer, I have "met" and corresponded with many
+ people across the country, and world, with similar interests as myself.
+ Not only can I send daily e-mail (electronic mail) to my family and
+ friends at other universities, but I can talk buses with people in
+ California, and the midwest. Through the Vanagon list, I was able to
+ sell my '67 Westfalia, have people offer me places to stay on long
+ roadtrips, meet someone who will hopefully be trading a nice single cab
+ for my Deluxe, and all this from the air-conditioned comfort of the
+ computer lab. Once I got past the initial computer-phobia, and learned
+ how to find my way around, (which is actually fairly easy) I have now
+ been fully sucked deep into the world of computers, and even deeper into the
+ world of Buses. If any of you have internet access, then I heartily
+ recommend using it to the fullest. If not, just go out and spend a
+ thousand or so dollars on a good computer with a modem, and subscribe to
+ an online service. You'll be glad you did! 
+      Enjoy your Bus every day, and take advantage of this new
+ technology which allows you to enjoy the company of others like yourself
+ as well. For those of you already online, here are some website
+ addresses, as well as information on how to join the Vanagon newsgroup
+ (the best one on the internet!) Feel free to write me at
+ rapalmer_at_unity.ncsu_dot_edu
+
+FAQ and info available from:
+ gopher site: halfdan.med.umn_dot_edu:/Miscellaneous/Vanagon
+ ftp site:    lenti.med.umn_dot_edu:/pub/vanagon
+ URL: gopher://halfdan.med.umn_dot_edu:70/11/Miscellaneous/Vanagon
+WWW/HTTP info available from:
+ http://www.teleport_dot_com/~des/vw
+ http://www.automatrix_dot_com/~skip/volkswagen
+ http://www.polaris_dot_net/~jclark/vwstuff.html
+ http://www.alldata.tsb_dot_com/
+ http://iraf.noao_dot_edu/~lytle/lytle.html
+ http://query5.lycos.cs.cmu_dot_edu/cgi-bin/pursuit?vanagon
+ http://www.chaco_dot_com/~coyote/vw.html
+
+To subscribe to the list send E-Mail to listserv_at_lenti.med.umn_dot_edu with 
+no subject and one line saying
+SUBSCRIBE VANAGON Firstname Lastname
+ </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F726567" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F726567" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F726567" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

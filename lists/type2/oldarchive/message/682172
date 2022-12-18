@@ -1,0 +1,425 @@
+<html>
+<head>
+<title>type2 - more early bus entertainment ... kinda long again.</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/682172 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/682172" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/682172" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>more early bus entertainment ... kinda long again.</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1994-06-01 19:40:51+00</i><br/>
+   <br/>
+   <pre>
+O'kane & The People's Truck
+  by Dick O'Kane    <Road & Track, July 1971>
+
+   I should be uplifted by the scene today ... made whole in the soul
+while my mind reclines on soft thoughts and nibbles at the little
+peeled grapes of delight that surround me.  For the vista at this
+moment on this day is one many men dream of as they sit starched and
+confined on a cold winter Monday.
+   The scene is typical enough ... for here.  The cafe features the
+Mandatory Picture of the king, Optional Suggested Picture of the king's
+father, a sooty Moroccan flag, a roaring, hissing coffee machine with
+attendant harrassed attendant, and a flood of blazing, gold-white
+sunshine ... hot and fine and welcome enough to bleach out almost any
+care.  I say ALMOST any care, for I'm beset by a malady, a longing,
+a certain madness that comes in recurring attacks, and needs only a
+reminder to trip off an episode.  Like right now;  I should be
+transported by the veiled ladies in white, and by the roaring towers
+of white spray where the sunlit surf crashes over the ruins of the
+ancient castle, but it's lost on me.  Because THEY are there at the curb.
+Six . . . seven . . . ten of them.  Ten Volkswagen vans.  To me at this
+moment in history their presence, their being, the whirring, clittering
+bumble of their hopeless little engines is an affront, a cruelty, a
+taunt beyond endurance, because dammit, I WANT ONE!  Gone is the low,
+snarling red fantasy, vanished in a cloud of rubber smoke and expensive
+fumes, to be replaced by dreams of . . . but you'd laugh.
+   Christ, it's like being infatuated with a fat, ugly woman.
+   And as with both women and cars, when you want one most, none are
+available.
+   I suppose I got into this Volksie van thing about the same way
+everybody else does.  At one point a while back I found myself with
+more than an E-Type could accommodate, i.e., a fallen-down farm and
+a woman possessed of all the best and worst qualities of mistress and
+magpie.  See, Jeffi's a compulsive trash-picker, and many's the time
+I've answered the phone to an excited description of the perfectly good
+and excessively groovy 7-foot walnut and velvet couch simply sitting
+there on the sidewalk waiting for the trash man, and could I please get
+out the Jaguar and come help pack it on home . . .
+   Now, an E Jaguar has many remarkable abilities, but drayage is not
+one of them.  So, typically, when a friend's clapped-out, clattering
+Volksie van came up for sale, we bought it, typically, for $400.  It
+was one of the window vans with seats, about a '64, and we figured it
+would be nice to have around ... you know, something to rumble down to
+the dump with every few days . . . or maybe to drive to town once a
+week to transport a few little sticks of furniture . . .
+   Anyway, that was the plan, and it soon got out of hand in
+predictable fashion ... Jeffi and I squabbled daily over the thing
+while the E rusted silently in the barn.  And by the end of the summer
+we were so capivated by that improbable conveyance that we were
+practically living in it.  It may surprise you, but a Volksie van is
+one of the most delightful vehicles on the road ... or off.  And it is
+first, last and always eminently useful and sensible ... a cheap,
+practical trundle-all for the Average Man ... a veritable People's
+Truck, in fact, designed with the same quaint attention to Common Sense
+that guided the development of the People's Car.
+   Research the matter a little and you'll find that there are four
+kinds of Volksie vans ... hundred-dollar ones, four-hundred-dollar ones,
+eight-hundred-dollar ones and new ones.  A four-hundred-dollar one is
+actually a hundred-dollar one for which someone managed to get four
+hundred dollars, and an eight-hundred-dollar one is a four-hundred-
+dollar one with paint.  A new one is any one with a one-piece wind-
+shield.  And whether you get it new or used, you can take your choice
+or your chance and get it with or without windows, with or without
+seats, beds, a kitchen, whatever ... there is a People's Truck and stuff
+to go in it for everyone.  (Another fact of economics ... when you have
+a Volksie van, everybody wants to buy it, except when you want to sell
+it; then you can't give it away.)
+   No matter what kind of body/interior it has, you can call it a bus,
+a truck or a van and no one will care, not even the parts man.  Our
+first one had windows and we called it The Truck, while our second one
+had none and we called it The Bus.  See, it all depends on whether you
+come to regard yourself as the driver of a truck or a bus.  The vehicle
+itself will force you into one of these roles because you sit WAY up
+high over all the other traffic, and the way your hands fall on the big
+horizontal wheel is . . . well, you just get into being a bus/truck
+driver, that's all.
+   Whether you're bussing or trucking, you can carry a prodigious load
+of goods and/or people; in fact, the thing has a bigger capacity than
+the average owner will ever use.  With seats, it's cozy with nine, or
+you can take out the seats in about 2-1/2 minutes and pack in an entire
+sub-culture.  Other things you can put in a Volksie bus and take places
+include 12 to 18 great big dogs, sound equipment for a rock group, nine
+weeks' garbage or four weeks' trash, a winter's worth of firewood, two
+cows, most of your friends, a young elephant, 16 Arab ladies, or a big,
+hairy motorcycle.  Though not all at once.  And when you're through,
+you can simply hose the whole thing out.
+   Best of all, though, you can throw everyone and everything out and
+move into your truck to live.  That's actually my rationale for wanting
+one here on the west coast of Africa.  It'll accommodate a double bed,
+your camping stuff and all the crap you acquire in New Hope, Coney
+Island or Marrakech.  And when you're through acquiring, you don't have
+to pay New Hope or Coney Island or Marrakech prices for a room ... just
+drive until you find a place with a free view.  And if the roadside
+doesn't suit you, leave it ... the People's Truck stands tall and proud
+on its skinny tires, most of its vitals tucked up out of reach of those
+big pointy rocks, and it can take you pretty far afield without damage
+or embarrassment to itself or its load.
+   And, mind you, it does all this on dainty sips of the gas-station
+man's most humble potion, with an engine that seems to require nothing
+more than privacy.
+   This is not to say that People's Trucking is ALL roses and light,
+though.  For all this common sense, economy and space, one pays one's
+dues.  For instance, consider the shape and size of the thing.  It has
+all the aerodynamic purity of a sheet-iron cow shed, and if you like the
+sedan in a cross-wind, you'll just LOVE the truck!  It doesn't just
+meander around the road in the wind, either.  It blows helplessly
+around like a big empty box, it can meander clear OFF the road in a
+trice, and sudden bullish charges into the other lane are commonplace
+... but here, at last, after all these years, YOU get a chance to
+frighten all the oncoming traffic.
+   There are other wind hazards.  For instance, there's headwind, which
+can turn a 2-hour trip into a 4-hour one, and there's tailwind, which
+can get you arrested for speeding, as it's the only way you can ever
+hope to exceed a turnpike speed limit.  Then there's truck wind, which
+happens every time a truck passes you, which is quite often.  This
+requires a high degree of hard left rudder, as the bow wave of a big
+truck can blow you right off into the ditch.
+   Without wind, the performance of the People's Truck will probably
+please Mom more than Dad.  The handbook says the one-, four- and eight-
+hundred-dollar series will make a breathless 65, and it will ... on the
+flat with no wind and after about fifteen minutes of gritting your
+teeth in a sympathetic effort (sometimes it helps to lean forward in
+the seat and bounce gently up and down, too).  Once underway, you drive
+flat out, and you soon learn to conserve headway like diamonds.  You
+find yourself taking all kinds of wild chances, nipping though narrow
+openings, passing when you shouldn't, ANYTHING to save lifting your
+foot.
+   If you do any driving through hilly terrain, you'll learn something
+very valuable ... how to enjoy scenery.  This is something you'll HAVE
+to learn to save your sanity, because there is precious little else to
+do ... though on a REALLY hilly road, you can always read.
+   Noise is something else you learn to take in stride, but not with
+all models.  Some of them are all fancy and padded inside and are
+therefore pretty silent, but not all of them.  See, the average garden-
+variety Volksie van is tastefully trimmmed in booming, clanging sheet
+metal, and fast passage over a bumpy road is like rolling down a
+cobblestone hill in a galvanized garbage can.
+   There are a couple of rememdies for this, though.  One is to glue
+old carpeting, jute bags and foam rubber all over the interior, which
+will quiet things down some, and another is to overwhelm the clatter
+with a ruckus of one's own ... like a good, big stereo tape system.  In
+fact, one of the most impressive sound systems I've ever heard lived in
+a Volksie truck, along with an oriental carpet, an overstuffed armchair,
+a gigantic brass hookah and a Tiffany lamp.  The truck was loud, but the
+tapes were louder, and a twist of the knob would drown out everything ...
+the indigenous clatter, the leaky muffler, the hard metallic vibration
+and all that traffic blowing to pass.  That's the thing ... you don't
+dare get too quiet.  I knew another guy who had a panel with a window
+in it right behind the front seats, and it made the cab so quiet that
+one day he got out on the turnpike, couldn't hear the engine screaming
+that it was still in third gear, and didn't even hear it when it finally
+blew up.  He thought he was out of gas, and it wasn't until he tried the
+starter with the door open that he heard all the broken pieces churning
+around.
+   Yet another hassle you learn to live with is cops.  You'd think that
+a vehicle capable of nothing more dangerous than a brisk trundle would
+be left alone by the fuzz, but it is not so.  Because of its nature ...
+cheap practicality with a highly mobile view ... the Volksie van is
+rapidly becoming the Official Vehicle of the International Counter-
+Culture, which means young people with hair, bright clothing, rather
+loose schedules and other such threats to God and Country.  To the
+average cop, then, that big tin box full of hair, gasping up the hill
+is nothing more than the Main Stash ... a thousand-kilo brick of
+Panama Red disguised as a Volksie van, with windows and doors and
+freaks painted on it and WOW, we're all gonna make Sergeant!  It isn't
+"Where's the fire?" anymore, it's "Where's the grass?" and unless you
+look like Mr. Clean going somewhere to scrub a floor, you can plan to
+spend some time by the side of the road explaining your identity,
+destination, political views and whatever's in your pockets with The
+Man.
+   A friend of mine gets his lumps in by always offering the cop the
+T-key to the engine compartment, the cop always goes to look, and he
+always gets all smarmy and gresy in the process, but beyond that,
+there's nothing you can do . . . except vote for me and Stan Mott in
+'72.  If elected, we will have all the drivers of port-hole Buicks
+stopped and hassled about income tax evasion.
+   But these are mere annoyances.  The real danger ... the Ultimate
+Hazard of People's Trucking is the Sorcerer's Apprentice Syndrome.
+Reducted to simplicity, this is where you say to your woman, "Behold,
+for I have brought thee a truck ... go ye therefore and collect groovy
+things and bring them here to make our house fulsome and glad."
+   And she does.
+   Giving a truck to a compulsive trash-picker is like giving automatic
+weapons to Attila the Hun.  Even with an empty 10-bedroom farmhouse we
+were soon overwhelmed with Stuff.  After we'd owned the truck a month,
+for instance, George gave us a painting for the house ... a small 2-ft-
+by-2-ft painting, already, and we couldn't find a place for it!  And
+then there was all that stuff in the barn when we left . . . Lord!  Your
+only consolation when this sort of thing starts is that you have a truck
+with which to cart it all away again ... on days when your wife lefts
+you use it.
+   Then there's the heater, and the matter of cold weather . . . but
+enough.  You should have the picture by now.  Still, you can't know the
+true, deep-down nature of the beast until you've lived with one for
+awhile ... and then you begin to see that besides all its Teutonic
+sensibility and practicality and usefulness, there's just something
+about the People's truck that's . . . well . . . SILLY.  And fun.  It's
+like owning a pack elephant that says and does droll things ...
+a cartoon hippopotamus that brings you the paper and reads over your
+shoulder and agrees with you about important things, like where to go
+today, and where to spend the night and when to leave.  I think Lewis
+Carroll would have owned one.  Dammit, they CAPTIVATE, that's all, and
+people respond by painting them colors and naming them things, like
+Fantasia and Moby Truck and Brunhilde.  In fact, last night while
+dreaming over the fire I decided I'd get one without windows next, and
+paint it candy-apple red with a gigantic black Maltese Cross on the
+side, and put a bit helmet spike on top of the cab and call it the Iron
+Chancellor . . .
+   High on a ridge about two miles up the beach, I can see a silver
+thread of road glistening with last night's rain, and on the thread like
+a colorful beads are four . . . six . . . seven little dots.  More
+Volkswagen vans.  One of those dudes has just GOT to be for sale, I
+betcha.
+   Does anybody feel like taking a walk up the beach after breakfast?
+......................................................................</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F682172" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F682172" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F682172" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

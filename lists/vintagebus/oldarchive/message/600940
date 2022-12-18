@@ -1,0 +1,329 @@
+<html>
+<head>
+<title>vintagebus - Past few days of 67 bus updates (LONG)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/600940 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/600940" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/600940" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Past few days of 67 bus updates (LONG)</h1>
+   <b>&quot;No Quarter&quot; &lt;silent_at_beatricene_dot_com&gt;</b><br/>
+   <i>2000-03-12 15:35:10+00</i><br/>
+   <br/>
+   <pre>Wow - after working like a madman on getting this 1600DP engine running, I
+finally got it purring like clockwork (after sitting for 3 years) on the
+garage floor.  My biggest snag by far was the 38amp bus generator/backing
+plate fiasco.  Not even the guru could help me 'without looking at it first'
+and since I didn't feel like driving 5 miles one way with a bunch of greasy
+parts, I figured I'd work it out myself.  Now for you archivists out there,
+you must save this next part of the message because you don't run across
+this info that often.
+===
+The 12v/38 bus generator (I believe it's found from 1967 to 1971) is longer
+than the beetle generator.  To accomodate this extra length, you must use an
+offset backing plate (it's recessed to allow the generator to intrude a bit
+deeper into the fan shroud), (here's the kicker) an offset HUB on the
+front (Front Is Front) of the generator, AND either a big stack of shims or
+the
+real thick shim/washer that VW included with this setup which eliminates the
+need for a huge stack of the thinner shims.  The hub allows the the fan to
+actually sit a lot closer to the generator than what is allowed on a beetle
+generator.
+===
+I couldn't figure out why after putting the bus backing plate on the
+generator, why I still was bottoming out on the shroud.  My backing plate
+was 1/4" from
+the shroud and the fan was hitting the shroud.  As subtle as it was, the fan
+HUB was the ticket - it allowed the fan to sit a good 1/4" closer to the
+generator and bingo - it fit like a glove.
+
+After this fiasco was solved, I double checked my fuel lines to make sure
+they weren't reversed, put the battery on the charger, hooked up all my
+wiring, tightened up the belt (which was so straight, I had to take out 2
+shims to take up the slack gained by straigtening up the generator.), and
+proceeded to add gas to the carb a few drips at a time between starts.
+Eventually I got the air out of the system and the engine ran.  I played
+around with the dizzy and the 34-pict-3 and got the engine to settle into a
+nice warm fuzzy idle.  Despite the rusty exhaust system and the oil smoke
+burnoff, it ran really quiet on the creeper on the garage floor - just
+purring - thanking me for bringing it back to life. :-)  It was missing on
+one cylinder which I'm almost positive is a problem with the crappy wires
+and plugs so I'll put some new ones on tomorrow and set the timing and then
+I should have a good used 1600DP to use for backup in case the 1776 blows
+up. :-)
+=======================================================
+Thanks to all of you who replied, I came to the conclusion that the problem
+with the eaten clutches and throwout bearing mishaps was because the cross
+shaft was mis-aligned in relation to the input shaft of the tranny.  Tonight
+I buckled down and studied how the who appartus works and then promptly
+removed the cross shaft.  Using washers as shims, I was able to knock the
+side to side play down to 1/32" from 1/8".  The 11mm bolt that holds the
+left bushing in place in the trans wasn't quite doing its job because the
+receiving hole in the bushing was wallered out (and it still is) and allowed
+the bushing to float side to side.  I also filed a new set of grooves in
+the cross shaft arms for the release bearing spring clips to sit.  The old
+grooves were worn deep enough that the springs couldn't do their job of
+holding the bearing in place.  The name of the game here is saving money
+because it's dumb to sink additional dough into a rear end when I've got one
+already built.
+
+Oh and did I mention that I found a little 3.5 lb mini sledge sitting on top
+of the tranny?  It had been there a while (as evidenced by the gunk buildup
+and rode the 70 some miles back to Beatrice without falling off.  My brother
+made some comment about the work ethics of the last owner/mechanic that
+worked on the bus.  Come to think of it, Judith did talk about hitting the
+starter with a hammer on occasion to get it to turn over.  Maybe she dropped
+it or forgot about it because it just laid there close to the starter with
+nothing
+to secure it.
+
+(an additional note here about that sledge - I've used it a lot in the past
+coupe of days - it really is a handy little tool - I think this is more
+karma coming into play. :-)
+
+And finally, after new plugs, wires, setting the timing, checking dwell, and
+adjusting the accelerator pump, I've now got a healthy little 1600DP sitting
+on the creeper on the garage floor that runs like champ - the choke makes it
+idle fast at startup, and then as it warms up, the choke goes all the way
+open.  It just needs a thermostat and a real good cleaning and it'll be a
+good little runner/backup engine once the 1776 needs to go the 67.
+======================================================
+Not being totally satisfied with the results of my efforts last night at
+repairing the cross shaft in the tranny, I pulled the appartus apart again.
+I marked and drilled a new hole in the main cross shaft bushing (the part
+closest to the clutch arm) and upon reassembly, I observed a perfectly
+centered set of release bearing arms with very very little side to side
+play.  The main problem was an oblong hole in this main bushing and a groove
+in the 11mm head securing bolt.  With everything straight and true again, it
+appears I've more than likely fixed the clutch problem with this bus.  I
+yoiked the gas tank tonight and tomorrow I'll power wash the engine bay.  In
+the morning I'm driving to Frank Musil's in Lincoln, NE to get some new
+swing-axle boots.  Hopefully by evening, I'll have the gas tank pulled out
+of the 66 and moved over to the 67 (the nice 15 gallon extra range tank!)
+Although this bus is a 67 and the gas tank had the sending unit installed,
+the tank is not a hump-back tank.  Also, for setting empty for 3 years, the
+tank has very little internal rust.  There is probably an area about 14
+inches by 5 inches that is surface rusty but the rest of it looks like nice
+clean metal.
+
+Anyway, that was it for tonight.  Got a late start and hurt my leg today so
+that slowed me down.  More later...
+===================================
+And then the next article is the first one that came thru after the list
+went back online.
+===================================
+One more little tidbit I'd like to share with all of you.  Since bringing
+this bus home, there is been an aura of death in the area.  In the past few
+days alone, there has been a botched burglary of a pickup that resulted in
+the pursuing woman getting shot and killed in her car, a kid near Adams, NE
+rolled his car and laid there for an unknown length of time before being
+found and sent in serious condition to the Lincoln hospital (which I later
+heard he died but that may be remour), and a contractor's son (The
+contractor does business with us at the lumber yard) was DWI'ing and wrecked
+his car and was killed.  The latter accident serves as a soapbox for me
+because the younger guys at work think I'm weird for not drinking nor
+wanting to.  They laugh about minor driving mishaps and other "fun" things
+that happen.  I'm not against beer/alcohol but I am against the nonchalant
+attitude in this area about underage drinking and drinking in excess (ie.
+stoned, plastered, drunk off your ass, etc.)  All I had to say to the guys
+yesterday about this kid they knew that died was, "And you guys think I'm a
+stupid freak for not drinking - I'm alive aren't I?"  Of course they had
+nothing to say.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F600940" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F600940" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F600940" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

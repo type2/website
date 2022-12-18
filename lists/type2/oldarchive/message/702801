@@ -1,0 +1,315 @@
+<html>
+<head>
+<title>type2 - Bus Trek Vol V (Colorado)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/702801 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/702801" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/702801" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Bus Trek Vol V (Colorado)</h1>
+   <b>&quot;Richard Alexand Palmer&quot; &lt;rapalmer_at_eos.ncsu_dot_edu&gt;</b><br/>
+   <i>1996-08-09 17:05:43+00</i><br/>
+   <br/>
+   <pre>Howdy there. After we left New Mexico, we crossed over into Colorado.
+ I really dig the design of the New Mexico state flag, and I'd been looking for
+a sticker of it while we were there ( I loooooooooooooove stickers!)
+Interestingly enough, I found my NM sticker *after* we got into Colorado...
+Anyway, as we were getting gas at the station where I found my sticker, I
+noticed oil under the engine. Not just drips, but about a 10 inch puddle, and
+this under an engine whose seals had under 500 miles on them. This caused a
+quick discussion, and the oil cooler was called into question, as it looked
+like the oil was running down from where it sits. So, the helpful gentleman
+wearing a really cool, yet highly offensive shirt (ok, I'll tell you. It said
+"P.E.T.A. - People for the Eating of Tasty Animals" Shudder, cringe, yet kinda
+funny as well...) told us that there was a Wal-Mart 2 miles up the road, where
+we could get more oil. After topping off the oil, we headed to Wally World.
+  We pulled into the parking lot, and headed in to get a case of Castrol
+20w-50. As it was 7:00 pm, we decided there was plenty of daylight to do the
+job, so we yanked the engine in the parking lot. After removing the fan shroud,
+we discovered to our dismay that it was not the oil cooler, rather it was the
+front main seal. It had been leaking so badly, that oil was blowing everywhere,
+which had confused us. So, we began to put the engine back in, as we had
+already used our extra seal. Meanwhile, a fine, upstanding gentleman, early
+30's, pulled up in a Sport Utility Vehicle. As we talked, we learned that he
+had done the Alaska Highway in a '66 bus years ago. We all felt a sense of
+hope, as this former hippie was now a fully productive member of adult society.
+ He was, actually, a lawyer, and gave us his card, in case we ran into any
+problems. A nice fellow indeed...
+  Anyway, we decided we could limp the last hundred or so miles to Boulder,
+checking the oil regularly, and then replace the seal there. We were headed
+into Boulder since Nicole lived there for a year, and her sister was still
+there. Upon our arrival, we saw that indeed, it is a haven for late models and
+Vanagons. I have never seen so many busses driving around town. We parked the
+busses across from her sister's apartment, and decided to get parts the next
+day.
+ Recycle Auto is a big VW parts place there, and Nicole knew one of the guys
+that works there. We picked up new *German* official VW front main seals and
+O-rings for really cheap, and set about finding a parking lot to work in. Once
+we did, Neil and I proceeded to pull the engine and replace everything with no
+problems. It took us about an hour and a half, as by then we had gotten
+*really* good ad pulling the engine. I was quite pleased as we headed back to
+the apartment.
+  Pearl Street Mall is in central Boulder, and it is definately the hip place
+to be. Pearl Street is closed off to traffic for about 4 blocks, and instead
+has grass and trees and such. There were musicians, magicians, and street
+performers everywhere. We set up shop and sold several t-shirts that I had
+printed for the trip, as well as some hand made jewelry and dresses. We met
+some really nice folks there, and made some spending money as well, which was
+really nice. I even drug out the ol' banjo and played a bit.
+  The more people we met, the more I realized how clueless some people are
+about their busses. I talked to several people that had just bought a bus, and
+driven a thousand or so miles to Boulder, and wondered why they weren't running
+right. As there was plenty of street parking where we were, I told folks to
+drive by for some help and instruction. Well, after a couple days, as word got
+around, there were soon 6 busses lined up. I changed folks' oil, bled brakes,
+and in general ran a clinic for clueless bus owners.
+ Some people wanted to learn, while others were disappointed to find they would
+actually have to put something into their busses. The most frightening bus I
+saw was a '74 with NO engine tin. None. The girl had had it for several months,
+and had no idea if the oil had ever been changed. Her brakes were horrible (I
+had to hook up the vacuum booster) and when I did her valves, they were all
+super tight. I hope she has since taken better care of the bus, or I'm sure
+it's not with us any more...
+:(
+  Some others, though, were thrilled to learn about their trusty steeds. I
+helped a girl from Massachusetts change oil, bleed brakes, do valves, and the
+like, and she was eager to learn. I have a lot of hope for her '71, which was
+in really good shape.
+  The only incident we had with the police also happened then. As I mentioned,
+there were 6 busses all lined up on the street, and we were all living in them.
+One morning, after cooking breakfast on the trusty Coleman, an officer drove
+up, drove along the sidewalk to where we were, and got out. This was about 10
+am, and she said she had a report about some sort of left handed cigarettes.
+Well, of course we hadn't, so we all began laughing, and she left rather
+quickly. Boulder does seem to be pretty laid back about not hassling people for
+just hanging around. Just don't try to skateboard anywhere...
+  Well, after a week, we knew it was time to head out to Indiana, where we had
+tickets for the Furthur Festial at Deer Creek. We said our goodbyes, reminded
+folks to change their oil regularly with 20w-50, and always use premium gas,
+and headed out to cross that vast ocean called Kansas. We turned mile 3000
+outside Boulder, which is about our halfway point for the trip. Suffice it to
+say that the trip across Kansas was rather uneventful. Likewise Missouri and
+Illinois. We were staying happily at rest areas, and cooking along the way. We
+made good time getting to Indiana, which is where I shall leave off until next
+week, when we meet fellow Listmember "Captain" Jim Kirk...
+ Anyway, If you live around North Carolina, please join us this Saturday at
+Lake Jordan State Park...
+Til then...
+
+
+-- 
+Poor Richard
+
+ "I spend half my life explaining to Christians why I'm a Deadhead,
+ and the other half explaining to Deadheads why I'm a Christian."
+                    _______
+    .--------------/_______\-----.
+    `/""""/""""/|""|'|""||""|    '\    Richard Palmer rapalmer_at_unity.ncsu_dot_edu
+    /    /    / |__| |__||__|      |
+   /----------=====================|    '67 Walkthrough Pop-top, the Wild Goose
+   | \  /V\  /    _.               |    
+   |()\ \W/ /()   _            _   |    
+   |   \   /     / \          / \  |   _-( )
+  =C========C==_| ) |--------| ) |==] _-{_}_)
+    \_\_/__..  \_\_/_ \_\_/ \_\_/__.__.
+
+http://www4.ncsu_dot_edu/eos/users/r/rapalmer/www/
+Give me the simple life.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F702801" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F702801" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F702801" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

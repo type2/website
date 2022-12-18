@@ -1,0 +1,374 @@
+<html>
+<head>
+<title>type2 - WTS: Pieces Parts</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/591603 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/591603" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/591603" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>WTS: Pieces Parts</h1>
+   <b>Jim Arnott &lt;jrasite_at_eoni_dot_com&gt;</b><br/>
+   <i>2002-06-15 21:50:10+00</i><br/>
+   <br/>
+   <pre>From Stan, contact him, not me.
+
+  Date:  Sat, 15 Jun 2002 11:19:25 -0500
+   From: wilden1_at_juno_dot_com
+
+
+
+Last call before going on E-bay
+Contact The Seller: Stan Wilder wilden1_at_juno_dot_com
+ 
+One 2000cc CV Series Rebuilt Short Block with 8000 miles on it.
+See details at bottom of the page.
+Price $600.00 Shipped from Dallas TX 75220
+Best Shipper for 180 pounds Forward Air
+-------------------------------------------------------------
+Two Each 80-83 Air Cooled Manual 4 Speed transmissions, DK series, I've
+run both boxes and they have tight ring and pinions and are overall OK.
+Price $300.00 Each
+Best Shipper for 94 pounds Forward Air
+-------------------------------------------------------------
+Sachs complete kit consisting of, Pressure Plate, Disk, Throw out
+Bearing, Pilot Bearing, this a new kit, It has never been handled, zero
+fingerprints absolutely new condition, also fits many Waser Boxers. Part
+number: 029198141 CLUTCH KIT Price: $135.00 cost. Asking $85.00 + UPS ,
+weight 33 pounds. See Picture
+http://williamwareagency_dot_com/forsale/stanvan/sachs.jpg
+----------------------------------------------------------------
+Two 65 Amp Bosch Alternators, both work good, about half or better length
+on the brushes, they come with the fan and fan shroud as you see them.
+Fit air cooled 80-83, possibly others.
+Asking price $50.00 each, the price of a new fan shroud.
+Ship From Dallas TX 75220
+Shipping weight 15 pounds
+See Picture:
+http://williamwareagency_dot_com/forsale/stanvan/alt1.jpg
+--------------------------------------------------------------
+Absolutely Pristine Condition
+Snap On Tach Dwell Meter 4/6/8 Cylinder. Model # 418
+This large dial meter is no longer manufactured.
+It does not require an internal battery
+See Picture http://williamwareagency_dot_com/forsale/stanvan/tach-dwell.jpg
+Asking $135.00 + Insured UPS
+No bargaining on this price.
+Condition is 10 out of 10, 
+This tool will last you the rest of your life.
+Ship From Dallas Texas 75220
+Shipping Weight 11 pounds.
+----------------------------------------------------------------
+For sale two ring grove cleaning tools:
+One tool is a Leslie, made in China , the shiny one.
+The other is a very old Snap On Ring Grove Cleaner.
+Both accept the same and other over the counter cleaning spurs like in
+the picture.
+Both for $20.00 + Postage
+http://williamwareagency_dot_com/forsale/stanvan/groveclean.jpg
+Ship from Dallas TX 75220
+Shipping Weight 2 pounds
+---------------------
+One matched set 2000 cc /94 MM OEM VW Cylinders with the matching
+pistons.
+These are used, they have approximately 15 thousand miles on them, the
+glaze has been busted and they are ready to install with a new ring set.
+True they are used but all are straight sides and round, no barrel
+effect, no top of cylinder grooving. 
+Asking price $100.00 the set + UPS delivery charges.
+This set cost over $400.00 from OEM VW sources.
+Shipping weight approx 24 pounds, ship from Dallas TX 75220
+Condition 8 out of 10 because a couple of fins are broke.
+------------------------------------
+One pair Used 80-83 Air Cooled Vanagon or Westy heater flapper boxes, the
+design with the bell on top. The flapper boxes are used, one box has been
+rebuilt, zero rust, rubber seals nice and soft.
+All in all I'd say 8 out of 10 condition
+Price $50.00 the pair + Postage
+One Pair genuine munchkin ice trays for Westy, Price $20.00 + postage
+---------------------------------------
+This pair of heater plastic duct parts fits 80-83 Air Cooled, price
+$20.00 both pieces + Postage See Picture
+http://williamwareagency_dot_com/forsale/stanvan/duct1.jpg , weight 2 pounds.
+-----------------------------------------
+Complete Fuel Injection System for 78-83 2000cc Air-cooled Vanagon
+Engine, Price $200.00 each system.
+This is the complete system and can be installed on an engine that has
+never had a fuel injection system. 
+The parts are listed below:
+Electronic Control Unit (JETRONIC) s Part # 039-906-021C
+Auxiliary Air Valve Part # 0.280.140.101
+Air Cleaner Top and Bottom with intake sleeve.
+Air Flow Meter/Sensor Part # 0-280-200-030 Air Fliter Box (alternate Air
+Filter Box 1976-1979 would be required for these vehicles)
+Boot intake, to Air Flow sensor Part #071.129.967
+Air Metering Body (throttle body)
+Air distribution manifold with cold start valve Part # 0.280.170.026
+(will not have EGR valve, it will be blocked off)
+4 Boot Sleeves, manifold to intake manifolds. Part #039.133.241
+Two intake manifolds, one right one left.
+Four Fuel Injectors with holding clamps. Part # 0-280-159.114
+Fuel Rail, left and right.
+Thermo time switch. Part # 0.280.130.214
+Double Relay (sometimes call combi relay)Relay #071-906-059 Left,
+0-332-54-129 Right.
+Throttle Valve switch. (Full throttle switch)
+Engine Temperature Sensor Part # 0.280.130.012
+Pressure Regulator (vacuum Limiter) Part # 0.280.160.100
+Resistor Unit Part # 0.280.159.0010
+Main Wire Loom, control head to everything else.
+New set Injector gaskets (4 small, 4 large) 311-198-261A
+Two intake manifold block gaskets 022-129-707F
+----------------------------------------------
+One each Blue Point (Snap On) 1/2" Air Impact Wrench.
+Price $50.00
+This tool is 30 years old, rebuilt twice but still breaks lug nuts loose
+that are torqued to 80 psi on 120 psi air pressure.
+You could get another 30 years out of it if you use it as seldom as I
+did.
+Shipping Weight 6 pounds
+Ship from: Dallas, TX 75220
+-------------------------------------------------
+2 80-83 Air Cooled Distributors with vacuum canisters #s 022905205S  and
+0-231-170-093  Price Each $60.00
+Shiping weight 2 pounds
+
+Ship from Dallas TX 75220
+---------------------------------------------------
+Engine Details:
+You can purchase this engine in two ways;
+#1. Bare bones short block with the oil pump.
+new parts in the rebuild:
+CYLINDER & PISTON KIT  Part number: 029198075OR
+$225.00 Quantity: 1  $225.00 
+MAIN BRGS T2 2000cc  Part number: 021198481A
+$53.02 Quantity: 1  $53.02 
+CAM BRGS T2 2.0L  Part number: 021198541 
+Price: $15.00 Quantity: 1  $15.00 
+GASKET SET, Price: Part number: 071198009A
+$55.67 Quantity: 1  $55.67 
+RING SET Price: Part number: 025198151 
+$61.53 Quantity: 1  $61.53 
+ROD BEARING SET Price: Part number: 039105701
+$17.55 Quantity: 1  $17.55
+New 8 VW OEM Hydraulic Lifters $108.00
+Reconditioned Rods $96.00
+Balance of Pistons, Rods, Crank, Flywheel, Cover Plate $188.00
+Price $600.00, shipping weight 185 pounds
+-------------------------------------------------------------
+#2. More complete Long Block Engine, you also get:
+a) Fan Shroud w / flappers
+b) Fan
+c) Flywheel installed and crank end play preset.
+d) Oil Cooler
+e) Oil Filter mount with New Mahle Oil Filter
+f) The new AMF 8000 mile Heads , installed w valves set.
+g) Valve train and valve covers
+h) Lower cylinder cooling tin installed
+i) Distributor installed
+Price $1200.00 , add 90 pounds to the weight
+----------------------------------------------------------------
+The only known flaw in this engine is an oversized oil drain plug.
+There is no core charge, your freight is only one way.
+This engine has had the glaze busted on the cylinders and a new set of
+Cofap rings installed, it will need a breakin procedure run on it.
+ 
+Last call before going on E-bay
+Contact The Seller: Stan Wilder wilden1_at_juno_dot_com</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F591603" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F591603" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F591603" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

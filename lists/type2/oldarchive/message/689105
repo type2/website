@@ -1,0 +1,397 @@
+<html>
+<head>
+<title>type2 - Propane Safety (long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/689105 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/689105" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/689105" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Propane Safety (long)</h1>
+   <b>jonesl_at_tcplink.nrel_dot_gov</b><br/>
+   <i>1995-10-20 18:06:43+00</i><br/>
+   <br/>
+   <pre>     This is in response to a thread started by drew_at_interport_dot_net who 
+     spoke of problems with propane leaking out of his regulator.
+     
+     FIRST THINGS FIRST!
+     
+     If propane is leaking from the hole in the side of the regulator, go 
+     shut that tank valve off NOW!!  Don't wait.  No sparks, no smoking, 
+     etc. until the area has been ventilated for a while.
+     
+     I've been lurking here because it's an interesting list - - and I have 
+     long range plans to acquire a Type II.  But I thought I ought to chime 
+     in on this one.  My claim to expertise here is based on a previous 
+     career as a distribution system and customer service engineer for a 
+     large gas company - dealing with both propane and natural gas.
+     
+     Your propane regulator is a rather simple device.  It has a 2-piece 
+     body - cast from what we used to call "pot metal."  In RV-type propane 
+     regulators these two pieces are crimped together to form a 
+     propane-tight seal - and they are, therefore, nonrepairable 
+     throwaways.  In between the two body sections are the working parts - 
+     a diaphragm (any number of different elastic materials have been 
+     used), a spring (adjustable from the top of the regualtor), and a 
+     valve with seat.  
+     
+     When you open your propane tank valve, propane rushes into one side of 
+     the diaphragm, pushing it against the spring.  When the pressure in 
+     this chamber is sufficient to overcome the spring tension, the valve 
+     is pushed against the seat, closing off the flow of propane.  When you 
+     turn on one of your propane appliances, pressure in this chamber 
+     drops, the spring tension opens the valve, and propane is permitted to 
+     flow thru to the appliance.  All regulator valves work this way, 
+     though configurations and added features vary greatly. 
+     
+     If the spring tension is properly set, the pressure flowing through to 
+     your appliances will be correct - usually around 6" W.C. (varies with 
+     altitude, exact gas composition, other factors - consult your local 
+     propane dealer - let him set the regulator if it needs it - unless you 
+     have and know how to use a U-tube manometer). When the gas reaches 
+     your appliance it flows through a small calibrated opening, or 
+     orifice, in the burner assembly.  The orifice is sized to allow the 
+     proper amount of propane to flow into the burner, assuming the 
+     regulator pressure is correct.
+     
+     The small hole in the regulator body that Drew mentioned is known 
+     (strangely enough) as the vent.  The vent permits air to flow in and 
+     out of the side of the chamber opposite the side where the propane 
+     resides.  This allows the regulator to have a full range of motion - 
+     if there was no vent, the diaphragm could only move until the forces 
+     exerted by propane pressure in one direction and spring tension + the 
+     pressure from trapped air in the other direction equalized.  All 
+     regulators have a vent on one side of the diaphragm (look at the one 
+     on the side of your house, if you want) - except some exotic types 
+     used for unusual purposes.  
+     
+     The vent serves a very useful additional purpose - it monitors the 
+     condition of the diaphragm.  In Drew's case, propane leaking from the 
+     vent means that the diapharagm has a hole in it - and the regulator is 
+     no good.  With a hole in the diaphragm, adequate pressure control 
+     cannot be maintained.  These things are designed to "fail safe" - and 
+     nearly always do - but depending on the nature of the flaw and the 
+     configuration of the regulator, it may be possible for excessive 
+     pressure to get thru to your appliances.  When this happens, more gas 
+     goes thru the orifice than the appliance was designed to handle.  In 
+     case of a propane cabin heater, this means that the heater could 
+     over-fire, burn out the combustion chamber or the exhaust ducting and 
+     set your camper on fire.  I spent quite a bit of time investigating 
+     gas explosions and fires - a variety of ugly scenarios come to mind.   
+                     
+     I strongly suggest that Drew should drive his camper down to the 
+     (best, most professional) local propane or RV dealer to get a 
+     replacement regulator.  While you're there, have them leak check the 
+     distribution system as well as inspect the gas bottle - only takes a 
+     few minutes.  Try to go early in the week when they're not rushed 
+     trying to get everybody's stuff done in time for the weekend.  
+     
+     Propane is great stuff when used safely - here are some safety tips:
+     
+     - keep the tank valve closed except when you're using the propane    
+       appliances.
+     
+     - propane is heavier than air - given the opportunity, it will push 
+       the air out of low or enclosed spaces and wait for a spark or flame 
+       to ignite it.
+     
+     - I know that some folks in real cold climates use propane cabin 
+       heaters to keep warm while they're driving down the road.  This 
+       practice, though nice and toasty, materially increases the chances 
+       of a fire or explosion in the event of a collision.
+     
+     - Don't use anything but a properly installed, externally vented, 
+       cabin heater to provide space heat.  Also - don't bypass any 
+       safety's (overheat switches, sail switches, etc).
+     
+     - Keep your appliances clean - especially make sure that the burners 
+       do not have plugged ports or anything other problems that will keep 
+       them from operating properly.  (Just try getting that dry, cooked-on 
+       pancake batter out of the stove burner - HAH! - try oven cleaner.) 
+     
+     - You should have your system leak-checked periodically, IAW mfr's 
+       recommendations.  I strongly suggest that - before each camping 
+       season - you should go over your system visually and with your nose, 
+       and - especially - with a squirt bottle of soapy water (nice foamy 
+       liquid dishsoap - like Ivory or Palmolive - mixed 10% with water 
+       will do) or commercial leak-check liquid.  Turn the gas on and hit 
+       each fitting with a squirt of the mixture - if bubbles start foaming 
+       up, you've got a leak.  Fix it!
+     
+     - If you work on the copper tubing gas distribution system yourself, 
+       use the proper tubing - Type K, I think, not the thinwall 
+       refrigerator tubing.  Also use the flare type fittings - not the 
+       compression type (Swagelock or equivalent).  The compression type    
+       fittings don't stand up to engine and road vibration well, and 
+       flaring tools, etc. are only a few bucks.  Also, it's real easy to  
+       over-tighten compression fittings - if you do, you'll over-stress 
+       the copper tubing - it will eventually crack and start leaking.     
+     
+     - If you have any doubt about what you're doing, consult a 
+       professional and/or have them do the work.  Where propane appliances 
+       are concerned, this may not be your FLVW or other automotive dealer. 
+       Unless they are doing a helluva business in campers, they probably 
+       haven't developed or hired the expertise.  Neither are you likely to 
+       find professional help at your corner gas station where they sell 
+       propane.  Try your major local bottled gas distributor (they guy who 
+       wholesales propane to the corner gas station - look in the yellow 
+       pages) or a major local RV dealership (ask your neighbor who keeps 
+       blocking the street with his Winnebago).   
+      
+     - Don't park your camper in a garage or other enclosed space with the 
+       propane tank valve open.  A leak here could blow up your house.  
+       Scenario - You return from camping trip - park camper in garage 
+       Sunday night but leave door open.  Monday morning - get in your 
+       daily driver bug and head for work - and close the garage door with 
+       your remote opener as you pull out of the driveway.  Propane leaks 
+       out and begins to accumulate in garage.  Explosive mixture begins to 
+       form. You return from work, hit remote switch as you drive into 
+       driveway.  Bad contact in door opener sparks, igniting gas.  You 
+       watch garage explode, remainder of house burn to ground.  
+     
+       Saw the results one time.  Fire investigators traced source of 
+       explosion to propane leak on camper stored in garage.  Close the 
+       valve!  Consider storing the propane tank outside. 
+       
+     - If you use your camper in late fall or winter (when you could get 
+       snowed in), you'll be depending on your propane appliances for your 
+       life.  Make sure you have enough propane and spares (regulator, 
+       spare tank, tools, lamp mantles, matches etc.) to take care of your  
+       needs and any problems.  (We once spent nearly a week snowed in      
+       while elk hunting at about 10,000 ft in the Uinta mountains on the   
+       Wyoming/Utah border - and were damned glad to have that extra tank   
+       of propane and the extra box of matches.)  Also 
+     
+     - If you're going to be in the cold, have your bottles cold-weather 
+       serviced by your propane dealer.  Tell him where you will be going 
+       and what you will be doing, and he'll tell you if it is necessary.  
+       The dealer will inject a small quantity of an antifreeze liquid 
+       (usually methanol) into the bottle.  This absorbs water that may 
+       have accumulated in the bottle due to moisture in the propane.  You  
+       may have noticed frost on your bottle when it's being used - the 
+       bottle gets cold because a significant amount of heat is required to 
+       evaporate the propane.  If there is water inside your bottle and the 
+       outside temperature is low, ice will form at the outlet of the 
+       bottle and block the flow - similar to carburetor icing.  If this 
+       happens, you will soon be very cold.  So get 'em serviced. 
+     
+     - Don't take a wrench out on the back porch and cannabilize the 
+       regulator off your propane barby to use on your camper.  It may be 
+       the model and size you need - - but maybe it won't be.  If it's too 
+       small (possible if you're running a lot of propane appliances), it 
+       won't provide enough propane - you may start losing pilot lights, 
+       and the other appliances won't work at full capacity.  If it's too 
+       large (not likely but possible), it will "short cycle," slamming on 
+       and off under load - subjecting your propane appliances to surges of 
+       pressure with undesireable long term wear, tear, and aggravation.
+     
+     And finally - -
+     
+     - If, heaven forbid, your camper catches on fire - GRAB the SO, GRAB 
+       the kids, the dog, etc... and GET OUT and get clear!
+     
+       IMMEDIATELY!!
+     
+       These things burn to the ground in an amazingly short time - often   
+       with spectacular explosions when the propane tank and the gas tank   
+       go up.  Don't go up with 'em.
+     
+     If anybody has any questions, contact me at jonesl_at_tcplink.nrel_dot_gov.
+     </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F689105" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F689105" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F689105" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

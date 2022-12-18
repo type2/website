@@ -1,0 +1,586 @@
+<html>
+<head>
+<title>type2 - Re: FTC, VWOA, Head Replacement Questions</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/681981 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/681981" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/681981" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: FTC, VWOA, Head Replacement Questions</h1>
+   <b>Terry Tan &lt;terrytan_at_ritz.mordor_dot_com&gt;</b><br/>
+   <i>1995-04-21 03:40:58+00</i><br/>
+   <br/>
+   <pre>> 
+> >I volunteer to archive the composite tales of woe/terror/ripoff/etc=
+>  regarding
+> >head replacement, leaking seals, etc.   =20
+> >
+> >If we gather the info correctly we will have a strong case for presenting
+> >VWOA with either a "make it right via FTC" or a potential Class Action=
+>  lawsuit.
+> 
+> Wow. Great idea.=20
+> 
+Derek, 
+ I support your efforts.
+ I hate to see class action suits against mfr especially litigations
+ that result from greed or frivolous matters but my experience with VW
+ shows that the individuals within the company that were involved had never 
+ learned from their snob attitude during the handling of the Audi 5000 case
+ which costs VW dearly.
+ Unfortunately because of the decision of a handful of executives within
+ the Corporate structure the company suffers financial damage that affects
+ all the workers within that organization.
+ Perhaps action like this will weed out those individuals within that
+ company and thereby set an example for other companies to follow.
+
+ Enterprises like VW must relearn that providing a good product to the
+ consumer must be their ultimate goal. The profits will fall in line
+ if this law is followed faithfully. If you make a mistake especially
+ if some dumb engineer within screw up on the design make the correction
+ immediately. Dont start using the army of corporate attorneys within
+ to cover up. It will evetually cost you more. 
+ Lets face it, if these lawyers were of real calibre, they will be
+ practicing on their own and not for somebody. 
+ 
+ A very large corporation that I used to worked for(sorry will not identify 
+ it) followed this basic rule and eventually became one of the world's
+ largest and profitable company. Not too long ago it too deviated from the 
+ principles  laid down by its founder and paid a hefty price for its 
+ decision.
+                                             
+  
+  
+> Here is a reproduction of a private message I just 
+sent off to one of our > list members.
+> 
+> Derek
+> 
+> 
+> >Derek:  We have an '85 Westy that was given to us by my inlaws 2 years=20
+> >ago, Do you know if we would be covered since we aren't the original=20
+> >purchasers under this?  We apparently have a colent leak at the head=20
+> >gasket.  Also. how do you go about filing to have this done?  And do you=20
+> >need complete service records from when the vehice was purchased?  Thanks=
+> =20
+> >for the info!!!!
+> 
+> In the event that there is paperwork or other signs that the car has more
+> than 50,000 miles on it, then:=20
+> 
+> 1. Ask that a DSM look at the car and see what he will offer you in the way
+> of "assistance."
+> 
+> 2. If you want to get more "assistance" then go through the FTC process.
+> Your case is really iron clad since this is a fault of VWs and everybody has
+> it. You need to prove this by going to the archive of the vanagon list and
+> downloading all the tales of woe.
+> 
+> The fact that your car was obtained used is irrevelant here and nobody is
+> likely to even mention it to you.
+> 
+> Here is the FTC infomration:=20
+> 
+> I found this today on the Federal Trade Comission site. It appears to mean
+> that we can all go mob VW to pay for all our engine repairs *even if we have
+> already paid for those repairs!*
+> 
+> That is, I bet the collective expense among members of this list for engine
+> repairs is in the multi millions of dollars over the years. Apparently, this
+> thing gives us the right to go to the BBB and try to get VW to refund to us
+> the amount we spent in the past, even for VWs sold in the 1970s.  It costs
+> us nothing and it could be a bonanza.
+> 
+> I bet nobody on the list has ever taken advantage of this program but it is
+> hanging right out there.=20
+> 
+> Enjoy. I wonder if any of us has the initiative to actually take advantage
+> of this. Anyone who had a leaking head gasket seal would be a prime
+> candidate. If you had more than 50,000 miles on your engine, VW billed you
+> for part of the repair. But one could argue that they should have set the
+> threshhold higher, say, at 100,000 miles.
+> 
+> Derek Drew
+> 90 Syncro Westy
+> 
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+> Facts for Consumers from the Federal Trade Commission
+> 
+> VW Mediation/ Arbitration Program -- July 1994
+> 
+> 
+>      Under the terms of a 1988 Federal Trade Commission
+> order, Volkswagen of America (VWoA) has established a
+> mediation/arbitration program for all owners and lessees of
+> VWoA or Audi cars and light trucks with engine problems.
+> Through this informal program, operated by the Better
+> Business Bureau (BBB), you may seek one of the following
+> settlements: a refund for the money you spent on repairs;
+> repairs to be made by VWoA at no charge to you; or a VWoA
+> buy-back of your car.
+> 
+>      To participate, you must contact the nearest BBB or
+> VWoA and request an arbitration package that includes, among
+> other things, a settlement request form, which you must
+> complete and return. The BBB toll-free number is
+> 1-800-955-5100. You can contact VWoA by writing:
+> 
+> Volkswagen of America, Inc.
+> Customer Services Department
+> 888 West Big Beaver
+> P.O. Box 3951
+> Troy, MI 48007-3951
+> 
+> or by calling:
+> #1-800-822-8987 (VWoA owners)
+> #1-800-822-2834 (Audi owners)
+> 
+>      This arbitration program covers two categories of
+> problems -- specified claims and internal engine component
+> claims.
+> 
+>      Specified claims can be filed by owners or lessees who
+> experienced oil consumption-related problems in water-cooled
+> gasoline engine Volkswagen and Audi vehicles from model
+> years 1974 through 1979. If you have had such oil
+> consumption problems, you need not still own or lease the
+> car to be eligible to participate in the program.
+> 
+>      Internal engine component claims involve all other
+> engine problems. All owners or lessees who experienced
+> internal engine component problems with any Volkswagen or
+> Audi vehicle, regardless of the model year and engine type,
+> can file claims. However, you still must own or lease your
+> car to be eligible.
+> 
+> Mediation
+> 
+>      The arbitration program, which is offered to you at no
+> charge, has two phases: mediation and arbitration. First,
+> the BBB will try to mediate a settlement between you and
+> VWoA without having an arbitration hearing. For example, BBB
+> staff may ask you to talk to the dealer one more time. Or
+> they may suggest that you contact your VWoA regional office
+> about your problem. Sometimes, the BBB talks to each party
+> and tries to arrange a settlement. This mediation process
+> may result in VWoA making an offer that satisfies you.
+> 
+>      If you accept the VWoA offer, you give up your right to
+> arbitrate this particular problem (unless the problem
+> happens again, of course). If you are not satisfied with the
+> VWoA offer, you have the right to an arbitration hearing.
+> Make sure you notify the BBB if you want to have a hearing.
+> Keep a record of the date you contacted the office.
+> 
+> Arbitration
+> 
+>      Arbitration is the next step when mediation fails. It
+> differs from mediation in that the parties do not settle the
+> problem between themselves. They present their claims to an
+> impartial third party called the arbitrator, who is the
+> decision maker.
+> 
+>      Arbitration is informal; you do not need a lawyer and
+> there are no complicated legal rules. The arbitrator listens
+> to both sides, asks questions, and ultimately makes a
+> decision that he or she believes is fair. The arbitrator may
+> decide for or against your claim. You do not have to accept
+> the arbitrator's decision (see page 7). However, VWoA must
+> accept the arbitrator's decision as final if it's accepted
+> by you. If you decide to arbitrate, your local BBB will give
+> you further explanations about the program's rules.
+> 
+> The Award Request
+> 
+>      On your arbitration form, you will be asked to state
+> exactly what you want to receive from VWoA through the
+> arbitration process. If you already have had your car
+> repaired, you may wish to ask for the amount of your bill.
+> If your car has not been repaired, you may wish to ask the
+> arbitrator to order VWoA to make the repairs at no charge to
+> you. Or, if your case justifies it, you might ask for a
+> combination of these.
+> 
+>      You are eligible to file a claim and have an
+> arbitration hearing regardless of your vehicle's age or
+> mileage. However, age and mileage are factors that can be
+> taken into consideration by the arbitrator in arriving at a
+> decision.
+> 
+>      In an extraordinary case -- for example, if the dealer
+> has been unable to fix serious problems with the car after
+> several tries -- you may wish to ask the arbitrator to order
+> VWoA to buy back the car. In this case, VWoA may ask the
+> arbitrator to deduct an amount from the cost of the car for
+> mileage or use. The arbitrator does not have to make any
+> deduction from the award, but may do so based on individual
+> circumstances. The arbitrator cannot give you more than you
+> have asked for on the award request.
+> 
+> The Arbitrator
+> 
+>      Arbitrators are community volunteers whom the BBB has
+> recruited and trained. VWoA does not take part in selecting
+> an arbitrator. An arbitrator is never paid, except for
+> occasional travel expenses.
+> 
+>      If you live far from the BBB office, the staff will try
+> to arrange a hearing location closer to your home. Once the
+> arbitrator is appointed, the BBB will set a date for the
+> hearing.
+> 
+> The Arbitration Hearing
+> 
+>      The arbitration hearing is an informal proceeding where
+> you have an opportunity to tell your story. You can present
+> any documents and witnesses you want. Essentially, you have
+> to convince the arbitrator that what you are asking is fair.
+> 
+>      VWoA will have the same opportunity. If necessary, the
+> arbitrator may decide to ask the BBB to supply and pay for
+> an expert, or you can bring, at your expense, your own
+> expert -- for example, the mechanic who worked on your car.
+> You do not need a lawyer.
+> 
+> Preparing for an Arbitration Hearing
+> 
+>      A key factor in the outcome of arbitration is
+> preparation. If you are well-organized, your case will be
+> easier for the arbitrator to understand.
+> 
+>      Documents, such as receipts for car maintenance and
+> repair, are usually the best type of information to present
+> at the hearing. But letters from anyone who is familiar with
+> the details, such as the mechanic who repaired the car, are
+> good substitutes. At the hearing, of course, you or others
+> can tell the arbitrator about any relevant details, even if
+> you do not have documents.
+> 
+>      Repair Information. You should list all of the details
+> about the car and each problem for which you are seeking a
+> refund or repair:
+> 
+> *    the identification of the car by VIN (Vehicle
+>      Identification Number);
+> 
+> *    the make, model, and year;
+> 
+> *    the mileage on the car;
+> 
+> *    the date(s) of any repair(s) and the mileage at which
+>      any repair(s) were made;
+> 
+> *    the car part(s) that were repaired;
+> 
+> *    the cost(s) of any repair(s); and
+> 
+> *    if repairs were paid, some indication that you (rather
+>      than someone else) paid the bill(s).
+> 
+>      As suggested above, a receipt often can show much of
+> the necessary information. If you no longer have a receipt,
+> you can ask your mechanic for a copy of the repair record or
+> ask the repair mechanic to come to your hearing or write a
+> letter. In reporting information, the mechanic should
+> include:
+> 
+> *    what was wrong with the car;
+> 
+> *    what caused the failure; and
+> 
+> *    if you have properly maintained your car.
+> 
+>      If the repair work has not yet been done, an estimate
+> or work order providing such information would be important.
+> 
+>      If you no longer own the vehicle but are arbitrating an
+> oil consumption-related problem covered by the specified
+> claims program, you should have proof of past ownership for
+> your arbitration hearing, such as a copy of the title,
+> registration, an insurance policy, a purchase contract, or
+> financing documents. The repair receipt itself may show
+> ownership, as well as the necessary repair information.
+> 
+> Maintenance and Driving Habits
+> 
+>      VWoA may argue at the hearing that your problem was
+> caused by poor maintenance or improper driving habits. If
+> you can show that you followed the recommended maintenance
+> schedule and that you avoided driving practices the owner's
+> manual cautions against, you have a better chance of
+> winning. For example, if the problem involves an internal
+> engine part such as a camshaft, it would be helpful to show
+> that you changed the engine oil at the recommended intervals
+> for the type of driving you do and that you used the type of
+> oil recommended in the owner's manual.
+> 
+>      To demonstrate maintenance, written records -- such as
+> receipts, door stickers, or personal notes -- usually are=7F=7F
+> the best. On the other hand, to show proper driving
+> practices, your statements to the arbitrator may be the only
+> evidence possible.
+> 
+> Other Information
+> 
+>      Sometimes, showing the arbitrator that others have had
+> similar car failures can help indicate that the problem was
+> with the car rather than with your maintenance or driving
+> habits. For example, your mechanic may know of similar
+> failures; you may have seen (or be able to find) articles
+> about similar problems in your local newspaper or in car
+> magazines (check columns written by expert mechanics); and
+> your state or city consumer protection offices may be aware
+> of others with similar car problems or may have additional
+> information.
+> 
+>      Also, VWoA sends service bulletins about certain
+> problems to its dealers. Although many service bulletins
+> simply update the dealers about changes in part numbers,
+> other bulletins may indicate that your car repair was a
+> common problem. Therefore, if you can obtain a copy of an
+> appropriate service bulletin and find a mechanic who will
+> verify that the bulletin applies to your car problem, you
+> might want to show it to the arbitrator.
+> 
+>      For information about how to order some or all of the
+> bulletins that may apply to your car, call 1-800-544-8021.
+> You also may be able to look at copies of the bulletins at
+> local VWoA dealers.
+> 
+>      If your complaint involves an oil consumption-related
+> problem in a 1974 through 1979 water-cooled gasoline engine
+> VW or Audi vehicle, when you receive your specified claims
+> arbitration forms, you also will get "background statements"
+> prepared by the FTC and VWoA. You can present these
+> statements to the arbitrator. They may help the arbitrator
+> reach a decision.
+> 
+> The Arbitrator's Decision
+> 
+>      Usually a few days after the hearing, the arbitrator
+> will write a decision, called an "award." It is binding on
+> VWoA, but not on you. You can accept or reject it. If you
+> accept the award, VWoA must do what the arbitrator decides.
+> For example, you might ask for $700 but only be awarded $500
+> by the arbitrator. You can accept the $500 award, which ends=7F
+> your claim, or you can reject the $500 award and pursue your
+> case through other avenues, such as a small claims court.
+> 
+>      If you have problems or questions about the arbitration
+> program, contact your local BBB or the FTC at any of their
+> offices listed on the next page.
+> 
+>      For a list of all the FTC's free consumer and business
+> publications, contact: Public Reference, Federal Trade
+> Commission, Washington, DC 20580; 202-326-2222. TTY (202)
+> 326-2502. Ask for a copy of Best Sellers.=7F=7F
+> 
+> 6/88; 8/89
+> .
+> =20
+> ___________________________________
+> Derek Drew
+> drew_at_interport_dot_net (main address for e-mail)
+> derekdrew_at_aol_dot_com (alternate/backup address, checked infrequently)=20
+> 
+> </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F681981" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F681981" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F681981" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

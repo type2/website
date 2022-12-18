@@ -1,0 +1,642 @@
+<html>
+<head>
+<title>type2 Mailing List Activity - 1999-01</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/listmonth/1999-01 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/listmonth/1999-01" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/listmonth/1999-01" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+  <div class="panel panel-primary">
+  <div class="panel-heading">type2 - 1999-01</div>
+  <table class="table">
+   <thead><tr><th>Subject</th><th>Date</th><th>From</th></tr></thead>
+   <tbody>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/522316">Test!  I'm the only one!:)</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-27 04:31:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>
+whee.
+
+
+--
+David Raistrick  '69 Westy-Ichigo			keen_at_finally.atlasta_dot_net
+		 '82 Westy-Maxine (Mom's)
+  		 '66 SO-44 Westy (It runs! I drove it!)	in Augusta Ga...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/464708">Whee! am I still alone?</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-29 03:41:22+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>
+echo..echo...
+
+--
+David Raistrick  '69 Westy-Ichigo			keen_at_finally.atlasta_dot_net
+		 '82 Westy-Maxine (Mom's)
+  		 '66 SO-44 Westy (It runs! I drove it!)	in Augusta Ga...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/524107">ADMIN: New server up and running!</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 02:52:29+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Ok folks.
+
+You might have gotten another message from Thom, too.
+
+The new server is running!  Keep sending your email to type2_at_type2_dot_com and
+vintagebus_at_type2_dot_com
+
+If you experience any trouble, please contact Ken, Steve, Thom, or me.
+
+bighous...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/474021">ADMIN: Your THIRD message.</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 03:48:38+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>It may be the second.:)
+
+I found a half dozen little problems.  Enough that the server didnt want
+to work right.:)
+
+Lets see how well this one works shall we?  If you get this, we are
+running great, and you are subscribed.
+
+If you DONT get this....*grin*
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/522860">Server change</a></td>
+        <td>&quot;Chris&quot; &lt;vw69bus_at_mindspring_dot_com&gt;</td>
+        <td>1999-01-31 04:06:45+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Thanks to listmember David Raistrick whi has been slaving behind the scenes
+to keep this thing running!
+
+
+
+Chris
+'72 bus
+'69 bus...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/540374">ADMIN: Type 2 List TEST!</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 04:16:30+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>We seem to be having trouble with this half.
+
+Sat Jan 30 23:43:58 EST 1999
+
+
+--
+David Raistrick  '69 Westy-Ichigo			keen_at_finally.atlasta_dot_net
+		 '82 Westy-Maxine (Mom's)
+  		 '66 SO-44 Westy (It runs! I drove it!)	in Augusta Ga...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/590678">'77 Westfalia for sale!</a></td>
+        <td>Mark Smith &lt;msmith_at_3-cities_dot_com&gt;</td>
+        <td>1999-01-31 04:45:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Greetings,
+
+My dad wants to sell his 1977 Westafalia overnighter.  Please see 
+my .sig at the end for a quick description and URL to the pictures.
+
+Mark
+-- 
+=========================================================================
+For sale:
+1977 VW Westfal...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/464577">'78 VW Van, Champaigne edition for sale!</a></td>
+        <td>Mark Smith &lt;msmith_at_3-cities_dot_com&gt;</td>
+        <td>1999-01-31 04:48:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Greetings,
+
+I have a 1978 van for sale.  See my .sig below for a quick description
+and URL to see pictures of it.
+
+Mark
+-- 
+=========================================================================
+For sale:
+1977 VW Westfalia camper, 1,000 miles on new eng...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/444954">One more test before I give up.:)</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 04:50:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>...
+
+One last test to try and get this through.  
+
+...david
+
+--
+David Raistrick  '69 Westy-Ichigo			keen_at_finally.atlasta_dot_net
+		 '82 Westy-Maxine (Mom's)
+  		 '66 SO-44 Westy (It runs! I drove it!)	in Augusta Ga...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/449694">re: case savers</a></td>
+        <td>&quot;kenney a&quot; &lt;canadavw_at_hotmail_dot_com&gt;</td>
+        <td>1999-01-31 05:00:05+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>hey all,
+sorry to put this up, but i'm a rookie with my bus and cars in general, 
+and i was just wondering exactly what a case saver is?
+sorry if it sounds stupid, but i just want to learn.
+
+kenney
+
+'72 westy
+
+
+_____________________________________________...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/465694">engine for type 2</a></td>
+        <td>Debuque_at_aol_dot_com</td>
+        <td>1999-01-31 07:13:57+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hello all!!
+	I am looking for an engine and some knowlege of my engine for my '79 T2.  I
+would like an engine to rebuild and eventually install.  I want to learn about
+the internals of the engine, and the best way to do that for me is to do a
+rebuild.  My ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/521310">RE: More 30/31 Pict carb Q's....</a></td>
+        <td>JAIME CHRISWISSER &lt;sonofbob3_at_yahoo_dot_com&gt;</td>
+        <td>1999-01-31 09:34:53+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Tom and ALL,
+
+
+
+
+---Tom Howze <thowze_at_u.washington_dot_edu> wrote:
+>
+> Hey Jamie...
+> 
+> I'm still having problems setting my electric choke on my 34 pict 3.
+
+I just did mine today and it seems to be working well, but the real
+test will be on monday, wh...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/472823">subscribe</a></td>
+        <td>&quot;Jan Willem Brier&quot; &lt;jan_at_hrps_dot_demon.nl&gt;</td>
+        <td>1999-01-31 11:35:19+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Are we up ????
+
+
+Jan Willem Briër (Mr)
+H.R.P.S.  (The Netherlands)
+--------------------------------------------------------------------------
+http://www.hrps_dot_demon.nl...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/590885">wanted: camper in UK</a></td>
+        <td>&quot;apnapn&quot; &lt;apn_at_adam_dot_com.au&gt;</td>
+        <td>1999-01-31 12:03:21+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi - my brother and his wife will be in the UK in the last week of March,
+and want to buy a reliable camper to tour UK and Europe in.  Their budget
+is limited, so I guess they are looking for an older Bay not cosmetically
+perfect!
+
+Any leads appreciated.
+
+...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/488804">Please Ignore</a></td>
+        <td>Ken Hooper &lt;bighouse_at_type2_dot_com&gt;</td>
+        <td>1999-01-31 13:31:18+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Please ignore, testing list.
+
+--Ken
+  type2_dot_com webmaster              Greasy Fingers Smearing Shabby Clothes...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/493820">ADMIN: Test #5</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 16:05:27+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>...
+
+Or is it six?  Only I should get this message.
+
+--
+David Raistrick  '69 Westy-Ichigo			keen_at_finally.atlasta_dot_net
+		 '82 Westy-Maxine (Mom's)
+  		 '66 SO-44 Westy (It runs! I drove it!)	in Augusta Ga...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/590824">Welcome to the new server!</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 16:24:02+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>the all new server is up and running, and I am the only subscriber.
+
+Ya.
+
+...david
+
+--
+David Raistrick  '69 Westy-Ichigo			keen_at_finally.atlasta_dot_net
+		 '82 Westy-Maxine (Mom's)
+  		 '66 SO-44 Westy (It runs! I drove it!)	in Augusta Ga...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/518452">Admin stuff, its me again</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 16:41:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>
+Test, my loves!
+
+--
+David Raistrick  '69 Westy-Ichigo			keen_at_finally.atlasta_dot_net
+		 '82 Westy-Maxine (Mom's)
+  		 '66 SO-44 Westy (It runs! I drove it!)	in Augusta Ga...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/437226">ADMIN: Alive!</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 16:45:42+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>
+Ok, you really should all get this one....:)
+
+I dont know if digests are working or not though, on either list.
+
+If you get this, it means the type2 list is running again, at least for
+normal subscribers! (and egroups..)
+
+good luck.
+
+...david...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/553140">type2-uc.917743110.gcbloflkppdogieijejg-Bob=Cuthbert.Org_at_type2_dot_com</a></td>
+        <td>Bob Cuthbert &lt;cuthrob_at_charlie.cns.iit_dot_edu&gt;</td>
+        <td>1999-01-31 17:03:28+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I am having a difficult time with the un-subscribe command. If this
+makes it to the list, I am sorry.
+
+On the other hand, if this makes it to the list, let me say THANK YOU to
+all of you for the excellent information and delightful prose. The
+demands of a ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/537839">Sunday Washington Post Classifieds</a></td>
+        <td>&quot;Sean Bartnik&quot; &lt;bartnik_at_hotmail_dot_com&gt;</td>
+        <td>1999-01-31 17:38:06+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>January 31, 1999
+
+VANS:
+
+'91 Westfalia camper, white, auto, pop-up top, 87K miles, $13,000.  
+410-531-8096.
+
+'82 Vanagon Westfalia, baby blue/white, 85K original miles, great 
+condition, $5250 obo.  410-228-7120.
+
+OTHER AIR-COOLEDS:
+
+'77 Super Beetle conve...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/495114">ADMIN: How to subscribe/unsubscribe</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 17:48:56+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>
+For all you who might want to know:
+
+type2-request_at_type2_dot_com
+type2-digest-request_at_type2_dot_com
+
+vintagebus-request_at_type2_dot_com
+vintagebus-digest-request_at_type2_dot_com
+
+To subscribe, send an email with the word   subscribe   in the body ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/465563">Hello again...and Alternator Conversion</a></td>
+        <td>Gorshe &lt;rob_at_opencominc_dot_com&gt;</td>
+        <td>1999-01-31 20:03:04+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>Hi all!
+
+I have been gone for a while because I was away at school and my old
+computer had about 200 digests which I hadn't read yet so I kind of had
+to give it up for awhile.
+
+My "new" '70 Campmobile has been running great after the last top end
+rebuild, ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/521521">Re: Hello again...and Alternator Conversion</a></td>
+        <td>keen_at_finally.atlasta_dot_net</td>
+        <td>1999-01-31 20:18:49+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>On Sun, 31 Jan 1999, Gorshe wrote:
+
+
+> begain to flicker all the time the engine ran, my lights would dim back
+> and forth, and there was a lot of interference with my radio.  I checked
+> to see if the belt was slipping and that wasn't the case, but I did ...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/506475">carb bushings</a></td>
+        <td>jdinan_at_erols_dot_com (jdinan)</td>
+        <td>1999-01-31 21:26:33+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>A '71 westy with a 1776 engine was given to me as a present two years ago.
+I think it has been on the road 6 months out of the 24 that I've owned it.
+Part of this is due to the lack of time that plagues so many of us.  The
+other part, however, is due to co...</code></pre></td>
+      </tr>
+    
+      <tr>
+        <td><a href="/lists/type2/oldarchive/message/477645">Gasoline in the Oil?</a></td>
+        <td>DAVIDTHEKM_at_aol_dot_com</td>
+        <td>1999-01-31 21:26:37+00</td>
+      </tr>
+      <tr>
+        <td colspan=3><pre><code>I had my engine rebuilt in July because it threw a rod (3 days after I bought
+my doublecab, that's another story, but it makes me wonder about
+coincidences).  
+
+In the second week of December (5 1/2 months into the 6 month warranty) it
+threw a rod.  When m...</code></pre></td>
+      </tr>
+    
+    </tbody>
+  </table>
+
+
+
+
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F1999-01" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F1999-01" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Flistmonth%2F1999-01" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

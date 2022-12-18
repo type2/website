@@ -1,0 +1,313 @@
+<html>
+<head>
+<title>type2 - Re: Cabriolet Freind</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/710120 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/710120" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/710120" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: Cabriolet Freind</h1>
+   <b>Karen Winter &lt;cen13504_at_centuryinter_dot_net&gt;</b><br/>
+   <i>1997-02-20 15:53:12+00</i><br/>
+   <br/>
+   <pre>David,
+Hello David. How are things in Atlanta?   I may be visiting an x-girl
+friend in Decatur next month.  How far is Norcross from Decatur?  
+I checked my contact in Marysville TN. J&M motors is the name of the
+shop. The owner said he had not bought a Vw in months.  The story he
+told me was that peolpe were stealing the cabs, striping and storing the
+part, and leaving them to be found by the police.  When the insurance
+payed off the car bodies went to the salvage sale. The theives would
+then buy the car and have legal ownership to the car.  Within a few
+hours they could reassemble the car and have a $10,000 car for $5,000
+cash.  He said he had seen a few cases where they would come back with
+the keys and steering wheels for the cars.  He also heard that the US
+government was making small business loans to foreign vistiors to start
+Businesses.  These visitor were using the money to steal and buy the car
+frames.  True or not who Knows.
+
+I am considering selling my Cab. I priced it to a man for $4400.  If  I
+can turn that kind of a profit I may have to sell it.  After all I have
+not bought a Vw in over a year and I fear I am having with drawals.
+
+Good luck with the new beetle.  It really is neat car, but is it really
+what the American Auto market is demanding right now. I am afraid that
+VW USA has missed the mark again.  They have missed the mark for the
+last ten years. I hope it is not to late for them here.
+
+Later
+
+Kenneth Winter
+Knoxville
+David Allen wrote:
+> 
+> Kenneth,
+> 
+> Hello from Norcross, Georgia!  Norcross is a suburb of Atlanta on the northeast side
+> right off of I-85.
+> 
+> Chris told me last night that he had e-mailed you and to expect a response.  I'm glad
+> you responded.
+> 
+> Thinking about this, I went out this morning to drive my Cabriolet to work, since I
+> haven't driven it since my ski trip last month.  To my suprise, it was broken into!.
+> 
+> 8am this morning, I find glass ALL over the place.
+> 
+> I had a cheap cheap cheap, can I say cheap, radio from a Honda Civic in it and they
+> took it. It didn't even have a face plate on it!.  I figured no one would ever want
+> it.  Well, I stand corrected. (ha ha).  My driver's side door vent window was broken,
+> the top part of the door had been pried away from the window. My lock-pull on that
+> door was already out, therefore they could not unlock the door once they broke the
+> vent window.  They then went around to the passenger side of the car and tried to pop
+> the passenger side vent window.  In doing so they stuck something under the vent
+> window and tried to pry it out, bending the metal way down in front of the mirror.
+> The passenger side top part of the door was also pried away from the window and in
+> doing so the window, I guess, broke.
+> 
+> Now my car is full of water from the torrential rain last night.  Until this point it
+> was a beautiful Triple White Cabriolet.
+> 
+> I used to restore VW's for a living and still do on occasion.  I bought this Cab the
+> same way you did with a little rear end damage.  I have straightened it out the best I
+> could short of taking it to the shop, had it inspected by the State of Georgia and
+> they awarded me with a clear title!
+> 
+> My Cab has 115K on it and it is mechanically in great shape and just need a clutch
+> soon or to have the input shaft splines cleaned.  I will re-restore this Cab this week
+> and not let things like this get me down.  To date I have owned 32 different VW's and
+> had the registered and one point or another
+> 
+> I now have the 87 Cabriolet 5 speed, a 1973 VW 412 automatic (Type 4 squareback) and a
+> 1996 Saturn SL2 5 speed. Gotta have a domestic car in Detroit unless you love to have
+> you foreign car continuously vandalized by disgruntled RA RA union people that are
+> still sore from the 70's.
+> 
+> I think the price on you clutch job is really good for what is involved.  You picked
+> up your Cab for less that what I paid for mine.  I paid 1,200 for it, but it only
+> needed a battery and a good bath.
+> 
+> I have a person in the office who is interested in the Cab and I may sell it this week
+> and get another one.  I am curious to see where you purchased yours from and if you
+> could send me information on them.
+> 
+> I am currently a student pursuing a Bachelor's of Fine Arts Industrial Design degree
+> in Transportation Design, my dream.  I am striving to be an Auto Stylist, the guy who
+> designs and builds the concept cars, and new models, etc.  I'm working very hard to
+> get into a school in Detroit, Michigan called Center for Creative Studies, College of
+> Art and Design for this degree.  It is the top school for Automotive Design in the
+> country.  I hope to start fall 98.  I am also saving my pennies up for the new Concept
+> Beetle due out fall 98 as a birthday present for myself (August 25).  I have many
+> dealership contacts from working in the business that are keeping me updated on when
+> the new Beetle will become available.  I am putting down a deposit as soon as they
+> come available.  I want the first new Beetle Convertible to hit the Atlanta area.
+> 
+> Please write me soon, I would like to keep in touch and hear about you passion for
+> VW's.  I run through my condacts and the paper here in Atlanta for the Golf you are
+> seeking.
+> 
+> Feel free to contact me directly at home or work
+> Home: 770-840-0324
+> Work: 770-798-6558
+> 
+> Thank you
+> 
+> David D. Allen</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F710120" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F710120" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F710120" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

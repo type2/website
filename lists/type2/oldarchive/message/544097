@@ -1,0 +1,298 @@
+<html>
+<head>
+<title>type2 - Trip Report - Pt 2 little long</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/544097 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/544097" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/544097" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Trip Report - Pt 2 little long</h1>
+   <b>MotorHole_at_aol_dot_com</b><br/>
+   <i>2000-01-06 05:01:07+00</i><br/>
+   <br/>
+   <pre>12/26 - Woke up pretty groggy and with a five hundred mile hangover and sore 
+gas pedal ass thinking about the red light and the woe it usually brings - I 
+mean the right hand red light, the one with the oil
+can on it, thats the one that when it comes on at speed yourre supposed to 
+take the key out, put it in neutral, grab the grab handles and close your 
+eyes and scream, but I didnt do that in front of my wife, I gunned it once 
+and as I did the light winked out but came right back on so I turned the 
+motor off and coasted to the Sleep Inn. Tired we checked into the room then I 
+ran back out to scope the motor. I was hotter now for sure and the dipstick 
+was pretty damn hot but not as bad as others have been. with some smoke 
+coming out the vents. But this had been happening from the right side earlier 
+in the day which I was positive was from the leaky valve cover dripping 
+lighter multiweight onto the boiling heater box in frigid weather. It had 
+been zero when I left and about the low 20s now. I took my coveralls in from 
+under
+the busbed, heated them on radiator. Christine was coming down with 
+something, so I got us breakfast from the food and coffee pantry down the 
+hall., went out and checked the belt which had loosened a bit but didnt have 
+the appearance that it was slipping. The oil was back at the bottom line - 
+okay through in 
+a little, all wires and all four plugs connected, fuel line intact. Drained 
+the oil and found metal shavings. Hate to see that. Well, something is not 
+good, but I decided to put in fresh oil, get in turn the key and start it up, 
+both lights came on and went out. ran nice, warmed up then I pulled back on 
+the carb and heard it missing, not smooth. Rechecked the idiots light both 
+out, check the timing mostly because I have the thing and its something to do 
+to make you feel like something happened. So I get in and start driving it 
+around the hotel complex, like 3 or 4 motels all surrounding each other, with 
+ramps and parking lots good for getting it up to 2nd and in one spot to 3rd - 
+still nobody around except this older outdoor maintanence guy, who came over 
+after awhile and said having trouble, eh? and so I gave him the most benign 
+description of what happened I can conjure. Meanwhile I conclude that 
+something is wrong with the bus, but it seemed to drive around the parking 
+lot okay, maybe I should take a compression test and find out if I can get 
+back on the highway? Compression test - The coucil waits for you. But its 
+not in toolbox - forgotten at home so now a little disgusted I find the 
+phonebook call Autozone yes they  have one I get directions its just in 
+town. I tell Christine of my plan and depart but find out that now Im on 
+route 264
+a secondary road that actually is pretty long. Town isnt in site, Im 
+actually passing an airport, I get to fourth put it in realize that its not 
+going to make it to the other autozone, but was going to conk out in this 
+autozone so I try to find a place to pull a u-turn then rule that out as the 
+oil light comes on and expensive noises start, I pull it over and turn it 
+off. Im just around an extremely busy right turn with multiple lights. I try 
+pushing it off into the dirt but keep hitting the curb. A kind stranger 
+appears at my side and up it goes. I thank him and write a be right back 
+note set off to find a phonebook and phone, call a 24 hour tow. The driver 
+says the best place to go in the area for VW parts and service is Bunn & Son 
+at the next exit. Good to know I thank him and this time ask him to unhitch 
+me behind the motel because I was going to be keeping a low profile. He put 
+me next to a motorcycle also with new york plates and we were the only 
+vehicles on the back side of the building at that time of just past noon. The 
+motor was cooked. Called Bunn & Son a few times but it just rang they werent 
+around on a Sunday. I called all the places that were open. I got it in my 
+head that I needed a longblock to solve this problem quickly enough to 
+continue the journey. I needed to find one and I needed a way to get it to 
+me. My friend Tony who drives a 90 vanagon in Minnesota was heading to 
+florida as well, but first had brought his family somewhere in North Carolina 
+for the holidays, then would fly down and meet us. Hed left a message on my 
+machine giving me his mothers cell phone number, to meet him at the show. I 
+try calling and leave a message but its no dice. I call my landlord and ask 
+him to go in my apmt and read the caller id back to his call and give me that 
+number. after some more prodding he does it and when I call there he is on 
+the other end in Durham which is not too far away, maybe 60 miles he is 
+renting a minivan for wife and kids while there. Yes he will help with 
+delivery if possible! Next I pull out some AIRS members names I pulled
+off the list for area. All I have is VA and a couple SC and FLA - a good 
+amount. What I want is to post a message to see if anyone has a good used 
+longblock in the area. I see Jon Dawsons name on there and call him up in 
+Richmond and he goes right on the internet and posts a message for me 
+requesting a longblock if there was one around - thanks alot Jon! so now I 
+choose from the 3 fast food places that surround me, bring it home to the 
+room and have a sit down. some talk. I decide Im going to try and buy a 
+longblock on Monday morning if I can find one. the phone rings and I get a 
+call from Bill Divers offering help and some suggestions about places I might 
+find motors in Raliegh and Durham. Mechanics were recommended as well. I got 
+a call from Charlie Ford who gave me a great list of AIRS members in the 
+state, as well as mechanics and the two longblock sources.  I really 
+appreciate the help and response I got from the AIRS list. So armed with this 
+knowledge I went outside and quietly removed the motor and stripped the motor 
+down to the longblock in the last two hours before sunset, left the wheels 
+blocked in neutral with the scissor jack under the tranny. People have been 
+pulling in through the afternoon and the parking lot was beginning to fill 
+up. my coveralls were covered in that black grease that doesnt come off, my 
+goggles gave the impression of a biosphere project escapee, and despite my 
+efforts to blend in, I was probably noticed. Anyway things were looking good 
+if I could get an engine the next morning!</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F544097" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F544097" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F544097" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

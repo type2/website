@@ -1,0 +1,315 @@
+<html>
+<head>
+<title>vintagebus - Long Vintage weekend report!</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/636235 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/636235" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/636235" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Long Vintage weekend report!</h1>
+   <b>VeeWee111_at_aol_dot_com</b><br/>
+   <i>2001-07-17 03:20:16+00</i><br/>
+   <br/>
+   <pre>Hi Volks,
+We got to the Burger Meat on Friday night arriving about 7PM from leaving her 
+Dad's place in North Seattle area.  Weather was warm in the high 60Fs and a 
+nice breeze.  Lots of local VWs overfilled the parking lot of the Burger 
+Master drive in and some VWs had to park as usual in the nieghboring Safeway 
+store parking lot.  Visited with many old friends whom we had not seen much 
+in the past year, while walking around to both look and video all of the 
+ACVWs we could see.  We had a chicken sandwich, choclate and blackberry 
+shakes, curly fries and onion rings.  Yum!  Finally left about 9PM with the 
+sun setting and high thin sparce cirrus clouds turning golden in the sky.  
+Got to sleep after 11PM.
+
+Got up at 5AM Saturday morning.  Eric ate a prepoured bowl of ceral and got 
+out on the road to the Vintage Meet at 5:20AM and got there about 530AM to 
+clear blue sky weather.  He was the first Cascade Kombis club member there 
+and helped at the gate till 730AM.  Barb stayed at her Dad's place to go back 
+to sleep in till 7AM when her dad got up.  She and her sister took thier dad 
+out to the local garage style swap meet at the Puget Park drive in movie 
+theater.  Where Barb found a dealer give away matchbook from Hub City Motors 
+& Equipment LTD. in Prince George, B.C. (Canada).  It has a Ruby Red late 
+63-64 bug on the front with the title "Relieves Gas Pains"  with "VOLKSWAGEN" 
+at the bottom.  While on the back is a 64 sunroof delux R/W with a bunch of 
+childern being helped into the bus through the cargo doors helped by a mom 
+looking gal while other childern hanging out the sunroof and front slider 
+windows, with the title "It Loves Childern".  After taking turns pushing 
+thier dad in his wheel chair around the swap they drove down to the Vintage 
+Meet to drop off Barb about 10:30AM to find Eric in the swap area.  
+  The sun got above the trees and really heated the Vintage meet into the 
+high 70Fs.  We found three doghouse fans with two of them with the exhaust 
+shell and tube still attached.  A complete early 60s bug VOA hitch.  Two 
+Germen manufactured rear 64-67 bus wheel (Slave) cylinders.  A friend of our 
+was selling several NOS ACVW industrial motor rear engine tins and he thought 
+they were for 40HP due to no sealing provided around the heat riser holes, 
+but they had the right side preheat tube hole through them like for use with 
+the 1500 bus aircleaner.  We bought one of those.  Got a Bendix speaker out 
+of a bus speaker bracket for free from our good friend VW John.  Bought a 
+Blaupunkt speaker and the bracket to mount it in a bug.  Both speakers have 
+torn paper cones, but we are going to have a bunch of these reconed somday!  
+A rusty dented German domed hub cap for free to later straighten out and have 
+powder coated gray for one of our work buses.  Found a doghouse exhaust shell 
+and two type 3 heater boxes with the insulation panels on them that we reuse 
+on our type 1&2 heat exchangers for more winter heat.  Also bought a mint 
+used 68-79 bus Bentley VW Service Manual and a complete slightly used muffler 
+for 68-71 bus for Eric's sister.
+  Visited many of our old swap and show friends.  Don from the SE (Alabama?) 
+of the USA had flown in and Brax from Montana was there selling along with 
+many, many others.  Jeff Slater and Darin Matsuno had thier Spilt Windows 
+there.  There was a long line up of Split Screens of all types there and 
+another line of bugs, KGs, Things, type 3s, and late model buses and trucks.
+  We walked around and around the swap area and show car area video taping as 
+much of the meet show & swap as possible.  There was more swappers than ever! 
+ About 25% less show cars and maybe 10% less walk in volks probably due to 
+the magazine calender date error.  Finally left the meet at 3PM to finish up 
+the day taking care of Harry and getting to bed after 11PM.
+
+  We got up at 5:30AM so Eric could grab again a prepoured the night before 
+bowl of ceral and out the door before 6:00AM to fill up the 1960 panel camper 
+conversion's 1968-71 fifteen gallon gas tank and the spare tire gas tank..  
+Barb went back to sleep in till 7:00AM to help her dad up and they figured 
+out that the weather was too bad for the local Puget Park swap meet.  So she 
+loaded all the stuff we had to get back South to our Oly place.  With Gasket 
+the cat and her dad Harry for the 1-1/2 hour drive.
+  Eric's drive started to SIR out in a heavy mist that was almost a sprinkle, 
+but by the time South Seattle was passing by on I-5S the wet weather was 
+gone, dry roadway and lighter clouds over head.  Switched over to 405N, then 
+167S and onto 18E out to the SIR (Seattle International Raceway) exit.  By 
+the time he got out there at 6:50AM the line was just out to the public 
+roadway just off highway 18.  About half an hour later the raceway folks 
+opened thier first gate.  Where the one long line turned into two lines at 
+the second and final gate.  Eric's Sister had just recently bought her first 
+VW buses last month after ten years of being out of VW since she sold us her 
+first VW a 1958 sunroof.  A running 1968 Candian camper conversion with full 
+length though a bit thin widthwise straight up poptop and a 1971 Westie 
+without motor for $900.00, so she had arranged to meet Eric in the SIR line 
+to get in early before the general public was let in at 900AM. Talked awhile 
+with each other and other early morning VW fiends till the gates opened.  
+Apperantly there was camping allowed inside the raceway the night before and 
+lots of buses of all years, types and tents were there!  About half of the 
+swappers that had been at Vintage were at SIR, it was a good turn out for a 
+cloudy threatening rain day.   Sis and Eric found three bare dual relief 1600 
+engine cases with a little weathering on them.  So far one of these opened 
+later turned out to be a Standard used bore and perfect thrust!   Bought 
+another bare and a longblock core dual relief engines.  Purchased two child 
+cots one for 68-72ish and the other with U-channel shaped bars later type.  
+Located a big diameter late model lower preheat metal tube for sis and 
+another one for our supplies.  Bought a rusty dented type three rear bumper 
+for the backup lights on it for sis to use on her bus rear bumper for extra 
+turn signals.  Picked up a free 73ish-79 bus FI gas tank to later cut up with 
+bronze chisel, then clean out any gas varnish out of the halfs via a camp 
+fire and reweld into a 20 gallon tank in one of our 63 SCs.  Bought a set of 
+new rebuilt late pre-1968 or just post-1967 bus rear brake shoes.  Even found 
+a used German made pair of 34mm wide cooling fans especially for the doghouse 
+shrouds.
+  Eric and his Sister wandered through the show cars.  Lots of rediculus 
+water cooled ones, quite a few bugs and two yellow 72-75 westie campers from 
+Saskatchewan Canada, plus a really nice green/white 65ish SO-42 Westie.  Sis 
+went nuts while taking a long gander at the late model westie campers one of 
+which had a photo album of the grimy rescue from sitting/sunk by a barn thru 
+restoration on thru completion.
+  We left before noon and had enjoyed the cooler cloudier, but dry weather.  
+Seemed like only half the normal walk in volks made it in by the time we 
+left.  Sis heading back North to Kirkland and Eric heading South to the 
+Olympia area.  Both due to time and Eric being too tired to video around at 
+SIR unfortunitly.
+Eric&Barb</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F636235" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F636235" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F636235" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,373 @@
+<html>
+<head>
+<title>type2 - Re: [VB] Insulaton</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/975796 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/975796" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/975796" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: [VB] Insulaton</h1>
+   <b>VeeWee111(-at-)aol.com</b><br/>
+   <i>2009-02-22 19:39:31+00</i><br/>
+   <br/>
+   <pre>HI JDD,
+  Hmm, not a lot of info with your question.  Are you looking for  more sound 
+or thermal insulating of the interior?  Trying to keep heat  out or in?  Type 
+of bus and interior?  How far to modify the  interior?  All facts that can 
+change how one goes about what needs to be  done.
+ 
+First off, use nothing against sheet metal that if you soak in  water for ten 
+minutes you can then squeeze water out of like a sponge or  rag!
+ 
+Having said that, we do have a foam rubber mattress in the back of our 1960  
+panel camper conversion.  There is 1/4" plywood underneath it so the  foam 
+rubber never touches the top of the corrugated engine compartment  sheet metal.  
+Because of the plywood seated on top of the corrugations of  the sheet metal 
+it keeps the foam rubber from soaking up any  moisture that can condensate 
+there, and allows for air movement to carry  moisture away.
+  So perhaps if one wants to apply thin ply wood between any sheet  metal and 
+foam rubber it would work for sound, and heat insulation.
+ 
+  Additionally in this camper, the rear bed/seat folds up in such a  way that 
+when the seat is up, the back/top of the seat closes off all but  about 1/2" 
+from the roof, and is tight to the side cabinets.  So a lot of  engine noise 
+is blocked off this way from the front.  When bed is folded  down the foam 
+mattress helps with sound insulation, but the inner sheet metal of  the air 
+intakes for the engine on either sides really put out a racket for one  laying down 
+back there.  Thinking of covering these with thin plywood and  sound dampener 
+to quiet things down.
+ 
+  BTW, this same subject was discussed a few years back on this  list!  Back 
+then upon reading the on going discussion, a gal down in  San Diego (Can not 
+get much farther South in CA) took a look at the engine  compartment sheet 
+metal that she had recently covered with foam rubber  for sound insulation in her 
+daily driver bus.  Low and behold she found  rust forming due to the 
+condensation/foam rubber problem.  She reported  this to the list.  Wish we could 
+remember her name.
+ 
+  Next, is to understand that insulation can be sound and/or thermal  
+dampening.  Some are better for one and not the other.  EG thin layer  of lead 
+against sheet metal over engine compartment will really quiet  things down via 
+dampening, but weighs like, well lead, and will not help with  insulating against 
+thermal transfer.
+   Have heard of a deluxe bus owner who did this lead  sound deadening so his 
+passengers in the rear could hear him give his  verbal part of the tour he 
+did as a living.  
+ 
+  Did like the mylar bubble packing stuff for thermal and some sound  
+insulation, but do not like the recent report that it falls apart.   The big reason 
+for liking that stuff was one could install it with bubble side  against the 
+metal and that would allow for some air movement to remove moisture  that will 
+get in there.  Plus it is light weight.  Probably will still  use it in the 
+front doors.
+ 
+Take a look at the later 1970s Beetle door insides.  VW installed a  square 
+of thick tar paper glued inside the door with roofing tar.  These  areas never 
+rust out!!  
+  Figuring on doing that to the outer door sheet metal, and it does  not need 
+to cover the entire door interior.
+ 
+  Have seen a 1967 Beetle up here that had 1/4" thick closed foam  sound 
+insulation glued to the inner of the doors.  The give away that it  had insulation 
+is the top horizontal line of the insulation acted as a ledge and  dirt had 
+collected to work as a sponge to rust a line through the  doors.....
+  This might have been avoided by using a smaller square of sound  insulation 
+and turn it 45 degrees so as to act more like a diamond shape the  dirt might 
+have washed away.
+  VW avoided this by painting the inner of the door first with tar in  a 
+bigger square than the square of tar paper they used.  So even if dirt  collected 
+at top of the tar paper horizontal it only held water against the tar  painted 
+on the door.
+ 
+  Have seen factory 1966-67 Westfalias with thin styrofoam glued  in spots to 
+the inner nose sheet metal.  For sound or thermal  insulation?
+  Plus same years of Westies with unbelievably wispy fiberglass  insulation 
+pads installed in the left midbay side wall.  This  insulation is about 1" 
+thick, but so wispy you can see right through it.   Never seen here any rust 
+problems with this stuff so far, but good luck finding  more of it and how 
+thermally effective is it?
+ 
+Thinking of tarring (using as little tar as possible) thin vertical  strips 
+of doubled up (two layers) roofing paper of heavier  thickness against the 
+outer sheet metal.  That will help  with sound dampening, and allow for some air 
+movement to let condensation  evaporate, and not just keep collecting.
+ 
+  Then, carving styrofoam sheets into form fitting panels to each  section of 
+the interior.  VW supplied really good info on this in the  technical 
+bulletin A 5.  Would modify that info with thinner styrofoam due  to the previously 
+mentioned roofing paper strips.  Plus with carved 1/4"  tall slots in 
+top/bottom of all styrofoam panels to allow for air movement  between stryofoam and 
+sheet metal to remove any condensation.
+ 
+  Roof panels are the hard part.  Thinking of wiping on a very  light layer 
+of tar over all up there.  Then roofing paper strips again in a  "V" pattern up 
+there with a center top strip left clear.  Again adding in  1/4" slots in the 
+lowest part of these panels and upper center parts to keep up  enough air 
+flow to remove condensation.
+ 
+  The walk thru 1960 panel camper conversion also has from the shop  that 
+converted it or DPO a top air vent.  Figuring on using this vent and  its inner 
+wood frame to allow for more air circulation behind the paneling by  
+drill/cutting slots in the wood frame.  That way when the roof vent is open  the air can 
+flow right out of the roof panels up through there.
+ 
+  Have heard that styrofoam tends to squeak when used as insulation in  a 
+moving vehicle.  Thinking of trying gluing thin roofing paper to the  styrofoam 
+panels to eliminate this.
+  
+  VW did this by making a sandwiched styrofoam between two layers of  thick 
+tar paper for the 1960s-1970s type 1 floor pans for mostly noise  insulation, 
+and some thermal insulation.
+  If one was interested more in sound insulation you could  use layers of 
+thinner styrofoam, then sound deadener, and perhaps  roofing paper.
+ 
+Windows are a big way heat can get in during the day.  Using a  foldable 
+reflector panel for the windshield and front door glass when  parked helps a lot.  
+For any side or rear windows, using reflective tinting  helps, but can reduce 
+night visibility.  So perhaps only adding the tinting  to the upper or lower 
+half of the glass would make a good compromise.
+ 
+To keep in heat in cold weather, the only way to make the windows work well  
+would be to come up with a way to install thermopane ones.  Have not heard  of 
+anyone that is making seals that would allow the thickness of two panes of  
+glass, and the separation between them.
+ 
+  If you want more sound insulation you really need to balance the  engine 
+reciprocating parts and run a counter weight crankshaft.  An engine  that does 
+not vibrate so much will cause less interior noise.  Try going up  a long hill 
+in higher engine RPM, and when going downhill shut off the  engine.  The 
+difference in how quiet it gets while still rolling at same or  higher wheel RPMs 
+is due to the engine vibration.
+ 
+  Have heard of chain saw bar oil being used on the undersides of VWs,  and 
+inner parts of panels, and doors that water is designed to drip  through.  This 
+apparently works well especially in salted road areas if  applied annually, 
+but will not make it rust proof.  
+  3M has a rust inhibitor for the inner sides of body panels that  sounds 
+like it might work as well or perhaps better.  
+  Thinking of trying these, but still allowing for air movement to  keep 
+condensation under control.
+ 
+  Have started during our wet cold weather to leave the front air  vents open 
+to allow a way for built up moisture to work its way out of our  buses.  
+Works very well when the sun comes at least mostly out!
+ 
+  Could take it to the extreme thermal/sound insulation and  construct a VW 
+(Westfalia ?) Insulated Van SO 6, or the coachbuilt  refrigerator interiors 
+with 3" - 6" thick styrofoam insulation with  wood frame inside the bus, but of 
+course you would loose that much more  interior space!!
+ 
+As you can see, this has been and will probably always be a constant  problem 
+for us VW folks to deal with.  Good luck!
+ 
+E&B
+ 
+ 
+In a message dated 2/18/2009 7:37:45 A.M. Pacific Standard Time,  
+johndillon(-at-)bellnet.ca writes:
+
+So what  do you suggest for insulation and sound  dampening?
+
+
+**************A Good Credit Score is 700 or Above. See yours in just 2 easy 
+steps! 
+(http://pr.atwola.com/promoclk/100126575x1218822736x1201267884/aol?redir=http:%2F%2Fwww.freecreditreport.com%2Fpm%2Fdefault.aspx%3Fsc%3D668072%26hmpgID
+%3D62%26bcd%3DfebemailfooterNO62)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F975796" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F975796" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F975796" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

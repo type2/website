@@ -1,0 +1,387 @@
+<html>
+<head>
+<title>type2 - 5- and 6-cylinder VW vans</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/463328 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/463328" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/463328" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>5- and 6-cylinder VW vans</h1>
+   <b>&quot;William R. Kennedy, NJIT CIAT, 201-596-5648&quot; &lt;kennedy_at_ADMIN.NJIT.EDU&gt;</b><br/>
+   <i>1996-07-24 16:49:36+00</i><br/>
+   <br/>
+   <pre>From:   ADMIN::KENNEDY      "William R. Kennedy, NJIT CIAT, 201-596-5648" 24-JUL-1996 11:46:50.22
+To:     KENNEDY
+CC:     KENNEDY
+Subj:   5- and 6-cylinder VW vans
+
+Helmut Zeidler has kindly forwarded interesting detail on engine
+conversions, which I am posting to the list at his request.  It
+sounds like the kit is expensive but well-thought-out.  You have
+to envy the Germans for having enough Vanagons to make the kit a
+worthwhile business.  I will post further information as I get
+it; hope others will do the same.  Also please some feedback
+from the Type2 list about whether this should be double-posted
+(as I've done with this item) or just to the wet list.
+ 
+ 
+ 
+The conversion kits AUDI 5 Cyl./Ford V6 are available from:
+ 
+ 
+ 
+     Axel Winkler
+ 
+     Schuechtermannstr. 7
+ 
+     D-44628 Herne
+ 
+ 
+ 
+     Phone +49 2323 8444
+ 
+     FAX   +49 2323 82374
+ 
+ 
+ 
+Presently the garage is closed for holidays but they will start
+next Monday.  Try to send a FAX, I am sure that the staff has
+only thin knowledge in English language. There are Axel Winkler,
+the technician, salesman Chris Roseman, secretary Ulrike Winkler
+and Dieter Komorowski, responsible for shipping. You may mail 30
+Deutsch Marks to the account *Dresdner Bank Herne-Sued*, Account
+No. 7651715, BLZ 360 800 80 and you will receive a 180 page
+catalogue with a lot of pictures, parts lists of their kits and
+short descriptions what have to be done for that engine swap.
+Sorry, but the catalogue is only available in German language,
+but don*t worry, the pictures will tell you the most.
+ 
+Here are some AUDI and Ford engines you may use for the
+conversion kits:
+ 
+Ford V6  2.0 Liter   66 kW (90 PS)  145 km/h      DM  2,450.00
+ 
+Ford V6  2.3 Liter   84 kW (114 PS) 151 km/h      DM  3,290.00
+ 
+                          same with Catalyst      DM  4,200.00
+ 
+     same for automatic transmission systems      DM  2,800.00
+ 
+Ford V6  2.8 Liter  103 kW (145 PS)               DM  4,950.00
+ 
+Ford V6  2.9 Liter  112 kW (150 PS)               DM  4,500.00
+ 
+Ford V6  2.9 Liter 24V     (196 PS) engine incl.  DM 11,000.00
+ 
+                   4 disc brakes recommended      DM  3,600.00
+ 
+AUDI 5 Cyl. 2.2 Liter            100 kW (136 PS)  DM  2,750.00
+ 
+      AUDI 5 Cyl. 2.2 Liter Turbo (170 PS) is the same engine!
+ 
+AUDI 5 Cyl. Diesel                51 kW  (70 PS)  DM  2,850.00
+ 
+AUDI 5 Cyl. 2.5 Liter TDI Diesel  85 kW (115 PS)  DM  3,490.00
+ 
+AUDI 5 Cyl. 2.5 Liter TDI Diesel 102 kW (140 PS)  DM  3,490.00
+ 
+VW T4 2.4 Liter                          (78 PS)  DM  2,850.00
+ 
+The maximum speed limit is mostly limited in maximum engine
+rotation and transmission's rate.
+ 
+ 
+ 
+My own story:
+ 
+ 
+ 
+The engine of my 2 liter air-cooled vanagon from the *80`s broke
+down and that was the start to install an AUDI 5 Cylinder with
+100 kW (136 PS). You also may take that 170 PS Turbo model. I
+got an `82 AUDI 200 wreck by nearly no payment and 200,000 km on
+the clock, but a well-conditioned engine. You may use most of
+the front part including electric, starter and co., the mounts
+supporting the engine and some ducts. I bought the assembling
+kit from Winkler which costs 2,750 Deutsch Marks without
+shipping. I received:
+ 
+1 clutch housing (I don*t know, if it is from a Volvo or the VW
+light truck LT 35)
+ 
+1 special machined clutch disk for 240 mm flywheels
+ 
+1 adapter with ball bearing to mate the VW transmission shaft
+ 
+1 engine support, a huge tube from left to right frame rail,
+going below the engine
+ 
+1 complete exhaust system without catalyst (which is not yet
+needed in Germany)
+ 
+1 set of some smaller parts
+ 
+ 
+ 
+What you will need additionally is the 240 mm flywheel itself
+and its pressure plate, both parts of an AUDI Quattro. That will
+cost about 600 Deutsch Marks. Some other parts will help you to
+fit the engine into the vanagon. There are the air cleaner box
+and rubber ducts for fresh air used in an AUDI 80 or Rabbit. I
+also installed the automatic accelerator from the AUDI 200, easy
+to do, nothing secret.
+ 
+It is recommended to use the long transmission boxes from the
+high powered Vanagons like those 4 or 5 speed ones from the 2L
+engines. It is possible, but please do not use the lowpowered
+Diesel transmission system. Another solution will be the Porsche
+transmission, but this is not tested.
+ 
+For me and my ill equipped garage it took two weeks to
+reassemble the engines from AUDI and the vanagon and to put the
+5 Cylinder in. The shipped exhaust system will find its place
+underneath the left midsection. Because my vanagon is a camper
+and on that place you will find a 50 liter water reservoir, I
+try to use the original AUDI exhaust system. There have been a
+lot of plumbing, but it fit into the center of the midsection
+and the pipe will end on the Vanagons south east corner. This is
+the stage I am working at present. In Germany we have to weld
+some parts like the new support for the front transmission mount
+and square holes for the engine support, which altogether allows
+a 3 cm lowered engine. In this case you have to raise the
+decklid by only 4 cm. Without lowering, it will be possible to
+mount everything without welding.
+ 
+If you like to know some details, write to
+Helmut.Zeidler_at_ntc.nokia_dot_com
+ 
+ ----------
+ 
+From: William R. Kennedy, NJIT CIAT,
+ 
+To: Zeidler Helmut (NTC/Dusseld.)
+ 
+Subject: RE: Swap Engine to AUDI 5 Cyl./Ford V6
+ 
+Date: Tuesday, 23 July, 1996 15:00
+ 
+ 
+ 
+I would be interested in hearing details of price and exactly
+what components are included in the conversion kits. I own an 81
+Vanagon with a 78 Porsche six, but if I get a newer, watercooled
+Vanagon I would only consider watercooled engines for the
+conversion.
+ 
+ 
+ 
+I am confident that many on the Type2 and especially the Vanagon
+list would be interested in knowing the details.  Thanks for
+your offer.
+ 
+B.
+ 
+Wm Kennedy
+ 
+kennedy_at_admin.njit_dot_edu
+ 
+ 
+ </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F463328" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F463328" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F463328" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

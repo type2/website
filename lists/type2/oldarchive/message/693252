@@ -1,0 +1,283 @@
+<html>
+<head>
+<title>type2 - Albuquerque Balloon/VW meet~ Part1</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/693252 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/693252" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/693252" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Albuquerque Balloon/VW meet~ Part1</h1>
+   <b>jim ellis &lt;vanbondo_at_PRIMENET.COM&gt;</b><br/>
+   <i>1997-10-12 05:01:28+00</i><br/>
+   <br/>
+   <pre>OK, OK so I have to beg off on being late with the report. I no longer have
+that job where I was an "ALT-TAB" away from the lists. Damn, I just wonder
+why I lost that job. ;-) hahahaha...
+
+On Friday, Oct 3, 1997, my wife, Paula, and I were ready to hoof it over to
+NM for the "Buses and Balloons" meet that was graciously hosted by the Route
+66 Splits <NEATO> chapter in Albuquerque. This was the second of the
+"pre-arrainged family obligation" that I included in the negotiations for my
+new job. You know that you are hard core when you include VW meets as a
+negotiation chip in your career development strategy. =)))
+Earlier that morning I had the newly arrived Yokohama Y370-47's mounted on
+the '67RFH and tweaked the timing. On the way north from Phoenix to
+Flagstaff the bus was running OK but seemed to be revving alittle high and
+the sweet spot had moved from 62MPH to 58MPH. I stopped at Joe Floreck's VW
+in Flagstaff to see if they could look at it for a second. Stupid me, I
+kinda thought that maybe they would strafe the light over it and pat me on
+the ass and send me down the road. Instead they did a great job of resetting
+the timing and charging full shop time. While we waited we observed the
+owner, and no less than three other sales employees giving hand signals to
+the secretary while she worked as a lot boy lining up the used car inventory
+on to the sales lot. Definitely a laid back day at the dealership. After an
+hour and change I opted out on the complimentary car wash and begged off
+toward our travels. Joe F and crew truly are friendly folks.
+After getting "tuned up" Paula and I headed east on I-40 into New Mexico.
+The Yokos were a massive improvement over the POS 2 ply 185's that I
+previously had on the bus. It was a good thing as there apparently was a
+semitruck convention going on somewhere and they were all late to get there
+before the swapmeet started! New Mexico has a ton of wonderful, friendly VW
+lovin' people but the State Gubbermint must have decided that adding stripes
+to the edge and middle of the roadways was a waste of taxpayer's money.
+Pointing the Westfalia down the highway at night was likened to jumping down
+a mine shaft. The huge orange water barrels in the middle of the road along
+the incessant construction sites kept us in the good.
+We finally pulled into Albuquerque after a pleasant 12 hour trip. We had
+intentions of parking near the "homies" but were encouraged to park in the
+"show area" of the dirt field and crashed. I could here a noise in my head
+and finally figured out that it was Shawn Zenor grinding his teeth. ;-)
+(Sorry, SWUN dude~blame it on Cletus).In any even I lost no sleep over it.
+
+Saturday AM we awoke to the first morning that was less than 100F that we'd
+seen since we could remember. It was beautifully nippy out! Soon after
+sunrise our fellow campers were up and enjoying the many, many hot air
+balloons that were rising out of a State Fairground kinda facility about a
+mile or so away. Our view was nice as it was slightly up hill from the
+launch site. Soon many VWs of all types were rolling in. A great presence
+from ElPaso was evidenced especially in the Type Juan category. Each was
+very respectible. My thoughts rolled around to Kathy Meyer and her main
+talent M.Blanchard as I eyeballed a very pretty PURPLE slammed to the ground
+beetle. Tons of listees were there including Joy and her husband from
+Colorado. If there ever was a person whose personality fit her name it was
+her. Pleasant folks. I reintroduced myself to Tom B of NEATO fame after he
+failed to recognise me. I reminded him that memory was the second thing to
+go preceded only by "a solid night's sleep" after a newborn hits a
+household. Tobin and Mr. Heron could second that one I suppose.
+Late in the afternoon the show adjurned after the presentation of CNC
+machine billet trophies which were created by Mark Chambers
+<chambers_at_bslnet_dot_com>. These are the coolest trophies that I have ever seen.
+The design is a large hot air balloon with a Mr.Bubblehead standing next to
+it. All in billet Aluminum! Everyone thanked the RT66 Splits and the Arizona
+Bus Club for a nice *NEATO* event.
+Quite a few of the folks gravitated to a nearby concrete canal embankment
+for some skateboard action while others decided to check out the '59 Jerry
+Garcia bus at the Balloon Fiesta. A "cluster-fuzz" occurred while attempting
+to get the people over to the Garcia bus site. JPHenrikse_at_aol_dot_com, Paula and
+I made vailiant attempts to optimize the commute by getting the appropriate
+number of folks into his bus. Somehow no one could get it together so we
+split. Of course the nanosecond that we left <as the story goes> Everyone
+freaked because they were left behind. Kind hearted "U.K. Mike" ended up
+with 15 people in his '50-'51 Barndoor and had to off-load half of them
+partially to the Garcia site due to severe rubbing of the tyres/tires. (Who
+knew,eh?) Mike made a couple of trips getting everyone to the destination.
+Part Two will tell of the Bus and the trip home...
+-ellis\</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F693252" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F693252" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F693252" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

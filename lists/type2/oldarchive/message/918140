@@ -1,0 +1,311 @@
+<html>
+<head>
+<title>type2 - Trip Report - week II</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/918140 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/918140" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/918140" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Trip Report - week II</h1>
+   <b>J Stafford <sunbus(-at-)sbcglobal.net></b><br/>
+   <i>2009-05-30 15:58:59+00</i><br/>
+   <br/>
+   <pre>20090523-25 Missoula, MT and vicinity
+Hwy 200 East, one hr from Missoula, is Blanchard Creek Rd.  5-8 miles
+in we met up with family & friends who have a quarter-century trad.
+of camping here Memorial Day weekend.  Three (or 4?) generations plus
+friends bring the headcount over 40.  At least a half-dozen dogs 
+(beagle, ratterrier, cockapoo, greyhound, malamute, many mutts) and
+two 7 wk old kittens.  It's my rare treat to have a young kitten in
+my lap next to a roaring campfire.  Lots of food, brew and easy-
+going folks.  
+Some of the teenagers take an interest in my bus, so I give them the
+tour.  And encourage them to sit in the pilot's seat and try it on
+for size.  Photo op - they pose and take snapshots w/phones, cameras.
+The teens are overheard that "there's one in Bonner, and you can
+always paint it orange", etc.  Now they know about type2.com and
+thesamba.com.  No cell or internet on their phones out here.  
+Saturday night some other teens made a huge bonfire w/5' tall logs.
+Right after I turned in a light rain began to fall, and later a true
+rainfall.  I heard the teenagers switch from a heavy bass stereo to
+accoustic guitar (beneath an easy-up for shelter) giving us old
+fogies quiet for sleep.
+AM band DXing tonight - received a fine signal from Sacramento, CA.
+Blanchard Creek is also flowing fast and icy cold, wakes/sobers you up.
+There's been a flood watch for rivers West of the Continental Divide,
+from the warm weather melting the snowpack.
+
+20050526 Missoula, MT
+Prepare Missoula exit strategy.  Shop for food, beer, ice, etc. Baby-
+wipes for waterless cleaning in camp & 2" folding chair webbing.
+As I lowered the Westy pop-up roof Sat nite, I kicked the drain plug
+out of the Coleman ice chest.  It drained onto the floor, so I plugged
+it and mopped up the ice water w/towel.  Sun am I draped the towel
+over my lawn chair next to a fire.  Dried towel & melted the chair
+webbing.  D'oh!  Spent an hour re-webbing the melted parts of chair.
+I prefer to use the Westy icebox for dry storage & an ice chest for
+cold storage.  The ice box does not keep cold well enough & the ice
+chest can double as a bench in camp.
+Went to the mall to get a Gyro and saw lovely blonde Libby from
+the weekend camp.  Her brunette friend said the mall kiosk is not so
+good and suggested the mother store up the hill on South St.
+She was right - awesome Greek food at the Acropolis.  The mall kiosk
+is run by high-schoolers.  Planning to leave Missoula around 8am.
+Tire pressure check, front=40psi rear=52psi.  Brake fluid & oil = OK.
+Red '67 TypeI sighting while refuelling.
+
+20050527 I-90 & US89  Missoula, MT to Mammoth, WY
+Said goodbyes to my Missoulian friends and got on the slug-slab 
+I-90.  Well maintained 4-lane divided hwy. Easy fuel stops.  Signs
+of very high water in all the rivers nearby.  Flood watch due to high
+temps may cause decks on riverfront property to change into to docks.
+White over blue Westy sighting on I-90 near US89.  Great scenery in
+the Gallatin area.
+Fuel up In Gardiner, MT for the Yellowstone N.P. tour.  $25 park
+entry fee and $14 to camp at Mammoth campground.  Only a 6 hr drive
+today.  Nice camp with basic amenities, flush toilets, picnic table,
+fire ring.  Plan to see Mammoth & move on to Tower Junction tomorrow.
+
+20050528  Yellowstone: Mammoth to Tower.
+Up early and off to the Mammoth hot springs.  Tall & wide travertine
+towers over the Mammoth visitor center.  Whisps of steam rise in cool
+45F morning air off the hot water bubbling up through the terraces
+of ivory colored stone.  Just a hint of hydrogensulfide in the air.
+Head to Tower Fall camp for one of the last
+campsites.  Similar amenities, but no running water & vault toilets.
+Each site (-at-) $12/nite.  Backtrack a little to petrified tree and the
+Slough Creek camp (via 5mi dirt rd.).  Slough Cr. camp has 29 sites
+right up next to the creek.  5 sites are closed & under 6" of creek.
+Saw 2 bison up close to the dirt road.  Herds along Mammoth-Tower rd.
+Tower Fall trail is closed at the base of the falls, due to hi water.
+White air-cooled Vanagon siting.  Speed limit is 45, but 35 (-at-) jcns.
+Go as fast as you feel comfortable to hit a moose, bison or gawking
+tourist.  Expect delays for same & road construction areas.  Plans to
+find a spot in a mega-camp tomorrow, either Fishing Bridge or
+Bridge Bay.
+
+20080529 Yellowstone: Tower to Madison via Yellowstone Lake.
+Wakeup call 5:30am is a yuppie squeak toy (car alarm) and doors
+slamming shut.  (Lots of German language overheard on trails here
+and every German I have driven with has displayed excellent road
+'manners'.  So it must be Americans who disegard the center line,
+doublepark blocking the road to take wildlife photos, assert the
+right of way when they should yield, etc.  Pretty sloppy driving.)
+No sense in admonishing the source of early morning nuisance, so I
+rise, feast and move South to the canyon.  Had the lower falls brink
+to myself.  Very few are up and out at 6:30am.  The upper falls are
+also very healthy due to high water levels.  Proceed to Bridge Bay
+for a campsite (-at-) $20.  Parking slab, table, ring and flush toilets.
+I am photographed and given the honor of being the 1st to camp here
+in 2009.  There is no other camping south of here (-at-) this time.
+White over burgandy Vanagon siting, with wave back.
+Light traffic, so I cruise to W.Thumb, OldFaithful and almost to
+Madison.  Stop for brunch and slowly make my way back to Bridge Bay
+and stopping at every site except for OldFaithful (BTDT'87).  It's
+just too built up and crowded w/tourists, so I bypass it both ways.
+Lots of volcanic activity w/water & mud along the Firehole River.
+I love the smell of H2SO4 in the morning. ;-)  Firehole falls &
+Grand Prismatic Spring were some favorite spots of mine.  Crossed
+the Continental Divide 4x today and am back in Bridge Bay camp w/
+two barking dogs from all the hiking.  Plans to exit Yellowstone
+via Lewis L. and the South entrance tomorrow am.   
+
+-Jack  '73 Westfalia</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F918140" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F918140" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F918140" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

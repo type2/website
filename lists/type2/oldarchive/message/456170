@@ -1,0 +1,487 @@
+<html>
+<head>
+<title>type2 - NEA troubles, no bus content</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/456170 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/456170" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/456170" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>NEA troubles, no bus content</h1>
+   <b>&quot;T,B &amp; V&quot; &lt;squeek_at_rt66_dot_com&gt;</b><br/>
+   <i>1998-11-13 17:42:39+00</i><br/>
+   <br/>
+   <pre>Sorry if this pisses anyone off but this is important and it is 
+Friday.  
+
+ Subject: NEA Urgent Letter
+ The Supreme Court has agreed to hear the issue of whether public
+ funding to an artist can be linked with the idea of whether the art
+ is `decent.' After the Robert Mapplethorpe "scandal" not so long ago,
+ Congress passed a law that for an artist's art to receive public
+ money via the National Endowment for the Arts, it must be deemed
+ decent. According to Nina Tottenberg of NPR's Morning Edition, if the
+ Supreme Court supports Congress, it is in effect the end of NEA.
+ Then, there's the question of Congressional funding: Funding for
+ NPR/NEA & PBS, NPR (National Public Radio), and the arts are facing
+ major cutbacks in funding. In spite of the efforts of each station to
+ reduce spending costs and streamline their services, some government
+ officials believe that the funding currently going to these programs
+ is too large for something which is seen as not worthwhile.
+ Currently, taxes from the general public for PBS equal $1.12 per
+ person per year, and the National Endowment for the Arts equals $.64
+ a year. A January 1995 CNN/USA Today/Gallup poll indicated that 76%
+ of Americans wish to keep funding for PBS, third only to national
+ defense and law enforcement as the most valuable programs for federal
+ funding. Each year, the Senate and House Appropriations committees
+ each have 13 subcommittees with jurisdiction over many programs and
+ agencies. Each subcommittee passes its own appropriation bill. The
+ goal each year is to have each bill signed by the beginning of the
+ fiscal year, which is October. The only way that our representatives
+ can be aware of the base of support for PBS and funding for these
+ types of programs is by making our voices heard. Please add your name
+ to this list and forward it to friends who believe in what this
+ stands for. This list will be forwarded to the President of the
+ United States, the Vice President of the United States, and
+ Representative Newt Gingrich, who is the instigator of the action to
+ cut funding to these worthwhile programs. Please add your name to the
+ petition so that funding can be maintained for the NEA, NPR & PBS.
+ Please keep this petition rolling. Do not reply to me. Please sign
+ and forward to others to sign. If you prefer not to sign please send
+ to the e-mail address indicated. This is being forwarded to several
+ people at once to add their names to the petition. It won't matter if
+ many people receive the same list as the names are being managed.
+ This is for anyone who thinks NPR/PBS is a worthwhile expenditure of
+ $1.12/year of their taxes, a petition follows. If you sign, please
+ forward on to others. If not, please don't kill it - send it to:
+ wein2688_at_blue.univnorthco_dot_edu or kubi7975_at_blue.univnorthco_dot_edu
+
+ ****If you happen to be the 150th, 200th, 250th, etc. signer of this
+ petition, please forward a copy to: wein2688_at_blue.univnorthco_dot_edu.
+ This way we can keep track of the lists and organize them. Forward
+ this to everyone you know, and help us to keep these programs alive.
+ Thank you. __________________________________- NOTE: It is preferable
+ that you SELECT the entirety of this letter and then COPY it into a
+ new outgoing message rather than simply forwarding it. Or if the
+ option is available, do a SEND AGAIN.
+
+ 449) Edward G. Guggenheim, San Francisco, CA
+ 450) Thao N. Lam, Riverside, CA
+ 451) Antonio Rauti, Riverside, CA
+ 452) Carlotta Domeniconi, Riverside, CA
+ 453) Stephanie Fonder, Riverside, CA
+ 454) Sohail Nadimi, Riverside, CA
+ 455) Shirin Etessam, San Francisco, CA
+ 456) Jahanshah Javid, Albany, CA
+ 457) Haleh Nazeri, NY, NY
+ 458) Larry Weissman, NY, NY
+ 459) Jackie Medel, Los Angeles, CA
+ 460) Lynn Cantor, Los Angeles, CA
+ 461) Alec Bartsch, Los Angeles, CA
+ 462) Kim Wohlenhaus, Louisville, KY
+ 463) Tanya Savory, Louisville, KY
+ 464) Suzanne McDermott, Charleston, SC
+ 465) Jack Williams, Columbia SC
+ 466) Caroline Aiken, Atlanta, GA
+ 467) Jef Jaisun, Seattle, WA
+ 468) Roberta Penn, Seattle, WA
+ 469) karen garrett de Luna, Seattle, WA
+ 470) Sara Jinks, Seattle, WA
+ 471) Heather Kravas, Seattle, WA
+ 472) Jason Starkie, Seattle, WA
+ 473) Clarence L. Brooks, Jr, Seattle, WA
+ 474) Dan Froot, Los Angeles, CA
+ 475) Julia Carnahan, Whittier, CA
+ 476) Karen Nathanson, Los Angeles, CA
+ 477) Mark Yardas, Venice, CA
+ 478) Mara Schoner, Venice, CA
+ 479) karen maclean andersen, los angeles, ca
+ 480) Sharon Oster, Los Angeles, CA
+ 481) Eve Sanders, Los Angeles, CA
+ 482) Nora Johnson, Swarthmore PA
+ 483) Nathalie F. Anderson, Swarthmore PA
+ 484) Kevin Kish, Swarthmore Pa
+ 485) Julia Kernochan, Swarthmore, PA
+ 486) Cristina Garcia, Swarthmore, PA
+ 487) Emily Wilkins, Swarthmore, PA
+ 488) Lucinda Kidder, Northfield MA
+ 489) Stephanie Woolley, Miami, FL
+ 490) Chocolate Waters, New York, NY
+ 491) Judith K. Witherow, Morningside, MD 20746
+ 492) Steven J. Witherow, Morningside, MD 29746
+ 493) Sue Lenaerts, Morningside, MD 20746
+ 494) Robert Edward West, MD 21044-2538
+ 495) Kathryn Ervin, CA 92346
+ 496) Margaret A. Perry, Crestline, CA 92325
+ 497) Yvette Ratner, Auburn, AL
+ 498) Robin Jaffe, Auburn, AL
+ 499) Oran C. Walker, Seattle, WA
+ 500) David A. Nochimson, Seattle, WA
+ 501) Charlotte Grossman,Tiburon,CA
+ 502) David P. Gollub, San Francisco, CA
+ 503) Bruce Isaacson, Las Vegas, Nevada
+ 504) Kim Addonizio, San Francisco, CA
+ 505) Leza Lowitz, Dillon Beach, CA
+ 506) Jack Foley, Oakland, CA
+ 507) Adelle Foley, Oakland, CA
+ 508) Alicia Ostriker, Princeton, NJ
+ 509) Lisa Goldberg, NYC
+ 510) Danielle DeCrette, NYC
+ 511) Leslie Castay, NYC
+ 512) Bryan Burkey, NYC
+ 513) Mark Zimmerman, NYC
+ 514) Barbara Tirrell, NYC
+ 515) Scott Killian, NYC
+ 516) Danial Shapiro, Minneapolis, MN
+ 517) Joanie Smith, Minneapolis, MN
+ 518) Elizabeth Van Vleck, NYC
+ 519) Suzie Jary, NYC
+ 520) Susan Johnston, Brooklyn, NY 11215
+ 521) Mona Kreaden, NYC
+ 522) Risa Morimoto New York, NY
+ 523) Ernesto Jarvis, Brooklyn, NY
+ 524) Fannie Chan, Brooklyn, NY
+ 525) Richard Simon, New York, NY
+ 526) Michael Simon, New York, NY
+ 527) Dwan Reece King, Hartsdale, NY
+ 528) Fabiana Chiu-Rinaldi, Greenwich, CT
+ 529) Helen Liu, Boston, MA
+ 530) Anne Marie Booth, Quincy, MA
+ 531) Lihbin Shiao, Jamaica Plain, MA
+ 532) Emily Houh, Detroit, MI
+ 533) Emmeline Kim Owyang, Boston, MA
+ 534) Faith Adiele, Somerville, MA
+ 535) Wenda Tai, Cambridge, MA
+ 536) Jeanne Tai, Cambridge, MA
+ 537) Margaret Tuitt, Somerville, MA
+ 538) Susan Berstler, Somerville, MA
+ 539) Betsy Troutman, Seattle, WA
+ 540) Robert Rufh, Seattle, WA
+ 541) Andrew Chase, Seattle, WA
+ 542) Kay Chase, Kalamazoo, MI
+ 543) Jackie Driscoll, Kalamazoo, MI
+ 544) Martha Driscoll, Arlington, MA
+ 545) Priscilla Sanville, Arlington, MA
+ 546) Michael Gigante, Brattleboro, VT
+ 547) Carrie Yamaoka, NY, NY
+ 548) Joy Episalla, NY, NY
+ 549) Adam Simon, Hoboken, NJ
+ 550) Matthew Sharpe, New York, NY
+ 551) Nick Balaban, NY
+ 552) Jerry Everard, Seattle, WA
+ 553) Robin Hughes, Seattle, WA
+ 554) Lori Dirks, Seattle, WA
+ 555) April Richards, Seattle, WA
+ 556) Dawn Rains, Seattle, WA
+ 557) Kim Gonzales, Seattle, WA
+ 558) Anne Shrauner, Seattle, WA
+ 559) Rachel Whalen, Seattle, WA
+ 560) Anne Copeland, Seattle, WA
+ 561) Jennifer Creegan, Seattle, WA
+ 562) Jane Ray, Seattle, WA
+ 563) Jack Levinson, New York City
+ 564) Anne Corliss Dunham
+ 565) Teresa Elena Lee
+ 566) Bruce Gregory Shackelford
+ 567) Kevin Patrick Kennedy
+ 568) Christy Kennedy
+ 569) Kristi Smith, Longmont, Colorado
+ 570) JoAnne Zingo-Hargis, Lawrence, KS
+ 571) Dixie F. Lovell, St. Louis, MO
+ 572) Kajira Djoumahna, Santa Rosa, CA
+ 573) Carolena Nericcio, San Francisco, CA
+ 574) Nadia Khastagir, San Francisco CA
+ 575) James Whitehead, Oakland, Ca
+ 576) Tom Juarez, South San Francisco, CA
+ 577) Ruby Udell Grad, Woodacre, CA
+ 578) Sylvia Spears, San Francisco, Ca
+ 579) John Hanft, San Francisco, Ca
+ 580) Bevan Vinton, Piedmont, CA
+ 581) Anne Underwood Grant, Horse Shoe, NC
+ 582) Valerie Wilcox
+ 583) Nicki Ehrlich, Gig Harbor, WA
+ 584) Maggy Walton, Tacoma, WA
+ 585) Janet Kalmbach, Tacoma, WA
+ 586) Adele Roberts, Tacoma, WA
+ 587) Carol Ann Anderson, Gig Harbor WA
+ 588) Marcy Katz, Honolulu, Hawaii
+ 589) David Friedman, Honolulu, HI
+ 590) Don Hallock, Honolulu, HI
+ 591) Kathy Hallock, Honolulu, HI
+ 593) Star Hallock, Honolulu, HI
+ 594) Kit Kowalke, Honolulu, HI
+ 595) Ron Kowalke, Honolulu, HI
+ 596) Christine Kowalke, Chicago, Illinois
+ 597) Gina Lambert, Berwyn IL
+ 598) Rachel M. Cotugno, Northbrook, IL
+ 599) Susan Swartz, Highland Park, IL
+ 600) Jill Meyer, Studio City, CA
+ 601) Alan H. Simon, Sherman Oaks, CA
+ 602) Donald G. Eisen, Indiana, PA
+ 603) Barbara Eisen, Indiana, PA
+ 604) Ed Simpson, Indiana, PA
+ 605) Barbara Blackledge, Indiana, PA
+ 606) David Zarko, NYC, NY
+ 607) Thomas Cannold, Orlando, FL
+ 608) Sandy Pokras, Truckee, CA
+ 609) Richard Skeie, Incline Village, NV
+ 610) Pamela Skeie, Incline Village, NV
+ 611) Robert Gongloff, Black Mountain, NC
+ 612) Laura Phail, Winston-Salem, NC
+ 613) Bett Hargrave, Lexington, NC
+ 614) Laura McDuffee, Greensboro, NC
+ 615) James R. Moody, Waynesville, NC
+ 616) William J. Shaw, Ft Myers, FL
+ 617) Larry R. Hanson, Ft Myers, Fl
+ 618) R.W. Anderson, Fort Myers, FL
+ 619) Louise T. Anderson, Fort Myers, FL
+ 620) John D. Anderson, Fort Myers, FL
+ 621) Rev Jack Bittler, St. Petersburg, FL
+ 622) Marjorie Dearmont, Houston, TX
+ 623) Ann Lohmann, Spring, TX
+ 624) Linda Sievers, Monroe, LA
+ 625) Elisabeth Gibson
+ 626) Pat Grant
+ 627) Angela Weaser, Normal, IL
+ 628) Kimberly Maselli, Evanston, IL
+ 629) Reginald Gibbons, Evanston IL
+ 630) Jamie Brunson, New York, NY
+ 631) Annette E. Sanders, Philadelphia, PA
+ 632) Samuel F. Reynolds, Philadelphia, PA
+ 633) Mark Cofta, Philadelphia, PA
+ 634) Susan McKey/Benjamin Lloyd, Philadelphia, PA
+ 635) Reginald Gibbons, Northwestern University, Evanston IL 60208
+ 636) Barbara Dilley, Boulder, CO 637) Nancy Stark Smith, Northampton,
+ MA 638) Steve Paxton, E. Charleston, VT 639) Lisa Nelson, E.
+ Charleston, VT 640) Paula Josa-Jones, Chilmark, MA 641) Pam White,
+ Chilmark, MA 642) Peggy Gould, NYC 643) Tim White, San Anselmo, CA
+ 644) Miranda Mar, Los Angeles, CA 645) Lynn Swearingen, Boulder, CO
+ 646) Bridget Erdmann, San Francisco, CA 647) Jim Petrick, San
+ Francisco, CA 648) Lauren Fogel, Portola Valley, CA 649) Claire
+ Brassert, San Francisco, CA 650) Anne Jamison, Chicago, IL 651)
+ Andrea Wickham, New York, NY 652) Jessica Wickham, Brooklyn, NY 653)
+ Mary H. Lorimer, W Long Branch, NJ 654) Janis Jolcuvar, Santa Monica,
+ CA 655) Nancy A. Kist, Jersey City, NJ 656) Bruce T. Herbert,
+ Seattle, WA 657) Anne Albritton, Madrid, Spain 658) Richard Stephens,
+ Madrid, Spain 659) Jonathan Forgash, NYC, NY 660) Barbara Glaser,
+ Austin, TX 661) Jim Blomquist, Chicago, IL 662) Amy Rechenmacher,
+ Evanston, IL 663) Jayne Flores, Agana, Guam 664) Jim Renza 665) Ramon
+ A Noya, Atlanta, GA 666) Visitacion A Noya, Atlanta, GA 667) Geoff
+ Baker, Atlanta, GA 668) Richard Gann, Atlanta, GA 669) Anthony
+ Thompson, LA, CA 670) Carol Cetrone, LA, CA 671) Debra Spinelli LA,
+ CA 672) Rika Ohara, Los Angeles, CA 673) Alan Rich, Los Angeles, CA
+ 674) Tina Pelikan, New York, NY 675) Adam Nussbaum, Highland Mills NY
+ 676) Seth Rothstein, NYC 677) Randy Haecker NYC 678) Phillip
+ Mendelsohn, Los Angeles, CA 679) Sebastian Uijtdehaage, West
+ Hollywood, CA 680) Jamie Kravitz, West Hollywood, CA 681) Edward
+ Kravitz, Cambridge, MA 682) Ronald Harris-Warrick, Ithaca, NY 683)
+ Rebecca Harris-Warrick 684) Geoffrey Burgess, Ithaca, NY 685) William
+ D Davis, San Francisco, CA 686) Fred Fox, San Francisco, CA 687)
+ David Charles Abell, London, UK 688) Seann Alderking, London, UK 689)
+ Alan Eto, New York, NY 690) Ori Flomin, New York, NY 692) David
+ Marchant, St. Louis, MO 693) Jennifer Dorsey, St. Louis, MO 694) Dean
+ Kessmann, St. Louis, MO 695) Martin Brief, Dallas, TX 696) Anna Cox
+ Dallas, TX 697) Leanne Yanabu, Albuquerque, NM 698) Marjorie Devon,
+ Albuquerque, NM 699) David S. Rubin, Phoenix, AZ 700) Kim Abeles, Los
+ Angeles, CA 701) Sheila Pinkel, Los Angeles, Ca. 702) Scott McCarney,
+ Rochester NY 703) Christine J. Russo, Rochester, NY
+  704) Beatrix Dina Light, Dallas, TX
+ 705) James W Johnson, Lubbock,TX
+ 706) Tom and Betty Blackburn, Albuquerque, NM.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F456170" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F456170" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F456170" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

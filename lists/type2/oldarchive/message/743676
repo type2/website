@@ -1,0 +1,382 @@
+<html>
+<head>
+<title>type2 - I'm back. :)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/743676 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/743676" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/743676" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>I'm back. :)</h1>
+   <b>Joel Walker &lt;JWALKER_at_ua1vm.ua_dot_edu&gt;</b><br/>
+   <i>1995-05-31 19:29:31+00</i><br/>
+   <br/>
+   <pre>well, here's my trip report ... kinda long, but then, i tend to talk a lot. ;)
+
+     Wednesday, May 24th
+2349-88,429 - on the road, heading north, on I-65.
+     Thursday, May 25th
+0155-88,560 - passing Huntsville, AL ... sighted familiar looking
+              taillights zooming past on entry ramp. speed up to see
+              what year bus it is; up to 4200 rpm (71mph!).
+0203-88,570 - finally caught up! a brown/brown 84 vanagon, who turns
+              off at the next exit. :(
+0310-88,650 - passing Spring Hill, TN (where Saturn cars are made).
+              suddenly there is LOTS of traffic on the highway, all
+              headed north into Nashville, and all driving GM cars.
+0433-88,730 - stop for fuel; they won't sell me a KY Lottery ticket,
+              cause they can't sell before 0600. ???
+0556-88,788 - rain; big bugs are smashing into the windshield, smearing
+              all over the place. have to stop and clean glass.
+0620-88,814 - Paducah, KY: sign reads "National Quilt Museum". ??
+              Ohio river is swollen and way up.
+0643-88,838 - noticing (now that it's light outside) the different
+              plants and trees in on the roadside and in the median;
+              unfamiliar rocks beside the road in the cut-throughs;
+              road-kill is also different (no possums or armadillos ...
+              must be smarter up here).
+0854-88,977 - more fuel.
+1000-89,022 - Ft. Zumwalt City Park, O'Fallon, MO. NOBODY IS HERE!!??
+              just a few workers, cutting the grass. wet grass. grey
+              skies. an ominous omen, to be sure. called Sami - no
+              answer. draw the curtains and try to take a nap.
+1330-       - groggily awake; called Sami, and told them i was here.
+              back to sleep.
+1730-       - Sami & Maria drive out to Ft. Z, wake me up, and we
+              go back to St. Louis (actually, University City). on the
+              way in, we see what must be Dave Schwaze's bus. quick
+              flip around and park next to it. when we walk up, the
+              young lady inside looks somewhat anxious until we intro-
+              duce ourselves. Dave is off talking on the payphone. we
+              all go to Sami's place, then walk down the street to the
+              pizza place (convenient, close: so how come Sami and Maria
+              are so skinny?? :). back to Sami's place, where Dave and
+              Sami ooh and ahhh over solar panels (Dave has two on top
+              of his fixed high-roof bus; Sami has four to put on top
+              of his Westfalia pop-top). ride back to Ft. Z with Dave
+              and Shelly (the anxious-looking young lady, with beautiful
+              green eyes). it is very late.
+     Friday, May 26th
+<didn't look at times>
+- up; shower (real hot water!);
+- Pete Sellers shows up in his Eurovan, and begins setting up his
+  opulent Abercrombie & Fitch Genuine Safari camping outfit, complete
+  with zippered screen room. ;)
+- met Brendan Murphy and Josh Kline from Long Island, NY ... they drove
+  all the way in their somewhat "used" old split-window bus,
+  which got stuck and we had to put them out of them "swamp".
+- Dave leaves to go see some local relatives, and Sami shows up with
+  his camper. later, he and Dave work on putting the solar panels on
+  Sami's pop-top.
+- Barry Nichols shows up in his camper; later that night (after removing
+  all brightly colored tie-dyed clothing, and wearing only dark drab
+  outfits!), he and a few cohorts are seen carrying a picnic table and
+  setting it next to his camper. "We borrowed it. from up by the
+  showers.". riiigggggggggght. ;)
+- met some folks from MS/TN (Memphis area) and another fellow with an
+  87 camper from OK. sat up all night around their campfire, lying and
+  telling tall tales (all old grey-haired folks here). boy, them old
+  folks can sure suck down the beer! :)
+    Saturday, May 27th
+- up again (i hate mornings); shower again (still got hot water);
+  mess around, mess around, take pictures.
+- rain; wind; blows my tarp down.
+- Gerry Skerbitz shows up with wife Lorin & kids; we go off to get more
+  ice, then he sets up his tent and tarp.
+- i wander around taking pictures and noting buses for the voting for
+  the awards, asking folks with vanagons if they want microfiche. ;)
+  one fellow with a syncro says, "nah, thanks. some nut in alabama
+  already sent me one!" .. :( turns out to be Dan Soiney, who used to
+  be on the list, but graduated and lost his account. he's planning on
+  trying to get back on this fall.
+- Pete & Rose offer supper for the Vanagon net gang: we all begin to
+  notice what we forgot (like i forgot my plate(s), map book, and
+  Bentley manual).
+- awards: Dave Schwarze gets Longest Distance Traveled; Gerry Skerbitz
+  wins $25 gift cert from West Coast Metric (which is what Dave really
+  wanted!). the rest of us just sink deeper into the rain soaked ground.
+  Brendan and Josh get two awards: Bus Needing Most Restoration; and
+  Dirtiest/Oilest Engine Comparment.
+- more rain and wind.
+- at sometime during this day, the split-window crew down by the swamp
+  (a low area that seems to get everyone stuck), of which Beavis and
+  Butthead (Josh & Brendan) are a part, discover that if you put a can
+  of tuna into the campfire, it will explode. "Way Cool, Dude!" ... so
+  the night is filled with the smell of burning tuna fish and the sounds
+  of Ka-Whomp! <exploding can>. apparently, they brought a LOT of tuna
+  with them.
+- about a dozen or so folks made it up from Texas; they had a really
+  neat tent/tarp/cover setup, normally used for drag racing ... you
+  could drive two buses under this thing! but those vile, seductive
+  Gypsy women they brought with them seduced nearly $100 out of me,
+  selling me those digusting little toy buses!! ;)
+    Sunday, May 28th.
+- surprise! clear, sunny skies! however, the soggy ground and grass-
+  matted muck are not moved by this. by midday, lots of buses, clothes,
+  dogs, tarps, etc. are dried out enough to pack up, but it is still a
+  swap in most places. and all the people walking around and buses
+  driving are making it more and more of a quagmire.
+- up; shower; etc.
+- Pete & Rose Flapjack House on Wheels opens for business.
+- people start leaving; after being unstuck from the mud, that is.
+  everybody gets stuck.
+- Sami & Dave head off for more visiting of relatives and zoo and
+  whatever. Pete & Rose must now resort to refolding and repacking their
+  extravagent tent village and fitting it back inside what now seems to
+  be a very small EV; Barry heads back to Louisville; Gerry and i leave
+  the campround and head "north" toward Iowa, fighting rather severe
+  crosswinds all the way.
+- Gerry & i reach the rendezvous point in Iowa. not enough spaces. so
+  we try another place down the road about four miles. bingo. enough
+  spaces for all of us (Pete is supposed to show up in a few hours,
+  and Dave & Sami will meet up several hours after that). we reserve
+  the spaces, and try to get in touch with Pete & Sami (via cellular
+  phone ... works great; gonna have to get me one of them things!).
+- Pete arrives; we load into my bus and go eat in Muscatine, IA. when
+  we get back, we remember that we forgot to call Mike Wright ... so i
+  call (it's about 2300): he's just gone to bed, but says he'll meet
+  us at the campground in the morning (he's about four hours away).
+  it's getting cold (to me) ... we are next to the Mississippi River
+  and it's a good ways up on its banks.
+- everybody turns in. i stay up to wait for Dave & Sami. finally they
+  show up about 0100. we all turn in for the night.
+     Monday, May 29th
+- cold morning. Gerry & the kids are up and terrorizing the campground
+  already. :) the Cleaners of the Can are also busy ... the showers and
+  toilets are cleaned each morning from 0700-0800. ?? up and att'em
+  finally about 0830. hot water here as well!
+0930- Mike Wright shows up, in his 68 Frau Bluucher bus. :)
+  introductions all round, b.s. all round, food is cooked and consumed,
+  and stuff is packed back into the buses. plans are changed, GNATT is
+  now heading north toward WI and MN w/ Mike in tow. but i have to head
+  back to AL.
+1120-89,334 - leave Clark's Ferry campground.
+1131-89,345 - i peel off from the Wagen Train, and take I-280 south.
+1148-89,363 - "Rough Road" signs. a distinct UNDERstatement! i'd
+              forgotten what bad winters do to road surfaces. :(
+1515-89,584 - stop for fuel; clean windshield.
+1920-89,833 - gas/food/toilet; Sonora, KY. big truck stop. lots of
+              lotto machines, junk in "store". food is good, though.
+    Tuesday, May 30th
+0030-90,104 - fuel.
+0220-90,201 - HOME! leave the car; grab the pillows and blankets;
+              sit and relax a while; check email: gee, only 132 messages
+              but most of them are LARGE digests!
+
+so the total was:
+going up: 593 miles, 10:11 time, averaged 58.2 mph, with cruising
+                                 control set on 64 mph.
+coming back: 867 miles, 15:00 time, averaged 57.8 mph, set on 64mph.
+fuel economy stayed around 21 mpg.
+
+amazingly, there was almost no traffic on the way back ... the only
+heavy traffic i saw at all was on the northbound side at some one-lane
+construction restrictions. after leaving Nashville, there was almost
+no traffic on the road at all.
+
+so ... was it worth it? :) yeah. pretty neat seeing all those buses.
+even had three Eurovans (which, by the way, also get stuck in the mud).
+and several vanagons, lots of bay-windows, and scads of split-windows.
+i could have done without the bullfrog serenade at the pond, though ...
+it was that, or the guy in the tent next to me snorred awfully loud!
+
+the weather was NOT good, but in spite of that, it was kinda fun.
+muddy, but fun. NOBODY looked like i thought they would ... and i'm sure
+i wasn't exactly what they expected, too. ;)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F743676" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F743676" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F743676" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

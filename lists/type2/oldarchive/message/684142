@@ -1,0 +1,364 @@
+<html>
+<head>
+<title>type2 - my western trip</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/684142 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/684142" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/684142" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>my western trip</h1>
+   <b>steffens_at_herbie.unl_dot_edu (Scott Steffens)</b><br/>
+   <i>1994-05-19 16:27:05+00</i><br/>
+   <br/>
+   <pre>Okay, I asked you guys a week or two ago to help me out with regards 
+to my bus in the mountains.  I got a lot of good suggestions for 
+things to bring along, etc.  
+Now this message has more to do with helping me out than my VW.
+well... here goes...
+
+ 
+------------------------------------------------------
+ 
+  WEST ODYSSEY 1994, a summer BIG LOOP megaroadtrip
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+"Two guys, one bus, a camera, the Net....and a dream"
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 
+The best way to start is to start, so let's....
+ 
+WHO:
+    Ed Stastny, illustrator/artist, OTIS curator, zinester
+         age 22 (net-age:4), male, dark hair, brown eyes, Taurus
+         music: ambient, industrial, punk, Brazilian, Indian
+                Mercy Rule, Eno, Third Mind, 4AD, Pixies, Whale
+         movies: Orlando, Naked, Bladerunner, Alien
+         tv: X-Files, Star Trek, Bab5, COPS, Liquid TV, documentaries
+         books: biographies, art, science, comics
+         drugs: caffeine, Bolo, net
+         foods: vegetarian, spinach pizza, grilled cheese(w/catsup)
+         ambitions: publishing, creating, OTIS Inc.
+         http://sunsite.unc_dot_edu/otis/pers/Stastny_E.html
+         email: ed_at_sunsite.unc_dot_edu
+         cb alias: Chiggerbite
+ 
+    Scott Steffens, photographer, cynic, general nice guy
+         age 20 (net-age: 1.5), xy, libra, U.S. citizen
+         fine-arts photography major at the University of Nebraska
+         music: drone, folk, K records, pixies, sebadoh, mousetrap
+         movies: ruben & ed, gandhi, night on earth, star wars
+         tv: star hustler, cartoons that glamourize violence
+         books: douglas coupland, dr. seuss, the world almanac
+         addictions:  converse all-stars, guava juice, my plants
+         foods: lacto-ovo, cream cheese pizza, indian cuisine
+         ambitions: this school thing, photographing, exploration
+         email: steffens_at_herbie.unl_dot_edu
+         cb alias: Cowboy X
+ 
+    Glenda (a.k.a. our packmule)
+         1973 volkswagen campervan
+         big, orange, and beautiful
+         (w/secret compartments for Pez-trafficking)
+         ambitions: to serve my masters well and not attract lightning
+ 
+WHAT:
+        We're leaving from Omaha, Nebraska on June 1st in a VW BUS 
+        and don't plan to return until the second week of July.
+        We'll be going through Nebraska, South Dakota, Wyoming,
+        Washington, Oregon, California, Utah, Nevada, Arizona, New 
+        Mexico, Colorado and any states that otherwise get in our way.
+ 
+WHY:
+        We're travelling for travelling's sake.  To see new places,
+        meet new people, have fun and perhaps learn something on the
+        way.  As simplistic as that may sound, it's the truth and
+        impetus of our journey.  We'll be heading west, to the
+        Pacific coast and back again, interviewing photographing,
+        travelogging, drawing and collecting road-flotsam along the
+        way.  When we return to Omaha in July, we will put together
+        a publication about our experience, good or bad.  Everyone
+        we meet is a potential contributor/subject of this 
+        publication.
+ 
+        For those familiar with WWW, we'll also be putting together a
+        web-bundle for hyperlinkish perusal and scrutiny.  Pictures,
+        sounds, words and drawings from our trip.
+ 
+        The reason we're putting together this thing you're
+        reading here, this brief "INFO-FILE"
+        about our trip is that we'd like to meet as many new people
+        as possible, specifically denizens of the Internet.  We're
+        also interested in input from anyone as far as interesting
+        locales, must-see events, unique and non-commercial
+        diversions.
+ 
+        Our route is very maliable, here's the current plan:
+ 
+        - Leave Omaha, head NW to Mt.Rushmore.  Arrive at MR.
+        - Hike, view, etc.  Move on to Wyoming, Yellowstone.
+        - Reach Yellowstone, camp, hike, write, etc.
+        - Head west to Washington.
+        - Spend time in Washington forests and visit Seattle
+        - North into Canada for a day or two.
+        - South to Vancouver, WA area...meet up with friend.
+        - Time in Vancouver, then south to Oregon.
+        - Day or three in Oregon wilderness, coast, towns.
+        - South into California.
+        - San Francisco/Palo Alto, meet up with friends.
+        - Hollywood area, meet up with friend.
+        - Sequoia Forest area.
+        - Death Valley and east into Nevada.
+        - Las Vegas.
+        - SE into Arizona/New Mexico, deserts.
+        - Towns, wilderness, camping in Arizona/NM.
+        - NE into Colorado, meet with friends.
+        - E into Nebraska, home.
+ 
+        The route and plan are variable.  Spontaneous changes and
+        alterations will take place.
+ 
+        We're looking for the following:
+ 
+              net-links along the way, places to telnet from
+              (24hr user-rooms on campuses, friendly netters, etc)
+ 
+              interesting sites that aren't as clearly marked or
+              as widely known.
+ 
+              crash-spaces or tips for inexpensive camping
+              (we're polite, don't have criminal records and
+              we'll make you famous in our zine!)
+ 
+              tips/suggestions for inexpensive vegetarian travel-food
+ 
+              good musicians/plays/clubs to see on the way
+ 
+              good people and their pets
+ 
+              someone we can beat at bowling, miniature golf or 
+              Scrabble
+ 
+              fellow travellers, campers, artists, writers,
+              musicians and plumbers
+ 
+ 
+        
+----------------------------------------------------------------
+ 
+        If you can help out or have suggestions, warnings, threats or
+        omens...please write us SOON (now, preferably).  We're very 
+        late in getting this info-file out.  Anything is appreciated, 
+        hope to see you this summer.
+ 
+                Thanks,
+                        ...e (ed_at_sunsite.unc_dot_edu)
+                              PO BX 241113
+                              Omaha, NE 68124-1113
+                              USA
+ 
+                        ...X (steffens_at_herbie.unl_dot_edu)
+ 
+ 
+        PS: The zine and web pages will be available in mid/late July.
+            We're interested in any and all travel zines and will do 
+            trades.
+ 
+ 
+ </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F684142" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F684142" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F684142" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

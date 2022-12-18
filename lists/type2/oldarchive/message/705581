@@ -1,0 +1,304 @@
+<html>
+<head>
+<title>type2 - New vans update (change the stats)(long)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/705581 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/705581" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/705581" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>New vans update (change the stats)(long)</h1>
+   <b>Don Kane &lt;dkane_at_mail.arc.nasa_dot_gov&gt;</b><br/>
+   <i>1996-12-26 19:29:10+00</i><br/>
+   <br/>
+   <pre>	Since it's so slow here at work this week (I do support, and there
+is almost no one here to support), I can finally post about my new vans and
+bus.
+	First off, I bought the '84 Westy with a blown engine from Volks
+Cafe last week, and will have it towed up to San Mateo from Santa Cruz
+sometime today. This is my first Westy, and I'm really excited. It is in
+pretty good shape other than the engine. The interior needs cleaning up,
+and some small repairs on the interior, but it will be a nice addition to
+my collection. Looking through the service records, Volks Cafe put a
+rebuilt engine in this van in April of 96. The PO apparently was a bit of a
+space case, and would pay no attention to the temperature gauge. She must
+of blown a hose or something, and just kept on driving. The engine still
+runs, but is very smokey, and smells burnt. I'll know more after tearing it
+down, but it may be serviceable. Even if I buy a rebuilt long block for it,
+I'll only have about $4,000 invested. Joel, add a '84 Westy to my stats!!
+	New van #2: About 3 months ago, I was rear-ended on the freeway.
+Traffic slowing down fast, me slowing down fast, and the guy behind me
+reading a newspaper or something. He was in a Dodge pickup truck, and was
+probably going 50 mph or so, and I was slowed down to under 20. My '85 GL,
+survivor of the Dempster Highway(ok, half the dempster highway, this was
+the van that got left halfway up the Dempster at Eagle Plains, then nursed
+back to Dawson to await parts shipped from Volks Cafe) was totaled, over
+$7,000 worth of damage to it. The other driver was driving a company car
+(British Motor Cars, Inc.), so I didn't have to deal with uninsured
+motorist garbage. I had purchased this Van about 2 years ago with one head
+removed for $800, and put about $500 into it to get it running, so I didn't
+have much invested in it other than a lot of my own labor. Still, I was
+prepared to have to argue with the Insurance company hoping to get enough
+to replace it, maybe $3,000 to $4,000 would have made me happy. Well, when
+the Ins Co finally got around to making me an offer about three weeks
+later( they were renting me a car the whole time, so it wasn't too bad, but
+I was getting tired of driving an Oldsmobile, and wanted to get back in a
+van. My wife's '87 GL doesn't count, cause it's an Automatic, and besides,
+she didn't want to drive the Olds either), they said they would give me(try
+to keep a straight face here) $6325. Well ok, I guess I could accept that
+without much pain. Then they sold it my '85 back to me for a salvage price
+of $250. The engine miraculously wasn't damaged in my old van, so I called
+Kyle at Volks Cafe and asked him to keep me in mind if he ran across a van
+with a blown engine, or no engine. Turns out that he had just looked at an
+'85 GL with a blown engine(turned out to have a big whole in the top of it
+when they got the FI stuff off), It had been sitting in a field for a
+while, and had rat or mouse crap all over the engine compartment and needed
+cleaning up inside, but was otherwise in quite good shape. I bought that
+for $1400, and since I was having back and neck problems from the
+accident(still am for that matter, medical settlement is being handled by a
+lawyer), I asked Volks Cafe to switch engines for me. They did it for a
+very reasonable price. I had the engine/transmission moved as a unit from
+my old '85 to my new '85, since I wasn't sure what shape the transmission
+was in on the new van. I'm still not sure how I feel about this new Van, I
+don't yet have the same connection with it I had with my old van, having
+put so much of my own labor into, and living with it on the Top of the
+World trip, and I'm not crazy about the color, Gold, just like my Wife's
+'87 GL. I might sell it after getting the Westy running anyway, or I might
+keep the Westy through the summer and a trip back east and then sell it and
+keep the '85. Who knows? So now I have the 2 running vans, an '85 and my
+wife's '87, my old '85 as a parts van and indoor storage shed, sitting in
+the garage filled with boxes, my new non-running Westy, and a '67 that I'll
+tell about in the next paragraph. Amazing, as 2 years ago I was a new
+subscriber to this list, a wannabusser who had last owned a VW bus in 1970.
+	So, the '67 bus I mentioned: Back in the late '60's I had owned a
+nice '61 for awhile, and an almost new '68 that I purchased in '69. I loved
+both those busses, and put many cross-country trips in them, as I was a
+musician on the road based out of Nashville at the time. I've always wanted
+another old bus, preferably a split, but a baywindow would also be fine,
+but since starting up with busses again 2 years ago, they've all been
+water-cooled vans. I drive by an Auction warehouse on the way to work every
+day, and from the freeway I can see the few vehicles that leave outside,
+Last March I noticed a blue bus in there, so I stopped in and checked it
+out. It was a '67, nose pretty bashed in and rusty, cargo doors crunched at
+the bottom, passenger door ripped up. Quite a bit of surface rust, but
+almost no structural rust. The interior was in good shape for an old bus.
+All the seats (9 passenger), with only a couple rips in the original
+fabric, except for the front bench, which was pretty ripped up. A couple
+small rips in the headliner, and all the interior panels intact. It even
+started up after a jump. I went to the auction the next day, not having any
+idea what kind of interest there would be in this bus. Most of the cars
+being sold were repo's or drug seizures and were much newer. When it came
+time to bid on the Bus, I opened with the minimum bid of $100, someone else
+bid $150, I countered with $175, and that was it. $175 and it was mine. It
+ran well enough to drive it the 15 miles home, and it's been sitting in my
+driveway ever since. I've replaced the cargo doors and passenger door with
+swap meet stuff, and this summer I'll tear the engine down and see what it
+looks like. My 12-year old daughter has decided she wants it when she turns
+16, so I've got plenty of time to restore it.
+	Well that's my update on a years worth of stuff that I haven't had
+time to post. My thanks again to Kyle and Peter at Volks Cafe for all the
+help. I've had nothing but good experiences with these guys.
+Don Kane
+dkane_at_mail.arc.nasa_dot_gov
+'87 GL
+'85 GL
+'84 Westy
+'85 GL parts van
+"67 Standard Bus</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F705581" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F705581" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F705581" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

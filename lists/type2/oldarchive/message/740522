@@ -1,0 +1,301 @@
+<html>
+<head>
+<title>type2 - Bus Trek Vol III (TN, AR)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/740522 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/740522" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/740522" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Bus Trek Vol III (TN, AR)</h1>
+   <b>&quot;Richard Alexand Palmer&quot; &lt;rapalmer_at_eos.ncsu_dot_edu&gt;</b><br/>
+   <i>1996-07-26 16:47:33+00</i><br/>
+   <br/>
+   <pre>Howdy all. Tune in to our intrepid travelers, as the six hippies and their '67
+and '70 campers make their pilgrimage to Graceland...
+
+  After leaving the company of Uncle Joel and Tuscaloosa, we headed up the road
+to Memphis, to visit the King. (or at least his house). We turned 1000 miles of
+our trip along a small Alabama highway, and, soon thereafter decided that food
+was in order. We pulled off the 2-lane highway at a Piggly Wiggly grocery
+store, and went in to buy vegetables. Ah, nothing like being in a parade. The
+employees at the front actually called some of their friends to the front over
+the intercom, to come check us out. Heck, we weren't even dirty yet! They
+proceeded to gawk, and we of course smiled, and bought our wonderful sandwich
+fixin's, which we ate in the parking lot. That, of course was even better, as
+then the people inside *and* outside the store could observe our proceedings.
+Ah, fun for everyone...
+  Later that afternoon, we arrived in Memphis, and went to AAA to take care of
+a few things. I gave Neil the "Hell on Wheels" award, for leading me across
+several lanes of traffic on more than one occasion, to make a quick turn.
+Nothing like being following someone who's lost in a BIG city...
+  At AAA, we put our money into travelers' checks. We had 2 separate funds- a
+food fund and gas fund. Everyone contributed equally to those, and then kept
+out some spending money. Having done that, we knew we would always have money
+to at least drive and eat, both of which were necessary for the trip.
+  Graceland was next, although Neil, Jennifer, and I were too overwhelmed to
+actually go inside (I won't say whether it was the King, or his pricetag that
+did that...). We instead proceeded to get lost in the very *bad* section of
+Memphis, which adjoins Graceland. Nothing like young hoodlums throwing things
+at your mobile of happiness. I guess we just weren't quite putting out the
+right vibe. Happily, we made it out unscathed, picked up our counterparts, and
+headed for a little state park outside town. As ugly clouds gathered overhead,
+we picked a campsite near the bathhouse, and focused on dinner. Alas, it seems
+that our flying bloodsucking insect friends had plans for us for dinner as
+well. I have never seen air so thick with mosquitoes in my life. Even after
+dousing ourselves with copious amounts of repellant, we were still being eaten
+alive.
+  Luckily for us, a fierce thunderstorm came along to chase away the bugs. I
+guess they can't swim too well, because they all seemed to disappear in the
+downpour. After a futile effort to set up the tarp, we decided to call it an
+evening, and retreated to the busses for an early night.
+  The next day, the bugs and rain were gone, leaving us a pleasant morning for
+driving on. Neil had been to Hot Springs, Arkansas before, and wanted to return
+to dig for quartz crystals, which are highly indigenous to the area. So, off we
+went to the boyhood home of Mr. Bill Clinton himself.
+  Arriving late in the day, we procured food, and headed for an Army Corps of
+Engineers recreation area on Lake Ouachita. We arrived, and as we scouted for a
+site, a fellow living in a schoolbus invited us to share his site. Over dinner,
+we learned that he was going to the Rainbow Gathering, as were several other
+folks that stayed in the area. We were going that way later, so we shared
+stories until bedtime.
+  Quartz Crystals are highly popular in various forms of jewelry, and are
+really cool in general. They are, uh, crystal clear <sorry :)>, and have clean
+edges and smooth faces. The sizes range from 1/4 inch to several inches, and a
+huge vein of them is sitting under Hot Springs. Everyone but Jennifer and me
+left to go to a pay mine, but we had a hot tip from the locals about a free
+spot, so we headed off to find it. This was Nellie's (my bus) first chance to
+tackle muddy dirt roads, and she loved it. The spot was down a side road off a
+small paved road. It was obvious no one had been there in months, so we sat
+down and basically picked the crystals up off the ground where rain had cleaned
+the loose dirt off them. It is amazing to see the thousands of shiny points of
+light lying on the ground. We picked up some excellent specimens, and then went
+to catch up with the rest of the folks downtown at the park.
+  We arrived at the park, complete with its public hot spring, to find many
+other hippies all hanging around. It seemed that Hot Springs was quite the
+place for us traveling types to meet up. We met folks from all over the
+country, and proceeded to hang out there for the evening. Well, we actually
+stayed there for the next 2 days, having a couple locals show us other spots
+for digging crystals, hiking, and swimming.
+  Finally, though, we knew it was time to head on, as New Mexico was calling
+us.
+Join us next week as we visit the UFO museum, and rebuild an engine in
+Albuquerque....
+Happy Friday everyone!
+
+
+-- 
+Poor Richard
+
+ "I spend half my life explaining to Christians why I'm a Deadhead,
+ and the other half explaining to Deadheads why I'm a Christian."
+                    _______
+    .--------------/_______\-----.
+    `/""""/""""/|""|'|""||""|    '\    Richard Palmer rapalmer_at_unity.ncsu_dot_edu
+    /    /    / |__| |__||__|      |
+   /----------=====================|    '67 Walkthrough Pop-top, the Wild Goose
+   | \  /V\  /    _.               |    
+   |()\ \W/ /()   _            _   |    
+   |   \   /     / \          / \  |   _-( )
+  =C========C==_| ) |--------| ) |==] _-{_}_)
+    \_\_/__..  \_\_/_ \_\_/ \_\_/__.__.
+
+http://www4.ncsu_dot_edu/eos/users/r/rapalmer/www/
+Give me the simple life.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F740522" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F740522" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F740522" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

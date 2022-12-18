@@ -1,0 +1,300 @@
+<html>
+<head>
+<title>type2 - DaBoat 2-liter update - bad heads :(</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/type2/oldarchive/message/722376 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/type2/oldarchive/message/722376" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/type2/oldarchive/message/722376" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/type2/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/type2/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/type2/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/type2/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/type2/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/type2/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>DaBoat 2-liter update - bad heads :(</h1>
+   <b>David Schwarze &lt;des_at_teleport_dot_com&gt;</b><br/>
+   <i>1995-11-04 21:23:26+00</i><br/>
+   <br/>
+   <pre>Volks,
+	Yesterday I finished assembling the bottom end of the motor.
+Following Tom Wilson's instructions, I installed the new bearings,
+camshaft, and crankshaft, then coated the case seam with permatex 3-H
+and put the case halves together.  It all went pretty smoothly.  
+	I drug out the heads that were earmarked for the engine and had a
+close look at them for the first time since they were cold-tanked.  I
+was disappointed to find small radial cracks extending from three of the
+four exhaust seats.  Why I didn't notice the cracks before, I just don't
+know.  I should have looked at the heads more closely.  Such a shame too
+cause these heads were already flycut with bigger, TRW valves, and the
+guides were not worn at all.  I pulled the valves and found that the
+cracks appeared in the ports too, so they were serious.
+	Hoping for a miracle I pulled the heads from Schneiters bus out of a
+pile of junk and had a look at them.  They were cracked too, and the
+guides were worn really badly.  I could rock the valves about 1/8" when
+they were just off the seats. 
+	So, now I have no good cylinder heads for my rebuilt short block.
+My options are:
+
+1.  Buy a pair of rebuilt heads from GEX for $330.  That may be a good
+	price, but it is an unplanned expense.  Plus, they are closed till
+	Monday.
+
+2.  Have the cracked heads welded ($150-$200?).  Getting close to the
+	cost of the rebuilts, and I'm not convinced they would be as good,
+	due to the depth of the cracks.
+
+3.  Use the good heads off of the 1800 engine that is in Schneiter's
+	bus now.  This is the low-cost option, but risky cause I would have
+	to disable the only running bus I have, which means if I didn't 
+	finish the engine this weekend I would have nothing to drive to
+	Panamint next weekend.  Not sure I want to take a 0 mile engine on
+	a thousand mile drive right away anyway.  Asking for trouble.
+
+4.  Go to the junkyard and look for an uncracked pair of heads.
+
+Since it is Saturday and I had some time, I decided to try #4 first.
+Heads from the pick and pull are $31.50 each.  I called one of the yards
+and was told they had put 60 new vans out in the last week.  When I got
+there, the number was closer to 30, and none of them were VW's.  I went
+to the second yard (of four) and found several busses.  One had some
+heads in it, already removed.  One head had pieces of piston embedded in
+it, and the other one was cracked, the same way as all of mine.  Last
+week I was at this yard and pulled the muffler off of a 72 ($11) that
+looked like it had spend the last 5 years of its life in a field.  There
+was long grass growing up into the engine compartment and tangled around
+everything.  Lots of rust too.  Thank God for Chrysler rust penetrant!
+I pulled the valve covers off and the insides of the covers were mirror
+smooth and clean.  No dirt or carbon on anything.  Good sign.  So, I
+pulled the heat exchangers.  Two of the exhaust studs came out (BIG
+suprise) and one of them was a 10mm stud, indicating that this was not
+the first time it had happened.  At this point, I did some soul
+searching and decided that I would give up and go with option #1.  In
+order to make the junkyard heads work, I would have to retap one or more
+exhaust studs, flycut the heads, install new valves and probably guides
+too.  That wouldn't be done until the middle of next week, and would end
+up costing me almost as much as the rebuilts.  Plus I would be out a lot
+of time, patience, and hand cleaner.
+	The junkyard visit was not entirely unproductive, however.  There
+was a bus with some wire screens over the headlights.  They were badly
+rusted but would be good as new after a session with the wire wheel and
+some paint (white?).  Perfect for Inuvik!  Also found a 79 bus with
+little plastic caps over the front bumper mount bolts.  Didn't even know
+such caps existed!  Now my ugly, dirty, in-need-of-paint bus will at
+least be a little more aerodynamic and have those unsightly bolt heads
+hidden!  Woo hoo!
+	For those of you seeking things from the junkyard, I offer the
+following.  Every time I browse the junkyards, there seems to be one
+or two items that are unusually abundant.  This time, one such item was
+brown vinly seats.  I saw three sets of them.  Front seats for late 70's
+busses with headreasts, non-rotating type.  One set was absolutely
+perfect, with no rips on either seat.  The second pair was almost as
+good, but on closer examination had a rip just starting (about an inch
+long) on the drivers seat, and one of the round seam ridge things on the
+side was coming loose.  Still looked really nice.  The seats are
+normally $30 each, but are currently 25% off.  Please don't ask me to go
+get these seats and ship them to you - I don't have the time. :(  I will be
+happy to provide the location though, if anyone wants to email me.
+	Anyhoo, my new plan of attack is to drive up to GEX and swap my
+cracked heads for a rebuilt set (anyone know if they will take cracked
+heads as cores?).  I feel this is the best option for me right now, and
+there is Inuvik to think about.  I want to have a bulletproof engine
+before I think about making that trip.  I am relying on GEX's reputation
+here, because I don't have much faith in "rebuilt" parts in general.
+There is a lot of junk out there.
+	My next step is to install the pistons and liners on the motor,
+which I will do this afternoon.  I'll just pretend I have those bright
+shiny rebuilt heads sitting on the workbench ready to install, because
+otherwise I won't be motivated to work very hard.  :)</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F722376" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F722376" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Ftype2%2Foldarchive%2Fmessage%2F722376" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>
