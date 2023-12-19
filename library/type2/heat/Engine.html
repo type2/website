@@ -1,0 +1,516 @@
+<html>
+<head>
+<title>Heat, Rust, & Noise in VW's</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /library/type2/heat/Engine.html -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+	
+	        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+				</button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main">AIRS</a></li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu ">
+            <li><a href="/lists/vintagebus/main">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown active">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+	<li class=""><a href="/donate">Donate</a></li> 
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+      	<div class="form-group">
+	  <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+	</div>
+	<button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/library/type2/heat/Engine.html" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/library/type2/heat/Engine.html" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.6.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Generator" content="Microsoft Word 97">
+
+<meta name="Template" content=
+"C:\Program Files\Microsoft Office\Templates\Web Pages\Web Page Wizard.wiz">
+</head>
+<body link="#0000FF" vlink="#800080" background="Image9.jpg">
+<ul>
+<p><b><font face="Arial" size="7" color="#000080">Engine Out, Then
+Back In</font></b></p>
+</ul>
+<p align="center"><img class="img-responsive" src="line1.gif" width="623" height="7"></p>
+<ul>
+<p><font face="Arial">I won't waste your time with details of the
+engine pull/machining/rebuild. It was typical, no surprises. Burned
+valves, blah, blah, blah.</font></p>
+<p><font face="Arial">Our focus is the body, not the motor. This
+page covers the details of our noise/rust/heat study related to the
+motor and motor box. Again, forgive any slow load, long
+scroll.</font></p>
+</ul>
+<p align="center"><img class="img-responsive" src="line1.gif" width="623" height="7"></p>
+<p align="center"><font size="6">Initial Conditions</font></p>
+<ul>
+<p><img class="img-responsive" src="Image41.gif" width="441" height="216"><a href=
+"barebox.jpg"><img class="img-responsive" src="Image13.gif" border="0" width="416" height=
+"290"></a></p>
+<p><font face="Arial">Whether you have a Bus or other VW, look at
+your motor box. Only pathetic wisps of soundproofing insulation on
+the top surface. The rest is bare metal, which catches all the
+pulses and clatter from the motor, transferring that cacophony to
+the rest of the body. When you close your motor compartment cover
+(or any door on your van), it sounds like a trash can lid. No
+damping or insulation. Ugh.</font></p>
+<p><font face="Arial">On top of all that, the Type II is not
+exactly a silky quiet motor. In 1970, when Porsche put the Type IV
+(a close cousin to the Type II) in the 914, the automotive press
+said the motor "made an abysmal racket" and "sounded like a
+sheet-metal stamping factory inches from my back". Agreed. VW
+didn't think it was bad enough to put much effort into containing
+that noise. We did though.</font></p>
+<p><font face="Arial">Notice the complete lack of thermal
+insulation to keep excess heat in the motor area, and not in the
+van.</font></p>
+<p><font face="Arial">Finally, notice the lack of
+protectant/undercoating in the cooling air intake/battery
+compartment. This area is bathed in rain, and sometimes, battery
+acid. VW thought that paint would protect the body in this
+environment, and many former bus owners (who now own a VW-brand
+chicken coop, storage shed, etc) can testify to how wrong VW was.
+In our case, the battery area was free of rust and simply needed
+cleaning.</font></p>
+</ul>
+<p align="center"><img class="img-responsive" src="line1.gif" width="623" height="7"></p>
+<p align="center"><font size="6">Preparation</font></p>
+<ul>
+<p><font face="Arial">We carefully stripped out all seats, panels,
+mats and everything else from the interior. I do not mean just
+certain everythings, I mean EVERYTHING. Even the crummy rubber
+matting under the front seats and the ridiculous "noise insulation"
+back on the sides of the rear cargo area. We taped off the dash and
+sealed it in plastic, and did the same to the steering wheel center
+(horn, turn signals, etc.)</font></p>
+<p><img class="img-responsive" src="Image40.gif" width="69" height="77"><font face=
+"Arial">&nbsp; We then power washed/steam cleaned the entire body
+inside and out, top to bottom, every crack, every crevice, to
+remove all traces of grease and grime. The motor was also steam
+cleaned, even though it was coming out the next day. No sense in
+getting grimy while pulling a motor, right?</font></p>
+<p><font face="Arial">I cannot recommend this washing highly enough
+as you start this project. It beats the heck out of cleaning each
+area with 409 before installing the insulation/noise
+proofing/plastic, or whatever.</font></p>
+</ul>
+<p align="center"><img class="img-responsive" src="line1.gif" width="623" height="7"></p>
+<p align="center"><a href="http://www.nasa.gov/"><font size=
+"7">NASA</font></a> <font size="6">Insulation</font></p>
+<ul>
+<p><font face="Arial">Now lets look at what we added:</font></p>
+<p align="center"><a href="inslmtr.jpg"><img class="img-responsive" src="Image14.gif"
+border="0" width="379" height="235"></a></p>
+<p><font face="Arial">In this somewhat gloomy photograph, we see
+the components mounted on the firewall have been removed,
+insulation installed, and the components reinstalled, carefully
+cutting away the insulation where need be. The roll you see in the
+rear cargo area is a remnant of the insulation used. It is sold
+by</font> <a href="http://www.jcwhitneyusa.com/">J.C. Whitney &
+Co</a><font face="Arial">, under the name "Heat and Noise
+insulation used by</font> <a href=
+"http://www.nasa.gov/">NASA</a><font face="Arial">". About
+$20.</font></p>
+<p align="center"><img class="img-responsive" src="Image16.gif" width="216" height=
+"238"></p>
+<p><font face="Arial">Here we see two layers of this insulation on
+the motor box cover. It is a flame proof felt pad about 1/3" thick
+with two layers of aluminum facing and a fiberglass mesh for
+rigidity. Goes on easy. Use: industrial spray adhesive, scissors,
+and two dashes of common sense. Certain components on the top
+surface were used to "hang" the insulation while the adhesive
+cured, and two screws with 2" washers were installed into the
+cross-body member to insure a solid fit. This same product is used
+throughout the van (we used four rolls) and I will refer to it as
+"<i>NASA insulation</i>".</font></p>
+</ul>
+<p align="center"><img class="img-responsive" src="line1.gif" width="623" height="7"></p>
+<p align="center"><font size="6">Polyurethane Foam Filler for
+Voids</font></p>
+<ul>
+<p><font face="Arial">I cannot emphasize enough the importance of
+this step. If you skip this, you are missing a good quarter of the
+noiseproofing and heat retention, as well as some great measure of
+rustproofing as well.</font></p>
+<p><font face="Arial">All of the "voids" throughout the body
+naturely resonate with any sound/vibration introduced to them. You
+know how this works...you've seen on the X-Files where Agent
+Muldore is running through sewer piping, being chased by a
+mangle-faced, inbred alien, when he screams out "SCULLY!!!!"...it
+echos for miles do Agent Scully, who is smoking a cigarette up on
+the surface...The point? Tubes and cavities resonate
+near-perfectly.Further, these are the same areas where condensation
+and moisture can cause needles corrosion, and heat can leak out
+freely.</font></p>
+<p><font face="Arial">THEREFORE, all of the "cavities" thoughout
+the entire body are filled with polyurethane expansion foam filler.
+You can buy this under the product name "</font><a href=
+"http://www.itsgreatstuff.com/">Great Stuff</a><font face="Arial">"
+for about $7 a can. This is one of Lexus and Infinity's little
+tricks toward making a very solid body.</font></p>
+<p><img class="img-responsive" src="Image54.gif" width="108" height="86"><font face=
+"Arial">When I say a cavity or void, I mean a hollow area that can
+trap and resonate sound. For example, there is a void that runs
+around the entire periphery on the motor box cover, see below.
+Notice the foam in the void next to the lock. but they are
+EVERYWHERE on the body. Around the tops of all the doors, around
+the bottom of the sliding door, and the rear hatch, even in front
+of the front floorboad, below the headlamp buckets. FILL
+THEM.</font></p>
+</ul>
+<table cellspacing="0" border="0" cellpadding="9" width="798">
+<tr>
+<td width="50%" valign="top">
+<p align="center"><img class="img-responsive" src="Image17.gif" width="164" height=
+"192"></p>
+</td>
+<td width="50%" valign="top">
+<p align="center"><img class="img-responsive" src="Image15.gif" width="360" height=
+"240"></p>
+</td>
+</tr>
+</table>
+<ul>
+<p><font face="Arial">This stuff really deadens resonance, a big
+difference when you close a door. Infinity and Lexus use this in
+ALL the voids. They also claim it "stiffens the body". I dunno
+about that, but on your VW you notice no more trash can lid sound.
+Rule of thumb on your van, if it isn't there to drain water, FILL
+IT with this stuff.</font></p>
+It also is a good filler/caulking. For example, we used it to fill
+the gap between the rear wheel arch and the outside body panel
+(bottom of the cooling air intake area, (below the spare tire
+well). Notice that V-shaped gap? Many buses begin their rusty trip
+toward becoming a chicken coop right there. Prevent it. Clean it,
+and caulk it.
+<p><img class="img-responsive" src="Image40.gif" width="69" height="77"><font face=
+"Arial">&nbsp;</font><font face="Arial" color="#800000">Three VERY
+important caveats, though:</font></p>
+<p><font face="Arial"><b><i>First</i></b>, think twice about what
+you fill with polyurethane expansion foam. Certain areas of the
+body are designed to drain water, for example, the bottom of the
+front doors. Fill these and you will grant yourself endless moist
+days, and rusty doors. There are plenty of spots where this stuff
+can cause water to collect. Beware.</font></p>
+<p><font face="Arial"><b><i>B),</i></b> this stuff is unfathomably
+sticky, and quite durable. If your appearance or health is of any
+concern, wear gloves, a long sleeve shirt, goggles, and a hat.
+Also, if you have neighbors or children nearby, wear
+trousers.</font></p>
+<p><font face="Arial"><b><i>III-</i></b>, the instructions say
+"<b><i>only fill areas 1/3<sup>rd</sup> full</i></b>." This is not
+idle chatter. This product will miraculously expand for hours as it
+cures, like Mt. St. Helens, pushing big sticky globs of foam into
+places where you do not want it to be. Once it is cured (24-48) you
+can cut it with a razor blade and make little sculptures of the
+hardened blobs. It took four cans for our project, not counting
+blob sculptures.</font></p>
+</ul>
+<p align="center"><img class="img-responsive" src="line1.gif" width="623" height="7"></p>
+<p align="center"><font size="6">Zero Balancing and Counter
+Weighted Cranks</font></p>
+<ul>
+<p><font face="Arial">If you truly want a silent bus and you are
+having the motor rebuilt, you can take a couple of extra steps at
+moderate cost for dramatic results.</font></p>
+<p><font face="Arial">If money is no object, purchase a
+counterweighted crankshaft for the motor. This will probably run
+between $400-$700 (a guess). The crankshaft is the main rotating
+mass inside the motor and by nature, the Type II crankshaft creates
+low-frequency vibration as it spins. A counter-weighted crankshaft
+eliminates this vibration by welding/machining large weights to the
+side of the crank opposite the connecting rod journals. Modern
+motors (including all VW's now) have counterweighted
+cranks.</font></p>
+<p><img class="img-responsive" src="Image18.gif" width="360" height="240"><img class="img-responsive" src=
+"Image19.gif" width="360" height="240"></p>
+<p><font face="Arial">If money is somewhat of an object, use your
+stock crankshaft, but have it "Zero Balanced". Zero Balancing means
+machining off exact amounts of metal to make all of the
+reciprocating/rotating parts identical in weight across and along
+the axis of the crankshaft. In plain English, it's like having your
+tires balanced, except we are talking about all of the heavy,
+spinning stuff in your motor.</font></p>
+<p><font face="Arial">Have the same done for the connecting rods
+(including end to end), pistons, flywheel and pressure plate and
+donï¿½t forget your cooling fan. Beyond your regular machining, this
+may add $300. It is worth EVERY penny. Your motor will sound like a
+sewing machine when you are done.</font></p>
+</ul>
+<p align="center"><img class="img-responsive" src="line1.gif" width="623" height="7"></p>
+<p align="center"><font size="6">Hot Stuff-Exhaust
+Wrapping</font></p>
+<ul>
+<p><font face="Arial">This actually is a critical part of our
+heater effort, but was done while the motor is out, so it lands
+here.</font></p>
+<p><font face="Arial">Exhaust wrapping is fiberglass-mesh webbing,
+approximately 3 millimeters thick, and about 6 centimeters wide. It
+is applied by moistening the mesh, then wrapping the exhaust spiral
+fashion. The webbing hardens into a chrysalis around the
+pipes.</font></p>
+<p><font face="Arial">Its purpose is twofold. First, to insulate
+the exhaust tubing so the waste gasses do not cool immediately
+after leaving the heads, thus maintaining their velocity. This is
+important. If the exhaust cools suddenly on leaving the heads, it
+slows down, making the motor work harder to push it out the exahust
+tubing, muffler, and tailpipe. Don't forget, it is the force of
+your piston that has to do the job of pushing that exhaust out,
+wasting horsepower.</font></p>
+<p><font face="Arial">Second, the insulation prevents the glowing
+HOT exhaust tubes from radiating tremendous heat (infrared) to the
+heads. we forget about this IR heat sometimes, but if you turn your
+motor off after a hard run ahd put your hand near your bare
+exhaust, you will feel the tremendous toasting action. All of this
+IR would normally bake the lower portion of the heads as they are
+trying to stay cool. Counter productive.</font></p>
+<p><font face="Arial">Finally, you want the exhaust to stay hot for
+another reason though: namely more available heat in your heat
+exchangers. As an added benefit you get cleaner emissions. The
+emissions decrease is due to the hotter temperatures "afterburning"
+unburned exhaust/fuel products. VW's afterburner pipe was for this
+reason, but the original insulation never lasts more than a few
+years. This product more than adaquately replaces that afterburning
+effect. Most importantly, though, all of that heat is now available
+for release INSIDE your heat exchanger, driving the heated-air
+temperatures through the roof.</font></p>
+<p><font face="Arial">The product works so well you can grab your
+exhaust system with an ungloved hand even straight away after
+highway travel. This serves no real purpose, and is not even handy
+enough to be an entertaining party gag, but it is interesting
+nonetheless. The total increase in temperatures in our heat
+exchangers would be hard to codify but our heat works better than
+many water-cooled vehicles, and I know this product was key to
+acheiving this.</font></p>
+<p><font face="Arial">I seem to recall the name of the product is
+"RaceTec" or "J-tech". You can find it at Hot Rod shops for about
+$35 a roll. They will look at you as if you are crazy when you tell
+them you want it for your VW Bus. Tell them you ARE crazy, and to
+sell you a roll or else you'll drink Brake Fluid. They'll sell it
+to you.</font></p>
+<p><font face="Arial">While we are talking about the picture below,
+note the new heat exchangers. If yours are rusty or full of holes,
+get new ones. It's about $600 for the pair and well worth
+it.</font></p>
+<p align="center"><img class="img-responsive" src="Image20.gif" width="717" height=
+"372"></p>
+<p><font face="Arial">You can barely make it out in this
+photograph, wrapped around the exhaust extractors and afterburner
+"J-tubes". This was during the rebuild, a time when I did not mind
+seeing the motor upside down behind the van. Today, this occurrence
+would be sad. Of course it's not my bus now, and if Jamie (New
+Owner) wants to flip the motor, or grab the exhaust, that's his
+prerogative.</font></p>
+<p align="center"><img class="img-responsive" src="Image21.gif" width="536" height=
+"321"></p>
+<p><font face="Arial">Here is another shot, of the exhaust J-tube
+just before selling the van. Much of the protective paint has
+washed off the fiberglass wrapping and needs to be renewed, but you
+can get a clearer picture of the fiberglass webbing, and of the
+wrapping on the heat riser tube. (Note our new Westfalia in the
+background). Note the blob of JB Weld sealing the EGR pipe.</font>
+<font face="Wingdings">J</font> <font face="Arial">Also note, I do
+not use the regular VW oil filter, but a PH8A instead. Somewill
+argue not using VW filters, and they maybe right, but I always have
+used the larger filter since my 914 days (Pres. Reagan years). PH8A
+gives about double the filtering capacity, and only hangs a bit
+lower. Note the very-tip of a green hose at the upper right of the
+photo, that is the "self-draining" line for our 94-quart cooler.
+Wow, there's just all sorts of stuff to Note in this
+photo.</font></p>
+</ul>
+<p align="center"><img class="img-responsive" src="line1.gif" width="623" height="7"></p>
+<p align="center"><font size="6">Final Preparations</font></p>
+<ul>
+<p><font face="Arial">We sealed all of the joints in the
+heating/tinware with High-temperature silicone sealant. Many of the
+gaps were a few millimeters wide. Across the entire motor, it added
+up to a lot of leaking air. If you look closely at the photographs
+below, you will note orange gook oozing around all of the
+flanges/tinware. We applied it before assembly then tightened the
+parts down, and wiped off the excess.</font></p>
+<p align="center"><img class="img-responsive" src="Image22.gif" width="283" height=
+"227"><img class="img-responsive" src="Image23.gif" width="348" height="208"></p>
+<p><font face="Arial">Okay, I know that all this is kind of Anal
+Retentive, but this was my lovely wife's bus, and I wanted the
+absolute best for her. If she were your mate, you would feel as
+inspired.</font></p>
+<p><font face="Arial">It goes without saying, we replaced the foam
+seal that surrounds the motor. For those who are new in town, that
+spongy foam seal is a critical component of the cooling system. It
+prevents the very hot air from under the motor from being sucked
+into the cooling fan. All of your cooling air must come from the
+scoops (ears) on the back of your van, or you risk
+overheating.</font></p>
+<p align="center"><font face="Arial">Next stop, Interior out, Noise
+Proofing.</font></p>
+<p><img class="img-responsive" src="Image6.gif" width="500" height="4"></p>
+<p><a href="intrir1.html">Interior Out, Noise Proofing</a> |
+<a href="heatdum.html">Heater Design, Install</a> | <a href=
+"index.html">Home</a></p>
+<p><img class="img-responsive" src="line1.gif" width="623" height="7"></p>
+<p>Could our business help yours? Find out how, here: <a href=
+"http://www.bulley-hewlett.com/">http://www.bulley-hewlett.com/</a></p>
+<p>Write us at: <a href=
+"mailto:gmbulley@bulley-hewlett.com">mailto:gmbulley@bulley-hewlett.com</a></p>
+</ul>
+</body>
+</html>
+
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main 
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+	       data-ad-slot="7516194300"
+	            data-ad-format="auto"></ins>
+		    <script>
+		    (adsbygoogle = window.adsbygoogle || []).push({});
+		    </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fheat%2FEngine.html" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fheat%2FEngine.html" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fheat%2FEngine.html" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+	    <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+	<br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://10.152.183.183:3000/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+</script>
+
+</body>
+</html>
