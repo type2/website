@@ -9,6 +9,15 @@
           "value": "text/html"
         }
       ]
+    },
+    {
+      "source": "/lists/vintagebus/main",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html"
+        }
+      ]
     }
   ],
   "rewrites": [
