@@ -8,6 +8,11 @@ dev branch --> https://website-tau-jet.vercel.app/
 
 master branch --> https://www.type2.com/
 
+Dynamic branch envs use this pattern:
+
+https://website-git-dev-type2com.vercel.app/
+https://website-git-master-type2com.vercel.app/
+
 
 
 https://dashboard.render.com/static/srv-cebb9farrk0bbte9vqm0
