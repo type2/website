@@ -1,0 +1,1750 @@
+<html>
+<head>
+<title>AIRS - Aircooled Interstate Rescue Squad</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /airs/stories -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+	
+	        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+				</button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class="active"><a href="/airs/main">AIRS</a></li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu ">
+            <li><a href="/lists/vintagebus/main">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+	<li class=""><a href="/donate">Donate</a></li> 
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+      	<div class="form-group">
+	  <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+	</div>
+	<button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/airs/stories" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/airs/stories" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+<li role="presentation"><a href="/airs/main">Home</a></li>
+<li role="presentation" class="active"><a href=
+"/airs/stories">Stories</a></li>
+<li role="presentation"><a href="/airs/locate">Locate</a></li>
+<li role="presentation"><a href="/airs/faq">FAQ</a></li>
+<li role="presentation"><a href="/login/register">Join AIRS</a></li>
+</ul>
+<div class="panel panel-default">
+<div class="panel-body">
+<div class="row">
+<div class="thumbnail"><img src="/images/airs.gif" class=
+"pull-right img-responsive" style="height: 90px;" alt=
+"Aircooled Interstate Rescue Squad">
+<div class="caption">
+<p><strong>This is the section where people can relate stories or instances
+of times when AIRS has helped them or people they know in some way
+or another. If you feel you have something other AIRS members may
+enjoy reading, send it to me and I'll post it up. I have put many
+hours into this site, and would love to see that it is at least
+doing something for someone. Feel free to contribute your adventure
+relating to AIRS!</strong></p>
+</div>
+</div>
+</div>
+<div>
+<p>I have found myself in greater problems than being stuck in the
+side of the road in my bus. However, it is frustrating- especially
+when you have no idea what it is thats causing the engine to
+stallout. In my search for the answer, I turned to AIRS. After
+about<br>
+fifteen disconnected phone numbers, I finally got ahold of a few
+folksin South Dakota who offered a hand. Not much can be done over
+the phone but the support was certainly appreciated. I finally got
+ahold of a gent who was in the area and within ten minutes offered
+to have me stop by, or meet up if I couldn't get Vosgoing. I did
+manage to get Vos running long enough to take the short hike upto
+the house.Getting to the point, I was welcomed into a home, put up
+for a night,fed, and got everything figured out. Thanks justin, I
+hope the fam iswell.<br></p>
+<hr>
+<p>I've got an involved story that involves lots of help from
+Portland area AIRS members after a blown engine, getting taken by a
+local con-man, and more help and friendships from AIRS members as
+the story unfolds. You can read about the whole thing starting
+here:<br>
+<a href=
+"http://bodeswell.org/2009/09/13/does-not-bode-well/">http://bodeswell.org/2009/09/13/does-not-bode-well/</a><br>
+
+<br>
+Not sure what we would have done without the help from folks on
+this list! THANK YOU!<br>
+Jason</p>
+<hr>
+<div>
+<div>I'm on my way driving back home to NH from Florida. It's a
+beautiful day down in Georgia, my second day on the road. I have to
+be back within a few days as I promised to be backto work at the
+garage. I've been working as a mechanic since I got my 79
+Transporter in order to be able to afford fixing it!</div>
+<div>I trust in my engine rebuilt 12,000 miles ago with new pistons
+and cylinders AND the big oil cooler I installed last summer. I
+gotoil temperature and pressure gauges; I've been driving 70-75 Mph
+since the beginning of this trip! Everything seems to be
+cool.</div>
+<div>So, I'm driving on I-85, joyful and fast, turns out to be a
+little too fast. Suddenly, I see smoke behind me and pull over.
+Right side valve cover is leaking oil onto the heat exchangers!
+There's enough oil pressure, so I manage to drive a couple miles to
+a construction site by the highway.</div>
+<div>The situation looks very much like a blow-by I had before, and
+there's that nasty noise coming from the right side of the engine.
+Cursing myself and trying to stay calm, I pull out my AIRS list
+that I usually carry on road trips and find the South Caroline
+pages; I'm about 15 miles from the state border. With one of the
+nice construction worker's cell phone, I dial Phillip Cain's
+number. He's a certified mechanic and he claims to be "retired"! I
+explain the situation and my game plan while asking his expertise
+on the subject. He thinks I'm on the right track, tells me to check
+the oil breather to make sure it is not clogged up and kindly
+reminds me to call him back if I'm still in trouble.</div>
+<div>I take out the high-temp RTV sealer, clean the valve cover
+with some lighter fuel I happen to have, and seal the valve cover.
+The goalis trying tostop the leak and driving SLOWLY to the next
+town. No leaks now! But, there's that noise, AND after 15 minutes
+or so I see smoke coming out of the tail pipe! Smoke is a sure sign
+of the big trouble I'm in!</div>
+<div>Well, this wasn't a dream I had, it actually happened! I
+called Phillip from the next town. He gave me directions to the
+FULL MOON BUS CLUB garage. Next day we pulled out the engine. The
+top of #1 piston was melted. Phillip, the MASTER MECHANIC, said my
+injector failed and it leaned on me! He brought a used one to
+replace the existing injector and I safely made it back home.
+Second day, weinstalled new pistons and cylinders. At the end of
+the third day, I was heading back home, and drove the last 1000
+miles with no problems at all! YOU GUYS ARE AWESOME!</div>
+<div>Dear Chris, it was a pleasure working with you. Thanks for all
+your help!</div>
+<div>Dear Buddah, my home is also your home. Thanks for your
+hospitality!</div>
+<div>Dear Phillip, your knowledge and experience is heart warming.
+Thanks for giving away to people!</div>
+<div>Of course, it goes without saying how grateful we areto those
+who started the Type2 AIRS list AND those who formed the FULL MOON
+BUS CLUB. It is so nice to show the world that money cannot buy
+friendship and support for our fellow people:)</div>
+<div>Thank you,</div>
+<div><font color="#800000">-Vosvos, 79 Bus</font></div>
+<div><font color="#800000">-Nihat, 79 Bus Driver</font>
+<hr></div>
+<div>
+<p>Stuttgart, Germany, June 2000. We set off in our 1979
+Eurocamper, with custom comfortable interior layout and a fresh
+MOFOCO 1600cc upright complete with .040 heads and 1 1/2 qt. deep
+sump to the Arctic Bussing paradise of Finland. After an uneventful
+trip to Rostock, Germany, a 28 hour ferry ride to Helsinki,
+Finland, a stamp in the ol' Passport we were Bussing in Scandinavia
+where "every mans right" a Scandinavian law, dictates "you can camp
+wherever you like as long as you bother no one" swings in full
+effect. This established, let us move on to the tale. Two weeks
+into this lusty Bus trip to end all Bus trips, I overestimated the
+abilities of my motor and pointed our fair steed up a mile long
+climb of 22% uphill grade. First gear was barely hanging on while
+we held on to the dash to prevent us from falling out of our seats.
+Halfway up this damnable grade, something in the go department said
+"uncle." A quick inspection revealed nothing, but a detailed
+inpection later revealed a #1 spark plug had nearly punched out due
+to excessive cracking in the plug threads. Experiencing a sever
+lack of, dare I say "horsepower" at 64 degrees North latitude is
+not where you want to find yourself. All 4 plugs were in
+solidarity, all cracked, all blowing precious compression out the
+tops of the heads in useless gasps of heat and agony. A trip to the
+local mechanic revealed our doom to us. "You must go to Sweden to
+seek the Bus parts you require" was the gurus best answer to our
+sorry state of affairs. Fine and good. Sweden was on our plan as
+the route to return to Germany. Problem was. We had not planned to
+limp a very sick bus the 1400 kilometers (<a href=
+"mailto:d@#n">d@#n</a> near 950 miles) to the Nirvana known as
+Sweden. 4 days that infernal trip lasted. 35 mph was the average,
+12 hours a day knowing that at any moment, the trip could end in a
+huff of smoke, or worse yet, that spine shattering "Krunch" of a
+dropped exhaust valve (shudder). Finally, North of Stockholm. We
+found a sports bar with internet that directed us, via the AIRS
+page, to one John Bellanger (check AIRS SWEDEN) who after a
+panicked cell phone call, let us know that everything would be just
+fine when we got to Linkoeping, Sweden. Ahhhhh, salvation! "Honey,
+find Linkoeping on the map" I said to my darling wife. "Here it is!
+Only 200 miles away!" Was her reply. "Great! Only 200 miles" Was my
+reply, "perhaps we should discuss this with the ailing Bus.... The
+Bus arrived in Linkoeping, with it's precious cargo of us, arrived
+6 hours later to the welcome arms of John Bellanger's more than
+ample VW garage! "No problem", was John's answer to the steaming
+hot MOFOCO monstrosity that lay on the floor of his 4 car garage.
+"It's too hot to work on. Why don't you come over for a BBQ while
+your motor cools off)? Not wanting to look at that Bus of mine
+until I had a few "cold ones" in me, I quickly took him up on his
+offer. Well fed, I broke the engine down and discovered my heads
+were shot! Cracks radiating from the plug holes reaching twixt the
+valves and emanating to the valve seats of all cylinders. John, the
+gentleman, took time off from his job to procure the parts we
+needed and in a matter of 36 hours had us the most beautiful set of
+CB performance .050 heads complete with stainless steel valves and
+a vision of hope that this vacation was going to continue at 60mph!
+3 days later, after staying in John's well equipped garage in our
+lifeless Bus (I tried to keep the intrusion to a minimum) we were
+up, and really rolling! My Bus had never run that good! Those CB
+performance heads were just the ticket! 65mph up hill with a 1600cc
+motor!?! Our trip back home to Germany come off without a hitch!
+From the depths of depression, Phoenix rose from the ashes. Born
+again with a spirit not seen before. The beauty of the Bus. If it's
+running, it will run. I am a much more careful Bus operator now.
+Oil temp gauge, cylinder head temp gauge, oil pressure gauge all up
+front for my pleasure. Without the help of AIRS member John
+Bellanger, this trip would have nose dived. Instead, he gave our
+favorite vehicle a new lease on life! My thanks to all the
+Volkswagen Junkies of Linkoeping, Sweden and plan to pass on the
+good will when my phone rings and there is another lost soul of
+Bussdom on the other end needing a fix of Bus Love! Thanks
+John!</p>
+<p><font color="#800000">Eric LinzmeyerStuttgart,
+Germany</font></p>
+<p><font color="#800000">'79 Euro camper soon to become a U.S.
+resident. Lookout AZ!!</font></p>
+<hr>
+<p>This morning I received a call from a Bills Downs (from Atlanta,
+anyone know him?) who was on his way back home from West Virginia.
+He's currently in Statesville, where his engine has evidently given
+up the ghost. His 1969 bus is at a garage in Statesville, and he's
+staying at a friend's house. The garage is telling him that he
+needs a new engine and is quoting an unreasonable price for the
+job. Bill called me seeking ideas on how to get his bus to the
+Southern part of Georgia, where his trusted VW mechanic is. His
+mechanic has supposedly located a good engine and is negotiating to
+purchase it on Bill's behalf. Bill, who had gotten back to Atlanta
+by other means and has purchased a used car, came back to
+Statesville with the intent of renting a tow dolly and pulling his
+bus back. However, he ran into the ol' "we won't rent a dolly to
+any one driving a vehicle with less that a 5,000 lb hitch" deal.
+Bill has checked and the biggest hitch he can put on his car is
+3,500 lbs. I suggested to Bill that if he can obtained a reliable
+engine, he ought to consider just bringing the engine to
+Statesville where we would be able to install it for him in short
+order. This hadn't occurred to Bill, who by his own admission is no
+mechanic, but he liked the idea. Here's the question. The garage in
+Statesville has declared the engine dead and told Bill they didn't
+think it is a transmission problem. Bill said that prior to
+Statesville he was gradually losing power, until it reached the
+point it would barely move. I can sort of hold my own working on my
+own bus, but I've never dealt with my transmission, and I am not
+experienced at diagnosing things over the phone (the right
+questions never seem to come to mind). Bill said the engine will
+start, but has no power. He said if the engine is off, and you put
+the bus in gear, it will roll. If his clutch is gone, it would
+roll, but wouldn't it then not move at all under it's own power?
+What problems with the transmission should he/we check for? I can
+bring an extra transmission (unknown) with me if we go down to help
+with the engine swap, and clutch problems should be readily
+detectable after we pull the engine, but I'd like to be able to
+evaluate the transmission. Bill's supposed to call me back later
+today and let me know what arrangements he has been able to make
+about the replacement engine. It looks like I might be driving to
+Statesville Saturday morning. I'd appreciate any ideas and
+input.Thanks,--Chad SibertGreensboro, NC</p>
+<div>
+<hr>
+<p>Hey, All - This bus-venturer looked me up on the AIRS list last
+week. She stopped by and we thought we had fixed her brake
+challenge, but now, I get this email and she is too far out for me
+to be able to rescue. Anyone out there that can help? Karolyn can
+be emailed at ---@---.--- Thanks, a ton, in advance - <font color=
+"#800000">Greg</font></p>
+<p>Heres what she wrote me: Hey there, Greg! Well, bad news. We are
+stuck on the side of the road down here in Middletown, CA (just
+under Clear Lake) with a horribly bad caliper. It burned up and now
+we're in a place that apparently has almost NO resources. Do you
+know anyone in these parts who would know a thing or two about VWs?
+I was trying to get towed to Santa Rosa, but AAA will only tow me 5
+miles. :P Thanks! :) <font color="#800000">Karolyn</font></p>
+<p><font color="#0000FF">From the webmaster: Anyone have an update
+on that story??</font></p>
+<hr>
+<p>Thanks for all your help! just got back from my trip, i've got a
+ton of digests to read! I just drove from boston,MA to london,
+Ontario and back for my cousins wedding. Just outside Rochester my
+generator bearings gave way...a terrible racket and generator light
+ensued...i was too worried about the pulley exploding given the off
+balance of the bearings to continue driving...anyway a quick call
+to Ronnie at old volks-who I guess posted to the list, and also
+provided me with a list of names from the AIRS site...I called
+about ten names before I got through to Dave and Hilda Dionne
+outside Buffalo in West Seneca. DAve was working the night shift
+and would not be home until 8am the next day. But I was more than
+welcome to bring the bus there to work on it. I got a tow to his
+house(94 miles) and arrived around 10:30 at night. His wife
+-Hilda-welcomed me to their house, had dinner waiting, and a beer!
+what hospitality. The next morning I got up early and started
+getting ready to pull the engine to replace the generator-or pullit
+so that the bearings could be replaced. Dave arrived shortly after
+eight, and affter working all night proceeded to spend the better
+part of the day helping me fully diagnose the problem, and find the
+replacement parts-turned out the best option was to replace the
+generator-but I had a 6V, most places were 7-10 days. Luckily due
+to a call from an AIRS member whose name I cant remember*(sorry-see
+note below) I got a place in Niagara-Johns bug shop. they could
+have the generator in a day (friday night) unfortunately the
+wedding ceremonies were starting thursday night. so I rented a car,
+left my bus in Daves driveway, went to canada for the weekend,
+picked up my generator monday morning, and Dave helped me install
+it that day. got back on the road, and returned to my cousins up on
+Lake Huron for the week. my family and friends were all incredulous
+at the story of the help I received from the list. I on the other
+hand was quite proud to be a member of such a great community. I
+only hope that I may one day return the favor to another member.
+*The names of all who offered to help is long. After word got out
+to the list, I was hit with many calls of aid. Unfortunately as it
+was all happening so fast I can not remember everyone's name that I
+spoke with. But THANK YOU all for your help.</p>
+<p><font color="#800000">Kevin Guarnotta '65 kombi '67
+sqbk</font></p>
+<p><font color="#800000">George Lyle</font> responded: This is the
+reaction that I got from my friends where I was broken down in
+Utah. An email to the list produced in short order the information
+I needed and a nearby source for the part (on a sunday in utah) as
+well as offers of direct assistance. My friends, who assumed that
+the lists and AIRS was something like AAA, asked "How much do you
+have to pay for that service?" :) Remember folks, the thing that
+makes the list so valuable is the listees. We all get an
+opportunity to lend a hand now and then, even if it is just a ride
+to the parts store, so when that opportunity comes to you jump to
+it!</p>
+<hr>
+<p>Well the AIRS list came through for Kevin. I gave him a bunch of
+names in the NY area and one nice bus owner offered his help and
+driveway. Kevin is now in Buffalo, NY with his engine out looking
+for a small diameter 6 volt generator without the regulator mounted
+on top.</p>
+<p><font color="#800000">ronnie</font></p>
+<hr>
+<p><font face="Arial" size="2"><font face="Times New Roman" size=
+"3">Robin and Peter from Chico found my name on the AIRS list and
+dropped by to camp last night, in a very clean '71 westfakia. They
+told me their engine nightmares that I thought I would share with
+the list. First of all, a beetlemex engine that broke a camshaft
+after only 10k miles (in Roswell, maybe it was the aliens). They
+are very disappointed that the beetlemex crapped out just after the
+warranty period. The guy who fixed it for them just put in a new
+cam, somehow they had metal shavings that ate up the rest somewhere
+in Texas. A German mechanic rebuilt everything properly but they
+apparently were running super hot (~260 oil temp) on the breakin.
+Properly timed 009 dist. because his vac advance is worn-out, I
+offered him one out of a few that I have but the numbers don't
+match (we will look on the dizzy site). Only other thing I can
+think of is lean running, from vac leak or mixture. Anyhow they are
+looking for a stock bus muffler in Atlanta today, and will leave
+tomorrow to go to Chattanooga, the Smokies, Asheville, and on to
+Quebec and return to CA eventually. Nice volks.</font></font></p>
+<p><font face="Times New Roman" size="3" color="#800000">Will '70
+Westy "Rebertha"</font></p>
+</div>
+<hr>
+<p>Hi Volks, Dave is now back under way; he just called me from
+upper NY state. They tapped the hole and put a bolt in with LOTS of
+loctite and got rolling by 2:30 PM. He stopped in for a visit at
+AIRS-member Dave Wolfganger; DW had fresh cookies waiting and gave
+Dave a tour of his impressive stash of air-cooled goodies. I'll
+leave that story to Dave when he gets back. Thanks to all who
+emailed their concern and advice. AIRS is really a special thing to
+bus ownership and today I'm especially proud to be on the roster.
+Happy trails indeed,</p>
+<p><font color="#800000">Greg Potts</font></p>
+<hr>
+<p>I have to tell you about the best AIRS rescue ever! On the way
+to Everybus 2002 I had noticed a little "thump thump" noise from
+one of my rear tires. I thought that I had a lump or "mud in my
+tires". Got to EB02 and had an awesome time. Left northbound with
+the Jeff Stewart/Canadian carabus. All is well until just south of
+Lynchburg when I notice that the thump is now big vibrations at
+lower speeds. We stop to take a look at it and decide that if I
+baby it and keep at higher speeds I should make it to Round Hill
+where we can all take a look at her. The Loveboat decides
+otherwise. 10 miles later, just north of Lynchburg, I realize that
+I have to pull over NOW. Took next exit and into a church parking
+lot with the left rear tire having a very pronounced wobble.
+Bearings are shot. Pulled out the AIRS list that I had printed just
+before my trip south and found that Jeff Burks was the closest (at
+over an hour away). I left him a message and he returned my call in
+less than 5 minutes. He had a brother within 15 minutes! Better
+yet, his brother has a fully loaded garage and is a parts
+supplier!!! We take a quick poll of what to do and some of the
+other drivers offer to stay with me. Then Jeff's brother Ron comes
+pulling up in his Westy! We all feel relieved that I am in good
+hands and the carabus leaves. I hobble at less than 10 miles an
+hour to Ron's shop (about 5 miles away). Take her apart with Ron's
+awesome air tools. Inner/outer bearings, seals and a new wheel hub
+are in order. I have a set. The Canadians had given me a set of
+bearings that turned out to be for a front wheel,dammit. Jeff shows
+up and we sit down to a wonderful dinner and decide what to do. Ron
+worked the phones to his distributor buddies and we found that
+nobody stocks the outer bearings. Plan B - Make calls in the
+morning after we sleep on it. Jeff and his wife drove me the 1 hour
+plus trip to Roanoke where they put me up for the night in his
+Westy. Slept like a baby. Came in for a cup of coffee and started
+making calls. Jeff took the day off to help me! No bearings in all
+of Virginia it appea! rs. Made a call to Salem Imports where Mark
+said he had the whole assembly, used. Back in business. Had lunch
+and went to check out Mark's shop. This was awesome in it's own
+right! I wanted to move in on the spot. If you ever need any part
+for any classic VW this is the place to go. Knowlegeable, friendly,
+fair and tons of parts. We struck our very fair deal and headed
+back to Lynchburg. Pulled off the old assy and discover a problem.
+I got the wrong part. It didn't occur to any of us to make sure I
+got a left assy. Oops. Back to Salem Import. Part is waiting. Back
+to Lynchburg. Keep in mind that it is an hour plus each way and I
+am relying on the kindness of a stranger that shares an interest.
+The brotherhood of busses! Got the part installed well into the
+night and I was back up and running. Jeff and his brother went
+waaaay out of their way to help a busted brother. I cannot tell you
+the gratitude I feel for he and his families southern hospitality
+they have shown. If there is an award for the best AIRS rescue ever
+I would like to nominate Jeff Burks for all the help he has given
+to me.</p>
+<p>Thanks AIRS! -- <font color="#800000">Author unknown</font></p>
+<hr>
+<p>Last Feb. I was moving from one side of the country to another
+in my bus.As I was cruising through N.M./AZ my bus started running
+like crap and I was tired so when I got to Tucson I called up an
+A.I.R.S. member by the name of Gary and he said I could come over
+and check the timing and whatnot.So I made it there and met him and
+his friend had some conversation and set the timing noticed the
+distributor clamp would not hold.So I got a new one down the road
+later on.While working on the bus the plug thing on the carb flew
+off ,spent some time looking no luck started fileing down a dime to
+stick in there,then found the plug under/on the bumper.He was nice
+enough to offer a place to sleep but I went out in the desert on a
+recommended spot by him.It was awesome.Thanks again for the
+help/rest stop.</p>
+<p><font color="#800000">Daniel San Diego,CA</font></p>
+</div>
+<hr>
+<p>Last night I got a call from Lloyd Elliot and his son. They were
+on their way back to Bezerkley in the son's '71 Dormobile, when
+they started hearing a strange noise. I went out there, and found
+them easily enough, but had to peform a daring "wrong way on the
+off-ramp" manuever to get to them. I had him fire it up, but
+unfortunately, he didn't need a mechanic at this point - he needed
+a priest. This poor thing has a serious rod knock which sounds like
+it's going to go any second. There wasn't anything I coudl do, but
+I did hang out for a while and check out the bus, which is probably
+the only bay I would have ever considered owning. I haven't heard
+back from them, but AAA was going to be giving them a ride
+home.</p>
+<p><font color="#800000">Thom Fitzpatrick</font></p>
+<hr>
+<p>Howdy Y'all, I got my first A.IR.S. call today. Guy named Ira
+Bernstein who is travelling from Houston, Texas to Brooklyn New
+York with his daughter Shelly calls me from Cincinnati and he is
+having trouble with his 74 Beetle. (He called home and had his wife
+search the internet for local help, and she found the A.I.R.S. List
+on type2.com and gave him my number.) Anyway, Ira's Beetle is
+cutting out and running rough and losing power. So I persuade him
+to try to stagger to my place, which he does. I discover 1)His fuel
+filter is Black from dirt, clogged up big time. He said he had the
+car for 11 years and had never changed it! While changing the
+filter, his fuel lines literally crumbled in my fingers. So we set
+him up with a new hose. and 2) The idle jet cutoff on his carb has
+vibrated loose. We got everything in order and he tried it out and
+said it felt fine. Anyway, the two are travelling up I-71 to
+Cleveland tonight, then straight across Pennsylvania on I-80
+tomorrow into Jersey ! ! and then home in New York. We printed off
+the list of all the AIRS members along the way, so if you get a
+call from these guys, please try to help them out, they are very
+nice folks. Peace,</p>
+<p><font color="#800000">John Baker 1966 Split Bus camper 1983 H20
+Vanagon</font></p>
+<hr>
+<p>Mr and Mrs. Dave Luppy, who requested A.I.R.S. assistance when
+their 74 Bus broke down this week while on their honeymoon,
+traveling from Manhattan and heading to St. Louis and Seattle. Mr.
+and Mrs. Dave Luppy are on their way. They were towed to a second
+garage, one that actually works on Bolts, and had the broken
+halfshaft removed and brought it to me for examination. We found
+the new inner cv had come apart, and the cage was cracked but not
+broken. The problem was the cv joint had virtually no articulation,
+like as if it were incorrectly assembled, but the fact is it is a
+poor quality aftermarket part. it had also slightly damaged the end
+of the shaft when the balls dropped out, and the inner race was
+damaged. We rejected the failed part and he is replacing both
+halfshafts with good used, cleaned, greased, original Lobro
+halfshafts, and should be good for another million miles.He will be
+installing them himself tomorrow morning. Mrs. Luppy has examined
+her prenuptial agreement and acknowledges that the party of the
+first part has used up a significant portion of allowable roadside
+repair time, but took the afternoon in stride, and was quite
+interested in discussions of project vehicles and technical
+ramblings. They are heading for St. Louis and Seattle. Happy
+Honeymoon, Dave and Dasha.</p>
+<p><font color="#800000">Dave \X/</font></p>
+<hr>
+<p>The folks from Canada by the side of the road did not seem
+interested in much self diagnosis, asked for a shop- I told them
+Oval's was in the area. David from Lousiana is in Oly with his
+77which had got hot between Portland and Oly and is making a
+strange noise whistle/chip which may by a loose head (1/2 side) or
+an exhaust whistle- one of the studs holding the manifold on under
+the head stripped out.</p>
+<p><font color="#800000">Clara</font></p>
+<hr>
+<p>Well, it isnt that great of a story, but still feels good. I had
+to run down to the town about 40 miles south of me to pick up my
+daughters 18th birthday present we had made. I was in quite a hurry
+because I had 3 things to attend to that afternoon, so I was
+booking down the interstate at a pretty good clip. I just happen to
+look over in the ditch and saw a dark colored bug sitting in the
+grass with both ends of the car up. He had parked it in the shade,
+so it kinda blended in, so by the time it registered, I had gone a
+football field length passed him. I got off the road and back up
+all the way. Im in my Nissan truck with a topper, so im sure he
+wondered WHO this fool was and what kind of trouble he could bring.
+One good thing is, I have a large SEVWC club logo on the back, so
+as I got closer, atleast he could see I wasnt going to be TOO
+strange of a person. He was on his way to Mobil Alabama, so it was
+atleast another 400 mile ride for him. Come to find out, his fuel
+pump was bad. Even though I drive a Nissan truck, I always carry a
+good bit of VW stuff just incase, plus tools, etc. The bad thing
+was, I was about in the middle of anyplace I knew where to get a
+pump from. I told him we could tow the car to the next exit about 5
+miles away and maybe there would be a mechanic place there, so off
+we went. Never towed a car on the interstate, so that was a little
+scary. Bad thing was, I always carry my bug towbar, but this was a
+superbeetle. We get to the exit and there are about 5 gas stations,
+a large antique store and a nudie bar. None of the gas stations had
+service bays, the antique store didnt have any antique VW stuff and
+the nudie bar....well, I dont think what was inside would have been
+of any help. I told him I had to leave, but I would get a pump from
+home and be back in a few hours after I tended to a few things.
+Atleast he wasnt sitting on the side of the interstate with nothing
+but cars zooming past like rockets. I gave him my card and told him
+to call me IF anyone happend to come by with a pump. I was about 2
+miles from the house and on my way to meet him when my cell phone
+rang. He had called the house and got a pump from someone, so my
+daughter called me to let me know. Now I have added a fuel pump to
+my parts I carry in the Nissan....just incase :)</p>
+<p><font color="#800000">David</font></p>
+<hr>
+<p>My first AIRS call! After work Monday night the phone rings and
+I hear from Nick and Jason; two college kids from Nebraska. They're
+here in Cooperstown with a brake problem on a white over red '71
+bus. Nick was familiar with the list, (had met Isiah in Wisconson
+and someone else up in Portland, Maine) but wasn't a member of
+AIRS. (Promised he will sign up after his trip.) Just like AIRS is
+supposed to work, I tell'em to come on over and we take a look at
+it. Blown, leaking wheel left rear wheel brake cylinder - one of
+them had already diagnosed it and gotten the part - so we spent the
+evening setting up in the driveway and pulling and replacing the
+cylinder. Only the usual trouble with drum brakes, no catastrophes.
+Got some takeout food, and they slept in their bus and my bus in
+the driveway, had breakfast and lunch here and visited our local
+museum and then were on there way, towards NYC. They're traveling
+around the country and I hope you get a chance to met them. My
+thanks (and their's too) for Wade and Charlie and all the other
+AIRS volks.</p>
+<p><font color="#800000">-Bruce M. '73 auto Cooperstown, New York
+US</font></p>
+<hr>
+<p><font face="Arial" size="2">This story is a bit old but with out
+it I would not be the person I am today. For many years I had
+dreamed about crossing Canada in a Volkswagen van and after I
+finished university I finally had the time to do it. Its a long
+way(over 6000 miles there, let alone back) and I had been working
+on 'Huck' as best as my budget would allow to get her ready for the
+trip. I covered most of the maintanence stuff but I did not have
+time to look at the larger components. Alternator, Starter, Engine
+and Transmission. The first time I stopped for gas, the starter
+started going. Arghh! Never a problem before. But this trip was
+meant to be and after a dealer stop I was off again. Continued all
+the way to Newfoundland with another stop for an alternator in
+Halifax (luckily I had a good battery to get me there). But the
+trip back would be my challenge. After driving for 16 hours through
+the Northeast US at an unhealthy speed of 75 mph I pulled in at my
+relatives in the Toronto area. The next day I was eager to get back
+on the road as I had (I thought) a job lined up for labour day. It
+was not meant to be. About 60 miles out of Toronto I ran out of
+gas.A common problem since the gas gauge didn't work but I always
+had a big jerry can ready. So no problem there but as I pulled out
+again and put her through the gears I heard a loud crack/clunk as I
+put it in fourth. After looking around her on the roadside (did not
+even realize that fourth was gonzo) I started it up again and came
+to the horrific realization that I was 3500 miles from home with a
+bad tranny. I can't help but think that all that driving at 75mph
+killed it. Anyhow, I limped back to Toronto and hopped on the
+internet, being familar with the list (this is before AIRS). Den,
+now an AIRS member, replied to my plea for a tranny in the area and
+it turns out that he was only about an hour away. By this time
+though I only had 3rd and by the time I got there I only had 1st
+gear left. After that, what can I say. Den was the best, having the
+space that I could only dream of, he found a spare tranny that he
+thought would work (a bit shorter from an earlier bus) installed it
+for me for a small fee. I had been despairing that I might have to
+abandon the car but I made it all the way home driving over 10
+hours a day. The tranny never failed (though the body did a year
+and a half later and sadly this bus became a donor). I think of
+this as I am buying my second bus, now with the change in my pocket
+to restore it.</font></p>
+<p><font face="Arial" size="2" color="#800000">Thanks
+Den.</font></p>
+</div>
+<hr>
+<p>This morning I got a call from a Karen who was driving from
+Oakland California to meet friends in Austin Nevada. Seems that
+Karens VW Bus had a seized generator and she got my name off the
+AIRS list. All I could do was give her a couple of phone numbers to
+the 'good' repair shops in town. I think just having a friendly
+voice on the other end of the phone helped quite a bit as she
+called me a couple hours later to thank me. Seems the shop changed
+the generator in quick time and charged her a fair amount($194$).
+Off she went without ruining her holiday weekend. I have had the
+pleasure of helping three VW Bus strangers in the last year who got
+my name off the AIRS list, once for a lady going back east with an
+unknown Bus and just wanting to know how it sounded to 'an
+experienced Bus owner', a couple of weeks ago, I helped with a guy
+named Mick from Aspen Colorado on his way to SF with a engine
+concern. Let him stay on my property and lent him tools which he
+returned when done (I was already at work). The interesting about
+all three AIRS events with me was ........They were all Bay Window
+Busses..... Maybe the Split Busses - which so many people are
+afraid to take on a long trip without a trailer full of spare
+parts- are the more reliable VW Bus. Anyways, there hasn't been
+much discussion of list members experiences from AIRS related
+emergency's. So what say ye...</p>
+<p><font color="#800000">Chuck Notmeyer Reno NV</font></p>
+<hr>
+<p>So I get home a little after 5 from work on Saturday. A friend
+of mine says that some guys called from Green Bay saying they had
+my name off of the internet <font color="#800000">(AIRS)</font> and
+had some questions regarding their bus. This got me curious, and
+the number on the caller ID just came up as unavailable.. dern. I
+check my email and a couple minutes after that I get a phone call
+from these guys. They had come to town and were at the place where
+I work as my friend told them I was at work still when they called
+before. They said they had a 71 bus and it was leaking some oil and
+running a little rough. Thats about all they got out before I said
+"be there in 10 minutes" I was there 10 minutes later loaded with
+tools even (took some home from work that night knowing i was going
+to work on the 62) They introduce themselves and we pull the bus
+around back and get crackin. The bus was running a little rough and
+not idling just right. I poppled off the dist cap and noticed by
+looking at the points that they were not gapped enough. A .016
+feeler gauge and screwdriver later the engine was running like a
+top. Now for the oil leak. They said they were going through about
+a quart a day, but they were also driving 400 miles a day. Thats a
+good bit of oil to go through. Upon further inspection it looks as
+if its coming from behind the crank pulley. Not too much I could do
+about it, but I said switch to a thicker oil and that could help
+out a bit. They'll do that tomorrow or the next day they say. So we
+get to talking and I asked if they needed a place to stay or
+something. They accepted. We hopped on over to my house and they
+were looking at the 62 in the garage as I went in and got some loot
+and clothes and what not. We went and picked up a fuel filter, then
+headed over to our shop (a few guys in town have a private shop
+where we store/work on cars, get together, just hang around etc) We
+drove around a bit and I showed them the town and we went and
+picked up some beverages for the night. Got back to the shop and
+started talking some more and doing a bit of drumming (hand drums
+are also made at the shop)... We talked about their travels and
+their plans and what brought them to get a bus. Well, they're two
+college guys from Nebraska who wanted to go on a trip for the
+summer as they had been taking trips up to canada, colorado,
+montana etc in a "normal" car just for fun. They wanted to make a
+big trip out of it and decided to buy a bus for the occasion. They
+picked a *nice* bus! Its a red/white 71 bus with a moderate amount
+of gear in it. It has a nice engine and the nicest looking
+underside I've seen on a bus in a long time. They got it for a real
+good price and put an alternator on the engine and did a few other
+things before they left on the trip. They had been on the road for
+a week. So we pulled the buses around the back of the shop and set
+up. They moved their stuff around so they could sleep in the bus,
+and I pulled out the bed in my bus and decided to camp there for
+the night. It was a beautiful night for sleeping. We went back in
+and did a bit of drumming and got to talking some more. There were
+a couple of other minor things they wanted me to look at, so we
+agreed to take care of it in the morning... So a handfull of bottle
+caps later we went to bed. Got up in the morning sweating (sleeping
+bag with the sun beating down on me, i hate that) and decided to
+head home for a bit to take a shower. We headed back to my place
+and everyone cleaned up, then we headed around town and met a few
+of the local bus nuts, picked up some grub, and back to the shop. I
+crawl under the bus just looking around and notice the backing
+plate on the right rear is wet on the bottom. Uh oh me says. I jack
+up the bus and pull of the drum and sure enough, its soaked. Real
+leaky wheel cylinder. Hmmm, called up the parts places in town that
+were open, and nobody can get one until Tuesday. I called up a few
+of the local bus guys and nobody has a new one on hand. So I figure
+that a used good one is better than a leaky one. I pulled one off
+of a backing plate I had (67 even) and went back over to the shop,
+but not before stopping and picking up some miracle-in-a-can. Some
+of you refer to it as brake parts cleaner. Personally, I worship
+the stuff. The good stuff that is. Anyways, we get back, and I tear
+into it and replace it. Then we bleed the brakes, use the brakes
+some, and tear off the drum again to verify it isn't leaking. No
+leaks, good news. Spray the shoes down with the brake parts
+cleaner, and rough em up with some sandpaper and all is well. After
+thats all done we head on over the the engine. It seemed as if it
+were running a bit rich, so I adjusted the carb per the Bentley
+manual. It seemed to help a bit. Checked over the engine, checked
+the timing, etc. I also put hose clamps on every fuel line
+connection (they were missing a couple) and also put a safety wire
+on the fuel inlet to the carb. I've had this come out on me before.
+It is *not* fun. We cooked up some burgers in the mean time, talked
+some more, drove around a bit more, and checked out each others
+buses. I took some pictures even. All too soon they were on their
+way out. They were headed to Milwaukee, then Chicago, and who knows
+where from there. They've just been staying at campground, wal mart
+parking lots, etc and loving every bit of it. They have to be back
+to school the 24th of August and they plan to travel until whenever
+they feel like stopping. They're headed to the east coast and just
+taking their time and taking everything in. I believe they even
+posted to the list before they left when they got the bus. I'm not
+sure though as I haven't been up on all the posts (T2 list) as of
+late. Nick and Jason are their names. If these guys call on you, or
+you see them in their bus, by all means stop and say hi. They're
+great guys. I wish I got more calls like this from the AIRS list.
+Once we got to talking it was like we were old friends. I could
+have left $500 cash on the table and left them when I went to the
+gas station or something and been completely comfortable with it.
+These are good and honest guys just out looking to have some fun.
+Oh yeah, they needed some tunes for their bus, so we gave em a
+radio and some speakers. They've just been enjoying the hum of the
+engine till now enjoying the sights and sounds and just going
+wherever they feel :) It was tempting to pack up ol Stella and join
+in on the trip! But, obviously I didn't. I (and I'm sure many
+others!) would love to do something like this. These guys are
+actually doing it. They've got a good bus to go with, and the best
+of intentions. These are new VW owners, but they went over the bus
+pretty well before they left, and havea pretty good basic
+understanding of things. They carried a few spare parts (I donated
+a clutch cable to the cause as they were without one) and tools so
+they've the right idea! When I came home from work I had nothing
+but a boring weekend face. After this my weekend we well spent.
+Thanks for the company guys, and I wish you the best of luck on
+your trip!! Sorry if any of this was rambling :) <font color=
+"#800000">Isaiah</font> <font color="#FFFFFF">Just a little update
+on the guys that stopped by here a week or so ago from Nebraska.
+They and they're 71 bus are in New York today and should be to
+Maine during the day some time. They're doing well and haven't had
+any more problems, but they say something is rattling in back,
+probably engine tin or something of the like. Does anyone have a
+list of shows coming up on the east coast? Anywhere from Maine down
+to Florida. I'd like to get these guys a list as they were wanting
+to attend some shows/campouts while on their trip.
+Thanks!</font></p>
+<p><font color="#800000">Isaiah Situational Engineer-
+DBG</font></p>
+<hr>
+<p><font color="#800000">This went out to the type2 mailing
+list:</font> My friend Nick Palmer just blew a spark plug out of
+his engine block -- I'm assuming the plug was mis-threaded and it
+finally just popped out. So, he's looking for tips on a
+mechanic/machine shop in the area where he can get a heli-coil put
+in his head, and, if possible, a driveway where he can pull his
+engine/head to take it to said shop. Barring a friendly driveway, a
+reputable VW mechanic to get towed to would suffice. So, if anyone
+can help him out with any of the above information, he'd really
+appreciated it: Nick Palmer, 916.837.5683 (cell phone) Call him
+anytime as he's anxious for any info. alternately, if you can't get
+through, contact me via email. oh, as the subject line says, he's
+in Coachella, California and he's driving a '77 Riviera: 2.0L, FI,
+Manual, Olive Green. -<font color="#800000">Tommy Tarka</font></p>
+<p>Update: V W TECH made a mobile call to Indo yesterday, and
+delivered two brand new heads to Nick for his 77. He said he was
+having a local mechanic do the install today. <font color=
+"#800000">Bob</font></p>
+<p>Reply: I just wanted to take a second to say thanks to Bob for
+delivering heads to me the same day I called him, and at a darn
+good price too! Indio Dune Buggy installed them for me while I
+watched. What a treat to finally see my engine apart and back
+together! Though I could have done without the cost! It took them a
+little longer than I would have liked (2.5 days) however I think
+they did a good job, and I certainly learned a lot. There are a
+couple of remaining issues that I need to sort out, but I will post
+about them in the near future.</p>
+<p><font color="#800000">-Nick</font></p>
+<hr>
+<p>Well my wife and I just got back from our first ever long trip
+in our yellow 74 westy. We traveled from our home in Atmore,
+Alabama to Maryville TN to take our daughter back to college. 1109
+total miles. We carried our AIRS list for the states of Alabama,
+Georgia, and Tennessee with us, but we didn't need to use it. We
+left last Thursday morning, and returned home this afternoon,
+Tuesday, August 29, 2000. I was devastated to read the news about
+Kristin when I caught up on my type 2 reading. Sunday, on our way
+back home, we had an encounter with a vehicle that was quite a bit
+larger than us, and it kind of put a damper on our spirits that
+day. We also had trouble that evening locating a campground. Up
+until that point we had stayed in three very nice campgrounds, but
+I never once considered calling on an AIRS list person. Instead, we
+stayed in a motel. In the future, I may decide to call on an AIRS
+list person. I know that I will be far more open to the idea of
+someone camping in my pasture now than I was before this trip. I am
+also going to carry far better campsite locating documents than a
+map with a green tent by a city name.</p>
+<p><font color="#800000">Joel Lambert, Atmore, AL 74 westy, 75 bus,
+65 type 3 ghia</font></p>
+<hr>
+<p>A Couple called around 9:30 Saturday night and left about 2:30
+am Sunday morning from my house. Their generator pulley had started
+to turn freely on them and they where about to loose their only fan
+belt. I didn't have a "correct" pulley but the one we put on might
+have worked for the drive ahead of them. The Guys name was Chad,
+forgot the young girls name. This is a couple that David at Bug
+Junction had also helped. I hope they will make it all he way, but
+I doubt it, if you have any info on them making it to their
+destination please let us know, we would feel better for them
+knowing they are safe and off the road.</p>
+<p><font color="#800000">Meredith and Debbie</font></p>
+<hr>
+<p><font color="#800000">Heres a message from the type2 list a
+while back, sent out to get others opinions on a motorist in
+trouble:</font> Kristin, traveling on a deadline toward CA just
+called me about 70 miles outside Memphis. Please read through this
+note and see what you think. She's had a string of bad luck and now
+is fighting a "bucking" bus on the way in. Here's what she
+described to me: Her '71 DP bus is basically bucking between gears.
+She says when she shifts, she feels like the bus is pulling back on
+her. She said the bus has basically no power, but she also told me
+that she's able to make speeds of 50-60...so there's *some* power
+there. I'm actually thinking fuel delivery as in fuel pump, but I
+could be wrong here. Hope I'm right, as I'm pretty sure I have a
+spare fuel pump for a '71. Here is some of the other info I got
+from her: She had a bad mechanic experience where dude didn't
+tighten the flywheel right and it flew off into the bellhousing,
+chewing tranny. She managed to get it to another mechanic who
+pulled the motor and made things right. 2nd mechanic had to turn
+the idle screw on her 34pict3 all the way in to get the bus to run,
+but I guess he thought some of the problem would just work itself
+out and let her go on her way, emploring her to take it easy.
+Funny, he pulled a 30pict off because he thought that was why she
+had no power. Maybe mechanic #2 missed something too, but at least
+he did her right as far as flywheel fix at a reasonable (what she
+could afford) rate. Obviously, the details I'm getting just before
+midnight here are a little sketchy, but I told her to come by early
+and I'll try to help her before work. Any ideas would be
+appreciated. Remember, the main symptom is bucking on the highway,
+especially between shifts. She also mentioned that she's having to
+lift the gas pedal up with her foot to reduce RPMs in traffic,
+which I'm wondering about. Could this have something to do with the
+brake booster and possibly a messed up diaphram in that? Thanks!
+Joe PS. If you're between TN and CA (I-40ish, I presume) and you
+want to leave contact info (city and phone number) for her, I'll
+pass it on just in case.</p>
+<p><font color="#800000">Thanks! Joe</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>...I got a call on
+sunday morning from a Richard from South Africa who is touring the
+states with his wife. he is coming from chicago via I-90 and just
+needs a place to park the bus for a night. seemed like an
+interesting person, im anxious to meet him.</p>
+<p><font color="#800000">Bob Margiotti Cleveland, Ohio</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>...so, last might i was
+working and i get a call from a guy named john. he tells me that
+he's broken down in nashville on hwy 65 and 40. he said he needed a
+fuel pump for his girlfriend's 74 bay. i told him that i didn't
+think i had a baywindow one, but we could take a look if he wanted
+to crash in my driveway. he did so. i got home from work at around
+10:00p to find john and his buddy (sorry, i forgot your name)
+hangin' out in the bay. to make a short story long, we looked
+through my stuff and found a fuel pump off of my old motor. we
+compared the top halves of both pumps (which was really the only
+part he needed) and they looked darn close. so john did the swap
+and it was a successful swap. i think he is going to put a brand
+new fuel pump on there asap just to be safe. so all was well. i met
+some very cool vw friends, had some good vw talk, and had one vw in
+and out of my driveway and john on his way. john (better known as
+<a href="mailto:volknut@1st.net">volknut@1st.net</a>) is a list
+member which made the experience all that much cooler. john makes
+ther very cool vw stickers that i highly endorse. he gave me a few
+in exchange for the pump and i had them on my bus immediately. my
+favorite is "don't laugh, your girlfriend could be in here" chat ya
+later,</p>
+<p><font color="#800000">casey</font></p>
+<hr>
+<p>I would like to tell you about an awesome AIRS member. His name
+is Todd Thompson from Germantown, Maryland. I have been having the
+type2 blues for a couple of months (fuel injection problems, I
+thought). I contacted Mr. Thompson from the AIRS list (<font color=
+"#800000">Todd had 'coffee/talk' marked on his info</font>)and told
+him my problems. He listened with asympathetic ear and gave very
+good advice. He is very easy going and helpful and we decided that
+I needed an engine. Since my bus wouldn't survive a trip to the
+junkyard for our quest, he drove me around for several hours on a
+Sunday. He went way beyond the call of duty for a virtual stranger.
+It is heartwarming to know that there is someone like him that will
+extend himself in such a fashion. I would like to thank the AIRS
+group and a special "shout-out" to Todd Thompson! Happy trails,</p>
+<p><font color="#800000">Howard Anderson</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>......3 calls in 3
+days? Odd, considering I havent gotten but one call and a visit
+from the Millars since the inception (<font color="#800000">of
+AIRS</font>). Is it VW migration season? <font color=
+"#800000">1</font>) Got a call from some young travelers from New
+York staying on South Beach. Went visiting on sunday, 71 westy
+engine sounds a bit rough, like 3 cyl firing rough :(. They saw a
+mechanic today who said 'rebuild 1100$' so tomorrow they are off
+for a 2nd opinion from a pretty highly regarded shop and well see
+how it goes. I have to be wary of a mechanic saying rebuild 1100$
+without suggesting a new engine possibility pr explaining why in
+some detail. <font color="#800000">2</font>) A pleasant girl with
+an 83 who is preparing for a trip to new hampshire? and just wanted
+reassurance that things seem cool before she takes off.
+<font color="#800000">3</font>) Just a few minutes ago some
+travellers in a 69 heading for key west just asking about the area
+and crashing spots. May drop by on the way back through (to
+Savannah) for a visit. I guess like the Mortons salt slogan "When
+it rains, It pours."</p>
+<p><font color="#800000">andy miami fl</font></p>
+<hr>
+<p><font color="#800000">&gt;&gt;&gt;</font>....Pulled out of
+Lenoir a little early, had plans to meet some folks before I got to
+Snoopy's. The Express was grumbling along making all the right
+noises as we ran the usual route down I77 between Charlotte &amp;
+Columbus. All of a sudden she started missing and backfiring,
+losing power, then quit completely. The oil pressure was up as long
+as she was turning over so I didn't think we'd suffered internal
+engine damage. Rolled to the side of the road, broke out the barely
+adequate tool kit and VOM to see what the problem might be. Oil
+level was fine, and I couldn't help but notice the absence of a
+large gaping hole in the engine case. There was fuel in the filter,
+a squirt could be heard going into the carbs when I tickled the
+throttle. Hmmm. Just for fun, tried her again and she started right
+up. No sense sitting along the side of the road with the rigs and
+a$$*)!@s er SUV drivers blowing by at 80+. She was still backfiring
+and making almost no power but we managed the 1/4 mile to the
+nearest exit. Power to the coil, the signal from the Pertronix
+didn't follow the pattern points usually show. Must be the igniter
+went bad. No problem, put in the extra dizzy with the points.
+Always carry stuff like that. Open the spare bus locker and find
+the extra dizzy. No points! &lt;insert unkind word here&gt; That's
+right, helped someone else out, gave them the spares, never
+replaced them. &lt;another unkind word&gt; There's nothing at this
+exit but litter. The whole time I was there, nobody took it from
+either direction. Probably 1 of those great ideas some politician
+had - growth opportunity for Bubbaville. Fortunately, I had John's
+phone #. Just looked, he's not on the AIRS list, but I am so this
+IS an AIRS story. Called John, he was more than willing to help. He
+left his house drove almost 40 miles with 2 kids that weren't his
+(they had company), and brought me a set of points. While I was
+waiting, pulled the dizzy, then sat and played my guitar for a
+while. John showed up, in no time dizzy was back in and timed. the
+BIG MOMENT was here! Turn the key, she starts right up idles just
+fine. Big grin and thumbs up ease her into gear and KABLAM BOOMITY
+POP POP she's backfiring again. &lt;yet another unkind word&gt;.
+Doublecheck gap and timing, both are spot on. Hmmm. Random firing,
+if not timing, must be the coil. But coils &gt;never&lt; go bad.
+But wait, I had one go bad after High Country Bus fest a couple
+years ago. Pull the coil, put the meter across it, infinite
+resistance across the primary side. &lt;even more unkind words&gt;
+John smiled, said get in lets go get a coil. We drove a long time
+before we saw any civilization. The parts store in town was closed.
+No problem sez he, we'll get the coil off my bus. So we went chez
+John and Anna, get to see the imaginary bus - yes, the Terrapin
+Flier is real! John pulls the coil, back in the car, and off we go
+back to the Express. Install coil, she fires right up, running
+great. John follows me to his exit and off he goes. Didn't tell me
+my taillights were out but the really nice South Carolina State
+Trooper did. So did the not so nice one later on. But that's a
+different tale.</p>
+<p><font color="#800000">Mad Uncle Dave</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>...On Sat. nite about
+10:30 the phone rang. A young woman quickly introduced herself and
+told me that she had my name from the AIRS list. She and her
+boyfriend had just purchased a bus (1967 Westy)that day in northern
+Va. and were on their way home to FL. After they stopped in
+Greensboro for gas they could not get the bus to go into gear.
+After playing twenty questions I gave them my address and told them
+they could have it towed to my house and we would have a look in
+the morning. They arrived about midnight and we chatted about this
+and that and decided that perhaps there was a failure of the clutch
+or perhaps the throw out bearing fork. This was their first bus and
+they had it for less the 5 hours and did not know a lot about VWs.
+We all know how much I know :) In the morning I called LBC member
+Chad Sibert and asked him if we could borrow a clutch off of junk
+motor and he was more then happy to do so. After picking up the
+clutch we proceeded with motor pulling 101. After everything was
+disconnected and the motor was hanging by the studs , LBC member
+John Stainkamp roared up in the driveway in his 61 DC. Whenever
+John pulls up I feel like the calvary has arrived :) We pulled the
+motor but much to our chagrin the clutch, fork and all related
+parts were fine. The owner of the bus jumped in and tried to put it
+through the gears. Many loud clunks were heard. Uh oh! The plug was
+removed from the tranny. The magnetic plug was covered in bright
+shavings and the tranny only yielded a cup full of brown goo. The
+axle boots were in bad shape but there was no major evidence of
+gear oil all over the place. The tranny had been dry for some time.
+LBC member Roy Nilsen was summoned to obtain the only gallon of
+Stalube GL4 that was to be found on a Sunday morning. We hoped in
+vain that by filling the tranny back up it might help unstick
+itself. We also fussed endlessly with a stupid Hurst shifter that
+had no doubt been installed by the same idiot that painted the dash
+and the steering wheel brown. The bus would not come out of third
+gear. We gave it everything we had. Sadly the bus left the same way
+it came - on the back of a tow truck. I am sorry that we could not
+fix the bus but I am glad that we were able to try. Thanks to John,
+Chad and Roy for putting up a good fight and spending a day trying
+to help some strangers in a bus make it home. They truly
+appreciated it! --</p>
+<p><font color="#800000">Chris Greensboro, North
+Carolina</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>.....It happend this
+past Monday night. I received a call from a guy who had printed out
+the AIRS list to take with him on his trip. He was looking for a
+safe place to park for the night.. told him he could park in my
+driveway, gave him directions and in just a bit he was here.. He is
+driving from California to eventually Alabama, just taking the back
+roads and siteseeing. He came in... borrowed the stove and cooked
+his dinner and then retired for the night in his '71VW bus.... and
+the next morning had breakfast with us and then was on his way. Not
+too sure which way he was going. but was headed kind of south to
+start with... His name is Kent... he is a really nice guy and hoped
+to be calling on more list members during his travels. Was glad to
+be able to offer a place to stay,</p>
+<p><font color="#800000">Gail Doles Jonesboro, AR</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>...Thanks to every one
+involved in putting on Everybus. I had a great time talking with
+old and new friends. It was great to see so many buses together.
+The AIRS list saved my butt on the way home. I had a rear wheel
+bearing go out in Suffolk,Va. on Monday morning. I pulled out my
+Airs list and called a fellow named Jason in Va. Beach. He let me
+leave my beloved (DHARMA) at his house until I could return to get
+it with a trailer. I could have fixed it there, but I had to be
+back to work at 2:00 am Tues. morning. A great big thank you to him
+and everyone on the list.</p>
+<p>Thanks,</p>
+<p><font color="#800000">Dave Parsons</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>...I got a call Sunday
+afternoon from a Gentleman on the coast of NC, referred to me by G.
+Marv Krupp from the call to him placed by the aforementioned
+Gentleman originating from the A.I.R.S. List. Got it? His daughters
+79 Westfalia had ceased operation at Brevard College. It is her
+first semester in a new town and they were unfamiliar with the
+territory, both mechanical and geographic. The Gentleman I think
+misunderstood the nature of A.I.R.S., and seemed to think that we
+are a list of mechanics for hire. I had to repeatedly refuse both
+his and his daughters offers of money. He found us surfing via the
+Type 2 site. They are not members and apparently had no knowledge
+of this entire subterranean vista. Anyway, a bus was in need, so my
+wife (after some sharp trading, I had to agree to vacuum after we
+got back) and I loaded up in the A***a to check it out. When I got
+there she wanted to give me the keys so I could tow it away. I
+smiled but I did not laugh out loud. She is a very nice girl, and
+helped me open it up for an inspection. She cranked it up and it
+ran very roughly. First thing, I checked the points and they were
+burned moderately, at least enough to run as badly as I had
+observed. I showed them to her and asked if she had another set. I
+thought for sure that all busses had a spare, but not hers. I carry
+a set even though I have the Pertronix, cause, well, you never
+know. So we offered her a ride to the parts store. This was a SMART
+girl. She immediately begged off to go call her Dad. It took me a
+moment to figure out what was going on, until my wife clued me
+in.... NEVER GET IN THE CAR WITH A STRANGER! So my wife and I went
+to the parts store while the girl was calling and bought the last
+set of points in stock. I didn't have a timing light with me so I
+bought a cheap feeler gauge and by the time we got back she was
+waiting at the bus. I put the points in and she started it but
+absolutely no improvement. I fiddled with the points but no luck.
+Then I noticed that the idle air bypass valve supply hose from the
+air intake boot to the valve had a cracked and broken elbow at the
+valve, leaving the hose to hang free. That's a lot of air to bypass
+the AFM. Then out of curiosity I checked the oil. The bottom of the
+dipstick was definitely wet, and if I had to guess I would say that
+she was at least three quarts low. I asked the girl if she had ever
+checked the oil. She said that she knew it was probably low. Hmmm,
+I asked her if the oil light had ever come on. She said yes, it
+came on during the eight hour trip up to school two weeks ago, but
+it went out after a while, so she didn't stop. At this point my
+wife volunteered that while I had my head in the engine compartment
+holding the throttle to keep it running it was blowing voluminous
+clouds of smoke. I asked her what colour and she said, dark.
+Driving a bus should be a carefully considered and educated
+decision. I have referred the girl and her father to our local ASE
+Master Mechanic. In retrospect, I see it could have been much worse
+for her, and I am very very very grateful that I had the
+opportunity to help.</p>
+<p><font color="#800000">Tom and Dana Cates Asheville,
+NC</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>I want to let everyone,
+especially AIRS members, know that Kathy and I successfully made
+our round trip to Michigan and back to Long Island, New York this
+past week. Even though I didn't have to call any AIRS members for
+help, it sure was a nice to know I could if I had to. Thank you to
+all AIRS members, where ever you are. Our 71 westy ran fine for a
+little over 2000 miles this past week. We did experience the hot
+start problem a few times, so the starter will be coming out soon
+for a good cleaning and inspection. One morning the engine shut
+down just a few minutes after starting. It was sudden, just as if
+it was shut off. Seemed like an electrical problem to me, so I
+opened the distributor cap and had a look see. Everything was OK,
+so I closed it up, checked for spark and got a good hot one, then
+tried to start it back up. It started on the first try and ran fine
+the rest of the time since. Gas mileage was 23.7 mpg, and I did
+have to add 1/2 a quart of oil during the trip. I guess the biggest
+problem we had is that the plumbing for the sink drain started
+leaking in the cabinet and got the surrounding floor wet. Most of
+the driving to get to Michigan and back was on hiways 80, 23, and
+75. As you can guess, we were the slowest thing on the roads. Most
+other drivers seemed to just go past us and on their way. In
+western PA we did have one New York driver lay on the horn as he
+followed very close behind us and then passed, but even more people
+gave us a smile and a wave. Of course as we were driving around
+lower Michigan for a week many young people pointed and waved as we
+drove by. I'm sure some of them had never seen a bus before. One
+young lady had a real laugh as she checked us into a camp ground.
+Part of the paper work asked for vehicle make, model and year. When
+she asked for the year I said I thought the bus was older than her
+and asked what year she was born. Her reply was "85". When I told
+her the VW came out of the factory in 71 we laughed for 5 minutes,
+at least. I've got to say, that there seemed to be a real lack of
+buses and a/c VW's in particular in and around Flint, MI. Yeah,
+yeah, I know, MI is the capital of the US automotive industry.
+While we were there we did get to meet John H. , list and AIRS
+member. Of course since he too has a 71 westy we each had to
+inspect the other guys bus. I sure wish I had his interior. Over a
+cold beer our wives decided that there must be some common traits
+in folks that want to own old VWs. They talked about making up a
+questionaire for list members to find out what it is we all have in
+common. Personally, I call it class! Also on this trip our bus
+revealed it&#226;&#8364;&#8482;s name to us.
+It&#226;&#8364;&#8482;s now called John Dear. You see, I just gave
+it a quick coat of paint a few weeks ago, and the color was called
+John Deere Green. So when you see us, don&#226;&#8364;&#8482;t
+forget to ask how John is doing. All in all the trip was a great
+success and adventure. This is the farthest
+we&#226;&#8364;&#8482;ve ever been by bus and were prepared for all
+sorts of problems. I&#226;&#8364;&#8482;m sure glad we
+didn&#226;&#8364;&#8482;t have any.</p>
+<p><font color="#800000">Paul A Huntington Station, New
+York</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>Chad and Willa (and
+their dog, Butter) called me yesterday, about 5:30pm. I swiped a
+pulley from a spare motor and took my dog with me, and found them
+at the Quality Inn off of I-385 in Greenville. Installed the
+pulley, tried to find a spare belt in my parts stash for them (I
+think I gave my last one away), hung out for a few minutes, swapped
+e-mail addresses... They are driving a purple '72 with an upright
+in it, bought recently from a bug that had been sitting for awhile.
+They are strapped for cash, and the engine compartment looks pretty
+rough. I hope they make it, they need all the help they can get...
+The crank pulley is pretty rough, and I'm sure it is shredding the
+belt (evident by all the black rubber dust in the engine
+compartment). I advised them to get a spare belt as soon as they
+find a parts store open... Meredith, I have one of your
+screwdrivers, that Chad found in his toolbox... Viva la Airs
+List!</p>
+<p><font color="#800000">David F. Martin</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>We got a call at home
+this afternoon from "Shawn" [Sean?] of Spokane, WA. He was in
+Tacoma visiting friends. I still don't know his last name. Seems he
+came over Snoqualmie Pass last night in a downpour, and before he
+reached the summit he lost his 1 [and only] wiper arm. Off his '62
+Type 2. With safari windshields/windscreens. He was desperate to
+find at least 1 replacement arm and blade so he could return to
+Spokane tonight, over Snoqualmie Pass, in a downpour. My daughter
+called all over the Tacoma area trying to track down the part,
+without success. I discussed the situation with Shawn, covering all
+possible scenarios including a large supply of RAIN-X. His friends
+found a couple of leads up Seattle way, and Shawn was considering
+following them up but his time was getting pretty tight. He
+promised to let us know how his journey home panned out.</p>
+<p><font color="#800000">Fred Stoermer Tacoma, WA USA</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>In the middle of a big
+cross country trip, I happened to print out some names of folks off
+the AIRS list from Seattle to San Francisco, and damn if I didn't
+use it. Just 30 miles out of Seattle i threw a rod in my 71 camper
+bus. Arggh! No worry, I called a few folks off of the list, one of
+them (Terry Tacker of Puyallup) towed me with a special bus towbar,
+and another (Fred Stoermer of Tacoma?) came just to see how things
+went. They recommended Ovals Motor Sports of Federal Way. I had a
+rebuilt engine put in, and after several days of diagnosing heating
+problems, Oval's got me back on the road. Thanks to all in the area
+for their help and concern, and Oval's for being patient with a
+weary traveler and helping to solve the overheating problems!</p>
+<p>Thanks to terry and Fred from the AIRS list, as well as others
+who wrote in and called with suggestions. wink, still on the
+road.</p>
+<p><font color="#800000">Daniel Winkert of New Orleans</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>Just returned from a
+little voyage from Clarksville TN to Fort Walton Beach FL.
+Everything was going well until I got about 15 miles from Fort
+Walton Beach. At that point in time (which was about 3:00 AM), the
+little noise coming from the rear of the bus got really loud and
+then went completely silent. The bus floated across the road a few
+times before I managed to get her to slide to a stop on the
+shoulder. When I got out to see what happened, I found that the
+driver's side rear wheel had come completely off the vehicle. The
+axle was shredded, cv joint sheared apart, breaks torn to pieces,
+tire blown out, and the back of the bus was resting with the shocks
+on the ground. My wife, a friend, two dogs, all of our luggage for
+the 4-day weekend, and myself were now stuck on the side of the
+road. Nobody we knew was home, all of the garages and tow trucks we
+called we're still closed and no cab would come and pick all of us
+up (would only pick up to two people and they weren't willing to do
+it for the money I had). And then, the cell phone started dying.
+So, we set out reflectors, popped the top, and went to sleep
+thinking daylight would bring better news. Around 6:30 AM we were
+still unable to get in touch with anybody (I spliced the cell-phone
+power pack into the bus - ok, so the wife forgot to bring the
+cigarette lighter adaptor, but wasn't going to make an issue of it
+right there - You know). Finally, just before 7:00 AM, I turned to
+the last resort and called AIRS volunteer Victor Cardona (HUGE
+ROUND OF APPLAUSE FOR MR. CARDONA). Victor was great. He came right
+over and picked us all up, drove us all the way into Fort Walton
+Beach over to my wife's friend's house, and even recommended a
+great mechanic. Thank you so much Victor. So, we were finally able
+to get the bus towed to Little Motors off of Highway 98 near
+Hulbert Field owned and operated by Jeff (Huge plug for him - I'll
+get all the specific data later when I get my other bag back -
+another story). Jeff was closed for 4th of July, but came in on
+Monday the 3rd since he knew we were from out of town and had to
+get back to work, took an axle from another bus and had our Bess
+running and ready to go by late Monday afternoon. Also, he got us
+another tire because he wouldn't let us leave without having a
+spare. So, he got another axle, fixed the breaks, new tire, and all
+put it all together in perfect working order on his day off for
+people from out of town and charged us less than $100 (We were
+already trying to figure out which one of my organs we were going
+to have to sell to pay for this). What a guy!!! Seriously, he did a
+great job and helped us out of a very tough spot. Thank you so much
+Mr. Cardona and Jeff from Little Motors. You guys are what makes
+owning a VW so special. Also, having the weekend that we did (very
+tough), it was great to see what great people are still out there.
+Great for the soul! Thank You so much,</p>
+<p><font color="#800000">Darrin K. Pierce '74 Westy</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;</font>One Saturday I got call
+from a couple traveling from Washington to Mexico. Their throw out
+bearing disintegrated because the return spring on the tranny gave
+out. They told me that some guy in San Francisco had given them a
+print out of the AIRS list. They too had never heard of any of the
+<a href="https://www.type2.com/type2.html">mailing lists.</a> After
+calling every place within about a 50 mile radius I ended up giving
+them the spring off my bug in the garage. It's not going to be on
+the road for a while so I have the luxury of looking for another
+one at my leisure. I still hear from them via email every once in a
+while. Last I heard they were in Las Vegas having CV joint
+problems.</p>
+<p><font color="#800000">Chuck &amp; Jan</font></p>
+<hr>
+<p><font color="#FF0000">&gt;&gt;&gt;&gt;</font>"Before I went on
+my Texas road trip, I printed out the AIRS lists for each state I
+was passing through (geographically, that is). At the time it was
+more for "the mojo factor" because this voyage was intended to be a
+cruise -- carefully planned and uneventful. Shuffleboard on
+Tuesday, water aerobics on Wednesday -- like that. Which it was,
+until an apparently despondent deer crossed my path on the first
+leg of my way home. So here I am, in the dark, in the middle of
+Texas hill country, trying to figure out what this wet stuff is all
+over the inside of my cab (windshield washer fluid -- whew!). I
+didn't even have time to panic, it happened so fast. Everything
+seemed to be rolling okay, so I drove on until I could find a place
+to camp for the night. This turned out to be a rest area about 20
+miles east of Sonora. It was a little late to call back to Art
+Lynch (with whom I'd had dinner just a few hours before), so I
+called David S. who is two hours earlier and ran down my plan to
+get the bus looked over in San Angelo. He gave me the number for
+his friends Rob &amp; Kim (from his Mustang life). It was the next
+morning that I called Art and he gave me Rex Rogers number in San
+Angelo, who's number was incorrect -- oops! It was on the way into
+San Angelo that the bus started running badly and actually stalled
+at one point (when the idle solenoid stripped out?). Jim, a
+stranger on the side of the road, stopped to help and followed me
+on to the next town Eldorado. He and Rob hooked me up with John
+Talley at J&amp;O in San Angelo. John got my carburetor hooked back
+up. He's honest and nice! And he knows VW's. His dad had the local
+VW dealer back in the day and he worked there before starting his
+own business. I never did get hooked up with Rex, but Art's
+assistance was invaluable -- and I'm still stunned that Mike G. was
+ready to bring me an engine if it came to that. David and Art got
+me through my first valve adjustment. I was really nervous about
+getting on the road out of San Angelo, but I made it home just fine
+-- another 27 hours of driving! Knowing I had that support network
+on the way home made all the difference to me. And made my parents
+very happy. Even now, with me at 40, my mom still worries.... :-)
+The big difference is that now, I *let* her...."</p>
+<p><font color="#800000">Nikki Elko</font></p>
+<p><font color="#FF0000">&gt;&gt;&gt;&gt;</font>"I met Aaron
+Badertscher of Ohio, online and chatted about some camping trips,
+which led to arrangements to meet up on the way to EveryBus . Aaron
+had a chance to talk to John Morris, and John decided to join our
+carabus! Actually by the tone of his email... he seemed worried
+that a *split* bus of his would hold up the tempo of the Bay
+brigade..... Well, fortunatly we met up with John and Aaron in PA.
+and carabused to Va. to meet with [ Honorable mention] Jeff Stewart
+on our way to EveryBus. You can read the trip report on the
+EveryBus page,, But what I wanted to say here,,,, We never knew any
+of these people 2 months before EveryBus,,, But Jeff Stewart opened
+his house to a whole tribe of unknowns,,,, and John Morris did a
+very kind thing,,, and For this I think they need a Hip Hip hooray!
+When Dave's Bus Finally quit running ,, due to the engine block
+completely separating from the trans... we left it in VA.. JOHN was
+at home by this time ,,, Left his house in OHIO and drove to Va.
+Picked up Dave's Bus and TRAILORED it to CANADA! Prolly about 15
+hrs one way,, then another 5 hrs home! He wasn't called on,, or
+asked to help out,,, but he met a guy who he heard had problems,,,
+so he OFFERED to help out!! WOW ! He is on the AIRS page .... John
+Wrote on the Airs page... CAMPING SPOT: MOVE IN!!! :) Wow!
+unbelievable! This is My second usage of the AIRS pages,,,,, While
+in Colorado Springs last year [ 99 ] Dave Russell helped me work on
+my Bus in his garage... on a fuel problem,, [ I don't like working
+on fuel in my own Garage, let alone asking someone else to allow me
+to do it in theirs! ] And he gladly took a DAY OFF WORK to help
+me!! Thanks Dave! Thankfully this time it wasn't My Bus that was in
+trouble again,,, But , back to my point:</p>
+<p>I genuinely want to THANK the people....Thank You to The
+ingenious persons who thought of the AIRS, Thank You to those that
+offer their names on the pages for nothing in return ... helping
+others.. Thank You to the keeper of the airs site ...... Thank You
+to Type2.. and most important here today,,, Thank You to John
+Morris of Ohio on behalf of the CANADIAN contingent in the EveryBus
+Carabus!!!!"</p>
+<p><font color="#800000">Jamie Rivers Cambridge Ontario
+Canada</font></p>
+<table border="1" bgcolor="#808080" bordercolor="#FF0000"
+bordercolorlight="#FF0000" bordercolordark="#FFFFFF" width="100%"
+cellspacing="1">
+<tbody>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td height="26" nowrap bgcolor="#808080" width="650">
+<p><font color="#FF0000">&gt;&gt;&gt;</font>My incessant rambling
+about VW Buses finally caused my parents to break down and let me
+buy one. I chose a 1969 Hardtop Westy that I stumbled apon during
+some odd circumstances. The previous owner had thrown a rod, so the
+engine was toast. I had been working at Dairy Queen for a month or
+so, and I had saved up enough cash for a used 1600. I called the
+local VW places, but none had one. I finally found an ad in the
+paper for some VW stuff and 3 engines. I shelled out $250 for a
+1600, and when I got it home I realised that I wasnt any closer to
+a running bus. Those mothers sold me a toasted engine. Suffice it
+to say, I was not overjoyed about the entire experience, and I was
+quite disgruntled about VW's as a whole. Eventually I decided that
+the sellers of said engine would have bad karma forever, and that
+they would never be happy. I decided to rebuild. This ordeal lead
+me to need a head, as all but one of mine were cracked. This is
+where the AIRS list comes into the story (finally!). I called
+around in search of a head, and Paul Ledbetter told me that indeed,
+he had one. A game of telephone tag ensued, and in the end, he told
+me he would give me a head for free. 'Hmm does free equal cracked?'
+i thought. In the end though, the head is not cracked, and it is
+going on the bus engine. Thanks Paul! You restored my faith in VW
+people as a whole! Much good karma to you!</p>
+<p><font color="#800000">Pseudo Mechanic Ethan Simpson</font></p>
+</td>
+</tr>
+<tr>
+<td height="26" nowrap bgcolor="#808080" width="650">
+<p><font color="#FF0000">&gt;&gt;&gt;</font>Chris and Loryn
+contacted me via the AIRS list and asked if they could stop at my
+place and work on an oil leak to which I agreed. San Diego has been
+having a heat wave and it almost cost us an injury while working on
+their '72. We had the van up on jack stands when the stands sunk
+into the hot macadam and the van rolled off of the stands.
+Fortunately none of us were underneath at the time and there were
+no injuries to people or damage to the van. The jack stands would
+be stable on concrete or similar surface, but the knife edges of
+the base can obviously sink into a soft material. We put the stands
+on some 2 x 12 pieces of wood scrap and finished the job. The oil
+leak was coming from a push rod tube seal. I am going to shop for
+new jack stands, and really pay attention to their safety features
+this time around. The stands I have now were bought in 1971 when I
+was not so experienced. Chris and Loryn are now making their way up
+I-5 to their home in Canada. If you see a blue and white '72 van
+with British Columbia plates and surfboard strapped to the roof
+give them a wave.
+-------------------------------------------------------
+<font color="#800000">Lee Dronick, San Diego California</font></p>
+</td>
+</tr>
+<tr>
+<td height="26" nowrap bgcolor="#808080" width="650">on the way
+back from NY to Nebraska last weekend we were cruisin down I90 and
+came across a couple in a red Bug on the side of the road. I pulled
+over to offer a hand. The couple were going to Niagra Falls coming
+from NY city and im surprised how far they actually made it. there
+vacuum advance hose was not attached to the dizzy, the carb was
+leaking fuel from the base but what actually killed them was i
+believe there coil was caput. it had juice goin in but none comin
+out. So seeing we could do nothin on the spot i gave them a ride to
+the next rest area and broke out my trusty AIRS list. On my second
+call I got ahold of Dave Rogge II and he gave me directions and the
+phone number of a good air cooled shop in the area that i was able
+to pass on. With tow truck on the way i headed out with a little
+extra VW karma in tow. So i know it wasnt for a bus, but hey they
+were air cooled folk and it only took Dave a minute to find a phone
+number and address. so i say "Thanks Dave!" by the way the couple
+told me they had been trying to wave people down for help on the
+highway and we of course were the only ones who paid any attention.
+<font color="#800000">shelby 73 riviera "lizzy" 68 westy
+"?"</font></td>
+</tr>
+<tr>
+<td height="26" nowrap bgcolor="#808080" width="650"><font size="2"
+face="arial,helvetica"><i>These are all the email exchanges we had.
+Anne and Karolyn made it home safely after a multi-month round trip
+to Kentucky and back. It was on the last leg of this journey that
+they got ahold of me. I got the first email on 11/20/02:<br>
+<br></i> Hey there!<br>
+<br>
+I saw your posting on Type2.com/AIRS and I thought I'd give you a
+hollar.<br>
+I'm returning from a cross-country trip (CA to KY), and we've
+begun<br>
+experiencing brake troubles. The front right one is smoking a bit -
+and<br>
+from the looks of the wheel it looks like I need new calipers. I'm
+sure the<br>
+pad is also in need of a change, and I should probably do both
+sides.<br>
+<br>
+So I've never done brakes before, but I'm hoping to find someone in
+Chico<br>
+who can help guide me through the steps to replacing them myself.
+After<br>
+this trip we're broke, so I can't take her to a shop. Plus after
+hearing<br>
+what calipers are going to cost...well, there's just no way I can
+pay<br>
+labour. I've done lots of work on her before, but I don't really
+trust<br>
+myself to do the brakes alone - at least not the first time.<br>
+<br>
+So I'm writing to ask if you could help me fix my brakes. :) Even
+letting<br>
+me know a good parts shop in Chico would help - I'm getting pads in
+Redding,<br>
+but since they say to take the calipers off and trade them in -
+I'll need to<br>
+be where I'm going to repair her before I do that.<br>
+<br>
+We're in French Gulch right now, and we'll head down to Chico
+tomorrow.<br>
+We'll probably be around for a day or two, but we've gotta get back
+home for<br>
+thanksgiving. :)P<br>
+<br>
+Anyway, thanks a lot, and we hope to meet you!<br>
+Karolyn<br>
+<br>
+<i>I read my email only a few hours after it was sent to me and
+replied immediately:<br></i><br>
+Hey, Karolyn!<br>
+<br>
+Sorry to hear of your travel challenge! When you get into Chico,
+call me on my cell phone (530) XXX-XXXX. We'll go from there to get
+you on your way. Unfortunately, I will be working all day tomorrow,
+but I can meet you anywhere as soon as you get here. There are 2
+great mechanics in town and one of those shops is a gerat parts
+supply house, too.<br>
+<br>
+Give me a call - we'll get you taken care of!<br>
+<br>
+Be safe -<br>
+Greg<br>
+<br>
+<i>Anne and Karolyn got into Chico about 6:00PM on 11/20/02 and
+called my cell phone. I was working, but only for another hour. I
+gave them a map of Chico with some local landmarks (coffee shops,
+book stores, cool haunts). After I got off work, we went back to my
+garage and began work on the brake. They showed up in a well
+travelled '71 Westy that pulled horribly to the right when the
+brakes were applied. They had new brake pads and a new rubber brake
+hose for the passenger side. First, I felt the hub thinking that it
+would be warm if the binders were not releasing. It was not overly
+warm to the touch, so we did a brake inspection and found the pads
+on the driver's side were almost nonexistent while the pads on the
+passenger side were nearly new. That explained the pulling under
+application. Because it was late and I had to return to the daily
+grind (to support my own VW habit) the next morning, we cheated and
+only replaced the pads on the driver's side. I made them promise to
+put the passenger side pads on as soon as they got some time and
+space. A test drive appeared that the problem was corrected. They
+crashed in a spare room, then headed on their way the next morning
+(11/21/02).<br>
+2 days later I got the "distress" email that is posted on the AIRS
+success story board, along with my response. The following is the
+rest of the story.</i><br>
+<br>
+Karolyn -<br>
+<br>
+BUMMER!! I am sorry to hear that! I don't know anyone down that
+way, but, i did forward your email to me to the Vintage Bus email
+list I am a part of. There are hundreds of VW Bus people that
+subscribe and read this list. From what I know of the list, anyone
+who reads and is close will be enroute shortly. Keep me posted, and
+if needed, I will get creative.<br>
+<br>
+Good luck -<br>
+Greg<br>
+<br>
+<br>
+<i>Sent 11/24/02:</i><br>
+<br>
+Awwww...what a SWEETIE you are! :)P Well, this little town has been
+pretty<br>
+nice to us so far. It was hectic at first, but we managed to pull
+the<br>
+calipers off this morning (all by our lonesome...except for two
+bolts ;) ).<br>
+Now we're just waiting for the two new calipers which are scheduled
+to come<br>
+in tomorrow afternoon. So...that will put us in SF by Thanksgiving
+(we hope<br>
+we hope we hope!). I think we may have found someone to help us
+out<br>
+tomorrow, just in case things get hairy, and from the looks of it
+I've got a<br>
+lot of email replies to look at - so that's GREAT. :)<br>
+<br>
+Thanks so much for your help, Greg. You the Man! (Get it? HAHAHA...
+;)P )<br>
+I'll keep you informed, most definately. :)<br>
+<br>
+THANKS!!!!!<br>
+Karolyn<br>
+<br>
+<i>Sent 11/25/02:</i><br>
+<br>
+Sounds like you're going to take this "home by Thanksgiving" theme
+to the wire! I'm glad everything seems to be working itself
+out.<br>
+<br>
+Take care -<br>
+Greg<br>
+<br>
+<i>Sent 12/5/02:</i><br>
+<br>
+Hey<br>
+How did things turn out? Did you make it home by Turkey day? Is the
+bus going to live?<br>
+<br>
+Here's wishing you happy holidays -<br>
+<br>
+Greg<br>
+<br>
+<i>Sent 12/20/02:</i><br>
+<br>
+Hi Greg!<br>
+<br>
+Anne here. Thank you for getting in touch-- I haven't checked this
+account<br>
+since we got back. We're taking a VW break to recover from the
+trip. :)<br>
+We arrived safely back in San Francisco the night before
+Thanksgiving. We<br>
+were able to find a bit of local help in Middletown, and got the
+calipers on<br>
+with only a bit of sweating and swearing.<br>
+I think the bus will be OK- we need to give it a tune-up and try to
+figure<br>
+out how to get it out of the rain. What are your thoughts on
+rust<br>
+prevention? We seem to have developed a bit even since arriving on
+the West<br>
+coast.<br>
+<br>
+Thank you for all of your help. Say hi to the family, and have
+great<br>
+holidays!<br>
+<br>
+Anne<br>
+<br>
+<br>
+<i>Sent 12/21/02</i><br>
+<br>
+<br>
+Hey, Anne!!<br>
+<br>
+I'm glad everything turned out okay! It's probably good to be home
+. . .<br>
+<br>
+As far as rust goes, check out this stuff . . . <a href=
+"http://srd.yahoo.com/S=2766679:WS1/R=1/K=por+15/SS=2327397/H=0/T=1040453317/F=f07e195b1f1e655fe1b39cab73d749a2/*http://www.por15.com/">
+POR-15 &#194;&#174; Rust Preventive Paint - Stop Rust
+Permanently</a> . There has been tons of discussion about it on my
+Vintage Bus email - to see some of the discussion, <a href=
+"https://www.type2.com/cgi-bin/htsearch">Search results for 'por
+15'</a> just click on the link. Between the official site and all
+the talk of personal experiences with the stuff, you should be able
+to make it work wonders. I can't put my two cents in , yet, though
+as I have not tried it.<br>
+<br>
+Good luck and happy VWing!<br>
+Greg<br>
+<br>
+<br>
+<i>I assume everything is still okay with them - I know they made
+it home okay and that is the end goal . . .<br>
+<br>
+Greg Reeves -<br>
+Chico, CA</i></font></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main 
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+	       data-ad-slot="7516194300"
+	            data-ad-format="auto"></ins>
+		    <script>
+		    (adsbygoogle = window.adsbygoogle || []).push({});
+		    </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Fairs%2Fstories" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Fairs%2Fstories" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Fairs%2Fstories" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+	    <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+	<br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://10.152.183.183:3000/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+</script>
+
+</body>
+</html>
