@@ -6,4 +6,7 @@ this was a ~12/2022 capture of a static version of the perl website, generated b
 it's imperfect, particularly since the dynamic parts aren't going to work.
 
 
+this is populated from ../gitlab/website-type2/build.sh
+at least the wallflower branch
+
 
