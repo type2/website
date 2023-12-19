@@ -2,7 +2,6 @@
   "version": 2,
   "headers": [
     {
-      "source": "/((?!.*\\.).*)$",
       "headers": [
         {
           "key": "Content-Type",
