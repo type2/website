@@ -2,6 +2,10 @@
   "version": 2,
   "rewrites": [
     {
+      "source": "/lists/vintagebus/main$",
+      "destination": "/api/serve-no-ext"
+    },
+    {
       "source": "/([^\\.]+)$",
       "destination": "/api/serve-no-ext"
     },
