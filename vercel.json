@@ -1,6 +1,26 @@
 {
   "rewrites": [
     {
+      "source": "/bartnik$",
+      "destination": "/~bartnik/"
+    },
+    {
+      "source": "/m-codes$",
+      "destination": "/~molenaar/m-codes/"
+    },
+    {
+      "source": "/molenaar$",
+      "destination": "/~molenaar/"
+    },
+    {
+      "source": "/rvanness$",
+      "destination": "/~rvanness/"
+    },
+    {
+      "source": "/rescue$",
+      "destination": "/~airsworks/rescue/"
+    },
+    {
       "source": "/~airswork$",
       "destination": "/~airswork/"
     },
