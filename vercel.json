@@ -11,7 +11,7 @@
       ]
     },
     {
-      "source": "/lists/vintagebus/main",
+      "source": "/lists/vintagebus/(.*)",
       "headers": [
         {
           "key": "Content-Type",
@@ -35,7 +35,7 @@
     },
     {
       "source": "/molenaar$",
-      "destination": "/~molenaar/"
+      "destination": "/~molenaar"
     },
     {
       "source": "/rvanness$",
