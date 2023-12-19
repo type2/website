@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/~airswork$",
+      "destination": "/~airswork/"
+    },
+    {
+      "source": "/~bartnik$",
+      "destination": "/~bartnik/"
+    },
+    {
+      "source": "/~keen$",
+      "destination": "/~keen/"
+    },
+    {
+      "source": "/~molenaar$",
+      "destination": "/~molenaar/"
+    },
+    {
+      "source": "/~rvanness$",
+      "destination": "/~rvanness/"
+    }
+  ]
+}
