@@ -1,0 +1,325 @@
+<html>
+<head>
+<title>vintagebus mailing list charter</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/charter -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/charter" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/charter" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<div class="panel panel-default">
+    <div class="panel-body">
+        This list is for 1949 to 1967 buses.  If you don't have one of
+these, or are not interested in them, then you're on the wrong list.
+
+
+<P>Vintagebus is about being in buses on the road, keeping buses on the
+road, and rescuing forlorn or neglected buses and putting them back on
+the road. Mainly, it's a technical/mechanical resource, although we also
+welcome trip reports, for sale advertisements, and &quot;here's what I fixed
+today&quot; messages.
+
+
+<P>This list IS NOT A CHAT SESSION, and if you treat it as one your
+subscription will be cancelled. Before you post a message please make
+sure that it has legitimate bus content. This is enforced.
+
+
+<P>&quot;Legitimate&quot; means that there is a good reason that 800 other people
+should spend their time reading your message. &quot;Bus&quot; means not-Beetle,
+not-Ghia, not anything but aircooled Transporters. There are other lists
+for other models. General mechanical/technical/shop stuff is fine if it
+applies to somebody's Transporter problem.
+
+<P>This really --no kidding-- applies to those of you who signed on by way
+of America On Line and/or who think it would be a good idea to post a
+message in ALL CAPS.
+
+<P>This is a high-volume list. You can expect 30 to 100 messages per day. If
+you aren't prepared to deal with this kind of mail volume, a smart
+alternative is to read the list from its archive on the web
+when you have time:
+
+
+<P>       <A HREF="https://www.type2.com/vintagebusreflect">https://www.type2.com/vintagebusreflect</A>
+
+
+<P>This list only accepts submissions in plain vanilla 7-bit US-ASCII text.
+The list server will intercept and return to its author any message
+whose content type is &quot;multipart&quot;, which means that if you write mail
+in a web browser or in most any Microsoft product you might have to
+make some adjustments. It's no fun, but you might have to consult
+the documentation that came with your mail program. Avoiding MIME-
+encapsulated messages is the only way to ensure that everybody on
+the list can view your message.
+
+
+<P>If you don't know what 7-bits, eighty columns means, please send mail to
+the admin &lt;list@vintagebus.com&gt; so he can explain it to you.
+
+
+<P>The type2.com home page is, predictably, here:
+
+
+<P>   <A HREF="https://www.type2.com/" TARGET="_top">https://www.type2.com/</A>
+
+
+<P>The home page is considered to be part of the list and there is a
+tremendous amount of information there that can help you; you are
+encouraged to explore it. In particular, though, familiarize yourself
+with the Library and Archive pages.
+
+
+<P>The Library page gives you access to hundreds of bus tech articles
+from all over the net indexed by subject matter.
+
+
+<P>The Archive page gives you access to every post to the bus mailing
+lists, with the ability to search by any word in the subject line or the
+body of the post.
+
+
+<P>You are expected to run a search thru the Archives and to have looked in
+th Library before posting questions to the list. This is to your
+advantage: you have hundreds of megs of hardcore answers to your questions
+and the search tools to pull out the information you need.  You'll get
+more answers faster from the search engines than you will if you ask the
+list to spoon-feed you. Please use this resource early and often.
+
+
+<P>When replying to list messages, please quote only for context. Do not
+quote entire messages. Do not quote other people's signature files. Cut
+quotes to the bone. We already read it once. This ain't usenet.
+
+
+<P>FRIDAY. TGIF is an institution that started on v@l, our motherlist. It's
+a release, it's a morale-builder, it's when the content restrictions get
+loose. Understand that Friday ends at midnight on that day, it does not
+endure indefinitely. And, even on Friday, messages must have bus content.
+
+
+<P>There are some subjects that are only appropriate on Friday. These
+include toys, models, memorabilia, sightings, and surveys. Surveys are
+those threads that seek everybody's subjective opinion. Sightings are
+messages about buses spotted in movies and television shows and
+commercials. Please do not post messages on these subjects on any other
+day. Newbies are encouraged to get the feel of it first; there's a line,
+and the veterans know where it is.
+
+
+<P>Here are the &quot;do not evers&quot;. If you do these things you will probably get
+booted:
+
+
+<P> --do not ever post &quot;test&quot; messages. (e-mail the administrator,
+                                      <A HREF="mailto:list@vintagebus.com">list@vintagebus.com</A> instead!)
+ <P>--do not ever post server commands to the list.
+ <P>--do not try to post binaries to the list.
+ <P>--do not continue a thread after the admin has asked that it be killed.
+
+
+<P>-------------------------------------------------------------------------------
+
+
+<P>LEGAL STUFF:
+
+
+<P>1. This is not a moderated list. The administrator doesn't see the
+messages until you do, maybe later than you do, and because of the nature
+of this medium the administrator has no way of retracting messages from
+public view. Propogation is automatic; once you send a message, it's
+gonna go, and there's no way of stopping it.
+
+
+<P>2. Since that is true, the administrator cannot control what is posted to
+this list, and therefore disclaims any responsibility for the messages
+the list server propogates. If you post a message, you alone are
+responsible for it. If you don't like that, don't post messages.
+
+
+<P>3. By United States copyright law, messages posted to this list are
+copyrighted with all rights reserved by their respective authors. The
+administrator of this list makes no claim to ownership of your messages and
+will not republish or sell them, and neither should anybody else.
+
+
+<P>However, cross-posting is common on the Net whether it is authorized or
+not, and if you post a message to this list it will automatically be
+entered into at least two publicly accessible archives, where it will
+remain permanently. If you don't like the possibility of your words being
+cross-posted or archived, then don't post messages.
+
+    </div>
+</div>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Fcharter" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Fcharter" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Fcharter" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

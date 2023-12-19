@@ -1,5 +1,5 @@
-archive*
-!archive*.html
-ezmlm*
-!ezmlm*html
-mail-archive*
+#archive*
+#!archive*.html
+#ezmlm*
+#!ezmlm*html
+#mail-archive*
