@@ -1,10 +1,5 @@
 {
   "version": 2,
-  "overrides": {
-    "lists/vintagebus/main": {
-      "contentType": "text/html"
-    }
-  },
   "rewrites": [
     {
       "source": "/([^\\.]+)$",
