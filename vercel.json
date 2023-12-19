@@ -1,5 +1,15 @@
 {
   "version": 2,
+  "version": 3,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static",
+      "config": {
+        "buildCommand": "mkdir -p .vercel/output/static && rsync -av --exclude .git --exclude .vercel --exclude node_modules . .vercel/output/static"
+      }
+    }
+  ]
   "rewrites": [
     {
       "source": "/([^\\.]+)$",
