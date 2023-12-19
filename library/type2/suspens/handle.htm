@@ -1,0 +1,323 @@
+<html>
+<head>
+<title>Increasing Split Stability and Handling</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /library/type2/suspens/handle.htm -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+	
+	        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+				</button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main">AIRS</a></li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu ">
+            <li><a href="/lists/vintagebus/main">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown active">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+	<li class=""><a href="/donate">Donate</a></li> 
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+      	<div class="form-group">
+	  <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+	</div>
+	<button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/library/type2/suspens/handle.htm" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/library/type2/suspens/handle.htm" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.6.0">
+
+</head>
+<body>
+<h3>Increasing Split Stability and Handling</h3>
+<p>by Jason McDaniel</p>
+<hr size="2">
+<blockquote><font size="+1"><i>...it sounds the camber compensator
+is not all it is cracked up to be. A list member said a better
+option would be the spring that bolts to the frame horns rather
+than the tranny case. Is this the "z-bar"? I have a 1960 double cab
+and want it as safe as possible.This includes adding steering
+stablizers. I have not added anything to the front yet as I want to
+make it compatible with what I do to the front. My impression so
+far is the CC is not worth it, and this z-bar, which i don't know
+what it is, would be the better choice. Do the list members
+concur?</i></font></blockquote>
+<font size="+1"><br></font>
+<p><font size="+1">Richard, the *Z* bar was used by Volkswagen in
+1967-68 beetles and Type IIIs.</font></p>
+<p><font size="+1">Formula V racers have adapted adjustable
+anti-roll bars into Z bars by turning one of the arms 180 degrees
+(approx) from its original location, and then fabricating custom
+mounts and links for it. Formula V racers have also tried all other
+sorts of rear suspension tweeking, like the zero roll suspension,
+that would not be suitable on a street car. Take a look at a manual
+that describes 1967 beetles to see what the *Z* bar looks like, and
+where it is mounted.</font></p>
+<p><font size="+1">Without fabrication, the Camber Compensator is
+really your only choice, and it is not a bad choice. I used the one
+that mounts to the transaxle, and I drive my cars hard, long and
+often. I have to do periodic maintaince MUCH earlier than my
+friends because of it. The transaxle mounted CC does CONTRIBUTE to
+my transaxle mounts going bad, but that is par for the course...you
+take the good with the bad. Even after changing out the mounts, I
+will keep the CC on the car. The solution to the mounts problem is
+to find or fabricate a mount that attaches to the frame rather than
+the transaxle, though this may only help a little, the axles and
+therefore the mounts absorb a lot of the cornering force, and if
+the CC allows you to corner faster (with more force) then every
+other component will be stressed more.</font></p>
+<p><font size="+1">On my '57 Kombi, I am considering welding a
+custom CC mount straight to the frame horns. That bus also has a
+custom rear engine mount (wish I has thought about using the late
+bus mount, would have saved some time, and looked more
+stock)</font></p>
+<p><font size="+1">If you really want to be SAFE and have a
+comfortable drive in a well handling car or bus, then convert it to
+a double-jointed rear axle. Buses have a few over the counter
+options, using a bug IRS setup, a late bus IRS setup, or you could
+fabricate something outrageous. I've seen photos (in Volks World)
+from Holand of a guy's fastback with Porsche 911 rear suspension
+(and engine and transaxle).</font></p>
+<p><font size="+1">As far as simple handling adjustments go, my
+list would read like this, and I would implement them somewhat in
+this order: (I am asuming you have a good alignment, the front end
+is in A-1 condition, and that you adjust your linkpins and lube the
+chassis every 3000 miles and have good rubber bump stops) See the
+brake notes at the end.</font></p>
+<p><font size="+1">Change the tires to 185SR15 Michelins (sp) XVX
+or whatever the newest X series tire is. Make sure they have a
+build date within the last year, as they have a limited shelf life
+(7-10 years). I would change to the 15" rim, even if I had a
+'63-'70 bus. Check the inflation, and keep it maintained. Using XVX
+tires on my stock beetle (165SR15) I inflate to 23lbs in the front
+and 28 or 29 lbs in the rear. I would start a bus at around 28lbs
+in front and 30-32 lbs in back and work from there.</font></p>
+<p><font size="+1">Add *flop stops* that do not allow the spring
+plate to droop too far, and spring plate retainers that will not
+allow the spring plate to jump off the lower stop and tuck under
+the bus. Dune buggy suppliers have this stuff. You will bottom out
+(top out?) on the flop stop if you drive on VERY bumpy roads at
+speed.</font></p>
+<p><font size="+1">Change the shock absorbers to Boge HD stock
+units. They will NOT give you slot car like traction, but are
+idealy suited to spirited driving in an otherwise stock bus, and
+will not rattle your fillings out like KYB Gas-Adjust shocks. Make
+sure you are getting the HD units. Others have their favorite brand
+of shocks.</font></p>
+<p><font size="+1">Add a front anti-roll bar. You can get them new
+from Sway-A-Way or get one off a '66 or later bus. New mounts,
+including clamps, can be purchased from West Coast Metric. Get new
+mounts and clamps. The anti-roll bar increases roll stiffness,
+without changing the original spring rate (more stiffness around a
+corner, but stock stiffness going over a speed bump). If your bus
+is lowered a lot using an Albatros lowering kit from Bus Boys
+(turned springs) then the anti-roll bar may stick down too low and
+snag on minor bumps or high crown roads.</font></p>
+<p><font size="+1">Add a camber compensator. Just the plain jane
+one that Sway-A-Way sells. Keep it lubed at the center link and the
+axle straps.</font></p>
+<p><font size="+1">After the transaxle mounts fail, change them out
+with Gene Berg Heavy Duty mounts.</font></p>
+<p><font size="+1">Add a rear engine mount from a '68-'71 bus, or
+fabricate it (the harder way) or adapt a traction bar (from Gene
+Berg or others)</font></p>
+<p><font size="+1">Add a Gene Berg transaxle cener section mount.
+He doesn't make one for buses, so you have to buy the parts
+unwelded, and adapt them yourself.</font></p>
+<p><font size="+1">De-camber the rear axle, and add adjusters to
+the front to adjust it (by changing the heigth of the front using
+adjusters, you change the lever arm angle on the torsion bars) (by
+changing the rake of the bus, you change the corner weights) (you
+can do this, and keep the reduction boxes, and still have a *stock*
+looking ride)</font></p>
+<p><font size="+1">Use HD donut bushings at the front of the spring
+plates, on the rear torsion bars. (they squeek, and have to be
+lubed constantly) (you will HATE the squeeking) Does anyone out
+there have other solutions for torsion bushings BTW. Something
+strong, quiet, and will still give a little. No bronze bushings
+please! Has anyone ever installed zerk fittings to lube these
+parts, one in the cover and one in the housing?</font></p>
+<p><font size="+1">Change out the torsion bars (front or rear) to
+others more suited to your purpose. Ambulance bars are softer, and
+firetruck bars are stiffer. Earlier buses can easily use later,
+stiffer torsion bars.</font></p>
+<p><font size="+1">Change to double-jointed rear suspension
+(IRS).</font></p>
+<p><font size="+1">Add wider and/or lighter custom wheels, with
+lower profile tires. Porsche 4.5 wheels are a little lighter, and
+better vented, and more offset, Porsche 5.5 wheels are all that and
+wider. Sprint Stars are stiffer, wider and have more offset, but
+are just as heavy (or heavier). Rader, American Racing, Flat Four
+and MSW have made 5on205 pattern wheels that fit early
+buses.</font></p>
+<p><font size="+1">Buy a Porsche ;-) and put the VW logo on the
+front.</font></p>
+<p><font size="+1">Make sure the brakes are in top notch shape, or
+upgraded and in top notch shape. The easiest upgrade you can make
+is just adding stainless or kevlar brake lines to increase braking
+power, but you have to inspect them more often, and change the line
+whenever you change the cylinder, as a rule. Early buses can change
+out to the later brakes (and fit custom wheels easier) without
+changing out the beam by using '63 only kingpin carriers and
+spindles. They have the small linkpins to fit early torsion arms,
+and later spindles to fit later brakes. There are LOTS of other
+brake upgrades available, search the archives.<br></font></p>
+<hr size="1">
+<font size="+1"><a href="../library.htm"><img class="img-responsive" src=
+"../images/liblogo.gif" border="0" alt="Back to Library"></a>
+<a href="../suspens.htm"><img class="img-responsive" src="../images/suspens.gif" border=
+"0" alt="Suspension"></a><br></font>
+</body>
+</html>
+
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main 
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+	       data-ad-slot="7516194300"
+	            data-ad-format="auto"></ins>
+		    <script>
+		    (adsbygoogle = window.adsbygoogle || []).push({});
+		    </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fsuspens%2Fhandle.htm" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fsuspens%2Fhandle.htm" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fsuspens%2Fhandle.htm" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+	    <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+	<br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://10.152.183.183:3000/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,324 @@
+<html>
+<head>
+<title>Overheating Troubleshooting Guide for Air-Cooled VWs</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /library/type2/cooling/coolsami.htm -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+	
+	        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+				</button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main">AIRS</a></li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu ">
+            <li><a href="/lists/vintagebus/main">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown active">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+	<li class=""><a href="/donate">Donate</a></li> 
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+      	<div class="form-group">
+	  <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+	</div>
+	<button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/library/type2/cooling/coolsami.htm" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/library/type2/cooling/coolsami.htm" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.6.0">
+
+</head>
+<body>
+<h3>Overheating Troubleshooting Guide for Air-Cooled VWs</h3>
+<p>by Sami Dakhlia</p>
+<hr size="2">
+<h3><font size="+1">* Why care?</font></h3>
+<p><font size="+1">Unlike a watercooled engine, there is no
+safeguard: watercooled engine will boil over and force car to stop,
+thereby preventing further damage to engine. On the other hand,
+unless equiped with an oil temp gauge, the driver of air-cooled
+automobile will not know if temp suddenly goes up. Consequences of
+overheating is first damage to gaskets and if it gets really hot,
+breakdown of oil viscosity hence lubrication failure.</font></p>
+<h3><font size="+1">* Is it really overheating?</font></h3>
+<p><font size="+1">Gauges are not always accurate; try dipstick
+test. Can you hold dipstick without burning your fingers? Verify
+gauge calibration by plunging temp sender in boiling water (212 F,
+100 C).</font></p>
+<p><font size="+1">Note that you may not find out if your engine is
+prone to overheating unless you drive it at cruising speed for at
+least 1/2 hour. That's the time it takes mine to reach the steady
+state temp.</font></p>
+<h3><font size="+1">* What is a "correct" temperature?</font></h3>
+<p><font size="+1">180 F: too cool; is the thermostat still
+there?</font></p>
+<p><font size="+1">180-210: peachy.</font></p>
+<p><font size="+1">210-250: can live with it; many busses w/ type4
+engines get that hot under load in the summer.</font></p>
+<p><font size="+1">250-280: something is wrong and must be fixed;
+however, viscosity of good synthetic oil should still be fine. If
+it's after dark and I'm in East St. Louis, I keep on
+driving.</font></p>
+<p><font size="+1">280 F: better stop; unless the oil pressure
+light is on (in which case you must shut the engine off
+immediately!), let the engine run. Glen Buhlman recommends that it
+not be left idling, but that revving it will allow the fan to do a
+better job of cooling the engine.</font></p>
+<hr size="1">
+<h2><font size="+1">* Troubleshooting</font></h2>
+<p><font size="+1">Problems can roughly be classified as either
+cooling problems or as heat generation problem:</font></p>
+<h3><font size="+1">* Cooling *</font></h3>
+<p><font size="+1">- <b>hot summer day?</b> (duh)</font></p>
+<p><font size="+1">- <b>driving in the wrong gear?</b> Remember
+that for a given speed, higher engine rpm =&gt; faster cooling fan
+=&gt; cooler engine.</font></p>
+<p><font size="+1">- <b>do you keep your engine lid open to "let
+heat escape"?</b> Don't. For better cooling and to make work easier
+for the fan (hence the engine), you need positive air
+pressure.</font></p>
+<p><font size="+1">- <b>missing or damaged seal between engine and
+engine compartment?</b> (you don't want to "recycle" hot
+air.)</font></p>
+<p><font size="+1">- <b>holes in tin</b>: are all seals and covers
+there? At holes for sparkplug wires, oil pressure switch, CHT
+sensor (on FI models), adjusting screw for alternator belt (type 4
+engines)? Is all the tin there, correctly installed and tight? No
+fastening screws missing? A listmember found that missing the seals
+for the spark plug holes increased oil temp by 10-15 F. I've heard
+that Corvair spark plug seals are superior to VW seals.</font></p>
+<p><font size="+1">- Kim Kariotis says: "Be sure the aux heater fan
+is properly ducted to the engine. There are flapper valves in the
+fan housing that prevent your cooling air from escaping through the
+auxiliary fan via the ducts. No ducts, big leak, engine runs hotter
+than it should."</font></p>
+<p><font size="+1">- <b>oil cooler unobstructed and clean?</b>
+Leaves and debris can be sucked in through the fan and cover up the
+oil cooler; if the cooler is oily, dust will stick to it, impeding
+air flow and acting as an insulator.</font></p>
+<p><font size="+1">- <b>do you have chrome valve covers?</b> Valve
+covers are in contact with oil and work as oil coolers, *provided
+they're black*.</font></p>
+<p><font size="+1">- <b>clean engine?</b> The goop under your
+engine acts like an insulator; scrape it off.</font></p>
+<p><font size="+1">- <b>type of oil</b>: air-cooled engines are
+also oil-cooled and some oil brands are better than others at
+picking up heat in the engine and shedding it in the oil cooler. A
+reputable source (Ed Hackett) told me that synthetics are better in
+that regard, although some listmembers did not share that belief
+based on their personal experience. (Note that synthetics are much
+better at withstanding high temps, hence provide added protection
+for overheating engines.)</font></p>
+<p><font size="+1">- <b>amount of oil</b>: too little ain't good;
+too much ain't good either.</font></p>
+<p><font size="+1">Dennis Haynes says to keep it halfway between
+the marks on the dipstick. If there's too much, it get's beaten
+into foam, causing a drop in pressure and less cooling.</font></p>
+<h3><font size="+1">* Heat Generation *</font></h3>
+<p><font size="+1">- <b>timing</b>: check advance at idle and check
+total advance, too. Compare with specs in Bentley. (Still not clear
+to me if heat goes up steadily with total advance, or if the only
+significant increase in heat is the jump at the detonation
+threshold.) It is generally said that 29 deg total advance is safe
+and that 32 is "pushing the envelope". I'm not sure if this applies
+to type 1 engines only or to all VW air-cooled engines. When I
+checked up the specs of the dual vacuum dizzy for my type4 in
+Bentley, I found that 40 deg total advance is normal; unless I
+misunderstood the figures...</font></p>
+<p><font size="+1">- <b>lean running</b>: adjust carbs or, if you
+have fuel injection, check for false air. False air is air that
+sneaks into the intake manifold without first passing through the
+air-flow meter; hence the computer underestimates the amount of
+fuel to be injected. Possible sources of false air are an EGR valve
+that was not disabled, say, after the EGR filter fell off; old,
+leaky rubber boots at the air intake distributor, disconnected
+vacuum hoses, etc.</font></p>
+<p><font size="+1">- <b>engine friction</b>: general condition of
+the short-block; crankshaft endplay is said to be a good indicator
+(provided it was not reset since the last rebuild). A smooth,
+well-balanced engine will be more efficient and generate less heat.
+Retorque the heads. If you suspect a bearing is going bad, have a
+lab analyze your oil.</font></p>
+<p><font size="+1">- <b>non-engine friction</b>: poor aerodynamics
+exacerbate the fact that required work is proportional to the
+square of speed. Hence you need about 40% more hp to go 65 mph
+instead of 55 mph. Reduce loss to friction in transmission by
+replacing transmission fluid every 2 (?) years. Do wheels turn
+easily? Check wheel bearings, look for binding brakes...</font></p>
+<p><font size="+1">- <b>air-intake thermostat</b>: here's an exotic
+one. I'm talking about the tiny thermostat located before the air
+filter, which selects whether air destined for combustion should be
+cool air from the engine bay or preheated air. (Often, on older
+cars (non VW) there was no such thermostat, just a lever that could
+be switched either to the "summer" or the "winter" position.) Now,
+if this thermostat is stuck in the "preheat" position on an already
+hot day, you'll be burning really hot air. A quick
+back-o'-the-envelope calculation shows that a 2 liter engine
+turning at 4,000 rpm will suck in 4,000 liters (that's about 1,000
+gallons) of air every minute. That should be a lot of
+btu's...</font></p>
+<p><font size="+1">- <b>valves adjusted?</b> A tight exhaust valve,
+for example, will never completely close and will let partially
+unburned fuel escape into the exhaust system, which in turn gets
+extremely hot. Moreover the loss of compression in that cylinder
+translates into loss of power, hence requires more work from the
+other 3 cylinders to keep up initial speed.<br></font></p>
+<hr size="1">
+<font size="+1"><a href="../library.htm"><img class="img-responsive" src=
+"../images/liblogo.gif" border="0" alt="Back to Library"></a>
+<a href="../cooling.htm"><img class="img-responsive" src="../images/cooling.gif" border=
+"0" alt="Back to Cooling"></a><br></font>
+</body>
+</html>
+
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main 
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+	       data-ad-slot="7516194300"
+	            data-ad-format="auto"></ins>
+		    <script>
+		    (adsbygoogle = window.adsbygoogle || []).push({});
+		    </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fcooling%2Fcoolsami.htm" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fcooling%2Fcoolsami.htm" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fcooling%2Fcoolsami.htm" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+	    <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+	<br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://10.152.183.183:3000/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+</script>
+
+</body>
+</html>
