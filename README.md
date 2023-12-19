@@ -2,7 +2,12 @@
 
 This is dual deployed to vercel and render:
 
-https://vercel.com/type2com/website  --> https://website-tau-jet.vercel.app/
+https://vercel.com/type2com/website  -->
+
+dev branch --> https://website-tau-jet.vercel.app/
+master branch --> https://www.type2.com/
+
+
 
 https://dashboard.render.com/static/srv-cebb9farrk0bbte9vqm0 --> https://type2.onrender.com/
 
