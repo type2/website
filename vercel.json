@@ -2,6 +2,7 @@
   "version": 2,
   "headers": [
     {
+      "source": "/([^\\.]+)$",
       "headers": [
         {
           "key": "Content-Type",
@@ -20,10 +21,6 @@
     }
   ],
   "rewrites": [
-    {
-      "source": "/([^\\.]+)$",
-      "destination": "/api/serve-no-ext"
-    },
     {
       "source": "/bartnik$",
       "destination": "/~bartnik/"
