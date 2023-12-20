@@ -28,6 +28,8 @@ The homedir pages can't be ignored either.
 - **`dev` Branch:** https://website-tau-jet.vercel.app/
 - **`master` Branch:** https://www.type2.com/
 - **Dynamic Branch Environments:** Patterned URLs like `https://website-git-[branch-name]-type2com.vercel.app/`
+- **`wallflower` Branch:  contains a full wallflower build of the perl site with oldarchive directories intact - will not deploy to vercel.
+
 
 ### Render Deployment
 
@@ -97,5 +99,5 @@ molenaar/molenari - site is fairly broken and missing parts.  not sure if it's s
 
 /bartnik - redir to library?
 
-/airs - ...dirs to rescue already.
+/airs DONE
 
