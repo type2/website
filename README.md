@@ -1,127 +1,71 @@
-# type2.com
+# Type2.com Repository Documentation
 
+## Overview
 
----
+This repository contains the code and configuration for Type2.com. It includes the integration of a new dynamic site with the older static content, ensuring backward compatibility and maintaining existing URLs.
 
+### Key Features
 
-NOTE:  running local with `vercel dev` none of the headers work.  everything else works, but not that.
+Overlay of the new site on the old site - retaining all of the historical content and links.
 
-this is BROKEN.  it sorta works. (only because we manually set content-types)
+Turned off the dynamic new website features since they wont work in a static hosted environment.   This means AIRS is dead, again.
 
-what's missing is that directory paths don't self-redirect to the trailing slash version:
+All code is now manually maintained - there's no build path from the perl site to this currently.
 
-  "trailingSlash": true,
-fixes it.  sorta.   it means anything w/o extension gets a slash.  which..kinda works...it doesnt do anything for urls with dots in them, lol stupid logic
 
+## IMPORTANT
 
-example:
+We can't just change url paths - we have 25 years of backlinking out on the internet to, now, TWO versions of the website - http for the old site and https for the new site.  We need rewrites and redirects to keep the old paths in place.
 
-https://www.type2.com/~keen/webertech
-doesnt redirect to https://www.type2.com/~keen/webertech/
+The homedir pages can't be ignored either.
 
-so relative links on the page break.  (ie, links on webertech/ becomes /~keen/...)
 
-there are not enough rewrite rules or redirect rules allowed to "fix" this since we have to do them one by one.
+## Deployment
 
+### Vercel Deployment
 
+- **Repository:** https://vercel.com/type2com/website
+- **Development Branch:** https://website-tau-jet.vercel.app/
+- **Master Branch:** https://www.type2.com/
+- **Dynamic Branch Environments:** Patterned URLs like `https://website-git-[branch-name]-type2com.vercel.app/`
 
+### Render Deployment
 
-STILL MISSING is oldarchive - those add about 4G of space, which is supposed to be supported by vercel but actually breaks deployment.   they also all need content-type support....
+- **Dashboard:** https://dashboard.render.com/static/srv-cebb9farrk0bbte9vqm0
 
+unsupported, can't resolve the content-type and trailing slash issues
 
-the content-type problem is baked in - they only use extensions to get content-type:
-https://github.com/vercel/vercel/pull/9498/files
+### Cloudflare Pages Deployment
 
+https://dash.cloudflare.com/3d0181005ccae6e89efc11e0b042ebe5/pages/view/type2
 
+unsupported, can't resolve the content-type and trailing slash issues
 
+## Issues and Workarounds
 
----
+### Trailing Slash Issue
 
-this is MERGED with a wallflower build version of the "new" dynamic site, plus a wget mirror of parts that can't be built through wallflower.
+Vercel by default doesnt add trailing slashes to directories - which breaks relative links.   `"trailingSlash": true,` works around this, but _that_ means that all URIs without dots in them get redirected to the trailing slash version - so our header rules have to reflect that.  its...ugly.
 
+This DOES NOT fix it for URIs with dots in them (website mirrors, particularly).
 
+### Content-Type Handling
 
+Vercel uses file extensions to determine content-type - which breaks all of the files in older parts of the website that relied on apache/unix mimetype magic.  You can use `guess-mimetypes.sh` to recreate the headers section of vercel.json if these change.
 
-NOTES:
+### Old Archive Inclusion
 
-this is a OVERLAY of the NEW site on the OLD site.   this leaves the old urls primarily intact, so existing links continue to work.   this also leaves NEW site links working.
+- Including 'oldarchive' adds about 4GB, which is breaks vercel deployment even though it's under the 13g max.
+- The oldarchive requires content-type handling for each file as well (or patterns)
 
-we have 25 years worth of backlinking to now both variations, on both http and https.    it's important to keep these working.
+## Development Notes
 
+- The site is a combination of a Wallflower build of the perl site and a wget mirror of parts that can't be built through Wallflower, overlayed on top of the complete old site.
+- The static copy of the old site was assembled around 12/12/2022 from the filesystem of `purple.type2.com`, the wallflower build was around 12/15/2022
+- Contains symlinks for directories like `./bartnik`, `./rvanness`, etc., to maintain the structure of the original site
 
+## Building and Running Locally
 
-cloudflare:  no way to set content types for un-extensioned files....so it's pretty much dead for this.
-
-vercel:  we have to generate conten-types for all un-extensioned
-
-also, relative paths inside dir paths without trailing slashes break.  so we ahve to generate redirects for any time someone lands on a dir withotu a slash to redirect to a dir with a slash.
-
-
-render:
-Render lets you define response headers for your static sites in your dashboard.
-yuck.
-
-
-
-
-
-# type2.com
-
-this was a ~12/2022 capture of a static version of the perl website, generated by wallflower
-
-it's imperfect, particularly since the dynamic parts aren't going to work.
-
-
-this is populated from ../gitlab/website-type2/build.sh
-at least the wallflower branch
-
-
-----
-
-
-
-
-This is dual deployed to vercel and render:
-
-https://vercel.com/type2com/website  -->
-
-dev branch --> https://website-tau-jet.vercel.app/
-
-master branch --> https://www.type2.com/
-
-Dynamic branch envs use this pattern:
-
-https://website-git-dev-type2com.vercel.app/
-https://website-git-master-type2com.vercel.app/
-
-
-
-https://dashboard.render.com/static/srv-cebb9farrk0bbte9vqm0
-
-master branch --> https://type2.onrender.com/
-
-12/19/23 render is broken internally - wont clone, so no updates since 12/12/22
-
-----
-
-
-
-
-this is a static copy of the old www.type2.com website - before the https/perl version.
-
-this was assembled ~12/12/2022 from the filesystem of purple.type2.com and _should_ reflect how the webserver served it, complete with homedirs etc
-
-base from home/www/type2.com/public_html/
-
-has 6 symlinks:
-
-./bartnik
-./rvanness
-./rescue
-./archives
-./m-codes
-./molenari
-
-so we can work around these as needed
-
+- Use the command `vercel dev` for local development.
+- Note that running locally, headers will not work as expected.
 
