@@ -1262,28 +1262,6 @@
     {
       "source": "/([^\\.]+)$",
       "destination": "/$1/"
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/bartnik$",
-      "destination": "/~bartnik/"
-    },
-    {
-      "source": "/m-codes$",
-      "destination": "/~molenaar/m-codes/"
-    },
-    {
-      "source": "/molenaar$",
-      "destination": "/~molenaar"
-    },
-    {
-      "source": "/rvanness$",
-      "destination": "/~rvanness/"
-    },
-    {
-      "source": "/rescue$",
-      "destination": "/~airsworks/rescue/"
     },
     {
       "source": "/~airswork$",
@@ -1304,6 +1282,40 @@
     {
       "source": "/~rvanness$",
       "destination": "/~rvanness/"
-    }
+    },
+    {
+      "source": "/bartnik$",
+      "destination": "/bartnik/"
+    },
+    {
+      "source": "/m-codes$",
+      "destination": "/m-codes/"
+    },
+    {
+      "source": "/rescue$",
+      "destination": "/rescue/"
+    },
+  ],
+  "rewrites": [
+    {
+      "source": "/bartnik/(.*)$",
+      "destination": "/~bartnik/$1"
+    },
+    {
+      "source": "/m-codes/(.*)",
+      "destination": "/~molenaar/m-codes/$1"
+    },
+    {
+      "source": "/molenaar/(.*)$",
+      "destination": "/~molenaar/$1"
+    },
+    {
+      "source": "/rvanness/(.*)$",
+      "destination": "/~rvanness/$1"
+    },
+    {
+      "source": "/rescue/(.*)$",
+      "destination": "/~airsworks/rescue/$1"
+    },
   ]
 }
