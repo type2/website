@@ -7,6 +7,10 @@ this is BROKEN.  it sorta works. (only because we manually set content-types)
 
 what's missing is that directory paths don't self-redirect to the trailing slash version:
 
+  "trailingSlash": true,
+fixes it.  sorta.   it means anything w/o extension gets a slash.  which..kinda works...
+
+
 example:
 
 https://www.type2.com/~keen/webertech
@@ -18,7 +22,14 @@ there are not enough rewrite rules or redirect rules allowed to "fix" this since
 
 
 
+
 STILL MISSING is oldarchive - those add about 4G of space, which is supposed to be supported by vercel but actually breaks deployment.   they also all need content-type support....
+
+
+the content-type problem is baked in - they only use extensions to get content-type:
+https://github.com/vercel/vercel/pull/9498/files
+
+
 
 
 ---
