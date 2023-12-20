@@ -2,7 +2,16 @@
   "version": 2,
   "headers": [
     {
-      "source": "/((?!.*\\.).*)$",
+      "source": "/lists/type2/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
       "headers": [
         {
           "key": "Content-Type",
