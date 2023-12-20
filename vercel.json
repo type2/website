@@ -1316,6 +1316,6 @@
     {
       "source": "/rescue/(.*)$",
       "destination": "/~airsworks/rescue/$1"
-    },
+    }
   ]
 }
