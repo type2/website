@@ -1,6 +1,28 @@
 # type2.com
 
 
+---
+
+this is BROKEN.  it sorta works. (only because we manually set content-types)
+
+what's missing is that directory paths don't self-redirect to the trailing slash version:
+
+example:
+
+https://www.type2.com/~keen/webertech
+doesnt redirect to https://www.type2.com/~keen/webertech/
+
+so relative links on the page break.  (ie, links on webertech/ becomes /~keen/...)
+
+there are not enough rewrite rules or redirect rules allowed to "fix" this since we have to do them one by one.
+
+
+
+STILL MISSING is oldarchive - those add about 4G of space, which is supposed to be supported by vercel but actually breaks deployment.   they also all need content-type support....
+
+
+---
+
 this is MERGED with a wallflower build version of the "new" dynamic site, plus a wget mirror of parts that can't be built through wallflower.
 
 
