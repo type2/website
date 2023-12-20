@@ -1259,6 +1259,8 @@
       "source": "/login/register/",
       "headers": [{ "key": "Content-Type", "value": "text/html" }]
     },
+  ],
+  "redirects": [
     {
       "source": "/airs/main.html",
 
