@@ -1,0 +1,370 @@
+<html>
+<head>
+<title>Diagnosing Engine Trouble</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /library/type2/engineg/dengt.htm -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+	
+	        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+				</button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main">AIRS</a></li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu ">
+            <li><a href="/lists/vintagebus/main">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown active">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+	<li class=""><a href="/donate">Donate</a></li> 
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+      	<div class="form-group">
+	  <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+	</div>
+	<button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/library/type2/engineg/dengt.htm" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/library/type2/engineg/dengt.htm" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.6.0">
+
+</head>
+<body>
+<h3>Diagnosing Engine Trouble</h3>
+<p>by David Schwarze</p>
+<hr size="2">
+<p><font size="+1">For the benefit of those who may someday be
+stuck out in the boonies with an inoperative or semi-operative bus,
+I suggest the following. Comments / corrections welcomed, of
+course. All of this is in reference to 72-74 bus engines with dual
+Solex carbs, but most of it is applicable to other busses as
+well.</font></p>
+<p><font size="+1"><b>THE BASICS</b></font></p>
+<p><font size="+1">Your engine needs three basic things to run -
+compression, fuel, and spark. Your engine needs three basic things
+to run - compression, fuel, and spark.</font></p>
+<p><font size="+1">I repeated that line because it is fundamental.
+An elderly man told me that when I was in my early teens, then
+proceeded to diagnose and repair the lawnmower-engine-powered
+minibike I was riding (well, pushing). If you are having engine
+trouble, it will likely be lack of compression, lack of fuel, or
+lack of spark. Confronted with a problem such as what happened on
+the baja run with Brian's bus, I would have attacked these areas
+one at a time in the following order:</font></p>
+<p><font size="+1"><b>COMPRESSION</b></font></p>
+<p><font size="+1">Check compression first. A compression tester is
+something that I always bring on long trips. Pull all four spark
+plugs *first*, then remove the coil wire and check the cylinders
+one at a time. Hold in the clutch so your starter won't have to
+spin the clutch disc and transaxle input shaft. All four cylinder
+readings should be over 100 psi and within 15% of each
+other.</font></p>
+<p><font size="+1">(Aside: If you have a good ear you can do a
+pseudo-quickie compression check by simply disconnecting the coil
+wire, cranking the engine, and listening to the pulses. If you hear
+"da da DA da da da DA da da da DA da" you probably have a weak
+cylinder. If the pulses all sound the same compression is probably
+okay. A real compression test will tell you a lot more. I've also
+noticed this doesn't work very well on type I engines for some
+reason.)</font></p>
+<p><font size="+1">The results of the compression test will tell
+you whether to proceed or think about a tow truck. If compression
+is low on one or more cylinders, there are a couple of things you
+can do. First is check the valve lash. Tight valves will lower or
+eliminate compression. If the valves are okay, you might look for
+loose cylinder head bolts, but that's about it. Failing those two
+things, you have serious internal engine trouble. It's good to know
+sooner rather than later. If you're a glutton for punishment you
+can get some more information by pulling the valve covers and
+looking for motionless valves while the engine is being cranked
+(watch out for flying oil!).</font></p>
+<p><font size="+1">If the engine passes the compression test, move
+to electrical next. I have found that electrical problems are much
+more common than fuel problems.</font></p>
+<p><font size="+1"><b>ELECTRICAL</b></font></p>
+<p><font size="+1">If the bus won't start, have someone get ready
+to crank it for you. Pull the center wire off of the distributor
+and hold it very close to where it plugs into the center of the
+cap. Preferably hold it with an insulated tool, or use a glove.
+Don't hold onto the body of the bus with your other hand. Don't
+have bare feet. Have your friend crank the engine with the key on
+and a decent sized blue spark should jump repeatedly from the end
+of the wire to the place where you plug it into the cap.</font></p>
+<p><font size="+1">If you see the spark, you are doing pretty well
+and most likely don't have an electrical problem. The only other
+electrical thing that could keep your engine from starting in this
+case would be if the timing was way, way off.</font></p>
+<p><font size="+1">If you don't see the spark, check that the coil
+is getting current at the + terminal. Use a multimeter if you have
+one. A multimeter is something that I always bring on long trips.
+If the coil has 12V and you aren't getting spark, you have either a
+bad coil, bad condensor, bad points (check that the point gap is
+reasonable: .015-.020"), or bad coil wire.</font></p>
+<p><font size="+1">If the bus is running at all, do the following.
+While the engine is running, and using the same cautions listed
+above, pull one wire at a time from the distributor cap, then
+replace it (not the center wire though). Each time you pull a wire,
+the rpm of the motor should drop considerably, and should increase
+when you plug the wire back in a couple of seconds later. Do all
+four and note which (if any) are not changing the RPM of the
+engine. If all four cause the RPM to drop, you probably do not have
+an electrical problem. In fact, you probably don't have any problem
+at all, so let's assume at least one wire does not cause a drop in
+engine rpm.</font></p>
+<p><font size="+1"><b>*** This next section is important
+***</b></font></p>
+<p><font size="+1">If <b>ONE</b> wire out of four does not drop the
+RPMs, suspect the following:</font></p>
+<p><font size="+1">a) that plug wire (switch two wires to test)<br>
+b) spark plug (pull it, look for cracks in the porcelain, obvious
+damage)<br>
+c) distributor cap (look for cracks, burnt contacts)<br></font></p>
+<p><font size="+1"><b>FUEL</b><br>
+(yeah, we're switching to fuel right in the middle of this
+test!)</font></p>
+<p><font size="+1">If <b>TWO</b> wires out of four do not drop the
+RPMs, and those two wires are both on one side of the engine (i.e.
+cylinders 1 and 2, or cylinders 3 and 4) suspect the following on
+the carb/intake from *that* side of the engine:</font></p>
+<p><font size="+1">a) idle mixture screw in too far<br>
+b) idle fuel cutoff solenoid plugged/inoperative<br>
+c) vacuum leak between manifold and head<br></font></p>
+<p><font size="+1">For a), simply try backing out the screw (turn
+counterclockwise). The screw is in the throttle plate just forward
+of center, and angled forward towards the outside of the bus. If
+you back it out and the engine picks up rpm and smooths out, great!
+Do the wire pull again to make sure and drive off happy.</font></p>
+<p><font size="+1">For b), first pull the wire off the end and wait
+5 seconds. If the rpms of the engine drop, b) is not the problem.
+Put the wire back on and go to c). If the rpms of the engine don't
+drop, check to see that the wire is getting 12v. Use a meter or
+circuit tester. A multimeter is something that I always bring on
+long trips! If the wire is live, reconnect it, reach up and very
+slowly loosen the solenoid 1/2 turn while the engine is running. If
+it is plugged, the engine will begin to pick up speed briefly when
+you have loosened it about 1/2 turn. It won't last long though -
+the engine will be stumbling again in a few seconds. Shut the motor
+off, unscrew the solenoid and look at the little hole in the very
+tip of it. Three times now I've found it plugged with debris. Blow
+it out or poke it out gently with wire. I usually find a piece of
+14 or 18 gauge wire and use just one of the strands to clear the
+obstruction. Don't want to enlarge the hole.</font></p>
+<p><font size="+1">Install the solenoid (then replace your fuel
+filter). In addition, the solenoid should make an audible click
+when you connect or disconned the wire. If it doesn't click, it
+probably needs to be replaced.</font></p>
+<p><font size="+1">If b) failed, diagnose c) by running the engine
+then spraying carburator cleaner at the base of the manifold (where
+it bolts to the head). Be liberal and hit it from all sides if
+possible. BE CAREFUL and have a fire extinguisher handy, although
+I've done this for years without the slightest hint of danger. If
+the engine RPMs drop at all, you have a vacuum leak between the
+manifold and head. If the engine stalls, you have a pretty bad
+leak. Tighten the four nuts holding the manifold to the head and
+try to limp to someplace where you can replace the gaskets or have
+them replaced. These gaskets are metal, and don't seal very well
+unless the mating surfaces are flat and smooth. I had horrendous
+trouble with this until I removed the engine and polished the
+surface of the head with a dremel sanding disc. Also check the
+surfaces of the head and the manifold with a straight edge to make
+sure they're perfectly flat.</font></p>
+<p><font size="+1">Backing up a minute, if the engine won't start
+at all, you only have to do one test to find out whether it's fuel
+related. First, remove the air cleaner, make sure the choke plates
+are open and crank the engine for 30 seconds without giving it any
+gas at all. This will clear any flooding in the carbs. If the
+engine is flooded it will crank for a while without catching at
+all, then very slowly start catching on one cylinder, then two,
+then three. Avoid the urge to give it any gas - just keep cranking
+until it stays running.</font></p>
+<p><font size="+1">If it never sounded like it was catching, get a
+couple of ounces of fuel (helps to carry a spare gallon here) and
+pour half into the top of each carb. Try to start the engine again.
+If the engine catches briefly and then dies, the carbs are not
+getting fuel. Check fuel filter, fuel pump, fuel lines. Open the
+gas cap and rock the bus back and forth and see if you can hear gas
+sloshing around in the tank. Maybe you're out!</font></p>
+<p><font size="+1"><b>FUEL PART TWO</b></font></p>
+<p><font size="+1">The engine has two separate fuel systems. Well,
+three actually, but bear with me. The one we've been testing up
+till now is the idling system. Assuming the bus idles smoothly and
+passes the plug wire pull test, the main fuel delivery system could
+still be malfunctioning. Symptoms would be a smooth idle (of
+course) but bad/inconsistant acceleration when you hold the
+throttle down. This is most probably caused by the main jet being
+plugged. Find out which carb it is by removing the throttle linkage
+from 1 carb at a time and trying to drive. When the good carb is
+hooked up, the bus will drive a little. With the bad carb hooked
+up, it will barely move. You can open up the bad carb by removing
+it and either taking the top off (five slot head screws) and/or
+reomving the 13mm plug in the side of the bowl. The latter is
+easier but doesn't give you as good of a view. Stick a screwdriver
+through the plug hole and unscrew the jet. There will probably be a
+bunch of crap sloshing around in the gasoline at the bottom of the
+bowl. Make sure the jet isn't plugged, then clean out the bowl and
+put the jet back in. The third system I mentioned is the
+accelerator pump mechanism, but you can live without that
+one.</font></p>
+<p><font size="+1">Argh, this is getting long. I know I've left out
+a lot of cases, but these are all of the things that have happened
+to me over the years, so hopefully they will be useful to someone
+else.</font></p>
+<p><font size="+1"><br></font></p>
+<hr size="1">
+<font size="+1"><a href="../library.htm"><img class="img-responsive" src=
+"../images/liblogo.gif" border="0" alt="Back to Library"></a>
+<a href="../engineg.htm"><img class="img-responsive" src="../images/engineg.gif" border=
+"0" alt="Back to Engine - General"></a><br></font>
+</body>
+</html>
+
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main 
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+	       data-ad-slot="7516194300"
+	            data-ad-format="auto"></ins>
+		    <script>
+		    (adsbygoogle = window.adsbygoogle || []).push({});
+		    </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fengineg%2Fdengt.htm" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fengineg%2Fdengt.htm" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Fengineg%2Fdengt.htm" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+	    <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+	<br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://10.152.183.183:3000/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+</script>
+
+</body>
+</html>

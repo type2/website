@@ -1,44 +1,1299 @@
 {
+  "installCommand": "echo installing nothing",
+  "buildCommand": "echo building nothing",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/airs/main.html",
+      "destination": "/airs/main/"
+    },
+    {
+      "source": "/airs/index.html",
+      "destination": "/airs/main/"
+    },
+    {
+      "source": "/airs/",
+      "destination": "/airs/main/"
+    }
+  ],
   "rewrites": [
     {
-      "source": "/bartnik$",
-      "destination": "/~bartnik/"
+      "source": "/bartnik/(.*)",
+      "destination": "/~bartnik/$1"
     },
     {
-      "source": "/m-codes$",
-      "destination": "/~molenaar/m-codes/"
+      "source": "/m-codes/(.*)",
+      "destination": "/~molenaar/m-codes/$1"
     },
     {
-      "source": "/molenaar$",
-      "destination": "/~molenaar/"
+      "source": "/molenaar/(.*)",
+      "destination": "/~molenaar/$1"
     },
     {
-      "source": "/rvanness$",
-      "destination": "/~rvanness/"
+      "source": "/rvanness/(.*)",
+      "destination": "/~rvanness/$1"
     },
     {
-      "source": "/rescue$",
-      "destination": "/~airsworks/rescue/"
+      "source": "/rescue/(.*)",
+      "destination": "/~airsworks/rescue/$1"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/locate/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
     },
     {
-      "source": "/~airswork$",
-      "destination": "/~airswork/"
+      "source": "/donate/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
     },
     {
-      "source": "/~bartnik$",
-      "destination": "/~bartnik/"
+      "source": "/archive/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
     },
     {
-      "source": "/~keen$",
-      "destination": "/~keen/"
+      "source": "/lists/type2/listinfo/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
     },
     {
-      "source": "/~molenaar$",
-      "destination": "/~molenaar/"
+      "source": "/lists/type2/charter/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
     },
     {
-      "source": "/~rvanness$",
-      "destination": "/~rvanness/"
+      "source": "/lists/type2/main/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/vintagebus/listinfo/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/vintagebus/charter/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/vintagebus/main/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/Dockerfile/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/faq/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/pics/ness_tek/",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/slower/",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/slow/",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/read/",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/search/",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/subscribe/",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/framebgone/",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/vintagebus/",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/search/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/stories/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/Caddyfile/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~airswork/rescue/us/perl/",
+      "headers": [{ "key": "Content-Type", "value": "application/x-executable" }]
+    },
+    {
+      "source": "/~airswork/rescue/sitesearch/CHANGELOG/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/icons/README/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/dakhlia/images/Heater Booster BA6/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/Les Wests d_laut bord d_la gate/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/Tires for your Type 2 _Bay-wind/",
+      "headers": [{ "key": "Content-Type", "value": "application/x-wine-extension-ini" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/The late Model Bus Organization/",
+      "headers": [{ "key": "Content-Type", "value": "application/x-wine-extension-ini" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/VW Accessory Camping Tents Page/",
+      "headers": [{ "key": "Content-Type", "value": "application/x-wine-extension-ini" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/VW microfiches for Type 2 68-79/",
+      "headers": [{ "key": "Content-Type", "value": "application/x-wine-extension-ini" }]
+    },
+    {
+      "source": "/~keen/mrtg/lenti/CHANGES/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/mrtg/lenti/README/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/neewe/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/well/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/blink/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dead/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/detroit/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ema/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/morning/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/checkup/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/sw/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/damn/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ana/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/vf/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/milan/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/home/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/sermon/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/toas/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/btw/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/manan/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/sanfran/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/again/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/mgus/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/taos1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/taos6/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ga/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/happy/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/virginity/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ms/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dix/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/depart/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/bbta2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/char/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/cows/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/trippin/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/route/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/shaky/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/hisp/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/jim/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dog/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/giving/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/crater/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/alley/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/pt5/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/seattle/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/lyons/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/time1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/winslow/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/mile/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/smith/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/resume/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/southern/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/road/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dbg/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/mofo/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ride/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/te/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/kent1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/grand/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/eagle/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/~keen/charlie/judy/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/hazlehurst/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/matter/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/deep/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/taos/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/stl/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/gone/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/kent/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/time/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/taos3/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/gift/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/taos4/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/search/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/wyo/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/verm/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/east/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/beaver/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dodge/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/end/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/nyc2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/vw/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/taos5/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/taos2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/sunday/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/cold/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/extra/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ml/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/erin/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/work/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/money/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/cleve/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dove/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/bbta1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dc/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/folk/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/denver/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ferry/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/gus/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/mother/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/chicken/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/jack/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/junkyard/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/time2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/fitness/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/canada2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/heaven/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/westward/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/hooper/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/port/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/salad/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/la/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/horse/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/buses/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/check/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ac2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/eyes/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/cleve3/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/erin2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ill/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/which/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/cow/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/rest/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/cleve2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/josh/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/smile/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/essay/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/nyc/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/hoov/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ques/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/canada/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/writing/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/dgn-hack-log/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/oldresume/res/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/oldresume/letters/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/b132/getm/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/1600/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/pisbal/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/pisbal2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/coil/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/filters/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/theory2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/smog/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/mayo/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/vg/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/planes/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cats/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/stacks/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/valvesprings1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/blowby/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/insert/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/pistons/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/vapor/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/valves/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/oilstuff/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/heads3/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/heads4/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/wire/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/vacdi/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/carb/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/spades/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/heads5/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/vtg/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/heads2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/carbon/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/valvesprings/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/studs2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/gascuts/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cr/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/distr1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/sump/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/strobe/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/rust/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/theory/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/flywheels/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cases/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/strokin/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/fluff3/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/welding1/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/~keen/west/fluff/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/heads/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/air/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/tap/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cranks1/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/~keen/west/fluff2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/rodbal/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/rod/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/studs/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cam/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/welding/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/~keen/west/oilk/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/hrfi/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/zero/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/vtg2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/guides/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/valves5/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/valves2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/wire2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/pump/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/valves3/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/heads1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/valves4/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/points/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/gasket/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/vtg4/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/vtg3/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/dishose/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/swft/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/files/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/hfi/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/type4/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/camber/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/lifters/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/gas/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/seats/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/exhaust/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/paint/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/songs/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/compress/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/heat/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/cams2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/alternator/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/tach2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/vwrescue/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/valves/",
+      "headers": [{ "key": "Content-Type", "value": "text/x-Algol68" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/stupid/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/oiltemp/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/drums/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/dizzy/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/gas1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/theory/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/boys/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/wheel/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/fun/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/bleed/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/spark1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/dizzy2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/glass/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/karma/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/lust/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/tach1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/points/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/breakin/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/baja/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/oiltemp1/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/oilcool/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/oilcool2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/gas2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/horse/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/lpg/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/spark/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/other/oil/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/nodark/heads/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/FI/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/brake/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cv/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/gas3/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/torque/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/~keen/west/pistons2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/port/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/random/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/rocker/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/bearings/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/distr/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/welding2/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/~keen/west/gauges/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cams/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/airfilter/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cfm/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/deck/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cases2/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/oilpump/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/jug/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/seat/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/oil/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/cranks/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/~keen/west/tach/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/west/porting/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/main/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/airs/locate/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/airs/faq/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/airs/stories/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/airs/main/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/login/register/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
     }
   ]
 }

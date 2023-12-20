@@ -1,0 +1,383 @@
+<html>
+<head>
+<title>Jetting a Type 1 Engine</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /library/type2/fuel/jettype.htm -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+	
+	        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+				</button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main">AIRS</a></li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu ">
+            <li><a href="/lists/vintagebus/main">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown active">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+	<li class=""><a href="/donate">Donate</a></li> 
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+      	<div class="form-group">
+	  <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+	</div>
+	<button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/library/type2/fuel/jettype.htm" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/library/type2/fuel/jettype.htm" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.6.0">
+
+</head>
+<body>
+<h3>Jetting a Type 1 Engine</h3>
+<p>by Eugene Palmer</p>
+<hr size="2">
+<p><font size="+1">Several messages recently have raised the
+concern in my mind that folks are not jetting their VW's to reflect
+changes made to the engines. Allow me to recommend some guidelines.
+My experience is limited to the upright and type 3 engines, but
+I've no doubt the same principles apply to the type 4
+pancake.</font></p>
+<p><font size="+1">Stone Cold Dead Stock, this means stock engine
+size, air cleaners, exhaust, compression, distributor, fuel,
+etc.</font></p>
+<p><font size="+1">Hey, use the stock jet size, which is 125 for
+the 34 PICT-3. If it still seems hot, go to 127.5.</font></p>
+<p><font size="+1">ANY SINGLE THING other than stock, Berg
+Semi-Hemi heads, 009 distributor, extractor exhaust,
+etc.</font></p>
+<p><font size="+1">127.5-130 mains minimum</font></p>
+<p><font size="+1">ANY TWO OR MORE THINGS other than
+stock,</font></p>
+<p><font size="+1">135 mains</font></p>
+<p><font size="+1">SUPER STOCK, Berg Semi-Hemi heads, 6.9:1 CR,
+dual carbs, paper or screen air cleaners, 009 distributor,
+Pertronix or other CDI ignition, single or dual extractor exhaust,
+ratio rockers. 140 mains minimum, I have these in my engine and,
+even without the ratio rockers, it's still not quite enough. I'm
+trying 142's and 147's soon (can't find 145's), I'll let you know.
+Also refer to the Hot-VW's article on the SCAT stock engine with
+dished pistons (lower CR) that recommends the same thing. They
+stopped at 140 but I think 145 is supported when the timing is
+advanced to take advantage of the lower CR. Hot-VW's didn't do
+that, or didn't talk about it.</font></p>
+<p><font size="+1">LARGER ENGINES 1641-1776, Depending on the fuel
+delivery system and other components, but even with stock carbs and
+exhaust, please start at....... 150 mains and work up from there,
+if it's a super set-up with dual carbs and extractor, it will
+easily support 160, 165 or even 170 mains.</font></p>
+<p><font size="+1">BIG ENGINES 1776-1980, I think you're getting
+the picture here, MORE FUEL, start at 160 mains, 170 if it's a
+super set-up.</font></p>
+<p><font size="+1">Taller Soapbox here: I burnt up a 1776 engine on
+130 mains and a round silver "pressure regulator"(read restricted)
+set at 2.5 PSI. I believe they were both responsible for the
+extreme exhaust temperature and resulting melted heat exchangers,
+burnt valves, cracked heads and scorched cylinders. I once returned
+a pair of Kadrons because they "wouldn't make power" on a large
+engine. They were simply not jetted high enough. I've read
+everything Berg ever published and I believe when he says he can
+lean out the mix on a lowered CR engine it's because his initial
+jetting was way higher than us backyard types ever imagined. When I
+tried the 130 mains (perfect right out of the box, guy on the phone
+said so) in the Weber dual 34 ICT's on my super stock 6.9:1 CR
+engine, it had nasty intake backfiring, the classic lean condition
+symptom. No amount of idle jet changes would help, only until I
+went to the 140's did it settle down. When I tried the stock carb
+on this engine it ran hot and was horribly lean. I couldn't seem to
+find larger Solex jets. The Dellorto manual says a "race ready"
+1600cc engine is jetted 160 or higher, and that jetting is mostly
+related to venturi size. When I hear about 1641's with 110 or 120
+mains that positively scream, I cring and imagine the exhaust
+valves red hot on their seats, and then the inevitable failure at
+9435 miles.</font></p>
+<p><font size="+1">I have an 02 sensor at the merge point of the
+exhaust and I'm finding that the mixture changes even with the
+level of fuel in the tank. When it's full, the mix is richer than
+when it's near empty. I also think the outside temperature causes
+changes, when it's summer and hot it's leaner than when it's
+cooler. The first ten minutes of driving are richer than later on,
+and I have the thermostat and flaps in operation. It seems
+ridiculous but if I really were serious I would change both the
+jets (richer) and spark plugs (colder) before heading out for the
+mountains from the city. Folks seem to think their fuel mileage
+will get better with leaner jets, I beg to differ, you weaken the
+engine when you do this and it loses it's efficiency, not being
+able to make the amount of power it could were it supplied with
+sufficient fuel. I believe there is also a small amount of
+evaporative cooling effect that helps keep engine temps down. Be
+very careful when relying on the spark plug color, unless it was
+taken out hot off the highway, you not likely to get an accurate
+color. I don't believe that the level of pollution out of a lean
+engine is less than that of a properly jetted engine.</font></p>
+<p><font size="+1">The VW loves fuel and must have it to run cool
+and strong. Bergs jetting was a proprietary secret, and I think
+it's because he ran on the rich side of everything, though I don't
+believe even they are sending out carb kits rich enough for what
+people are putting together. Closely check your fuel lines, pump,
+and filter for weakiness and restrictions. If you've made ANY
+changes to your engine, check those jets, bump them up.</font></p>
+<p><font size="+1">But, of course, don't believe anybody, think for
+yourself.</font></p>
+<p><font size="+1">Regarding steering play, please check all
+related components before charging into adjusting the steering box
+itself. As mentioned in previous posts, the draglink ends. But
+also, all four tie-rod ends, the king pin bushings (the ones center
+of the front beam), the actual mounting bolts and frame around the
+steering box for looseness or cracking, the dampner, the rubber
+isolation ring above the box, and very importantly, the ball joints
+or in the case of splitties, the king pins and associated bushings
+out at the wheels. Also very importantly, the wheel bearings, and
+wheels and tires. The steering box comes last. I've had very little
+success adjusting the actual box, whenever I've tried, there
+inevitably ends up being a tight spot or bind somewhere in the
+travel, not good or worth it. Replace the lube if you want, but
+don't do anything drastic to the box, if it's bad, replace
+it.</font></p>
+<p><font size="+1">Get your SO or buddy to crank the wheel back and
+forth and check everything for play. Replace anything icky, tie
+rods are fairly cheap. Look closely at the center king pin (also
+called a swing arm pivot I think), there should be no rocking, this
+is all in the Muir book. One thing not mentioned in the Muir book
+is that if you do replace the king pin bushings you need to REMOVE
+THE GREASE NIPPLE! Nothing like bashing endlessly up into the
+bushings only to find you've been gouging a huge notch in the old
+bushing as you beat it past the bit of grease nipple that protrudes
+inside the beam. Without that thing in the way they come out like
+butter. After you get all that done, have it aligned at a shop,
+measuring across the tires just isn't accurate enough.</font></p>
+<p><font size="+1">On the subject of ongoing jet changes, I
+re-installed the 60 idle jets (1600cc weber 34 ICT blah blah) and
+lo & behold, the light throttle and off idle response has indeed
+returned to it's previous smooth response. The running mix seems
+better too for some unknown reason. I'm trying to stick to one
+change at a time so thats the way I'll post them. Besides, I'm too
+busy to fool with the car, I've the luxury of being able to ride my
+bike to work these days and parking sucks.</font></p>
+<p><font size="+1">(1971 Westy with super-stock 1600cc type 1
+engine, Weber 34 ICT dual carbs)</font></p>
+<p><font size="+1">Since I spouted off about the charge mix I
+thought I'd do further testing, and see just how rich I could go
+without producing black smoke, backfires, and horrible fuel
+mileage. Though I tried to do just one change at a time I couldn't
+quite pull it off, this is a work in progress.</font></p>
+<p><font size="+1">I changed the mains to 147 (from 140), and while
+I was inside I couldn't help but change the air to 160 (from 150),
+and the idle down to 52 (from 60 in an effort to keep
+backfire/sputtering to a minimum). The 02 meter got richer around
+town, but there was now a stumble just off idle and in the super
+light throttle range. I ran the timing ahead to about 18-20 BTDC
+(from 15) on the 009/Pertronix. The stumble diminished but did not
+disappear. On a warmed up highway run (&lt;10 miles) with the new
+advanced timing the 02 had only a barely noticeable richer reading,
+but even doing 75-80 mph the oil temp wasn't moving past 180,
+midday, at about 75 degrees F air temp. I think it has a bit better
+high speed power. This was already a pretty cool running engine and
+previously would've only hit about 200 under the same conditions.
+Downhill deceleration sputtering did not seem to change, it still
+has a slight spit, so much for the 52 idles.</font></p>
+<p><font size="+1">This exhaust is a dual "quiet pack" extractor
+with very tight flange type fittings that I brazed on where the
+stock heat exchanger tips meet the extractor. I use the 15mm type
+head nut for maximum flange coverage wherever I can get them to
+fit, on the rest I use the stock 13mm nut. It's likely an engine
+with the leaky stock clamps, or any other leak, would have a nasty
+backfire under the same conditions.</font></p>
+<p><font size="+1">I now imagine many of the list members out there
+ripping into their carbs and I must say BE CAREFUL, fuel and sparks
+don't mix! Keep that fire extinguisher charged and nearby, and
+either dis-connect the battery and/or be darn sure there are no
+sparks, electrical or mechanical, around your open carbs. Raw fuel
+is a pollutant, stick it back in the carb or in your spare fuel
+can.</font></p>
+<p><font size="+1">Due to the heavier exhaust smell, I no longer
+believe that the richer mix does not pollute any more than the
+leaner mix. My nose tells me it does, perhaps it's the price for
+keeping the VW running cool.</font></p>
+<p><font size="+1">Please also make very sure there are no vacuum
+leaks in your intake system. When I took the carbs out the little
+covers over the distributor vacuum take-off were badly
+disintegrated and must've been leaking air. It's very easy to do an
+intake install and have a leak. An old problem I ran into was when
+I tried to put a single port manifold back on an engine that had
+the cylinders shimmed out for lower compression. The engine was
+.120" wider and that was enough to make the intake manifold fail to
+mate properly with the port on the heads. I eventually went to dual
+carbs to solve the problem. I've also had to replace the hoses and
+check valve for the power brake system to insure there were no
+leaks. I always keep a spare check valve. The balance tube and
+fittings should be closely checked and tightened, a lesson I
+learned when I couldn't get a pair of Dellorto FRD's to perform
+until I fully bottomed the hose clamps on the balance tube. The
+next time I took off, the engine jumped to life as all the carb
+circuits became engorged. Use an oil spray to find leaks, if the
+idle changes, you know you've found a leak.</font></p>
+<p><font size="+1">Next steps are to replace the 60 idle jet and
+make sure the stumble goes away (it should). I'll try to have a bit
+of patience and run a couple tanks through to get a sense of the
+mileage before I try the 155 mains. If I can finally get a rich
+highway reading, I'll try a CD ignition and maybe even the 1.4:1
+rockers to see if the engine can use the fuel. Though I long ago
+promised myself I wouldn't use the 1.4:1 rockers on these heads
+because they don't have heavy duty springs, maybe just for little
+while.</font></p>
+<p><font size="+1"><br></font></p>
+<hr size="1">
+<font size="+1"><a href="../library.htm"><img class="img-responsive" src=
+"../images/liblogo.gif" border="0" alt="Back to Library"></a>
+<a href="../fuel.htm"><img class="img-responsive" src="../images/fuel.gif" border="0" alt=
+"Back to Fuel"></a><br></font>
+</body>
+</html>
+
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main 
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+	       data-ad-slot="7516194300"
+	            data-ad-format="auto"></ins>
+		    <script>
+		    (adsbygoogle = window.adsbygoogle || []).push({});
+		    </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Ffuel%2Fjettype.htm" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Ffuel%2Fjettype.htm" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flibrary%2Ftype2%2Ffuel%2Fjettype.htm" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+	    <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+	<br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://10.152.183.183:3000/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+</script>
+
+</body>
+</html>
