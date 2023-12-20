@@ -1259,7 +1259,8 @@
     }
   ],
   "redirects": [
-    { "source": "/(.*)", "destination": "/" },
+    { "source": "/(.*)", "destination": "/" }
+  ],
   "rewrites": [
     {
       "source": "/bartnik$",
