@@ -1,4 +1,5 @@
 {
+  "trailingSlash": true,
   "headers": [
     {
       "source": "/locate",
@@ -1255,32 +1256,6 @@
     {
       "source": "/stats/NOTES",
       "headers": [{ "key": "Content-Type", "value": "text/plain" }]
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/~bartnik",
-      "destination": "/~bartnik/"
-    },
-    {
-      "source": "/~keen",
-      "destination": "/~keen/"
-    },
-    {
-      "source": "/~molenaar",
-      "destination": "/~molenaar/"
-    },
-    {
-      "source": "/~rvanness",
-      "destination": "/~rvanness/"
-    },
-    {
-      "source": "/bartnik",
-      "destination": "/bartnik/"
-    },
-    {
-      "source": "/m-codes",
-      "destination": "/m-codes/"
     }
   ],
   "rewrites": [
