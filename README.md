@@ -24,9 +24,9 @@ The homedir pages can't be ignored either.
 
 ### Vercel Deployment
 
-- **Repository:** https://vercel.com/type2com/website
-- **Development Branch:** https://website-tau-jet.vercel.app/
-- **Master Branch:** https://www.type2.com/
+- **Dashboard:** https://vercel.com/type2com/website
+- **`dev` Branch:** https://website-tau-jet.vercel.app/
+- **`master` Branch:** https://www.type2.com/
 - **Dynamic Branch Environments:** Patterned URLs like `https://website-git-[branch-name]-type2com.vercel.app/`
 
 ### Render Deployment
