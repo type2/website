@@ -3,12 +3,15 @@
 
 ---
 
+
+NOTE:  running local with `vercel dev` none of the headers work.  everything else works, but not that.
+
 this is BROKEN.  it sorta works. (only because we manually set content-types)
 
 what's missing is that directory paths don't self-redirect to the trailing slash version:
 
   "trailingSlash": true,
-fixes it.  sorta.   it means anything w/o extension gets a slash.  which..kinda works...
+fixes it.  sorta.   it means anything w/o extension gets a slash.  which..kinda works...it doesnt do anything for urls with dots in them, lol stupid logic
 
 
 example:
