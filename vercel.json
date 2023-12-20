@@ -1294,7 +1294,7 @@
     {
       "source": "/rescue$",
       "destination": "/rescue/"
-    },
+    }
   ],
   "rewrites": [
     {
