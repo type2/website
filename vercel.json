@@ -2,31 +2,328 @@
   "version": 2,
   "headers": [
     {
-      "source": "/lists/type2/(.*)",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "text/html"
-        }
-      ]
+      "source": "/locate",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
     },
     {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "text/html"
-        }
-      ]
+      "source": "/donate",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
     },
     {
-      "source": "/lists/vintagebus/(.*)",
-      "headers": [
-        {
-          "key": "Content-Type",
-          "value": "text/html"
-        }
-      ]
+      "source": "/archive",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/type2/listinfo",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/type2/charter",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/type2/main",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/vintagebus/listinfo",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/vintagebus/charter",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/vintagebus/main",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/faq",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/pics/ness_tek",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/slower",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/slow",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/read",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/search",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/subscribe",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/framebgone",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/pics/vintagebus",
+      "headers": [{ "key": "Content-Type", "value": "image/vnd.adobe.photoshop" }]
+    },
+    {
+      "source": "/ss/wp-includes/js/scriptaculous/MIT-LICENSE",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/search",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/stories",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/~airswork/rescue/us/perl",
+      "headers": [{ "key": "Content-Type", "value": "application/x-executable" }]
+    },
+    {
+      "source": "/~airswork/rescue/sitesearch/CHANGELOG",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/icons/README",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/dakhlia/images/Heater Booster BA6",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/Les Wests d_laut bord d_la gate",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/Tires for your Type 2 _Bay-wind",
+      "headers": [{ "key": "Content-Type", "value": "application/x-wine-extension-ini" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/The late Model Bus Organization",
+      "headers": [{ "key": "Content-Type", "value": "application/x-wine-extension-ini" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/VW Accessory Camping Tents Page",
+      "headers": [{ "key": "Content-Type", "value": "application/x-wine-extension-ini" }]
+    },
+    {
+      "source": "/dakhlia/Great VW sites/VW microfiches for Type 2 68-79",
+      "headers": [{ "key": "Content-Type", "value": "application/x-wine-extension-ini" }]
+    },
+    {
+      "source": "/~keen/mrtg/lenti/CHANGES",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/mrtg/lenti/README",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/neewe",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/well",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/blink",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dead",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/detroit",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ema",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/morning",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/checkup",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/sw",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/damn",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ana",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/vf",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/milan",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/home",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/sermon",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/toas",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/btw",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/manan",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/sanfran",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/again",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/mgus",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/taos1",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/taos6",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ga",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/happy",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/virginity",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/ms",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dix",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/depart",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/bbta2",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/char",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/cows",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/trippin",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/route",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/shaky",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/hisp",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/jim",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/dog",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/giving",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/crater",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/alley",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/pt5",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/seattle",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/lyons",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/time1",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/winslow",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/mile",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/smith",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
+      "source": "/~keen/charlie/resume",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
     }
   ],
   "rewrites": [
