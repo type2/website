@@ -6,6 +6,28 @@ this is MERGED with a wallflower build version of the "new" dynamic site, plus a
 
 
 
+NOTES:
+
+this is a OVERLAY of the NEW site on the OLD site.   this leaves the old urls primarily intact, so existing links continue to work.   this also leaves NEW site links working.
+
+we have 25 years worth of backlinking to now both variations, on both http and https.    it's important to keep these working.
+
+
+
+cloudflare:  no way to set content types for un-extensioned files....so it's pretty much dead for this.
+
+vercel:  we have to generate conten-types for all un-extensioned
+
+also, relative paths inside dir paths without trailing slashes break.  so we ahve to generate redirects for any time someone lands on a dir withotu a slash to redirect to a dir with a slash.
+
+
+render:
+Render lets you define response headers for your static sites in your dashboard.
+yuck.
+
+
+
+
 
 # type2.com
 
