@@ -53,6 +53,10 @@ This DOES NOT fix it for URIs with dots in them (website mirrors, particularly).
 
 Vercel uses file extensions to determine content-type - which breaks all of the files in older parts of the website that relied on apache/unix mimetype magic.  You can use `guess-mimetypes.sh` to recreate the headers section of vercel.json if these change.
 
+### Symlinks
+
+for the symlinks, we've added rewrite rules to simulate their behavior in vercel.json
+
 ### Old Archive Inclusion
 
 - Including 'oldarchive' adds about 4GB, which is breaks vercel deployment even though it's under the 13g max.
@@ -68,4 +72,4 @@ Vercel uses file extensions to determine content-type - which breaks all of the 
 
 - Use the command `vercel dev` for local development.
 - Note that running locally, headers will not work as expected.
-
+- Use the hacky local python3 `./server.py` to get a similated behavior.   still imperfect, but it roughly follows the idea, and it follows symlinks
