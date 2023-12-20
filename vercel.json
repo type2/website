@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "headers": [
     {
       "source": "/locate",
@@ -1260,11 +1259,7 @@
   ],
   "redirects": [
     {
-      "source": "/~airswork$",
-      "destination": "/~airswork/"
-    },
-    {
-      "source": "/~bartnik$",
+      "source": "/~bartnik",
       "destination": "/~bartnik/"
     },
     {
@@ -1272,29 +1267,25 @@
       "destination": "/~keen/"
     },
     {
-      "source": "/~molenaar$",
+      "source": "/~molenaar",
       "destination": "/~molenaar/"
     },
     {
-      "source": "/~rvanness$",
+      "source": "/~rvanness",
       "destination": "/~rvanness/"
     },
     {
-      "source": "/bartnik$",
+      "source": "/bartnik",
       "destination": "/bartnik/"
     },
     {
-      "source": "/m-codes$",
+      "source": "/m-codes",
       "destination": "/m-codes/"
-    },
-    {
-      "source": "/rescue$",
-      "destination": "/rescue/"
     }
   ],
   "rewrites": [
     {
-      "source": "/bartnik/(.*)$",
+      "source": "/bartnik/(.*)",
       "destination": "/~bartnik/$1"
     },
     {
@@ -1302,15 +1293,15 @@
       "destination": "/~molenaar/m-codes/$1"
     },
     {
-      "source": "/molenaar/(.*)$",
+      "source": "/molenaar/(.*)",
       "destination": "/~molenaar/$1"
     },
     {
-      "source": "/rvanness/(.*)$",
+      "source": "/rvanness/(.*)",
       "destination": "/~rvanness/$1"
     },
     {
-      "source": "/rescue/(.*)$",
+      "source": "/rescue/(.*)",
       "destination": "/~airsworks/rescue/$1"
     }
   ]
