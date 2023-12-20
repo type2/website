@@ -1260,10 +1260,6 @@
   ],
   "redirects": [
     {
-      "source": "/([^\\.]+)$",
-      "destination": "/$1/"
-    },
-    {
       "source": "/~airswork$",
       "destination": "/~airswork/"
     },
@@ -1272,7 +1268,7 @@
       "destination": "/~bartnik/"
     },
     {
-      "source": "/~keen$",
+      "source": "/~keen",
       "destination": "/~keen/"
     },
     {
