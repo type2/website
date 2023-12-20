@@ -1259,7 +1259,10 @@
     }
   ],
   "redirects": [
-    { "source": "/(.*)", "destination": "/" }
+    {
+      "source": "/([^\\.]+)$",
+      "destination": "/$1/"
+    }
   ],
   "rewrites": [
     {
