@@ -73,3 +73,29 @@ for the symlinks, we've added rewrite rules to simulate their behavior in vercel
 - Use the command `vercel dev` for local development.
 - Note that running locally, headers will not work as expected.
 - Use the hacky local python3 `./server.py` to get a similated behavior.   still imperfect, but it roughly follows the idea, and it follows symlinks
+
+
+## TBD
+
+remove/link new site after confirmation
+
+/rvanness - to library
+
+/rescue - to ...airs.  but also dead... ~airswork/rescue/
+
+/reflect should probably go, but.....
+
+molenaar/molenari - site is fairly broken and missing parts.  not sure if it's salvagable.  m-codes works fine.
+
+/m-codes - rewrites to molenaar...
+
+/library - the old index.  repl by library/type2/library.htm
+
+/daklia - seems to work. may have library overlap?  bookmarks has some dead links
+
+/~keen
+
+/bartnik - redir to library?
+
+/airs - ...dirs to rescue already.
+
