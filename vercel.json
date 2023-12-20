@@ -1258,8 +1258,9 @@
       "headers": [{ "key": "Content-Type", "value": "text/plain" }]
     }
   ],
-  "rewrites": [
+  "redirects": [
     { "source": "/(.*)", "destination": "/" },
+  "rewrites": [
     {
       "source": "/bartnik$",
       "destination": "/~bartnik/"
