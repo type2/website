@@ -1,0 +1,289 @@
+<html>
+<head>
+<title>vintagebus - Re: [VB] underbody question</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/602114 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/602114" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/602114" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: [VB] underbody question</h1>
+   <b>VeeWee111_at_aol_dot_com</b><br/>
+   <i>2001-06-21 14:37:50+00</i><br/>
+   <br/>
+   <pre>Hi John,
+As far as we have heard and would like to try some tests POR-15 does not have 
+any self sacrificing elements to it.  Instead it is a good coater of and turn 
+chemically inert slightly rusty iron or steel and therefore the person 
+applying it does not have to go to all the work to completely derust, primer, 
+and paint the steel/iron quickly to prevent it from rusting especially in 
+humid climates.  Many POR-15 advocates swear by it "Because it is really hard 
+paint!".  Hard is not always good!  Go out and buy a perfect one carot 
+diamond which is the hardest material know to humanhind.  Set it down on a 
+slab of concret and hit it with a hammer and all you will have is a bunch of 
+diamond dust.
+  Steel is actually a more pure form of iron, but without the high content of 
+carbon atoms that iron has.  Steel/iron oxidation digs into the material by 
+expansion, so the rust just gets deeper and deeper into the metal due to 
+flaking action of the rust which exposes the next layer of metal to rust.
+  Ever notice how metals like copper, silver, lead, zinc, and even alloys 
+like brass, and alot of Stainless steel do not seem to rust and deteriorate 
+like steel/iron?  This is because these metals and alloys do rust/oxide but 
+when this happens there is little to no expansion of the oxided layer.  Thus 
+the outer layer of metal is oxided, but since this layer does not flake off 
+the next layer is not exposed!  Only erosion from wind and water exposes the 
+next layer of metal.  This is why roofing with copper lasts so darned long 
+when a simular thickness of steel/iron would have long since rusted away.
+   Plus when you plate, hot dip or paint metals like steel, iron, and even 
+aluminuim with a coating of zinc the zinc layer is self sacrificing.  Which 
+is why VW used a zinc primer at thier factories!  In otherwords the zinc will 
+protect the metal underneath it even if the zinc layer is cracked, chipped or 
+scratched through to the steel/iron and slows the rust/oxidation to a very 
+slow crawl and confind to the exposed area.  With normal primer and paint if 
+there is a crack, chip or scratch through to the steel/iron underneath the 
+rust/oxide works to get under the cliff of paint and even through most 
+primers (Since the majority of primers are not water/gas tight!).  The oxided 
+steel/iron expands and the paint/primer are crowbarred up and crack away from 
+the steel/iron to expose even more to rust/oxide, and the cycle continues on 
+and on!
+  In otherwords we had our 1963 KG body worked and painted.  The shop 
+completely stripped the nose and many other areas of this VW and used 
+standard no zinc primer and a good quality of paint.  Result is whenever we 
+drove the KG we get paint chips in the front especially the nose.  These 
+chips almost immeadiately begin to rust and if one does not treat and repaint 
+these spots they just get visably bigger and bigger diameter week by week.  
+On Nermal our 1960 panel camper conversion the nose had the same treatment 
+via DPO as done to our 1963 KG with the same results of visably spreading 
+rust spots.  Plus on top of using normal non-zinc primer the painter of this 
+bus sanded the primer too smooth for good gripping of the light yellow paint 
+over this primer!  You can scrape large chips of paint off the primer with 
+just a butter knife with ease!  So we completely sanded back down the nose of 
+Nermal and gave it a coat of high content zinc primer and sprayed a cheap 
+rattle can of light gray color.  That was at least five or six years ago and 
+we have traveled 69,000 miles in the last five years and this bus has been a 
+daily driver, not garaged, or carported until last year when we got the 
+Costco canopies!  Even with no no repair work done in that time to the nose 
+though there are alot of small chips in the paint, the biggest one is less 
+than 1/4 inch across!    Plus we have found bare steel under the paint in 
+areas on the sides of this bus, and have only lightly sand these areas rust 
+free and thinly one coat with zinc primer without any painting over of these 
+areas.  Result is instead of a month or two for normal primers for the steel 
+rust to bleed visably through, the high zinc content primer takes over two 
+years here in the rainy PNW!  
+  For this high zinc primer we have been using NAPA Zinc - Rich primer 
+Balkamp # 765-1610.  It has a 95% Pure Zinc Formulation.  According to 
+Popular Mechanic Magazine any zinc primer with a zinc content lower than 85% 
+is not worth using.  The only problem we have had with this primer is the 
+fact that the zinc is heavy and tends to settle into a thick mud in the 
+bottom of the rattle cans causing the primer to spay out like X-mas tree 
+flocking.  Turns out to prevent this, one should pull out the can/s to be 
+used at least 48 hourd before and about every 12 hours shake and when putting 
+the can/s down for the next 12 hours make sure to set the can/s upside down 
+from what postion it was the previous 12 hour period.  Then this primer 
+sprays smoothly.
+  So how about this anyone doing some POR-15 work?  How about treating ten 
+3-4" squares of otherwise bare sheet metal.  We will do the same and trade 
+five of our pieces for five of your's.  Then paint most and leave others just 
+zinc primer and POR-15.  Scratch one side of each square and hang all out in 
+the weather or better yet behind rear wheel/s of a daily driver VW.  Then 
+every six month period take digital pictures and notes.  Post these results 
+each time on a website and continue the test for at least three years.  Would 
+be even better if the other person lived in a salt/rust belt of the world!   
+Eric&Barb</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F602114" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F602114" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F602114" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

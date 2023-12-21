@@ -1,0 +1,260 @@
+<html>
+<head>
+<title>vintagebus - '59 SC...blasting the bed and other resto stuff</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/665011 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/665011" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/665011" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>'59 SC...blasting the bed and other resto stuff</h1>
+   <b>rexrogers_at_type2guy_dot_com</b><br/>
+   <i>2002-06-23 03:50:18+00</i><br/>
+   <br/>
+   <pre>Did (4) more hours of blasting the bed of my '59 Single Cab truck. 
+I've got a big electric compressor...but sure wish I had one of those 
+Volks-Air setups or something. I still have to wait for my compressor 
+to keep up. Slows me down pretty good. But I am able to do the 
+job...just not as fast as I'd like....so what's new!!!!
+
+There's a good amount of rust settled into the bed. It's one of the 
+only areas the previous owner didn't blast. The rust has eaten into 
+the metal and pitted it pretty good. You can tell it sat outside for 
+years and years and years. No "rust thru" anywhere though other than 
+a pinhole here or there. In fact, the bed is solid as a rock. Just 
+ugly from pits and dents. I've got less than 1/4 of the bed left to 
+blast. Then I'll have to decide if I'm gonna blast the treasure chest 
+area. It's the other area the PO didn't blast. Looks like a pain in 
+the ass to me.
+
+I'm gonna go around the outside with the blaster after all this. I 
+had used phosphoric acid but then stupidly washed it off with soap 
+and water. Got a tad bit of flash on there and might as well take 
+care of it. I would use the phosphoric acid again...but I put primer 
+on there already....DOH!!!  Luckily it's real thin and blasts off in 
+a blink of the eye.
+
+One of these days I'll finally have the rust at bay on this truck. 
+Once I'm there...it'll be time to start on the undercarraige and the 
+running gear. POR-15 will cover the undercarraige. For the running 
+gear I've got a '66 front beam I think I'm gonna install and then a 
+Rancho freeway flyer tranny in the back with big nut reduction gear 
+boxes.
+
+Got some parts for the budget Upright T4 conversion. An aftermarket 
+36hp fan shroud with the Doghouse cooler on it...plus all the tin 
+that goes with it. An altenator was on there...wonder if it works! 
+Also got a set of 96MM pistons and cylinders that will work with the 
+stock 1700cc crank and rods. That'll put me up to 1911cc or something 
+with more or less stockish parts. Also scored a set of Weber ICT dual 
+carbs with T4 manifolds. Havn't spent too much money on this stuff. 
+Still have to get a cam/lifter set and get the heads rebuilt. Then a 
+gasket set and I'm ready to start putting it together.
+
+Pictures are all on my site if you want to see the before and after 
+closeup of the bed blasting. Just click on the '59 Single Cab 
+link....it's the second page after that. It's UGLY!
+-- 
+------------------------------------------------------------------------
+Check out my VW bus page at http://www.type2guy_dot_com/
+Rex Rogers            -'59 Euro Single-Cab
+San Angelo, Tx.     -'62 23-window walk-thru Deluxe
+rexrogers_at_type2guy_dot_com
+------------------------------------------------------------------------</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F665011" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F665011" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F665011" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

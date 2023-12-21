@@ -1,0 +1,366 @@
+<html>
+<head>
+<title>vintagebus - Re: [VB] why won't it start?</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/621925 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/621925" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/621925" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: [VB] why won't it start?</h1>
+   <b>DGaries808_at_aol_dot_com</b><br/>
+   <i>2000-09-09 07:51:10+00</i><br/>
+   <br/>
+   <pre>In a message dated 9/8/00 11:03:28 PM Central Daylight Time, markt_at_duke_dot_edu 
+writes:
+
+<< Subj:     [VB] why won't it start?
+ Date:  9/8/00 11:03:28 PM Central Daylight Time
+ From:  markt_at_duke_dot_edu (Mark Thomas)
+ To:    vintagebus_at_type2_dot_com
+ 
+ I need advice.
+ My '66 bus stopped running about 8 months ago and I just can't 
+ get it to start.
+ 
+ Summary: Parked it in garage in January or February (had been 
+ running OK). 2 or 3 weeks later, even after a battery charge, 
+ the engine would only turn over very, very slowly. Since then, 
+ after replacing starter, clutch (which it needed), and getting a 
+ new battery (system is still 6V), it still turns over very, very 
+ slowly and can't start the engine.
+ 
+ Details:
+ 
+ I'm hoping that you diagnosticians out there will see this as a 
+ challenge! :)
+ 
+ The first 3 years I lived here in North Carolina I didn't have a 
+ garage. I noticed that if I let the bus sit over a week, I might 
+ not be able to start it again. Even after charging the battery. 
+ In general, I *could* get the engine to turn over just fine, but 
+ it wouldn't catch. I would get it started eventually (this 
+ problem happened a couple of times) only after replacing 
+ something in the electrical system: the spark plug cables or the 
+ condenser. Maybe they were just old.  The coil is also pretty 
+ recent.
+ 
+ The distributer cap and rotor are, perhaps, a little older, but 
+ look OK visually.
+ 
+ By January 2000 I was living in a house with a garage, and I 
+ guess I thought my problems might be over (when I lived in Texas 
+ with the bus in a garage, I could let it sit a week and get it 
+ going again just fine and it would run well, so I figured 
+ keeping it dry and warm would make it happy).
+ 
+ But after letting it sit a couple of weeks in early February, it 
+ would barely turn over. Well, the battery was a little old. I 
+ charged it, but still it would barely turn over. Since the 
+ battery was a "42" month model and I'd had it maybe 6 years 
+ plus, I just went ahead and bought a new one.
+ 
+ One possible problem: I got the new one at a sleazy independent 
+ VW garage--yes, there are such places :-(  It could have been in 
+ stock for years or taken out of something else and cleaned up to 
+ look new.
+ 
+ After installing it, the engine still just barely turned over.
+ 
+ It turns over sort of irregularly:
+ grunt...grunt...[pause]...grunt,grunt [2-3 seconds]
+ 
+ ... means a slight pause
+ [pause] means a little longer
+ it's not necessarily always the same pattern, but the point is 
+ that it's not regularly turning over, but has irregular pauses 
+ during the cycle.
+ 
+ When I turn it over manually with the pulley, it seems to turn 
+ over just like it always did. Nothing seems to be binding or 
+ seized up.  Anyway, it had been running fine at the time I 
+ parked it in the garage.
+ 
+ The clutch was clearly trashed. It had been chattering, 
+ grabbing, slipping, etc. I really had driven it way too long 
+ since the symptoms had started, I admit, but had just been too 
+ lazy to fix it.  Perhaps I had damaged the engine while 
+ driving the clutch while it seemed to be slipping (periodic 
+ times of extra low power). Since I decided that there must be 
+ something wrong with the starter, and the clutch needed 
+ replacing anyway, it was time to drop the engine.
+ 
+ So I took the engine out, replaced the clutch, and (probably 
+ stupidly) just replaced the starter with a rebuilt one without 
+ getting the old one properly tested (a 6V starter will freak 
+ out some shops). My parents got the car new in 1966 and I don't 
+ have any record of the starter ever being replaced.
+ 
+ Before putting the engine in the car, the starter kicked in just 
+ great and spun around real fast, but of course there was no load 
+ on it.
+ 
+ After putting the engine back in, it still won't turn over 
+ normally at all.  Grunt ... Grunt ... [Pause] ... Grunt, Grunt  
+ It stops all together after you've gone through the cycle a few 
+ times.
+ 
+ I've charged the battery and tested it with one of those cheapie 
+ rubber squeeze things you get at a FLAPS; for the liquid in all 
+ the cells, the needle points to the border between good and 
+ fair. I think this should be enough to turn the engine over 
+ normally, even if slowly.  Not just grunt .... grunt  .
+ 
+ If there were something wrong with the engine's ignition system, 
+ it seems to me that it would turn over fast, like it always did 
+ a couple of years ago, even when I couldn't start it. That made 
+ me think that the problem was in the:
+ 
+ battery
+ battery cables (seem just fine from visual inspection)
+ starter
+ 
+ Other than than, it might turn over slowly if something were 
+ binding in the engine, but it was running OK when I drove it 
+ last into the garage.
+ 
+ Question:
+ Will it not start even if the battery is good or even 
+ if you use the high amp start mode on the charger if there's 
+ something wrong with the voltage regulator or anything else in 
+ the electrical system? I didn't think this came into play since 
+ the solonoid/starter got juice directly from the battery during 
+ starting.
+ 
+ Also, I do have one of those low-voltage relays that you use so 
+ the solonoid doesn't need to get juice that goes all the way 
+ from the ignition switch. (Ignition switch throws the relay, 
+ which opens the circuit from battery to solonoid, which then can 
+ do its thing.) I've tried it with this hooked up as well as with 
+ it not hooked up (in the stock manner, with the solonoid 
+ activated directly from the starter switch); either way the 
+ solonoid kicks in, but the starter just goes grunt ... grunt .
+ 
+ The engine has about 80,000 miles on it, but was running OK the 
+ last time I parked the car and turned it off.
+ 
+ Any advice for further diagnosis would be appreciated.
+ 
+ Thanks,
+    Mark, markt_at_duke_dot_edu
+ 
+Sounds to me like the starter is screwed up, maybe the bushing that goes into 
+the flywheel. It's just a small fix that you can get to by removing the 
+starter and feeling up in the hole what shape the bushing is in. You can back 
+it off with a screwdriver and replace it so that the starter doesn't drag.
+
+A dragging starter will sound like it's about to quit whenever it turns over. 
+Once fixed, it will turn over fine. I have a Type 34 Ghia that acted that 
+way. I was using a 12-volt battery on a 6-volt starter system. It dragged all 
+the time. After replacing the bushing that the starter fits into (about a 
+1/2" x 3/4" bushing, which was wallowed out) the starter now turns over 
+smoothly and rapidly. Don't worry, the 12-volt battery on a 6-volt system 
+just turns the car over a little faster, has been that way for two years, and
+is the prescribed method of fixing the starter on a Type 34 Ghia (otherwise 
+one would have to replace the flywheel, if he could find one). For the length 
+of time that the starter is engaged, there is no bad effect.
+
+Don Garies
+dgaries808_at_aol_dot_com</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F621925" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F621925" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F621925" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

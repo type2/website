@@ -1,0 +1,255 @@
+<html>
+<head>
+<title>vintagebus - Re: [VB] Bogus electrical short?</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/627678 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/627678" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/627678" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Re: [VB] Bogus electrical short?</h1>
+   <b>Matt Roberds &lt;mattroberds_at_home_dot_com&gt;</b><br/>
+   <i>2001-02-08 04:46:01+00</i><br/>
+   <br/>
+   <pre>>> Matt Roberds wrote:
+>>
+>> If you're really sure that the far right fuse is good, look at the top
+>> terminal for that fuse.  See that really fat red wire?
+>
+>Speaking of that big fat red wire, recently I've had my front kick panels
+>off (fancy simulated wood grain paneling) and have temporarily been taking
+>that wire off of the fuse block as an paranoid anti theft measure.  I plan
+>to install a kill switch.  should I wire it to that main hot, 
+
+No.  That wire has a fair amount of juice going through it and it would
+take a rather beefy switch.  I'd figure it could have up to 75% or so
+of the total fused loads, plus some things that aren't fused.  If you
+have eight 8-amp fuses that's 0.75 * 8 * 8 or 48 amps and change.  It's
+hard to find a switch that will handle that rating *at DC*.  Heck, a
+50 amp AC switch isn't that easy to come by.  Plus, the switch will add
+a bit of voltage drop, which will affect everything on the Bus.
+
+>or take out the ignition switch and wire it to that?
+
+That's a better idea.  If you take the wire off the 30 terminal on the 
+ignition switch and put your kill switch in that, it'll still need to
+be beefy but not as much as 48 amps.  You could also wire a kill switch
+in line with circuit 50, which just keeps the starter from working...
+someone could conceivably push it, though.  Probably the best place
+to put it is at the wire that goes back to the coil - if you have
+about a '63 through '65, this is one of the black wire at the top of the
+second fuse from the right.  There are two black wires here...one comes
+from #15 on the ignition switch and the other goes back to the coil.
+Doing this takes the brake light and idiot light load off your switch.
+Don't forget the wiring diagrams at vintagebus_dot_com .
+
+>What have people done in the past.
+
+At the fire department we used to have master kill switches on everything,
+wired into the negative battery lead usually.  This wasn't for theft so
+much as it was for preventing drains on the battery - despite my many
+efforts, the electrical systems of thirty year old deuce-and-a-half 
+trucks WILL find a way to misbehave from time to time.  These switches
+are *beefy* and will set you back $40 or $50 at NAPA.  Don't ask at
+Auto Zone, Pep Boys, etc...they don't have them.  On a Bus, I'd probably
+put it in the engine compartment and wire it into the battery negative
+lead - shortest distance, least voltage drop.  They are made to mount
+through the body but for the Bus I would just fab a bracket and attach
+it to an odd corner of the engine compartment.  </pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F627678" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F627678" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F627678" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

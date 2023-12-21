@@ -1,0 +1,389 @@
+<html>
+<head>
+<title>vintagebus - seasons greetings and two questions</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/679240 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/679240" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/679240" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>seasons greetings and two questions</h1>
+   <b>&quot;Michael J. Turner&quot; &lt;airmike_at_fx.syscom.ne.jp&gt;</b><br/>
+   <i>2002-12-23 23:47:35+00</i><br/>
+   <br/>
+   <pre>Dear Vintage bus list,
+I've been wanting to write for some time. I'm afraid I've been a
+"lurker" for several months. Reading and learning from the postings on the
+list.Its the holidays an I have a little time off so it seems like a good
+time to write. I have two questions to ask. One is sort of a personal
+curiosity I have and the other involves a project I got involved with. I
+know the list is limited to maintenance issues for the mostpart, but I hope
+this first question will be accepted in the spirit that its asked.
+My name is Mike Turner. I'm a retired navy senior chief petty officer. I
+wore the "blue suit" for thirty years, retiring from active duty in 1987. My
+specialty was aviation maintenance, airframe repair to be exact. After the
+service, I pursued a career in aircraft maintenance
+working for Boeing aircraft in Seattle, then for the navy as a contract
+aircraft mechanic.Currently I'm working for the navy in a civilian capacity
+in Japan.I'm located at Naval Air Facility, Atsugi, about thirty five miles
+south east of Tokyo.I've been here about three years.
+I hope to be heading home to Washington state next year.
+I've been involved with Volkswagons most of my adult life.My first ride in a
+VW was in 1957 while stationed in at NAS Alameda, california.I was attached
+to an attack squdron there, an one of the guys I worked with
+had a bug. Don't recall if it was a 56 or 57, bit I remember it didn't have
+a gas gauge, just a lever on the floor to flip over when you ran out of fuel
+to go to reserve.It ran like a new watch and was fun to drive.I don't recall
+seeing any busses at the time only bugs.
+My first ride in a bus was 1963.In November that year, after completing a
+tour of overseas shore duty in Japan, I transferred to the states with
+orders to Miramar Naval Air station in San Diego, California.I was a newly
+wed with a brand new Japanese bride. We arrived in the U.S. at the airport
+in San Francisco. We were picked up there by a married navy buddy I had
+served with earlier in Japan.His wife, also Japanese had known my wife
+there. They had preceeded us to the states, arriving  eight months earlier,
+assigned to a squadron based at NAS Alameda.
+We planned to spend a few days with them, shake the jet lag,perhaps get my
+new bride a brief on life in the land of the "big PX".Leading us out to the
+airport parking area we boarded a beautifull 1963 non sun roof
+deluxe bus. The top was grey and below its chrome beltline it was red a kind
+of wine colored red.It had "step-thru" seats in front,interior chrome
+everywhere, and a saphire radio.It also had that wonderfull "new car"
+smell.My friend shared with us that it had the new engine for that year, the
+1500.With four adults and baggage, it moved out with no strain, staying with
+the traffic.The bus with financing had cost him about thirty two hundred
+bucks.that was a lot of dollars in 1963.He was a first class petty officer
+with about 11 or 12 years in service.I was a seconed class petty officer
+with six years. At the time my monthly pay was a "rompin' stompin" $375.00 a
+month. It would be a while before I could afford a bus. Two days later,
+November 22, my friend and I left his house for the twenty minute or so
+drive to the base.I was going to stop at disbursing and draw some advance
+pay to finance our move to San Diego and also I hoped to "hook up" with some
+friend stationed there that I hadn't seen for several years.We left the
+house a few minutes
+before noon. I wanted to catch some music and reached over to flip on the
+radio. I also wanted to hear how the speakers might sound.Turning on that
+radio brought the world crashing in on us.My friend was off duty that day
+and no one had been watching TV or listening to the radio at home. Thus we
+were un-aware of the terrible events occuring in Dallas, Texas that
+morning.The shooting of president John Kennedy and Texas govenor John
+Connely.I recall we pulled over for a moment to listin. The news was
+unbelievable! The base was like a ghost town when we arrived. Alameda is a
+spawling complex with a major aircraft rework facility located on board. On
+any given day there might be as many as
+15,000 personel military and civilian moving about. Today the place was
+deserted. we passed row after row of cavernous hangers with no one in sight.
+Finaly pulling up to one were my old friends were assigned,we parked. Going
+inside we crossed the vast hanger deck unchallenged.
+The only sound heard was the echoing sound of radios and TV's. Everyone was
+clustered around them listening to the news from Dallas.
+For years after that tragic day, it was part of every conversation
+What was your memory? Where were you when the president was shot? That was
+mine.Life goes on however. My bride and I arrived in San Diego.She enrolled
+in night school and I went to work.Instead of a Volkswagon I wound up with a
+1959 ford Failane. By 1966 my fortunes changed. I was advanced to petty
+officer first class. Also Congress saw fit to vote the military some pay
+increases.Thus I was "squatin in tall cotton"
+drawin' about $500. a month in navy pay plus a bit on the side from part
+time work.Our first new car was a 1966 1300 deluxe sedan, a bug.
+We ordered one in Java green. It came with steel sun roof,leatherette
+interior,optional beauty rings on the tires,optional mud flaps,
+saphire 4 AM/FM radio, with an gadget called a vibra-sonic mounted in the
+truck.I had one speaker mounted in front and two mounted in the back on an
+optional package shelve.The vibra-sonic electronicly delayed the signal
+going to the rear speakers.The effect was sort of an echo chamber effect to
+any music you might play.I bought the car at Truman motors Volkswagon in San
+Diego. In 1966 they advertised..."come see us at Truman Motors, you'll like
+that place"!!  Well they were right I did!! The car was delivered on a
+friday in June with seven miles on the odometer.The next day we made our
+first trip, to Anaheim and Disneyland.
+It was a bright sunny day. After we parked, my wife stood up through the sun
+roof and waved at me. I snapped her picture. The good lord has been kind to
+us. After thirty six years we still have that picture and the same car.My
+wife and I are workin' on thirty nine years together.
+I really had wanted to get a bus, but I couldn't quite swing the price.
+The bug cost 1860 plus financing (thru the Bank of America)brought the price
+to twenty two hundred dollars. Payments were about eighty bucks a month.The
+bus would have to wait a few more years.In the years we have owned the bug
+however its carried us across the United States four times
+including a trip across Canadas highway one (we entered Canada at
+Vancouver,B.C. and re-entered the states at Niagra falls). We've camped in
+it and slept in it.Years later after our daughter was born, she learned to
+drive in it, and later drove the car as a college student in Seattle.In the
+sixtys having a Volkswagon of any kind was more fun then you could ever
+imagine. Just pulling up to a stop light you might find yourself in a mixed
+group of bugs and busses. Unlike today when people wave as they pass, VW
+drivers never waved, there were just to many on the road.Volkswagon actively
+supported the aircooled folks then.
+While my car was still in warranty (six months/six thousand miles)
+I returned to Truman motors for service.I'm a big jazz fan,during the sixtys
+the jazz scene was booming groups like the Modern Jazz Quartet,
+and artists like Cal Tjader,George Shearing, Nina Simone, Dakota Staton,
+and Ramsey Lewis to name a few were in their prime.Most of this was on FM.
+On the AM side of the dial I was realy into a guy called
+Wolfman Jack....he was "da man". Thus I had most of the buttons on that
+Saphire radio set. Yet on one occasion when I had my car serviced at Truman
+Motors someone had selected a new station.It was a spanish station on the AM
+side.As I drove away from the dealer I turned on the radio and listened to
+some of the most beautifull spanish/mexican guitar
+music I'd ever heard.I wish now I'd gone back an thanked the guy.A year
+later we transferred to Whidbey Island in Washington state. My next
+opportunity to get a bus came in 1975. I was back in San Diego on
+temporary navy duty.I was invited to diner at the home of a retired navy
+buddy.We got to talking Volkwagons. He was getting ready to buy a new "big
+window" bus and wanted to sell his old one.He was the original owner of a
+1966 bus, with about 70,000 miles on it.It was complete and he was asking
+$700 dollars for it!! I turned him down.In todays world I would have been
+all over him in a heart beat for a deal like that. However in that time
+frame split windows were not that rare. Plus I was getting ready to return
+to sea duty. I often think about that today, what a lack of foresight!! From
+1979 to 1987 I was overseas with no opportunitys to get a bus. To make a
+long story short I got my first bus (a project)after leaving the service in
+1990. Over the next several years I aquired several bus projects. Most of
+these I parted out. In 1995 I finally got the one I was looking for. A
+partialy restored 1963
+non-sunroof with step-thru front seats.Just like the one that we rode in
+when we first arrived in the states.Its still not complete, but hopefully
+when I get home next year it'll be on the road.I'm the third owner of this
+bus. The first two owners were faculty members at the University of
+Washington.the bus came off the assembly line the first week in February
+1963. About six weeks later it came to Portland Oregon aboard one of VW's
+car ferry vessels.At some point it was consigned by the distributer to
+Carter Motors Volkswagon in Seattle. Thats where the original owner took
+delivery. He kept the bus for 18 years, the seconed owner kept it for 14 and
+now its in my care.The bus is basicly stock with the gear box's and 1500
+engine. The electical system was upgraded to 12 volt and I installed a 009
+distributer.The biggest problem I've experienced was rewiring the lights and
+turn signals. I freely admit I had professional help to correct the
+problem.We located a good nine
+pin turen signal/switch box from a 67 donor bus and wired it into the bus
+using the Bently 60 to 67 manual.As of three years ago it worked good
+(smile). I've rambled enough...my first question is this....
+are there any original splitwindow bus owners still driving their busses
+out there? Without exception I read of busses being hauled out of the desert
+or trucked from one place to another.But I've never heard or read of an
+original owner of a 67 or earlier bus driving it or restoring it.I have read
+of the occasional bug owner who has held on to their car,but no bus owners,
+original owner anyway.I've read that between 1950 and 1967 about six million
+busses were built. Don't know how many might have come to the states. But it
+seems with those numbers
+theres gotta be some original owners still drivin' their busses out there.
+Anybody know of any? My seconed question is a maintenance one.
+I've become friends with a Japanese navyman stationed here.He has a 1965
+pop-top camper.He got the bus from someone who brought it from Australia.His
+problem is the radio grill has been hacked to permit installing a larger
+unit.He wants to restore it to original.He's come by a grill section from a
+donor bus however its a 1967 grill.It has the larger opening. I have some
+thoughts on how to do this job, but since
+I never have done it in the past and of course neither has he, we are
+reluctant to begin.We are both aware if its not a smooth,seamless job the
+dash will look worse then it does now.I'm sorry I don't have any pictures to
+send, but if any one has done this job any help,pictures,or good advice is
+welcome.
+Finally please forgive the rambling nature of this message. Won't do it
+again,I promise.I do want to say this list is the greatest thing for bus
+folks sinced they began slicing bread.Also want to wish all of you back in
+the states a merry Christmas and Happy new year.One
+Last thing, this season, please keep in your thoughts an prayers our young
+men an women in uniform serving on ships, aircraft, and a variety of
+unfriendly places
+on the ground.Their payin' the price for our freedom.
+Don't forget 'em.
+respectfully, Mike turner</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F679240" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F679240" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F679240" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

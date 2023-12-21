@@ -148,6 +148,7 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         if self.is_directory_request_without_trailing_slash():
             self.path += '/'
 
+
         # Store the original path
         original_path = self.path
 
@@ -175,12 +176,13 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
             logging.debug(f"Rewrite [{match_type}] applied: {self.opath} -> {self.path}")
 
 
-
         # Proceed with the regular GET handling
+
         super().do_GET()
 
+        ## not really sure we need this now.
         # Restore the original path
-        self.path = original_path
+        # self.path = original_path
 
 
 import time

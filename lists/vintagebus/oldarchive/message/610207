@@ -1,0 +1,375 @@
+<html>
+<head>
+<title>vintagebus - Jerome Trip Report pt 1 (long) </title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/610207 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/610207" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/610207" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Jerome Trip Report pt 1 (long) </h1>
+   <b>&quot;Big Bus Mike&quot; &lt;cobuskatier_at_hotmail_dot_com&gt;</b><br/>
+   <i>2004-09-17 05:38:43+00</i><br/>
+   <br/>
+   <pre>Part 1
+
+So after about a month of flip flopping on whether or not to go to Jerome, I
+decided on Tuesday that if I could get paid early, I would head out early
+Thursday morning. I was driving to work at 9am on Wednesday morning,
+cruising down I-25 thinking happy thoughts about Jerome and the Friends I
+missed and would be seeing again. Midway through a pleasant thought, the bus
+coughed once and made a THUNK sound and lost a TON of power.( it was just
+after a truck pulling a Jayco trailer passed me... see explanation later)
+Just my luck, I thought to myself, My engine picks RIGHT NOW to grenade... I
+thought, by the sound of it, that I had thrown a rod as the noise was rather
+audible and the bus was getting slower and slower. I limped it to the park &
+ride, where I pulled over to survey the damage. Keeping the engine running
+(didn't know if it would ever start again) I carefully opened the decklid
+fully expecting to see a steel connecting rod poking through the soft
+magnesium alloy, repeatedly beating itself into a self induced coma. I
+forced my eyes to look towards what I thought would be a molten ball of
+metal or what USED to be an engine, and then I saw the most beautiful thing
+imaginable... a Spark Plug had come out of the head. Granted, I live in a
+strange, self imposed little world but it was beautiful to me! This same
+plug had backed out about 2 weeks before and stripped the hole in the head,
+was helicoiled back in, and thought to be fixed... but apparently not. I let
+the engine cool down as much as possible before sticking my hand into the
+burning hot spark plug hole to feel for damage. Not feeling anything, I
+tried to thread the plug back in, and finally gave up after I realized that
+the helicoil was missing the first two rows of threads. I limped the bus on
+3 cylinders to the nearest VW shop, Vee-W Unlimited in Loveland which just
+happened to be the place that helicoiled the plug the last time. I told Dick
+(the owner) my problem and he said I probably had a cracked head, and needed
+to replace it. I told him of my plans and aspirations of attending the
+Jerome Jamboree the coming weekend and he just kinda looked at me and said
+"you better get working on that..." Dick hooked me up with a good head, on
+which he lapped the valves and checked the seats before sending me on my
+merry way...THANKS DICK!  Now comes the first of many "don't try this at
+home"'s in this story...
+
+I drove the bus on 3 cylinders from Loveland to my Job in the south east
+side of Boulder, a total distance of around 40 miles. It wasn't the fact
+that I was driving on 3 that made it fun, it was the fact that I could do
+about 55mph down hills and on the flat, and about 30 up hills... That isn't
+quite contusive to having fully loaded gravel truck semi's following you
+about 3 inches off the rear bumper. Its a miracle that I don't have "mack"
+tattooed on the ass end of my bus... I limped the bus to work, blown plug
+and all, and rolled into the shop about 3 hours late. Told Tyler and Joe the
+story, and Tyler started falling off his chair, he was laughing so hard. He
+had told me about 2 weeks pryor to beware of a Red Jeep Cherokee pulling the
+previously mentioned Jayco trailer. I'm not one to necessarily believe in
+premonitions, but Tyler is getting pretty dang accurate with his... I worked
+all day, until about 3 hours after I was supposed to get off to make up for
+the lost time, and then pulled my bus into the shop and started tearing into
+it. At this point, it was about 9pm. I yanked the engine out in record time,
+as I wanted my bus fixed and fixed RIGHT NOW!!! Joe had a good point when he
+told me something along the lines of "do it right the first time" and
+"you're going to be here all night regardless, might as well take your time
+and clean stuff up while you're there" So that I did. I took all my tin and
+solvent tanked, wire brushed, and painted it. (with hammertone black krinkle
+finish...looks NICE for spray paint) I pulled off the old head, which had a
+BIG crack between the spark plug boss and the exhaust valve seat. I replaced
+the head, did a valve adjustment, put everything back together, torqued
+things down to spec (see, I AM capable of changing my ways) made sure
+everything was tight and where it was supposed to be, put the engine back in
+the bus, hooked the wiring, fuel, and throttle cable back up, and took it
+for a test drive. By this time it was 4am on Thursday morning. I drove the
+bus down the road behind the shop, and noticed a huge increase in power,
+being that it was firing correctly on all 4. I drove about 1 mile then
+turned around, and in the process, the bus started stumbling and popping
+through the exhaust. I limped it back into the shop only to find that
+removing the # 1 & #2 plug wires didn't do anything to affect the idle of
+the engine. I made sure the wires were on tightly. They were. I checked to
+see if the plugs were installed correctly. They were. Checked the cap &
+rotor to find a little corrosion, but nothing unusual. I killed the engine,
+then popped the valve cover, only to find all four pushrods on the 1 / 2
+side to be completely off their rocker arms. I had apparently forgotten to
+tighten and torque the rocker shaft securing nuts, and they had backed off,
+allowing the shaft to float freely around. I took the assembly apart, made
+sure nothing was damaged, replaced a pushrod that wasn't quite straight,
+bolted everything back together, re-adjusted the valves with the engine hot
+(don't try this at home #2) re-checked all my torque values, slapped the
+valve covers back on and took it for yet another test drive. By this time it
+was 5:30am. I took the bus on an extended test drive to go get something for
+breakfast, on which it ran smooth with no problems, but it wasn't quite as
+fast as before. I chalked it up to the valves being WAY too loose, and
+shrugged it off. I came back to the shop, where I ate breakfast in peace and
+watched the sun rise through the crisp morning air. As I finished my
+breakfast I took a moment to take in the beauty of the sun hitting the
+flatirons and the surrounding mountains. With that happy thought in mind, I
+folded down my bed, pulled the curtains, and passed out.
+
+The morning came all too soon, as it was already present before my passing
+out. I think I acquired around 3 hours of sleep, which was far too short for
+a person who normally sleeps 10-12hrs _at_ a time... I worked all day, somehow
+working a deal for my singlecab to change hands, allowing for my finances to
+be in order and ready for the trip to Jerome. I left work around 6pm, went
+home, took a shower, changed clothes, packed, did a "kick the tires"
+inspection of my bus, loaded up, and headed out. I hit the road at 8pm, with
+the odometer reading 63600 & 0/10ths. I fueled up, and headed south. After
+pumping myself up on sugar and Mountain Dew "Amp" energy drinks, (yet
+another "don't try this at home" )  I reached albuquerque at around 5am
+Friday morning, which really wasn't too awful bad timewise. I went to super
+wally world to stock up on some things I had forgotten in my haste to leave,
+then attempted to find my friend Shawn and his lovely wife Cynthia's house
+in the dark. If you've ever been to the west side of Albuquerque, you know
+that every house is stucco / adobe and is painted light tan. They also all
+have xerascaped front yards (rocks, cacti & yucca instead of grass & shrubs)
+They were apparently also all built by the same contractor, as there were
+about 5 different floorplans scattered throughout several thousand houses.
+What I'm getting at is they more or less all looked the same... even more so
+at 5am... I called Shawn, who was already up anyway, and he gave me
+directions to his house. It turned out I was 2 blocks away when I called...
+I pulled up, went inside, talked with Shawn awhile, grabbed some Buses &
+Balloons flyers, drank another mountain dew energy drink, said goodbye, and
+hit the road once again.
+
+Between Albuquerque and Flagstaff I really don't remember too much, except
+that all the rock around Gallup, Nm was volcanic. I enjoy noticing and
+identifying things like that... I hit Flag around 1:30pm Friday afternoon,
+and promptly found a car wash. I attempted to blast the oil spots off the
+back of the bus that had been accumulating since I left. (small oil leak to
+take care of) I really didn't want to smell oil when I slept, so I though
+this a worthwhile use of my time. I found out in short order that the water
+pressure in Flag (or at least at this car wash) was nothing to write home
+about, but then again, I was in the desert... After my half-assed carwash, I
+took some time to empty the trash I had accumulated in the front of the bus,
+making it almost presentable once more. (keyword: Almost) I headed out of
+Flag at around 2:00pm, south on Highway 89a. The stretch of the
+aforementioned highway between Flagstaff and Cottonwood is some of the most
+beautiful stretch of highway I have ever laid eyes on. As I drove through
+Oak Creek Canyon, I once again heard a dreaded noise...one loud WHACK
+followed by the generator light coming on. I pulled over and opened the
+decklid, already knowing what to expect. The fanbelt had broken, and
+disintegrated. Fortunately, I couldn't have picked a more beautiful spot to
+be working on the bus. The scene was a pull-off high on a switchback, next
+to a burbling creek, near the chirping birds and the gentle sound of the
+breeze floating through the trees. I took my time, enjoying the
+surroundings, to replace the belt. I got it all patched up, running smooth
+again, took one last look around, and headed on towards Jerome. Passing
+through Sedona, I admired the bright red rock formations, speculating on
+their content and creation. I noted how I would love to live in Sedona
+someday (after I sell a kidney on Ebay...) Dreaming about starting a
+campground with buses as "Der kamper kabins", continued on past Sedona,
+through Red Rock State Park. The geology through this area is nothing short
+of profusely stunning. Words can't even begin to describe the scene, except
+possibly "Wow!" Not really having any timetable, I stopped to take in the
+Spires of iron saturated rock that jutted out of the desert floor like
+natures own skyscrapers reaching out towards the painted sky. After
+absorbing more beauty than is possible to retain in the memory, I headed
+onward, towards my final destination. As I continued down oak creek canyon,
+I passed "slide rock state park", a wonderful little piece of real estate
+where oak creek has cut a natural waterslide into the slickrock / sandstone.
+My thoughts wondered to visions of last year when a few of us stopped to
+play in the water and had a good time co-mingling with nature. Happy
+thoughts in mind, I cruised on down into Cottonwood, Az where I stocked up
+on Ice and beverages for the forthcoming campout. A short trip through town
+and a turn down the road to jerome... It was so close I could feel it! The
+hill into Jerome is something to be experienced. Buses with no first gear or
+who aren't firing on all four, all I can say is GOOD LUCK! The grade is
+anywhere from 2% to 14% with some steep switchbacks and wicked washboards.
+After beating my suspension into submission, I finally pulled into the "Gold
+King Mine", the site of the campout. I drove around a bit, trying to find
+friends to camp with, when I saw Lou & Liz from Havasu's '61 Subhatch westy
+with color matched trailer. I knew that I would be in good company camping
+with Lou & Liz, so I pulled in and parked. I got out, said my hello's and
+introductions to our campmates and campsite neighbors, cleaned up a bit and
+set up camp. WE MADE IT!!!
+</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F610207" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F610207" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F610207" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

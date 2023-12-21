@@ -14,6 +14,10 @@
     {
       "source": "/airs/",
       "destination": "/airs/main/"
+    },
+    {
+      "source": "/lists/(.*)/oldarchive/main.html",
+      "destination": "/lists/$1/oldarchive/main/"
     }
   ],
   "rewrites": [
@@ -35,10 +39,19 @@
     },
     {
       "source": "/rescue/(.*)",
-      "destination": "/~airsworks/rescue/$1"
+      "destination": "/~airswork/rescue/$1"
     }
+
   ],
   "headers": [
+    {
+      "source": "/lists/(.*)/oldarchive/main",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/lists/(.*)/oldarchive/listmonth/(.*)",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
     {
       "source": "/locate/",
       "headers": [{ "key": "Content-Type", "value": "text/html" }]
@@ -1289,7 +1302,7 @@
     },
     {
       "source": "/airs/main/",
-      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+      "headers": [{ "key": "Content-Type", "value": "text/html" }, { "key": "DSR-Content-Type", "value": "hahahaha" }]
     },
     {
       "source": "/login/register/",

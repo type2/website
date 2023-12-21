@@ -1,0 +1,319 @@
+<html>
+<head>
+<title>vintagebus - NQ's RMMW/Bandimere Trip Report Part 2</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/630659 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/630659" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/630659" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>NQ's RMMW/Bandimere Trip Report Part 2</h1>
+   <b>&quot;No Quarter&quot; &lt;silent_at_beatricene_dot_com&gt;</b><br/>
+   <i>2001-08-15 21:49:18+00</i><br/>
+   <br/>
+   <pre>As I was strapping the goods down to my roof rack, an RMMW rep came around
+asking if anyone ran a shop.  I said I did (just a little one really) and
+just like that I got signed up for the VIP tour of RMMW.  Rob had been
+having trouble with his generator and dead batteries.  It was a broken wire
+in the generator and so I insisted that it get replaced.  Just before and a
+little after the VIP meeting, I went to work on replacing Rob's generator.
+Did it without pulling the engine but it was still a tough job.  I missed
+most of the show because of this but didn't want Rob to cruise around
+without a charging system.  The VIP meeting was kind of neat.  I got to see
+all the inner workings of RMMW.  Got to visit with Clyde Berg about his
+newest design - a Berg pulley machined to look like a BRM rim.  I remembered
+seeing that on the milling machine at Bergs but didn't know what it was.
+Here is the picture I took:
+http://www.buskatiers_dot_com/2001/events/buskatierswayoutwest/updates/finalupda
+tes/June8_Yacaipa/FridayGeneBerg3/images/MVC-020F.html
+
+At the VIP raffle, I pulled out Dan's name from the hat and he won a $80
+Hazet wrench set.  Of course everyone suspected that I cheated but honestly,
+I had no idea whose card was whose.  For those that didn't have business
+cards, they wrote their name on the back of an RMMW card.  Dee Berg needed
+to borrow a pen and since Dan and I sat next to her and Clyde, she borrowed
+my pen.  So now I have this pen set aside - Dee Berg herself wrote with my
+Mead Lumber pen.  I never dreamed I'd be visiting with the Bergs.  Even
+though they are very business-savvy, you would never know it.  Clyde and Dee
+were both very personable.
+
+After the meeting, I of course bee-lined it to Rob's SC and with help from
+Justin and another fella who I've seen but can't remember (from NM I
+believe), we got the generator replaced.  By this time, a little crowd had
+formed around us and I was in a pissed-off and grumpy mood.  I was sore, I
+cut myself a couple times, so I just wondered off back to my bus.  Terry and
+Dan saved the day with Orange Gojo and water so I could get cleaned up.  Had
+a really nice chat and jam session with Dan Buser behind my bus.  I got out
+the guitar and some lyrics and we sung for a good 30 minutes it seemed.  It
+helped break the tension that had welled up inside of me.  The show was over
+by now and we were the last of the crowd left behind.  We finally piled into
+our buses and headed towards 11 mile campground.  Our little caravan crept
+up on Rick and Nikki and Rob blew by them for fun. Rick returned the favour
+and then on the way up to the campgrounds, the opportunity presented itself
+and I just passed everyone.  I was 3rd gear 45mph and just impatient as
+could be - I wanted to get out of my bus, rest, eat, and just chill.
+
+The campout was great at 11 mile.  Chad from Ponca City, OK was there.  He
+was a good friend of Josh Rodgers and we had a nice little chat about T4
+conversions and campouts.  A severe thunderstorm had formed over the
+mountains and it appeared that it was coming our way.  It veered off just
+leaving a few sprinkles on us.  It cooled way off and we were all watching
+the rain descend on the far mountain slope to the point where you couldn't
+see the mountain anymore.  As the storm made its way to the southeast, the
+sun came out and we were treated to the most vibrant double rainbow you
+could have ever hope to see.  The cameras were clicking and Dan got a couple
+of nice shots of Rob's beautiful velvet green single cab and the Binz with
+the rainbow in the background.  What a beautiful evening this was! As the
+sun set, we got several group photos.  I can't wait to see these!  There was
+also an awesome neon light looking sunset - a line between the mountians and
+a cloud made a thin strip of sunlight come alive!!!   With Rick and Keith
+running the grills, the food was abundant.  There was so much, I was full
+and we had stuff left over!!!  Rich spent a bunch of his time working over
+the high roof - getting the dome light to work, plugging vaccuum leaks, and
+getting turn signals operational again.  He's amazing!  He just fixes stuff
+on the fly and I don't have the patience to do this while I'm on vacation.
+Rich is just the most determined bus dude I've ever met.
+
+As night fell, we realized that in order to make Bandimere early, we would
+have to get up at 5:00 and be on the road by 5:30.  It was really hard to
+get up the next morning out of Rob's tent but the alarm went off so I got
+Rob and Justin up.  Rob took off, expecting us to catch up with him later.
+I woke up Jamie, Dan, and Rich and by 5:30, we rolled out.  The windows were
+wet with dew and the morning air was a chilly 50 some degrees.  You could
+see your breath!
+
+We descended the slope into Woodland Park with Rich taking his highroof
+around the corners.  He was doing an awesome job of handling the bus but you
+could tell he had his hands full.   I had my hands full while I was trying
+to navigate tight corners at speed with a heavy load.  When we finally hit
+the gas station to fuel up, we sent Rich ahead of us because our flyer
+trannies just simply were out-running Rich.  If Rich broke down, we could at
+least see him and offer assistance.  The bullet ride from Colorado Spring to
+Denver was something to behold.  Dan and I did 75 to 80mph and were in the
+fast lane a lot of the time.  We actually had some kids in a VW Thing that
+hung with us.  They knew something was up as you just don't see splitties
+traveling those speeds! :-)  We had to slow down for a couple of big
+antelope or deer that buzzed across the interstate as well.  As we hit our
+exit, we saw Rich down on the shoulder just past the exit.  He had broken a
+shift coupler - not snapped it in 2 mind you but right where the grub screw
+goes.  We had to circle around and get back on I-25 and finally got to where
+Rich was.  After about 20 minutes or so on the side of the road, Dan and
+Rich got the coupler patched up enough so that Rich could shift again.  We
+arrived at Bandimere and before long were in VW spectator parking.  It was
+neat to have the high roof, the Binz, and my bus parked together.  A caravan
+of "rare" buses of which mine was the least rare.  We wasted no time in
+getting over the swap pile and we all found a few deals.  I didn't buy
+anything but found a box labeled "free."  In it was a T2 1967 12v flasher
+relay!  Dan scored a deal on some mint condition popouts (a whole set for
+dirt cheap), and Jamie snagged a bunch of splitty jalousie windows as well.
+We watched a little drag racing and I just kind of walked around and looked
+at all the action.  I never made it as far north as I did last year but I
+definitely saw more than I did at RMMW.  Rob's SC was the only Splitty SC
+entered in the show!!!  There were a lot of DC's this year though.  Also,
+when Rob and I came back from California, there was a couple that we passed
+and then got passed by in a white Super Beetle VW around Hastings, NE.  It
+just so happened those people found Rob's bus at the show and waited for him
+to come back to his bus so they could meet him.  They were ecstatic to see
+the bus that they had passed on the road back on June 14th - almost 2 months
+prior.  Connections were made and hopefully we've added another Nebraska
+couple to the Buskatiers!!!  I also met a guy from Scottsbluff, NE and
+managed to give him my card.  Hopefully we can get more acquainted with our
+Western Nebraska VWers as the population density is so sparse out there,
+it's hard to find VW people.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F630659" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F630659" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F630659" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

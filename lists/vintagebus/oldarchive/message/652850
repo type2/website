@@ -1,0 +1,364 @@
+<html>
+<head>
+<title>vintagebus - Brake fluid</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/652850 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/652850" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/652850" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Brake fluid</h1>
+   <b>Thom Fitzpatrick &lt;thom_at_vintagebus_dot_com&gt;</b><br/>
+   <i>1998-10-17 17:23:54+00</i><br/>
+   <br/>
+   <pre>[...]
+
+Someone asked about brake fluid yesterday.  What follows is a pretty damn
+good dissertation on the subject by Bruce Anderson, famed porsche mechanic
+and author of the "911 Performance Handbook"
+
+>Awhile back I had a response to a column in 911 & Porsche World on brake
+fluid
+>as follows: 
+>Notice that in their article that they refer to conventional polyglycol brake
+>fluid as "being remarkably incompressible" therein lies the problem with
+>Silicone brake fluid it is compressible and gives you a spongy felling brake
+>pedal. Yes, polyglycol brake fluids absorb moisture and deteriorate, but
+in my
+>opinion the pedal feel of silicone brake fluid is unacceptable when brand
+new.
+>I have always suggested it as a superior product for cars that are static
+>displays such as museum pieces, but unacceptable for cars that are actually
+>driven. 
+>
+>Porsche recommends that the brake fluid be replaced every two years. Porsche
+>also goes on to recommend that we use only polyglycol, DOT 3 or DOT 4 fluids
+>and not DOT 5 silicone fluid. Furthermore they say that we should not add or
+>mix DOT 5 silicone type brake fluid with the brake fluid in your car as
+severe
+>component corrosion may result. Such corrosion could lead to brake system
+>failure. 
+>
+>For the model year 1993 the brake systems in all Porsche models were filled
+>with an improved type of brake fluid, ATE type 200. ATE Type 200 fluid was a
+>new improved DOT 4 fluid with a higher dry boiling point, a higher wet
+boiling
+>point which extended the life of the fluid and resulted in longer change
+>intervals (every 3 years). This same brake fluid is sold on the
+aftermarket as
+>ATE Blue and is a superior DOT 4 brake fluid. 
+>
+>Brake fluid comes in DOT 3, DOT 4 or DOT 5 ratings. The DOT standards for
+>brake fluids were established in 1972. When the National Highway Traffic
+>Safety Administration, Department of Transportation (NHTSA) set up the
+>requirements for brake fluids they determined that there was a need for two
+>grades of fluid until an all-weather fluid was developed with viscosity and
+>boiling point characteristics suitable for all braking systems. In order to
+>provide added protection against vapor locking and fade in severe braking
+>service, DOT 4 fluid is recommended. But in such applications it is important
+>to note that the same higher viscosity that helps eliminated vapor locking
+and
+>fade may result in poorer system performance in very cold weather Also, it
+>should be noted that the high boiling points are sacrificed in the DOT 3
+fluid
+>for low viscosities for use at low temperatures. These differences between
+the
+>viscosities of the DOT 3 and DOT 4 fluids are necessary to cover the
+specified
+>operating temperature ranges and as such make it necessary to maintain both
+>DOT 3 and DOT 4 brake fluids. 
+>
+>DOT 5 fluid is supposed to be the all-weather fluid that is mentioned in the
+>preceding paragraph and it can be used as a replacement for both DOT 3 and
+DOT
+>4 brake fluids. They test all three fluids for a great number of different
+>characteristics, however, the most interesting characteristics to us are the
+>equilibrium reflux boiling point (dry boiling point), the wet equilibrium
+>reflux boiling point (wet boiling point) and the kinematic viscosities
+>(viscosity at cold temperatures).
+>Dry boiling point: These are the minimum boiling temperatures allowed for the
+>various grades of fluid (this test simulates the boiling point when the fluid
+>is new).
+>DOT 3 401° F
+>DOT 4 446° F
+>DOT 5 500° F
+>Wet boiling point: These are the minimum boiling temperatures allowed for the
+>various grades of fluid when wet (this test is a  simulation of the boiling
+>point after the absorption of moisture from air) 
+>DOT 3 284° F
+>DOT 4 311° F
+>DOT 5 356° F
+>NOTE: These are the minimum requirements and there are brake fluids available
+>that will exceed these minimum requirements. 
+>Kinematic viscosities: All brake fluids (DOT 3, DOT 4 and DOT 5) must meet a
+>minimum viscosity test of not less than 1.5 centestokes at 100° C (212° F)
+and
+>must not be more than the following to meet their various classifications
+(the
+>larger numbers indicate higher kinematic viscosities just like with motor
+>oils). 
+>DOT 3 1500 Centestokes at minus 40° F
+>DOT 4 1800 Centestokes at minus 40° F
+>DOT 5 900 Centestokes at minus 40° F.
+>
+>There are some advantages to silicon brake fluid over conventional polyglycol
+>brake fluids. It is permanent, it does not absorb moisture, it does not boil,
+>it helps prevent corrosion rather than causing it, it will not damage paint
+>and it helps lubricate seals and other components in the brake system.
+>
+>The disadvantages, though minor, can be very annoying. Silicon brake fluids
+>are slightly compressible, or at least they appear to be because of their
+>affinity for air, which results in a different pedal feel from that of a
+>system which uses a conventional non-compressible polyglycol fluid. Because
+>of silicon brake fluid's affinity for air and their surface tension
+>characteristics they tend to cling to any air bubbles which get into the
+>systems braking making the system very difficult to bleed properly. 
+>
+>The brake fluids required for our Porsches are either DOT 3 or DOT 4 in new
+>and unused condition (that means that the can should be sealed so that there
+>is no moisture in the fluid). Porsche recommends that we changed the brake
+>fluid every two years because the conventional polyglycol fluids are
+>hygroscopic and will absorb moisture. When the fluid absorbs moisture, two
+>things happen: the boiling temperature goes down and the absorbed moisture is
+>corrosive to the brake components. Minimum wet boiling point is specified for
+>DOT 3 is 284° F and for DOT 4 is 311° F and because these fluids are
+>hygroscopic they commonly will approach these minimum limits. In contrast DOT
+>5 silicon fluids have a wet boiling temperature of 356° F and because they
+are
+>not hygroscopic they will never approach the wet boiling limit. 
+>
+>The silicon brake fluids are DOT 5 and as such are required to be compatible
+>with all conventional DOT 3 and DOT 4 fluids in order to comply with the
+>federal regulations for DOT 5. 
+>
+>Silicon brake fluid is inert and is the only universally compatible brake
+>fluid. However silicon is not miscible and will not mix with other types of
+>brake fluids. Although the silicon fluids can be used with conventional
+>polyglycol fluids, they will not mix and the conventional fluid still in the
+>brake system can continue to absorb any moisture in the system components. 
+>
+>To gain maximum benefits for the silicon brake fluids the complete brake
+>system should be completely disassembled and cleaned before adding the
+silicon
+>brake fluid. Then because of the silicon brake fluid's affinity for air,
+it is
+>recommended that a pressure bleeder be used for bleeding the system. 
+>
+>I have had personal experience with silicon brake fluid in both street and
+>racing cars. And indeed have experienced difficulties getting the systems
+>properly bled. Even when we were sure we had properly bled the brake system,
+>the brake pedal always had a strange, soft feel to it. We attempted to use
+>silicon brake fluid in a Porsche 935 race car at Daytona one year for the
+>twenty four hour race because of the problems we have in Florida with the
+high
+>humidity lowering the boiling point of the brake fluid. It probably would
+have
+>achieved our objective; however, the drivers didn't like the pedal feel and
+>requested that we change it back to conventional fluid. In street cars the
+>silicon fluid has advantages which may outweigh its disadvantages,
+>particularly for older cars that do not get driven very much. Moisture
+>absorbed by conventional polyglycol brake fluid cause serious corrosion of
+>metal parts and deterioration of rubber seals and hoses in the brake system. 
+
+
+Thom Fitzpatrick
+thom_at_calweb_dot_com
+Home of _the_ VW bus web site
+http://www.vintagebus_dot_com</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F652850" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F652850" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F652850" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>

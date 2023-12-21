@@ -1,0 +1,294 @@
+<html>
+<head>
+<title>vintagebus - Trip Report (longish)</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name=viewport content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/css/social.css"/>
+<link rel="stylesheet" href="/css/bootstrap-social.css"/>
+<script src="https://kit.fontawesome.com/d43644abd1.js" crossorigin="anonymous"></script>
+<style>
+    .jumbotron { background-image: url("/images/volkswagen-149048_1280.png");
+                 background-repeat: no-repeat;
+                 background-position: center;
+                 }
+</style>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<!-- /lists/vintagebus/oldarchive/message/599630 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <nav class="navbar navbar-default navbar-fixed-top">
+
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      <a class="navbar-brand" href="/">
+        <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-type2-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class=""><a href="/">Home <span class="sr-only">(current)</span></a></li>
+        <li class=""><a href="/airs/main.html">AIRS</a></li>
+
+        <li class="dropdownactive">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Mailing Lists</a>
+
+          <ul class="dropdown-menu active">
+            <li><a href="/lists/vintagebus/main.html">Vintage Bus (1949-1967)</a></li>
+
+            <li><a href="/lists/type2/main.html">Type2 (1968-1983)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Vanagon (1980-1991)</a></li>
+
+            <li><a href="http://gerry.vanagon.com">Eurovan (1992-2003)</a></li>
+
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+             aria-expanded="false">Tech Libraries</a>
+
+          <ul class="dropdown-menu">
+            <li><a href="/library/type2/library.htm">Type2 Library</a></li>
+
+            <li><a href="/library/bartnik/tech1.htm">Bartno Tek</a></li>
+
+            <li><a href="/library/nesstek/index.htm">Ness-Tek</a></li>
+
+
+          </ul>
+        </li>
+  <li class=""><a href="/donate.html">Donate</a></li>
+      </ul>
+      <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+      </form>
+    <ul class="nav navbar-nav navbar-right">
+        
+        <li><a href="/login?returnurl=/lists/vintagebus/oldarchive/message/599630" title="Login">Login</a></li>
+        <li><a href="/login/register?returnurl=/lists/vintagebus/oldarchive/message/599630" title="Login">Register</a></li>
+    </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+  </nav>
+  <div class="container" role="main">
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+</ul>
+<p>
+<form method="post" id="searchform" action="/lists/vintagebus/oldarchive/search/0/0">
+<div class="input-group">
+      <input name="search" type="text" id="search" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button" onclick="document.getElementById('searchform').submit();">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+</form>
+</p>
+
+
+
+
+
+
+
+   <h1>Trip Report (longish)</h1>
+   <b>Claralw_at_aol_dot_com</b><br/>
+   <i>2004-04-12 16:08:26+00</i><br/>
+   <br/>
+   <pre>Hey just had an interesting and successful journey.
+
+Before I left I changed the oil (at 1700 miles, early, but why not) and 
+checked the valves (no adjustment needed)
+
+Left Oly, WA Thursday about 3pm... though I meant to leave earlier in the am 
+actually, but packing etc. does take time for some reason.  Got gas in 
+Chehalis (30mpg!!! must be a fluke) and stopped at a rest area to check the engine 
+just in case... looked like a hundred motorcycles... must be some organised ride 
+going on.  The time meant I hit rush hour traffic in Portland.  Listening to 
+the radio I heard of a stalled semi on I-5 in Portland, so decided to take the 
+loop around (I-505) instead of the shorter way through the city.  Radio also 
+soon mentioned a car fire, then a crash, and a log truck having dropped some 
+logs south of the city.  Luckily I was only delayed half an hour by slow 
+traffic, but it was hot and boring.  Cruised about 60mph , with oil temps about 
+190F, nice warm day with safari cracked open.   Getting dusk as I hit Eugene, and 
+headed east on 58.   The engine sounded sweet going through the windy forested 
+mountain road.   I stopped at a campground soon after full dark, cooked up 
+some supper and hot chocolate, and passed a cosy night.  Only one other vehicle 
+was there.
+
+Woke up at a chilly dawn And made coffee.  Wandered around a bit looking at 
+trees and river.  Started up the bus, and headed out.  Stopped at the ranger 
+station to check out local maps.  I decided not to head across the mountains to 
+138, but to go east over the mountains, then cut back from the other side.   
+Lots of snow up there, so the forest roads would not be terribly clear.  The 
+pass was a bit over 5,000 ft, and the road was clear, the day was sunny, lots of 
+dirty snow on the sides of the road.  Headed south at 97, then back west on 
+138, back over the mountains (5,900 ft pass this time, a bit chilly) and 
+stopped for gas at diamond lake, which was pricey, but I didn't need much (had 
+filled up outside of (Eugene)   The lake was covered with ice, gorgeous actually.   
+It was thawing, but I saw tires tracks where someone had driven out onto the 
+lake (and back).   Loads of mountain scenery.    Back in the bus, and SW down 
+the mountain about elev. 2500 ft to Umpqua hot springs.   A vanagon Westy was 
+the only other car parked at the trailhead, and when I had hiked up the steep 
+slop to the spring, the hippy couple there was leaving, so I had it all to 
+myself.   nice sunny warm day...tall trees, hot mineral springs, and an ice cold 
+river to jump in (okay I had to climb down a steep slope to the river, which 
+practically froze my toes off, but wow... that woke me up!!!!)   No complaints 
+at all.   eventually I decided I was melted into enough of a rubbery blob that 
+I oughta leave, and hiked back down to the bus and ate lunch and chocolate.
+
+Back down the dusty gravel potholed road to the hwy, then I headed E to 97, 
+back over the pass.   I wanted to cruise around Crater Lake, but that road was 
+closed, with several feet of snow on it.   I contemplated driving that way 
+anyway, but decided not to.   So I got back in the bus, and it really smelled of 
+gas.   Eventually decided that it must have expanded out the top of the tank, 
+found no leak anywhere.  So back to 97 and headed south.   Stopped at the 
+ranger station N of Klamath Falls to find out about campground, but they had just 
+closed, so I stated looking at the brochures outside the door.  A guy coming 
+out said they were kicking people out.   Turned out he and his girlfriend were 
+the other car at the campsite I'd stayed at the night before... anyhow we all 
+decided to camp at a site a few miles away, though they headed to town to the 
+liquor store first.   The campsite ended up being a bit farther off the main 
+road than I was led to expect, down a washboard bumpy road, but it was a nice 
+place.  One with no electricity , and a hand water pump.  It was only late 
+afternoon. Set up camp (awning, campstove, chair) and wandered down to the river.  
+Yup, river's wet, has rocks in.  Wandered back and drank more water (hot 
+springs make me thirsty) and cooked up some fried spuds/onions/garlic, and some 
+soup.   mmm... hot chocolate.  Damn mosquitoes came out, and I swatted and read 
+a book and enjoyed the scenery.  That couple showed up, and started a 
+campfire, and we sat and bsed and drank their wine.  She kept adding sticks to the 
+fire.  Turned out he had worked for Riviera Motors in Portland in the 70s, told 
+me some VW stories.  They had a nice old dog.   Eventually I got tired and fell 
+into the bus into a peaceful oblivion.
+
+I woke up as the sky was getting light, and did the coffee routine, hotted up 
+he un-et spuds from the night before for brekker.   Packed up the bus, filled 
+up the water containers (squeak squeak goes the hand pump) and headed out.    
+Filled up in Klamath Falls for 1.99/gal (over 25mpg).   At this point it was 
+still chilly but the sun was up.   Soon was in California and the first gas 
+station I saw said 2.69/ gal.  ACK!!!!!   Gorgeous views of Mt Shasta.   ( I'll 
+put up pics soon)  When I got to Weed the gas was 2.23/gal.  Hopped onto I-5, 
+having enjoyed the route that avoided the S Oregon range of hills to climb you 
+get at I-5 between weed and Eugene.  Proceed to go downhill, and as the 
+elevation dropped it started warming up.  I stopped at a rest area N of Shasta Lake 
+to turn the heat off (which involved crawling under the bus for the rear 
+heat)  and even with windows and safari open it was about 80F, about 10 am.   I 
+peeled layers and applied sunscreen.  Redding was quite warm, but I waited till 
+Red Bluff to get lunch and gas.    When I headed into the Bay Area there was a 
+traffic jam of people leaving.   Oil temps around 200-205, I'm cruising 60 in 
+the slow lane.    Got to my Bay Area destination about 5pm Saturday.   Now 
+I'm about 240 miles since Red Bluff and haven't hit reserve yet, which is better 
+than I expected.</pre>
+
+
+<script type="javascript">
+  $( $("#search").click(function () {
+    $("#searchform").submit();
+  });
+   );
+  </script>
+
+  </div>
+<!--
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- type2_main
+<ins class="adsbygoogle"
+     style="display:block"
+          data-ad-client="ca-pub-3785913025356437"
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+<br/>
+-->
+<div class="footer">
+    <div class="container">
+    <br/>
+        <p class="text-muted">
+<!-- Twitter -->
+ <!-- Facebook -->
+<div class="fb-like" data-href="http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F599630" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<a href="https://plus.google.com/share?url=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F599630" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i></a>
+<a href="http://twitter.com/home?status=http%3A%2F%2Ftype2.com%2Flists%2Fvintagebus%2Foldarchive%2Fmessage%2F599630" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i></a>
+</p>
+    <span class="pull-right"><img class="img-responsive" width="340px" src="/images/slower2.png" alt="Slower Traffic Keep Right"/></span><br/>
+        <p class="text-muted">
+            <b>In remembrance of <a href="http://www.kristinlaurite.org/" target="top">Kristin Ann Laurite</a>.</b>
+        <br/>
+           For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
+        <br/>
+            For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">/* <![CDATA[ */
+    !window.jQuery && document.write('<script type="text/javascript" src="http://localhost/javascripts/jquery.min.js"><\/script>')
+/* ]]> */</script>
+<script src="/js/bootstrap.min.js"></script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10525776-6']);
+      _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+</script>
+
+</body>
+</html>
