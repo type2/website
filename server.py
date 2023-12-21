@@ -123,12 +123,11 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
             is_exact_match = path == source
             is_regex_match = re.match(source, path)
             if is_exact_match or is_regex_match:
-                destination = re.sub(source, rule['destination'], path) if is_regex_match else rule['destination']
+                # Correctly format the destination for regex substitution
+                destination = re.sub(source, rule['destination'].replace('$', '\\'), path) if is_regex_match else rule['destination']
                 match_type = "exact match" if is_exact_match else "regex match"
-                # logging.debug(f"{match_type} applied: {path} -> {destination}")
                 return destination, True, match_type
         return path, False, False
-
 
     def do_GET(self):
         # Reload vercel.json for each request
