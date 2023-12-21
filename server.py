@@ -30,6 +30,7 @@ import subprocess
 import os
 import json
 import logging
+import re
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG)
@@ -51,18 +52,24 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
     def get_custom_headers(self, path):
         headers = {}
         for header_rule in self.vercel_config.get('headers', []):
-            normalized_source = header_rule['source'].rstrip('/')
-            if path.startswith(normalized_source):
+            source = header_rule['source']
+            #this...strips the trailing slash off of the _rule_
+            #because even if we have at trailing slash on the URI path, it's not there when it gets here.
+            normalized_source = source.rstrip('/')
+            # Check for exact match or regex match
+            if path == source or path.startswith(normalized_source) or re.match(source, path):
                 for header in header_rule['headers']:
                     headers[header['key']] = header['value']
-        return headers
+                    logging.debug(f"Found header: {header['key']} = {header['value']}")
 
+        return headers
 
     def send_response(self, code, message=None):
         super().send_response(code, message=message)
         custom_headers = self.get_custom_headers(self.path)
         for key, value in custom_headers.items():
             if key.lower() == 'content-type':
+                logging.debug(f"Skipping header: {key}")
                 continue
             self.send_header(key, value)
             logging.debug(f"Applying header: {key} -> {value}")
@@ -73,7 +80,7 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         custom_headers = self.get_custom_headers(self.path)
         for key, value in custom_headers.items():
             if key.lower() == 'content-type':
-                logging.debug(f"Applying header: {key} -> {value}")
+                logging.debug(f"Applying content-type header: {key} -> {value}")
                 return value
 
         if not USE_MIME_TYPE_DETECTION:
@@ -96,20 +103,37 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         return os.path.isdir(path) and not self.path.endswith('/')
 
 
+    def apply_regex_rule(self, path, rules):
+        """
+        Apply regex based rules for redirects and rewrites.
+        """
+        for rule in rules:
+            regex_pattern = rule['source']
+            match = re.match(regex_pattern, path)
+            if match:
+                # Construct the destination using captured groups with correct syntax
+                destination = re.sub(regex_pattern, rule['destination'].replace('$', '\\'), path)
+                logging.debug(f"Regex pattern: {regex_pattern}, Path: {path}, Destination: {destination}")
+                return destination, True
+        return path, False
+
+    def apply_matching_rule(self, path, rules):
+        for rule in rules:
+            source = rule['source']
+            is_exact_match = path == source
+            is_regex_match = re.match(source, path)
+            if is_exact_match or is_regex_match:
+                destination = re.sub(source, rule['destination'], path) if is_regex_match else rule['destination']
+                match_type = "exact match" if is_exact_match else "regex match"
+                # logging.debug(f"{match_type} applied: {path} -> {destination}")
+                return destination, True, match_type
+        return path, False, False
+
+
     def do_GET(self):
         # Reload vercel.json for each request
         with open('vercel.json', 'r') as file:
             self.vercel_config = json.load(file)
-
-        # # Check if the path doesn't end with a slash and doesn't contain a dot
-        # if not self.path.endswith('/') and '.' not in os.path.basename(self.path):
-              # logging.debug("Appending trailing slash and sending 308 redirect.")
-
-        #     # Redirect to the same path with a trailing slash
-        #     self.send_response(308)
-        #     self.send_header('Location', self.path + '/')
-        #     self.end_headers()
-        #     return
 
         # Check if the path doesn't end with a slash and doesn't contain a dot
         if not self.path.endswith('/') and '.' not in self.path:
@@ -125,8 +149,6 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         if self.is_directory_request_without_trailing_slash():
             self.path += '/'
 
-
-
         # Store the original path
         original_path = self.path
 
@@ -140,20 +162,20 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         # Redirect and rewrite handling based on vercel.json
         path = self.path
 
-        # Apply redirects
-        for redirect in self.vercel_config.get('redirects', []):
-            if path == redirect['source']:
-                logging.debug(f"Redirect to: {redirect['destination']}")
-                self.send_response(301)
-                self.send_header('Location', redirect['destination'])
-                self.end_headers()
-                return
+        redirect_path, redirected, match_type = self.apply_matching_rule(self.path, self.vercel_config.get('redirects', []))
+        if redirected:
+            logging.debug(f"Redirect [{match_type}] applied: {self.path} -> {redirect_path}")
+            self.send_response(301)
+            self.send_header('Location', redirect_path)
+            self.end_headers()
+            return
 
-        # Apply rewrites
-        for rewrite in self.vercel_config.get('rewrites', []):
-            if path == rewrite['source']:
-                self.path = rewrite['destination']
-                break
+        self.opath=self.path
+        self.path, rewritten, match_type = self.apply_matching_rule(self.path, self.vercel_config.get('rewrites', []))
+        if rewritten:
+            logging.debug(f"Rewrite [{match_type}] applied: {self.opath} -> {self.path}")
+
+
 
         # Proceed with the regular GET handling
         super().do_GET()
