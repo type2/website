@@ -34,6 +34,11 @@ import logging
 # Configure logging
 logging.basicConfig(level=logging.DEBUG)
 
+# import inspect
+# source_code = inspect.getsource(http.server.SimpleHTTPRequestHandler.translate_path)
+# print(source_code)
+
+
 PORT = 80
 USE_MIME_TYPE_DETECTION = False  # Set to True to enable custom MIME type detection
 
@@ -85,18 +90,42 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                 logging.error(f"Error determining MIME type: {e}")
                 return 'application/octet-stream'
 
+
+    def is_directory_request_without_trailing_slash(self):
+        path = self.translate_path(self.path)
+        return os.path.isdir(path) and not self.path.endswith('/')
+
+
     def do_GET(self):
         # Reload vercel.json for each request
         with open('vercel.json', 'r') as file:
             self.vercel_config = json.load(file)
 
+        # # Check if the path doesn't end with a slash and doesn't contain a dot
+        # if not self.path.endswith('/') and '.' not in os.path.basename(self.path):
+              # logging.debug("Appending trailing slash and sending 308 redirect.")
+
+        #     # Redirect to the same path with a trailing slash
+        #     self.send_response(308)
+        #     self.send_header('Location', self.path + '/')
+        #     self.end_headers()
+        #     return
+
         # Check if the path doesn't end with a slash and doesn't contain a dot
-        if not self.path.endswith('/') and '.' not in os.path.basename(self.path):
+        if not self.path.endswith('/') and '.' not in self.path:
             # Redirect to the same path with a trailing slash
+            logging.debug("Appending trailing slash and sending 308 redirect.")
             self.send_response(308)
             self.send_header('Location', self.path + '/')
             self.end_headers()
             return
+
+      # Modify the path here if it points to a directory without a trailing slash
+        original_path = self.path
+        if self.is_directory_request_without_trailing_slash():
+            self.path += '/'
+
+
 
         # Store the original path
         original_path = self.path
@@ -114,6 +143,7 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         # Apply redirects
         for redirect in self.vercel_config.get('redirects', []):
             if path == redirect['source']:
+                logging.debug(f"Redirect to: {redirect['destination']}")
                 self.send_response(301)
                 self.send_header('Location', redirect['destination'])
                 self.end_headers()
