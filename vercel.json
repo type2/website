@@ -35,7 +35,7 @@
     },
     {
       "source": "/rescue/(.*)",
-      "destination": "/~airsworks/rescue/$1"
+      "destination": "/~airswork/rescue/$1"
     }
   ],
   "headers": [
