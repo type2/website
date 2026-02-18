@@ -31,6 +31,7 @@ import os
 import json
 import logging
 import re
+from urllib.parse import urlparse
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG)
@@ -40,7 +41,7 @@ logging.basicConfig(level=logging.DEBUG)
 # print(source_code)
 
 
-PORT = 80
+PORT = int(os.environ.get("PORT", 80))
 USE_MIME_TYPE_DETECTION = False  # Set to True to enable custom MIME type detection
 
 class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
@@ -117,16 +118,21 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                 return destination, True
         return path, False
 
+    def is_regex_pattern(self, pattern):
+        special_chars = set("()[]?+*|^$")
+        return any(ch in pattern for ch in special_chars)
+
     def apply_matching_rule(self, path, rules):
         for rule in rules:
             source = rule['source']
-            is_exact_match = path == source
-            is_regex_match = re.match(source, path)
-            if is_exact_match or is_regex_match:
-                # Correctly format the destination for regex substitution
-                destination = re.sub(source, rule['destination'].replace('$', '\\'), path) if is_regex_match else rule['destination']
-                match_type = "exact match" if is_exact_match else "regex match"
-                return destination, True, match_type
+            if self.is_regex_pattern(source):
+                match = re.match(source, path)
+                if match:
+                    destination = re.sub(source, rule['destination'].replace('$', '\\'), path)
+                    return destination, True, "regex match"
+            else:
+                if path == source:
+                    return rule['destination'], True, "exact match"
         return path, False, False
 
     def do_GET(self):
@@ -134,12 +140,24 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         with open('vercel.json', 'r') as file:
             self.vercel_config = json.load(file)
 
-        # Check if the path doesn't end with a slash and doesn't contain a dot
-        if not self.path.endswith('/') and '.' not in self.path:
-            # Redirect to the same path with a trailing slash
+        parsed_path = urlparse(self.path)
+        request_path = parsed_path.path
+
+        fs_path = self.translate_path(request_path)
+        basename = os.path.basename(request_path.rstrip('/'))
+        needs_trailing_slash = (
+            not request_path.endswith('/') and
+            (not basename or '.' not in basename) and
+            not os.path.isfile(fs_path)
+        )
+
+        if needs_trailing_slash:
             logging.debug("Appending trailing slash and sending 308 redirect.")
+            new_location = request_path + '/'
+            if parsed_path.query:
+                new_location += '?' + parsed_path.query
             self.send_response(308)
-            self.send_header('Location', self.path + '/')
+            self.send_header('Location', new_location)
             self.end_headers()
             return
 
@@ -186,6 +204,7 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
 import time
 
 Handler = MyHTTPRequestHandler
+socketserver.TCPServer.allow_reuse_address = True
 
 for i in range(100):
     try:
