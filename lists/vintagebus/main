@@ -53,11 +53,11 @@
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
               data-target="#bs-type2-navbar-collapse-1" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
-	
-	        <span class="icon-bar"></span>
-		        <span class="icon-bar"></span>
-			        <span class="icon-bar"></span>
-				</button>
+
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
       <a class="navbar-brand" href="/">
         <img class="img-responsive" alt="type2.com" style="margin-top: -14px" width="75" src="/images/type2.png"/></a>
     </div><!-- Collect the nav links, forms, and other content for toggling -->
@@ -96,19 +96,15 @@
 
           </ul>
         </li>
-	<li class=""><a href="/donate">Donate</a></li> 
+  <li class=""><a href="/donate">Donate</a></li>
       </ul>
       <form class="navbar-form navbar-right" role="search" name="sitesearch" method="POST" action="/search">
-      	<div class="form-group">
-	  <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
-	</div>
-	<button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
+        <div class="form-group">
+    <input type="text" class="form-control" placeholder="Search" name="search" id="search"/>
+  </div>
+  <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
       </form>
-    <ul class="nav navbar-nav navbar-right">
-        
-        <li><a href="/login?returnurl=/lists/vintagebus/main" title="Login">Login</a></li>
-        <li><a href="/login/register?returnurl=/lists/vintagebus/main" title="Login">Register</a></li>
-    </ul>
+
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
   </nav>
@@ -116,25 +112,28 @@
 <ul class="nav nav-pills">
   <li role="presentation" class="active"><a href="/lists/vintagebus/main">List Introduction</a></li>
   <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
-  <li role="presentation"><a href="/lists/vintagebus/oldarchive/main">Archives (Pre June 2013)</a></li>
-  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/oldarchive/main">Archives (Pre June 2013)</a> <small>(offline snapshot)</small></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Dec 2021)</a></li>
   <!-- <li role="presentation"><a href="/lists/vintagebus/listinfo">Subscribe</a></li> -->
 </ul>
 <div class="panel panel-default">
     <div class="panel-body">
+<p>NOTE: the vintagebus mailing list was merged back into the type2 list where it originated in December 2021.</p>
+<p>You can still read the history here, but new discussion happens on Type2:</p>
+<ul>
+  <li>Send a blank email to <a href="mailto:type2+subscribe@type2.com">type2+subscribe@type2.com</a> from the address you want to use. Reply to the confirmation email to finish subscribing.</li>
+  <li>To unsubscribe, send a blank email to <a href="mailto:type2+unsubscribe@type2.com">type2+unsubscribe@type2.com</a> from the same address and follow the confirmation instructions.</li>
+</ul>
+<p>If you run into trouble, write the <a href="mailto:admin@type2.com">on-duty administrator</a>.</p>
+
         The vintagebus mailing list covers aircooled buses made from 1949 through 1967.
 If you have a bay-window bus go to the <A HREF="/lists/type2/main">
 type2 list</A> instead.
 
-<P>The vintagebus list normally generates 20-50 messages per day. A digest is available. The
+<P>The
 <A HREF="/lists/vintagebus/charter">charter</A> contains the list rules. Please consult the
 <A HREF="/library/type2/library.htm">Library</A> and the
-<A HREF="/lists/vintagebus/archive/index.html">Archive</A>
-before trying to post questions to the list.
-<!-- 
-<P>The administrator of the type2 list is the noted lumberjack and steamy surferdewd
-<A HREF="mailto:list@vintagebus.com">Thom Fitzpatrick</A> -->
-
+<A HREF="/lists/vintagebus/archive/index.html">Archive</A> (messages through December 2021) before trying to post questions to the list.
 
     </div>
 </div>
@@ -142,15 +141,15 @@ before trying to post questions to the list.
   </div>
 <!--
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- type2_main 
+<!-- type2_main
 <ins class="adsbygoogle"
      style="display:block"
           data-ad-client="ca-pub-3785913025356437"
-	       data-ad-slot="7516194300"
-	            data-ad-format="auto"></ins>
-		    <script>
-		    (adsbygoogle = window.adsbygoogle || []).push({});
-		    </script>
+         data-ad-slot="7516194300"
+              data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
 <br/>
 -->
 <div class="footer">
@@ -170,8 +169,8 @@ before trying to post questions to the list.
            For information on type 2 diabetes: <a href="http://www.diabetes.org/type-2-diabetes.jsp" target="top">American Diabetes Association</a>
         <br/>
             For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
-	    <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
-	<br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
+      <br/>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a>
+  <br/>Site Design by <a href="mailto:tyler@type2.com">Tyler Hardison</a>
         </p>
     </div>
 </div>
@@ -189,10 +188,10 @@ before trying to post questions to the list.
       _gaq.push(['_trackPageview']);
 
         (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			      })();
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
 </script>
 
 </body>

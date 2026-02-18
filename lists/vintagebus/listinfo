@@ -104,40 +104,31 @@
   </div>
   <button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
       </form>
-    <ul class="nav navbar-nav navbar-right">
-        
-        <li><a href="/login?returnurl=/lists/vintagebus/listinfo" title="Login">Login</a></li>
-        <li><a href="/login/register?returnurl=/lists/vintagebus/listinfo" title="Login">Register</a></li>
-    </ul>
+
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
   </nav>
   <div class="container" role="main">
 <ul class="nav nav-pills">
   <li role="presentation"><a href="/lists/vintagebus/main.html">List Introduction</a></li>
-  <li role="presentation" ><a href="/lists/vintagebus/charter">List Charter</a></li>
-  <li role="presentation"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a></li>
-  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Present)</a></li>
-  <li role="presentation" class="active"><a href="/lists/vintagebus/listinfo">Subscribe</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/charter">List Charter</a></li>
+  <li role="presentation"><a href="/lists/vintagebus/oldarchive/main.html">Archives (Pre June 2013)</a> <small>(offline snapshot)</small></li>
+  <li role="presentation"><a href="/lists/vintagebus/archive/index.html">Archives (2013-Dec 2021)</a></li>
+  <li role="presentation" class="active"><a href="/lists/vintagebus/listinfo">Subscribe / Unsubscribe</a></li>
 </ul>
-<script language="JavaScript">
-<!--
-function autoResize(id){
-    var newheight;
-    var newwidth;
+<div class="panel panel-default">
+  <div class="panel-body">
+    <p>This page is preserved so the old navigation stays intact, but the vintagebus list now lives on Type2.</p>
+    <p>To join or leave the discussion:</p>
+    <ul>
+      <li>Send a blank email to <a href="mailto:type2+subscribe@type2.com">type2+subscribe@type2.com</a> from the address you want to use and reply to the confirmation email.</li>
+      <li>To unsubscribe, send a blank email to <a href="mailto:type2+unsubscribe@type2.com">type2+unsubscribe@type2.com</a> from the same address.</li>
+    </ul>
+    <p>If you need help, contact the <a href="mailto:admin@type2.com">type2 administrator</a>.</p>
+  </div>
+</div>
 
-    if(document.getElementById){
-        newheight=document.getElementById(id).contentWindow.document .body.scrollHeight;
-        newwidth=document.getElementById(id).contentWindow.document .body.scrollWidth;
-    }
-
-    document.getElementById(id).height= (newheight) + "px";
-    document.getElementById(id).width= (newwidth) + "px";
-}
-//-->
-</script>
-
-<IFRAME SRC="https://www.type2.com/cgi-bin/mailman/listinfo/vintagebus" width="100%" height="200px" id="iframe1" marginheight="0" frameborder="0" onLoad="autoResize('iframe1');"></iframe>
+</div>
 
   </div>
 <!--

@@ -104,24 +104,16 @@
 	</div>
 	<button type="submit" class="btn btn-default" onclick="document.getElementById('sitesearch').submit();">Go</button>
       </form>
-    <ul class="nav navbar-nav navbar-right">
-        
-        <li><a href="/login?returnurl=/airs/faq" title="Login">Login</a></li>
-        <li><a href="/login/register?returnurl=/airs/faq" title="Login">Register</a></li>
-    </ul>
+
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
   </nav>
   <div class="container" role="main">
 
 <ul class="nav nav-pills">
-  <li role="presentation"><a href="/airs/main"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a></li>
+  <li role="presentation" class="active"><a href="/airs/main"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a></li>
   <li role="presentation"><a href="/airs/stories"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span> Stories</a></li>
-  <li role="presentation"><a href="/airs/locate"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> Locate</a></li>
-  <li role="presentation" class="active"><a href="/airs/faq"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span> FAQ</a></li>
-  <li role="presentation"><a href="/login/register"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Join AIRS</a></li>
-  
-  
+  <li role="presentation"><a href="/airs/faq"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span> FAQ</a></li>
 </ul>
 <div class="panel panel-default">
     <div class="panel-body">
