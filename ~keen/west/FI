@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Fuel Injection . . .is Fun!
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Fuel Injection . . .is Fun!
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Wed, 4 Dec 1996 05:19:20 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@CDSNET.NET&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Fuel Injection . . .is Fun!</dd>
+   </dl>
+   <article>
+    <p>
+     We're all kind of daunted by Fuel Injection
+    </p>
+    <p>
+     That's one of those fourth grade words for "scared"
+    </p>
+    <p>
+     It sounds like something a nurse uses a big needle for.
+    </p>
+    <p>
+     It's just a different kind of carburetor, kind of spread all over the place in there.
+    </p>
+    <p>
+     It still "carburets" meaning it mixes fuel with air.
+    </p>
+    <p>
+     In an old-timey carburetor it had to heat up the air and the fuel and boil it in the manifold.
+    </p>
+    <p>
+     Hot air means low oxygen.
+    </p>
+    <p>
+     In the fuel injection system it puts in fuel right at the head and heats it there, vaporizing it, then sucks in nice heavy cool air at the last second.
+    </p>
+    <p>
+     Mixing and blending is done in the chamber on the intake stroke and compression stroke.
+    </p>
+    <p>
+     That step right there made it possible to get more mixed fuel into the head with smaller valves than an old "carby".
+    </p>
+    <p>
+     Kind of neat, huh? :-)
+    </p>
+    <p>
+     Once you get to know them (fuel injection systems) they have another neat aspect.
+    </p>
+    <p>
+     You can fix them with parts out of the radio. :-)
+    </p>
+    <p>
+     "I don't care if it is a Blaupunkt, lady, we're gonna die out here. I need that volume control!"
+    </p>
+    <p>
+     Is that a cool scenario or what? :-)   yeah, I grin a lot.
+    </p>
+    <p>
+     Can't do that with a Delorto!  Not even a Solex.
+    </p>
+    <p>
+     Here we go: You need some new tools, the hammer has to go. Need a cheap VOM . You get a digital for about ten bucks these days.
+    </p>
+    <p>
+     Need one those trouble lights that you stick in the wire and see if there's juice.
+    </p>
+    <p>
+      You need a fuel guage that goes up to 50 pounds and it wouldn't hurt if you had another that did 100 psi.
+    </p>
+    <p>
+      A vacuum guage. A big rag, maybe a couple.
+    </p>
+    <p>
+     A wooden stick about 6 inches long and a coffee can.
+    </p>
+    <p>
+     And 3 or 4 screwdrivers of both type heads, small and medium. Small sack full of wits  :-)
+    </p>
+    <p>
+     Now you put all those tools in the coffee can and put the lid on it.  Instant tool kit.   :-)
+    </p>
+    <p>
+     I'm not putting you on guys, you need the coffee can to check the spray pattern of the injectors.  :-)   still grinning.
+    </p>
+    <p>
+     We're doing an L-Jetronics injection system by the way.
+    </p>
+    <p>
+     The "L" is for "Luftmengenmessung" which reads "air chingadero" to me. Maybe "air management mess".
+    </p>
+    <p>
+     Started being put on VW's in 1975, also called "AFC" which is "Air Flow Control"
+    </p>
+    <p>
+     The injectors on this setup fire every other time the distributor does as opposed to every time like the earlier models do.
+    </p>
+    <p>
+     You can get erratic firing if your points aren't set right as in point bounce or too long a dwell.
+    </p>
+    <p>
+     So you know it has 4 injectors and it has an air intake box.
+    </p>
+    <p>
+     Where the hell is the choke?
+    </p>
+    <p>
+     Well it's there in the air box and is called the "cold start valve". Generally in the same area, is a switch called the "Thermo-time" switch.
+    </p>
+    <p>
+      I think some later types of injection no longer have it. The later type also doesn't have a cold start injector, they work it with the regular injectors
+    </p>
+    <p>
+     Ours does tho. That particular switch lets the cold start valve work for a max of 11 seconds then shuts off. They are helping you, you see, to keep from flooding the engine. Shut it down and start again, pumping the throttle is "por nada".
+    </p>
+    <p>
+     Besides the ECU (elctronic control unit), the big shiny box, there is one other major player, generally on a bracket off the ECU or adjacent to it is "The Double Relay Switch".
+    </p>
+    <p>
+     The double relay switch runs the juice to everything, even the fuel pump relay.
+    </p>
+    <p>
+     So if absolutely nothing works, he's your man.
+    </p>
+    <p>
+     It's about 3/4" X 3/4" by 2" long and has 11 numbered terminals.
+    </p>
+    <p>
+     That implies that even Germans have a sense of humor and realize that 11 is funnier than 12.  :-)
+    </p>
+    <p>
+     When you shut the engine down it breaks contact for everything.
+    </p>
+    <p>
+     Back at the air supply, there's an auxillary air regulator that bypasses the air intake box for warm-ups. It gets shut by a metal flap I think, that heats and closes.
+    </p>
+    <p>
+     Inside the main air box is a flap that drives a potentiometer, that's a variable resistor to us earthy types.
+    </p>
+    <p>
+     I read somewhere that changing the position of the arm on that pot by .020" can affect your CO reading by several percent, approach with due caution.
+    </p>
+    <p>
+     That tells the ECU how much fuel to let the injectors have.
+    </p>
+    <p>
+     Sometimes if you've had a backfire the flap gets stuck open. Pull the air cleaner off and reach in there with the stick and un-jam it. Should be alright.
+    </p>
+    <p>
+     There is also a temperature sensor in there, after '76 and has 7 spade terminals as opposed to six for prior. That is "Temp sensor 1".
+    </p>
+    <p>
+     Temp Sensor 2, is on the # 3 cylinder head and in addition to sending signals to the ECU, it operates the warm air inlet on the breather.
+    </p>
+    <p>
+     What else is there? There's that switch under the throttle housing, that's the full throttle position switch or the old "passing gear thingy".
+    </p>
+    <p>
+      When you hit that puppy it by-passes the EGR (exhaust gas recirc.) and signals full enrichment to fuel setup.
+    </p>
+    <p>
+      On some I think the EGR is a mechanical arrangement.
+    </p>
+    <p>
+     I'm looking here, but it doesn't look like the "L" version has an O2 sensor. No matter, just one less thing to check or fix.
+    </p>
+    <p>
+     If we did have one it would just be setting down in the tail-pipe doing "smoke-watch".
+    </p>
+    <p>
+     It sends a 0-1 volt signal back to the ECU and the ECU adjusts the mix of the fuel. 0.5 volt+ - being nominal or "stoich". It is out of the circuit till the engine warms up.
+    </p>
+    <p>
+     Ok, about forgot the fuel setup.
+    </p>
+    <p>
+     First you have a fuel filter right under the fuel tank. Then right in front of it you have a fuel pump, hi pressure.
+    </p>
+    <p>
+     Cranks out 35-40 psi. That runs up to the engine and the pressure regulator. Have two books here and neither one will tell me where the fuel pump relay is. Assume it's near the pump.
+    </p>
+    <p>
+     The pressure regulator should be there in the engine room close to what is called the "fuel ring main".
+    </p>
+    <p>
+     That's a steel loop of tubing that fuel is fed to the injectors thru.
+    </p>
+    <p>
+     The fuel regulator actually does what it says and regulates the fuel pressure to the injectors.  35 psi at idle, I think.
+    </p>
+    <p>
+     All the excess fuel goes back to the tank thru another line.
+    </p>
+    <p>
+     The injectors get a signal and "pulse", I would guess in the time frame of milliseconds. No data.
+    </p>
+    <p>
+     You can unscrew them and check if they're spraying properly, most likely into the rags unless you rig an extension hose from the fuel ring. Well ok, so we'll just use the can to carry stuff in!  :-)
+    </p>
+    <p>
+     The injectors are mortised to the old intake casting which bolts right to the head. The injectors are aimed right at the bottom side of the intake valves.
+    </p>
+    <p>
+     That intake cavity of old, in the head, is where the fuel is deposited and vaporized.
+    </p>
+    <p>
+     It might be approprate to point out that if you have some old sloppy valve guides on those intake valves, you may have some strange things going on there.
+    </p>
+    <p>
+     In fact I hear a leaking pushrod tube can get air in there and screw up the balance.
+    </p>
+    <p>
+     That about covers all the parts of the thing and you should be about ready to tweek some stuff now, right?  :-)
+    </p>
+    <p>
+     "Hand me those pliers, lady".
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/FI">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
