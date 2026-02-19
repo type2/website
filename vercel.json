@@ -1312,6 +1312,14 @@
       "headers": [{ "key": "Content-Type", "value": "text/plain" }]
     },
     {
+      "source": "/~keen/west/gerterms/",
+      "headers": [{ "key": "Content-Type", "value": "text/html" }]
+    },
+    {
+      "source": "/~keen/west/original/gerterms/",
+      "headers": [{ "key": "Content-Type", "value": "text/plain" }]
+    },
+    {
       "source": "/~keen/west/nodark/lifters/",
       "headers": [{ "key": "Content-Type", "value": "text/html" }]
     },
