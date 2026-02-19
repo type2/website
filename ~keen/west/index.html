@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Pushing Back the Darkness – Mike West Notes</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<style>
+:root {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #1b1e23;
+  background: #f5f5f5;
+}
+body { margin: 0; }
+header {
+  text-align: center;
+  padding: 48px 20px 20px;
+}
+header h1 {
+  margin: 0 0 10px;
+  font-size: 3rem;
+  font-weight: 700;
+}
+header p { margin: 3px 0; color: #4f535c; }
+header a { color: #0a62c2; }
+.note {
+  max-width: 900px;
+  margin: 0 auto 24px;
+  background: #fff8d5;
+  border-left: 5px solid #e9b400;
+  padding: 14px 18px;
+  color: #5f470c;
+}
+main {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 0 20px 60px;
+}
+section.collection {
+  margin-top: 40px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  padding-bottom: 20px;
+}
+section.collection h2 { margin: 0 0 4px; font-size: 1.8rem; }
+section.collection p.section-note { margin: 0 0 12px; color: #4f535c; }
+.article {
+  display: grid;
+  grid-template-columns: minmax(120px,140px) 1fr;
+  gap: 18px;
+  padding: 14px 0;
+  border-top: 1px solid rgba(0,0,0,0.08);
+}
+.article:first-of-type { border-top: none; }
+.article .date {
+  font-family: "IBM Plex Mono", "Courier New", monospace;
+  font-size: 0.95rem;
+  color: #2f3242;
+}
+.article h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.article h3 a {
+  color: #0a62c2;
+  text-decoration: none;
+}
+.article h3 a:hover { text-decoration: underline; }
+.byline { color: #4f535c; font-size: 0.95rem; margin-top: 2px; }
+.desc { margin-top: 6px; font-size: 1rem; }
+@media (max-width: 720px) {
+  .article { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Pushing Back the Darkness</h1>
+  <p>Mike West’s Type 2 mailing-list notes, preserved exactly as he mailed them.</p>
+  <p>Written by the late great Mike West · Maintained by <a href="mailto:keen@type2.com">David Raistrick</a></p>
+  <p>All messages posted with permission or by request.</p>
+  <p><a href="/cgi-bin/htsearch?config=htdig.vintagebus&restrict=&exclude=&method=and&format=builtin-long&sort=score&words=mwest_at_cdsnet_dot_net">Search the vintagebus archives</a></p>
+</header>
+<div class="note">Every link below opens the original plain-text message. Dates are pulled from the email headers; bylines reflect the 1990s credits.</div>
+<main id="collections">
+  <p>Loading archive…</p>
+</main>
+<script>
+const root = document.getElementById('collections');
+function formatDate(raw) {
+  if (!raw) return '';
+  const parsed = Date.parse(raw);
+  if (Number.isNaN(parsed)) return raw;
+  return new Intl.DateTimeFormat('en-US', { dateStyle: 'medium' }).format(parsed);
+}
+function renderEntry(slug, entry) {
+  const article = document.createElement('article');
+  article.className = 'article';
+
+  const date = document.createElement('div');
+  date.className = 'date';
+  date.textContent = formatDate(entry.date);
+  article.appendChild(date);
+
+  const body = document.createElement('div');
+  const title = document.createElement('h3');
+  const link = document.createElement('a');
+  link.href = slug;
+  link.textContent = entry.title || slug;
+  title.appendChild(link);
+  body.appendChild(title);
+
+  if (entry.author) {
+    const by = document.createElement('div');
+    by.className = 'byline';
+    by.textContent = entry.author;
+    body.appendChild(by);
+  }
+
+  if (entry.description) {
+    const desc = document.createElement('p');
+    desc.className = 'desc';
+    desc.textContent = entry.description;
+    body.appendChild(desc);
+  }
+
+  article.appendChild(body);
+  return article;
+}
+function renderCollections(data) {
+  root.innerHTML = '';
+  data.sections.forEach(section => {
+    const sec = document.createElement('section');
+    sec.className = 'collection';
+    const h2 = document.createElement('h2');
+    h2.textContent = section.heading;
+    sec.appendChild(h2);
+    if (section.note) {
+      const note = document.createElement('p');
+      note.className = 'section-note';
+      note.textContent = section.note;
+      sec.appendChild(note);
+    }
+    section.slugs.forEach(slug => {
+      const entry = data.entries[slug];
+      if (!entry) return;
+      sec.appendChild(renderEntry(slug, entry));
+    });
+    root.appendChild(sec);
+  });
+}
+fetch('darkness_catalog.json')
+  .then(res => {
+    if (!res.ok) throw new Error('Unable to load catalog');
+    return res.json();
+  })
+  .then(renderCollections)
+  .catch(err => {
+    root.innerHTML = '<p style="color:#b00020;">Could not load the archive. Please refresh.</p>';
+    console.error(err);
+  });
+</script>
+</body>
+</html>
