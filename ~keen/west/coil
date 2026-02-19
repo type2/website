@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   The Coil n' Points, lightin'the fires
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     The Coil n' Points, lightin'the fires
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Mon, 16 Dec 1996 17:34:38 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@cdsnet.net&gt;</dd>
+    <dt>Subject</dt>
+    <dd>The Coil n' Points, lightin'the fires</dd>
+   </dl>
+   <article>
+    <p>
+     The coil and points connection, how this affects thine alabaster engine in the rear there.
+    </p>
+    <p>
+     Obviously if you don't get a good spark to start the fire of the gas/air mixture in the combustion chamber, you're going to have poor performance.
+    </p>
+    <p>
+     This the story of the things that do that:
+    </p>
+    <p>
+     The coil is just what the name implies, a coil of wire, with a rugged case to protect it from you and others like you. :-)
+    </p>
+    <p>
+     It's duties are as a transformer.
+    </p>
+    <p>
+     What our coil/transformer does is boost the voltage of your 12 or 6 volt electricity to 20,000 volts at least.
+    </p>
+    <p>
+     It does this at the cost of having an amperage in the millivolts range.
+    </p>
+    <p>
+     This is the stock coil we're talking here, so yours differs only in the voltage rating. The 20k volts is enough tho.
+    </p>
+    <p>
+     We'll ride along with an electron here and see what happens:
+    </p>
+    <p>
+     The 12 volt goes in the coil to the secondary winding and runs back out and down to the points in the distributor.
+    </p>
+    <p>
+     The rotor in the distributor is turning half as fast as the engine and opening and closing the electrical contacts that we call "points".
+    </p>
+    <p>
+     The secondary voltage goes thru the points to "ground".
+    </p>
+    <p>
+     When that happens a "field" is built in the "secondary coil" and by induction, picked up by the "Primary" coil.
+    </p>
+    <p>
+     It's looking for a way out, a "ground" to bleed to.
+    </p>
+    <p>
+     It keeps building until it finally finds a way to ground thru the air gap in the spark plug.
+    </p>
+    <p>
+     There are resistors built into the rotor and the plug connectors to keep it from doing this too easily.
+    </p>
+    <p>
+     So when it does make the jump, it's a nice fat one. 20-25 thousand volts.
+    </p>
+    <p>
+     Those built in resistors are called "pull-up resistors in the trade.
+    </p>
+    <p>
+     They also serve to suppress radio interference.
+    </p>
+    <p>
+     Back at the points connection, there is a "condenser" hooked in the line and then to ground.
+    </p>
+    <p>
+     The purpose of it is to protect the points from stray spikes of voltage from the primary winding. Feed back from the secondary.
+    </p>
+    <p>
+     It's value is such that if the voltage goes over a certain limit, it "dumps" to ground then goes back to waiting.
+    </p>
+    <p>
+     The coil is capable of working even if you hook it up backwards.
+    </p>
+    <p>
+     You'd be jumping a -v hi-volt to a -v lo-volt at the plug.
+    </p>
+    <p>
+     What will happen tho, is it affects the ability of the spark to "ionize" the air in the air gap at the plug and will cause misfiring at high speed or under hard acceleration.
+    </p>
+    <p>
+     Might even blow your plugs out under the right conditions.
+    </p>
+    <p>
+     Testing stuff: A weak coil is checked with the aid of a spark gap, but before you do that check the voltage coming to the coil.
+    </p>
+    <p>
+     It has to be at least 10 volts on a 12 volt, I'm guessing 5 on a six volt system.
+    </p>
+    <p>
+     Pull the center tap out of the distributor that goes to the coil, hold it about 10mm (3/8") from the engine case as a ground.
+    </p>
+    <p>
+     Have someone turn the engine over for you while you watch the spark.
+    </p>
+    <p>
+     If the spark is weak and yellow or needs less gap than that, then it's probably a weak coil and needs replaced.
+    </p>
+    <p>
+     A new coil will jump over half an inch.
+    </p>
+    <p>
+     Note here: if you're scared of this stuff, it's ok, but it really is only low amperage and can't kill you.
+    </p>
+    <p>
+     It will knock you on your butt tho. :-)
+    </p>
+    <p>
+     Use a pair of rubber gloves or insulated pliers or even a clothes pin to hold the wire and you're home free. Most of us just hold the wire by the insulating cover.
+    </p>
+    <p>
+     Wire inspection: pull a plug and keep the wire hooked up to the plug.
+    </p>
+    <p>
+     We're treading on dangerous ground here since the engine may start even with the one plug out so be advised.
+    </p>
+    <p>
+     Have someone turn the engine over while you hold the plug against the engine for ground again.
+    </p>
+    <p>
+     You're still looking for a hot clean spark as opposed to a weak and yellow.
+    </p>
+    <p>
+     Hot is blue. A nice snap is strong.
+    </p>
+    <p>
+     Testing the rotor: 10k ohms max, the plug connections are the same with a low of 5k ohms. Might be nice if they all four read about the same.
+    </p>
+    <p>
+     Inspecting the points: a shiny contact with a little pitting is considered normal wear.
+    </p>
+    <p>
+     Gray contacts mean you have too little point gap and/or the spring tension is too weak.
+    </p>
+    <p>
+     Blue points indicate a defective condenser or coil. Burned as well
+    </p>
+    <p>
+     Points fouled with grease or oil will show yellow or black markings.
+    </p>
+    <p>
+     The block where the points contact the the cam on the dizzy shaft has to be lubed and should not be worn down to the metal arm.
+    </p>
+    <p>
+     The "Bentley" manual says don't replace the condenser with the points if it isn't bad. Many of us do tho.
+    </p>
+    <p>
+     Does a fifty thousand ohm coil make things better?
+    </p>
+    <p>
+     Damned if I know, the big boys say you're wasting your money. Berg for instance.
+    </p>
+    <p>
+     Does the fifty k even get there? I guess it does, has to go somewhere but you will be stressing your rotor and spark plug resistors.
+    </p>
+    <p>
+     Now that I think on it, it can also cause burnt points.
+    </p>
+    <p>
+     Probably heating the plug wires, tho that's a funtion of amperage.
+    </p>
+    <p>
+     So now that the bait is set, I can get out of here. :-)
+    </p>
+    <p>
+     west pushing back the darkness.
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/coil">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
