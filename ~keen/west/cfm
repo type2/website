@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Carb CFM and Jet sizes (numbers)
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Carb CFM and Jet sizes (numbers)
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Sun, 22 Dec 1996 22:19:48 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@cdsnet.net&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Carb CFM and Jet sizes (numbers)</dd>
+   </dl>
+   <article>
+    <p>
+     I went to the net and searched for drill sizes for the carb jets.
+    </p>
+    <p>
+     And there they were! At least a few.
+    </p>
+    <p>
+     The drills I speak of are wire gauge drills, in numbers from 1 to 80.
+    </p>
+    <p>
+     In drill sizes the larger the number the smaller the drill.
+    </p>
+    <p>
+     It turns out that the carby jet size is in hundredths of a millimeter.
+    </p>
+    <p>
+     Example: a 132 jet is 1.32mm diameter and is a #55 drill.
+    </p>
+    <p>
+     This holds true for air jets too. A #78 drill is a 41 air jet.
+    </p>
+    <p>
+     Any drill chart will give you the others if it has the metric equivalence.
+    </p>
+    <p>
+     Looking at the sizes available, each drill size is approx. 10% larger than the one before it and 12% greater cross-section.
+    </p>
+    <p>
+     A plan used by my machine supply guy and avid dune crawler, he buys two of every jet he is going to open up.
+    </p>
+    <p>
+     He says you can't find the max till you go over it.
+    </p>
+    <p>
+     Then he whips out the fresh one and drills it back to the last size.
+    </p>
+    <p>
+     If he has dual carbs he has four on hand.
+    </p>
+    <p>
+     On a single carb, I expect you could solder the end closed and then re-drill, but on duals, I doubt you could ever balance the flow with a random sized solder blob.
+    </p>
+    <p>
+     Whichever method you use, be sure and chamfer the jet end after drilling. Just a slight one to break any burr there.
+    </p>
+    <p>
+     The Cubic Feet per Minute of our Carbys:
+    </p>
+    <p>
+     I worked up a formula based on the Liters and rpm so you guys can figure what you have with bigger engines and so forth.
+    </p>
+    <p>
+     The formula is (Liters X rpm)/ 56.64
+    </p>
+    <p>
+     Using a 1600, it's (1.6L X 4500rpm)divided by the 56.64 equals 127 CFM.
+    </p>
+    <p>
+     If you're running two carbs then each carb will draw half that.
+    </p>
+    <p>
+     Now you can steal parts off Chevys or whatever.
+    </p>
+    <p>
+     Keep in mind that there has to be some restriction at the carb or you can't boil gas. Vacuum, remember? :-)
+    </p>
+    <p>
+     That formula is just based on stroke and bore so if you have too small of valves or restricted exhaust you won't achieve the full potential.
+    </p>
+    <p>
+     So go forth Monster Makers and create new legends!
+    </p>
+    <p>
+     Proving there is more to a VW than too small a backseat. :-)
+    </p>
+    <p>
+     west
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/cfm">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>

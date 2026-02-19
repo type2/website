@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   AS21 vs AS41 cases , hard numbers
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     AS21 vs AS41 cases , hard numbers
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Mon, 9 Dec 1996 02:15:02 -0800 (PST)</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@cdsnet.net&gt;</dd>
+    <dt>Subject</dt>
+    <dd>AS21 vs AS41 cases , hard numbers</dd>
+   </dl>
+   <article>
+    <section class="question">
+     <blockquote>
+      <p>
+       What I would like to see is the &quot;Spec&quot; sheets on the 2 alloys.
+      </p>
+      <p>
+       Isn't there one Mechanical Engineer out there with a &quot;Library&quot; who can look this stuff up?
+      </p>
+      <p>
+       Oh, I checked with ASTM and they claim only to &quot;list&quot; an &quot;AS41&quot;.
+      </p>
+      <p>
+       Of course they won't &quot;give&quot; me the &quot;specs&quot; but will sell me the the &quot;spec sheet&quot;.
+      </p>
+      <p class="sig">
+       west
+      </p>
+     </blockquote>
+    </section>
+    <section class="reply">
+     <p>
+      I don't think this got back to the type2 list so I'm taking the liberty in hopes there are a few who would like the data.
+     </p>
+     <p>
+      Thanks to Bill Claspy on the VINTAGVW List.
+     </p>
+     <p>
+      Just happen to be a librarian at an engineering library, so this is in response to Mike West's request for info on the case alloys used. His guess of 20-30% aluminum is just a little off :-) (his text follows my numbers)
+     </p>
+     <p>
+      From the ASM Metals Handbook, V.2, 10th edition, 1990
+     </p>
+     <p>
+      Room Temperature properties:
+     </p>
+     <div class="alloy-properties">
+      <section>
+       <h3>
+        AS21
+       </h3>
+       <ul>
+        <li>
+         1.7% Al
+        </li>
+        <li>
+         .4% Mn
+        </li>
+        <li>
+         1.1% Si
+        </li>
+        <li>
+         240 MPa Tensile Strength
+        </li>
+        <li>
+         130 MPa Tensile Yield Strength
+        </li>
+        <li>
+         130 MPa Compressive Yield Strength
+        </li>
+       </ul>
+      </section>
+      <section>
+       <h3>
+        AS41A
+       </h3>
+       <ul>
+        <li>
+         4.3% Al
+        </li>
+        <li>
+         .35% Mn
+        </li>
+        <li>
+         1.0% Si
+        </li>
+        <li>
+         220 MPa Tensile Strength
+        </li>
+        <li>
+         150 MPa Tensile Yield Strength
+        </li>
+        <li>
+         150 MPa Compressive Yield Strength
+        </li>
+       </ul>
+      </section>
+     </div>
+     <p>
+      &quot;AS41A has creep strength much superior to that of AZ91D or AM60B alloys at temperatures up to 175C (350F)... AS21 alloy exhibits even better creep strength than AS41A. However, AS21 has lower room-temperature tensile and yield strengths, and it is somewhat more difficult to cast.&quot;
+     </p>
+     <p>
+      Hope this helps! And if anyone deems it important enough to stick these numbers in a FAQ, feel free.
+     </p>
+     <p>
+      Bill (William Claspy)
+     </p>
+    </section>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/cases">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
