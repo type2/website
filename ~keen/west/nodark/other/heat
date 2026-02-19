@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Bus Heat Systems
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Bus Heat Systems
+    </h1>
+    <p>
+     Posted by Michael Jones
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Sat, 1 Feb 1997 14:14:58 -0500</dd>
+    <dt>From</dt>
+    <dd>Michael Jones &lt;JonesVWs@aol.com&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Bus Heat Systems</dd>
+   </dl>
+   <article>
+    <p>
+     I've been seeing alot on the list lately about bus heat and all kinds of interesting remedies and plans to improve heat. I especially thought the ideas about the exhaust to water exchangers were very interesting. But I think that some of the main principles have been overlooked.
+    </p>
+    <p>
+     Thermodynamics and Heat Transfer 101:
+    </p>
+    <p>
+     The air-cooled engine is a wonderful beast because it uses the basic laws of heat transfer to gain several advantages over it's water-cooled breathren.
+    </p>
+    <p>
+     1. All cars are air-cooled. Yup...even water cooled cars :) Heat goes from the engine, to the coolant and out at the radiator...and then goes from the radiator into the air! So both designs tranfer heat from the engine to the air....one more directly than the other.
+    </p>
+    <p>
+     2. Delta T: The difference in the temperature between the heat source and the heat sink. In simplified terms, heat transfer occurs in relation to a transfer coefficient multiplied by the temperature difference. You can beef up the coefficient by increasing the flow of air and its "impingement" on the heat source surface. Or you can increase heat transfer by increasing your temperature difference.
+    </p>
+    <p>
+     3. So if you transfer heat from a hotter object to say ambient air, the rate of heat transfer is increased. So what does this do for the aircooled engine transfering heat from it's 400+ degree cooling fins versus a radiator transferring heat from its 200 degree surface? You guessed it...a higher rate of transfer and less air required to cool it! You can test this out. Put your hand behind a radiator on a water-cooled car when it's warm....it's warm but not unbearable. Now put your hand below the air outlet from your cooling tin on your warmed air-boxer....OUCH! It is precisely this reason that air-cooling is used by the military on tanks....cooling with less air volume equals less openings which equals less ways for "stuff" to get in (stuff being bullets, rockets, etc.)
+    </p>
+    <p>
+     So what does this have to do with heat...
+    </p>
+    <p>
+     The exhaust for your engine gets hotter faster than just about any other part of the engine. These hot pipes are very good heat sources with big time Delta T. Transferring heat from these to water and then to radiators (and interior air) just adds a middle man and reduces your Delta T on the other end.
+    </p>
+    <p>
+     Truely the best solutions would be to:
+    </p>
+    <p>
+     1. Increase the air flow through the exchangers. Or recycle heated interior air (the Vanagon gas heaters do this).
+    </p>
+    <p>
+     2. Increase the transfer surface area of the exchangers. VW all ready did this inside your exchangers.
+    </p>
+    <p>
+     3. Insulate all the duct work and any other place that the hot air might transfer heat before it reaches it's destination.
+    </p>
+    <p>
+     All these things will help, but you guys in Canada at -30 will have to get a gas heater. Even with a perfect stock system, the system design will not provide enough heat in these conditions. After all, VW recognized this with optional gas heaters.
+    </p>
+    <p>
+     Lastly, I have stainless steel heat exchangers on my 914, These things cook! The aftermarket came up with these to replace the rustomatic originals.They are long (mid-engine design provides longer exhaust), but they have no internal fins. I don't drive my 914 in the winter, but the way it puts out heat, I wish I did!
+    </p>
+    <p>
+     If somebody were to design a set of these for buses (and bugs), I think people would jump all over each other to get them. The stainless tubing and sheet are available commercially and if somebody had access to a tubing fab shop.....well maybe I'm just dreaming!
+    </p>
+    <p>
+     Mike
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/nodark/other/heat">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
