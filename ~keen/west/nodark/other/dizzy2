@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Our Most Holy Distributor
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Our Most Holy Distributor
+    </h1>
+    <p>
+     Posted by Joe Perez to the VINTAGVW list
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Wed, 12 Feb 1997 05:19:19 -0800</dd>
+    <dt>From</dt>
+    <dd>Joe Perez &lt;pinhead@GROVE.UFL.EDU&gt;</dd>
+    <dt>To</dt>
+    <dd>VINTAGVW@SJSUVM1.SJSU.EDU</dd>
+    <dt>Subject</dt>
+    <dd>Our Most Holy Distributor</dd>
+   </dl>
+   <section class="question">
+    <blockquote>
+     <p>
+      On Wed, 12 Feb 1997, Robin Newberry wrote:
+     </p>
+     <p>
+      &gt; I don't understand this vacuum / mechanical dizzy system very well, or <em>any</em> dizzy system very well for that matter. Can some kind soul take me from utter ignorance to a state approaching dizzy enlightenment?
+     </p>
+    </blockquote>
+   </section>
+   <section class="reply">
+    <p>
+     Pull up a chair, and put down an ale. Get comfortable, for we are about to embark on a great and hopefully enlightning journey.
+    </p>
+    <p>
+     As we know, the distributor has but one function. To make sure the spark goes to the right plug at the right time.
+    </p>
+    <p>
+     Selecting the right plug is easy. You just put a rotor within 20 degrees or so of the right terminal and zap it. Yes, there is actually a cool light show going on inside your distributor. That's why transparent caps are so neat- until they break.
+    </p>
+    <p>
+     Timing the spark is another ordeal. Theoretically, in a world where fuel and air combust totally and instantaneously, the spark would occur just a few degrees after the piston has crossed Top Dead Center(TDC), such that the crank was now in the correct position to reap maximum benefit of the power applied upon it.
+    </p>
+    <p>
+     But this is an imperfect world. It takes time for things to start burning. In fact, the time between when the spark is lit and the fuel actually begins to produce power can be several milliseconds. You hard drive gurus know how tedious *THAT* can be.
+    </p>
+    <p>
+     So in order for the engine to be most efficient, we need to light the spark some number of degrees *before* TDC, while the piston is actually still moving up. This way, it will begin to do it's thing just as the crank crosses TDC, and the piston will be pushed smoothly down, propelling your car forward.
+    </p>
+    <p>
+     That would all be so simple if everyone ran their engine at a constant speed all the time. In fact, that's basically what the hybrid folks have been doing for years. Makes engines very efficient. But we have to run our engines at different speeds.
+    </p>
+    <p>
+     The problem is that while the time it takes fuel to burn is pretty much a constant, the time it takes the crank to travel a given number of degrees is not. The faster you turn the engine, the less time it takes. In the time it takes your motor to go 7 or 8 degrees at idle, the NASCAR guys turning just went 40 degrees. Mabey more.
+    </p>
+    <p>
+     Herein lies advance. The faster your engine is going, the earlier you need to light the spark.
+    </p>
+    <p>
+     Unfortunately, there is a dark and sinister side to this equation. Light the spark too early, and the piston won't have crossed TDC when the fuel begins to burn. Result: The fuel pushes down on the still rising piston, causing poor efficiency, bad karma, and engine damage.
+    </p>
+    <p>
+     I've written a page and a half without even mentioning the words vacuum or centrifugal. I'm gonna grab another cold one.
+    </p>
+    <p>
+     Ok, the distributor mechanicals.
+    </p>
+    <p>
+     Inside the distributor is a squarish cam. 4 lobes. A set of "points" rides this cam. When a lobe hits the points, they open. When the points open, a signal goes to the coil, causing it to fire. Lot of electronic mumbo-jumbo about invisible fields and such. This is how we time the spark.
+    </p>
+    <p>
+     There are two ways of making the spark happen sooner. Measure the engine vacuum, or measure the engine speed.
+    </p>
+    <p>
+     The centrifugal is the simplest. The distributor is geared to always turn at half engine speed. As the engine turns faster, so does the distributor.
+    </p>
+    <p>
+     Inside the distributor, the aforementioned cam is coupled to the distributor shaft by way of a movable plate. This plate also has some weights and springs under it. As the plate turns faster, centrifugal action pulls the weights outward. They work on a lever which then causes the cam to move slightly ahead of the plate. The faster it goes, the further the cam runs ahead, and the sooner the points do their little dance.
+    </p>
+    <p>
+     Houston, we have advance.
+    </p>
+    <p>
+     Enter the vacuum distributor.
+    </p>
+    <p>
+     Totally different concept. Here, the cam rides on a rigid shaft, and the points themselves move. As if life weren't confusing enough.
+    </p>
+    <p>
+     On the body of the distributor is a large vacuum diaphragm. One side is at atmospheric pressure, the other side is at carb pressure. Which, relative to atmospheric, is vacuum. This diaphragm has a little rod which acts upon the plate the points are on, causing it to revolve within the distributor. The more vacuum, the more the spark advances.
+    </p>
+    <p>
+     So, as you go faster, the engine draws more air, and the spark advances. You let off the gas, the spark goes back. Nice and smooth.
+    </p>
+    <p>
+     Isn't this neat? There's more.
+    </p>
+    <p>
+     The later model distributors, those found on most 1500 and 1600 cc engines, use a combination of both cantrifugal and vacuum advance.
+    </p>
+    <p>
+     It is my humble opinion that they work best. I've run 009 centrifugals on a stock 1600, a 1600 with an Engle 100 and a Weber progressive carb, a 1776 with an Engle 110 and the same Weber progressive carb, and an 1835 with some BugPack cam and dual Dellortos. And something tells me that the late-model stocker is a smoother choice. Mabey on a bigger engine. No hard data, no engineer's notes, just a funny feeling. The Force is with me.
+    </p>
+    <p>
+     There is of course more, but this is the basics. ;)
+    </p>
+    <p class="sig">
+                                                     -=&gt;Joe Perez&lt;=-<br/>
+                                                -=&gt;pinhead@grove.ufl.edu&lt;=-
+    </p>
+  </section>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/nodark/other/dizzy2">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>

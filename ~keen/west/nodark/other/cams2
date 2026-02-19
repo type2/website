@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Cam Sizes Error, long
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Cam Sizes Error, long
+    </h1>
+    <p>
+     Posted by Tom David
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Sun, 22 Dec 1996 23:37:57 -0800 (PST)</dd>
+    <dt>From</dt>
+    <dd>Tom David &lt;fidsatom@mail.execpc.com&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Cam Sizes Error, long</dd>
+   </dl>
+   <article>
+    <p>
+     About two days ago I accidently posted to the entire list a message about various cam gear sizing techniques useful for getting a correctly sized cam gear. After thinking this through a bit more, and after a nice insightful comment from Mike West, I've concluded that one of my suggested methods, " Junk Cam Gears Try It ", is counter productive and basically incorrect. This is written to describe why the error on my part and discuss just a bit more the concepts of gear size fitting.
+    </p>
+    <p>
+     First, VW camshaft come in 15 sizes. The sizes are variations in the pitch angle of the gear teeth. The pitch angle can be seen as the amount of " wedge " shape of each tooth. The basic function of a gear drive is to transfer energy through contact between the hills and valleys of the gears. Naturally the driving gear " pushes " the driven gear by contact on the flanks of the teeth, like pushing on the sides of the hills. Obviously the longer contact can be maintained between two surfaces the more energy can be transferred with the most even application of " pushing " pressure. A special curve was developed long ago to provide the best shape possible for the hills and opposing valleys and is called an Involute. Just as obviously one gears hills work with the opposing gears valleys and they transfer energy through involute contact. This shape isn't used by all gears but is used by many including VW camshafts.
+    </p>
+    <p>
+     It is my lack of understanding of the involute curve that lead me to give you all bum information. Here's how I came a cropper.
+    </p>
+    <p>
+     When one gear's tooth pitch angle is decreased it doesn't necessarily follow that the bottoms of the involutes are no longer in contact. The gears weren't contacting each other at the bottoms anyway ! That is one of the purposes of the involute, to get consistent and evenly distributed pressure on the gear flanks or hillsides where it can transfer the most energy. VW camshaft gears have different pitch angles to position the involute contact higher or or lower down on the gear flanks.
+    </p>
+    <p>
+     This should have been obvious to me as I can't recall a camshaft gear with wear patterns on the bottoms of the gear teeth or root. And it should have been obvious to me that the driving gear cannot push the driven gear by contact at the bottom of the involute.
+    </p>
+    <p>
+     Since I haven't seen wear on the bottoms of cam gears I jumped to the conclusion that it was possible to use old gears to find an approximate size. WRONG !!!!!!!!!! The gears aren't wearing at the bottoms ....but .......... they are wearing at different places on the gear flanks.
+    </p>
+    <p>
+     Changing the pitch angle just changes were precisely the involute contact occurs. Too tight a fit is when the gear teeth are forced together so closely that the wedge shape of the teeth doesn't have adequate clearance, the hills become too big for the valleys. Too loose a fit is when the hills and valleys have too much space between them.
+    </p>
+    <p>
+     In the case of VW the opposing teeth aren't supposed to ever touch as this is where oil goes, and the "pushing ", (one hill fitting in one valley ), forces that oil up the sides of the gear teeth providing lubrication.
+    </p>
+    <p>
+     In retrospect this seems completely obvious to me as I deal frequently with gear type oil pumps like VW's. And how did I think that a relatively soft alloy gear lasted ? After all the camshaft lobes have to push up the lifters against considerable pressure from the valve springs.
+    </p>
+    <p>
+     O.K., VW camshaft gear sizing is a function of positioning the involute part of the gear's respective contact surfaces in the proper position. But the flanks of the gears or sides of the little hills and valleys are just exactly where wear occurs. A junk cam gear will be worn out on the flanks thereby making its unworn pitch angle meaningless. Wear or lack thereof at the root of the teeth doesn't mean anything as there was never any contact there to begin with. Wear on the flanks of the teeth means that the number or camshaft gear size has become meaningless.
+    </p>
+    <p>
+     My apologizes to all, and again thanks to those of you who caught the fundamental error in my thinking.
+    </p>
+    <p>
+     Nonetheless, I have used gears from broken motors for many years exactly as I described to find a starting point for gear sizing. BUT what I didn't mention in my original post was that my test gears came from relatively fresh motors that with low miles. Like ones that had been hit hard enough in the rear to do damage to the cases, or cams that came out of a fresh rebuild where someone had forgotten to tighten the flywheel nut, or low milage motors that had been abused to the point of failure. What I have are actually fairly fresh camshaft gears, not new but pretty close.
+    </p>
+    <p>
+     I wasn't clear last time so I'll try again. I use these junk testing gears only,  REPEAT ONLY.... to get a starting point. Sometimes it becomes very difficult to find correctly fitting gears, and I'll bet most folks who work on these engines frequently have a nice selection of new camshafts with various gears. I know I do!
+    </p>
+    <p>
+     Finally, I think Gene Bergs Book of Technical Articles explains this much better that I have. As I mentioned, I used to get my Formula Vee cams from Vee Tech, and all my street and other racing cams from Berg. I recommend these sources without hesitation.
+    </p>
+    <p>
+     Thanks for your patience
+    </p>
+    <p>
+     Tom
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/nodark/other/cams2">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
