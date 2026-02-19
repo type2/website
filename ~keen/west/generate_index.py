@@ -113,7 +113,7 @@ def render(catalog: dict) -> str:
     parts.append("</header>")
     parts.append(
         '<p class="series-note">Pushing Back the Darkness is Mike West\'s archive of '
-        "late-'90s technical emails about air-cooled VW buses, Beetles, and Type 2 engines. "
+        "late-'90s technical emails about air-cooled VW buses, Beetles, and Type 1 engines. "
         "It's his working notebook for welding magnesium VW cases, balancing VW crankshafts, "
         "plumbing full-flow oil systems, fixing valve-train geometry, and testing every idea "
         "before bolting it back into a bus.</p>"
