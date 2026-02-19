@@ -54,11 +54,8 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         headers = {}
         for header_rule in self.vercel_config.get('headers', []):
             source = header_rule['source']
-            #this...strips the trailing slash off of the _rule_
-            #because even if we have at trailing slash on the URI path, it's not there when it gets here.
             normalized_source = source.rstrip('/')
-            # Check for exact match or regex match
-            if path == source or path.startswith(normalized_source) or re.match(source, path):
+            if path == source or path == normalized_source:
                 for header in header_rule['headers']:
                     headers[header['key']] = header['value']
                     logging.debug(f"Found header: {header['key']} = {header['value']}")
@@ -83,6 +80,10 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
             if key.lower() == 'content-type':
                 logging.debug(f"Applying content-type header: {key} -> {value}")
                 return value
+
+        lower_path = path.lower()
+        if lower_path.endswith(('.html', '.htm')):
+            return 'text/html'
 
         if not USE_MIME_TYPE_DETECTION:
             return super().guess_type(path)
