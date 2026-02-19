@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Hot-rodding the Fuel Injection
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Hot-rodding the Fuel Injection
+    </h1>
+    <p>
+     Posted by Mike West to the VintagVW list
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>
+     Date
+    </dt>
+    <dd>
+     Sat, 25 Oct 1997 16:18:32 -0700
+    </dd>
+    <dt>
+     From
+    </dt>
+    <dd>
+     Mike West &lt;mwest@CDSNET.NET&gt;
+    </dd>
+    <dt>
+     To
+    </dt>
+    <dd>
+     Multiple recipients of list VINTAGVW &lt;VINTAGVW@SJSUVM1.SJSU.EDU&gt;
+    </dd>
+    <dt>
+     Subject
+    </dt>
+    <dd>
+     Hot-rodding the Fuel Injection
+    </dd>
+   </dl>
+   <article>
+    <p>
+     I suppose I should preface this with my curriculum vitae . .
+    </p>
+    <p>
+     The only FI system I own is in a box under the work bench.
+    </p>
+    <p>
+     I have poked at a couple, even cured one . . stuck air flap.<br/>
+     Most of the time it's an air leak or clogged injector. . .
+    </p>
+    <p>
+     Then I send them down to a local place I know where they have<br/>
+     some decent equipment and expertise.
+    </p>
+    <p>
+     Read a book or two . . .
+    </p>
+    <p>
+      maybe this should be called "Science Fiction"
+    </p>
+    <p>
+     Carburetion is defined in my College Dictionary as:<br/>
+     " the process of metering air and fuel to an engine intake<br/>
+     system in the proper proportions for combustion".
+    </p>
+    <p>
+     So a Fuel Injection system is a "Carburetor".
+    </p>
+    <p>
+     Based on that, I wrote that piece on "Fuel Injection is Fun!"
+    </p>
+    <p>
+     Some guy recently wrote to me about that article . . .<br/>
+     Said he has a '79 with FI and what would I do to get more<br/>
+     "performance" out of it.
+    </p>
+    <p>
+     I told him that as I have been lead to believe, the FI system<br/>
+     he has is the best performer he can buy for that engine.
+    </p>
+    <p>
+     There is supposed to be a wider band of torque thru the entire<br/>
+     power curve. . . . .
+    </p>
+    <p>
+     I suggested he cherry out the FI and jack a fresh engine under<br/>
+     it, then get back to me . . . . .   :-)
+    </p>
+    <p>
+     The same is true in all cases, what good a big ass carb on a<br/>
+     sick engine? Or vice versa?
+    </p>
+    <p>
+     Based on his question and some stuff in my head, you get<br/>
+     another article of dubious value . . . :-)
+    </p>
+    <p>
+     How we're going to "hot-rod" FI.
+    </p>
+    <p>
+     Let's take a "virtual" look at one:
+    </p>
+    <p>
+     The first thing you notice is it's butt ugly . . . . :-)
+    </p>
+    <p>
+     Let's face it, there is no pride in the product even. . .
+    </p>
+    <p>
+     There is no polished aluminum or chrome, looks about as functional<br/>
+     in the box as it does on the engine.
+    </p>
+    <p>
+     There is no comparison to a set of dual carbs and linkage . :-)<br/>
+     You can intuit that those babies do mean stuff. . :-)
+    </p>
+    <p>
+     Throttle body injection still looks cool, it's just a carb<br/>
+     with an injector in place of all the needle valves.
+    </p>
+    <p>
+     This was the logical step after the "needle jet" carb.
+    </p>
+    <p>
+     What they had to have, was a way to put the heat sensor and the<br/>
+     O2 sensor in the loop so your engine could be tuned "on the<br/>
+     fly".
+    </p>
+    <p>
+     Our modern day setup where the injector is in the intake<br/>
+     manifold and points at the intake valve is called the "Tuned<br/>
+     port injection" I think.
+    </p>
+    <p>
+     I would imagine this was found necessary when they had to put<br/>
+     the Exhaust Gas Recirculation system in . . . .
+    </p>
+    <p>
+     The "TPI", as I refer to it above, is reputed to give a better<br/>
+     "Volumetric efficiency" meaning it can get more fuel in the<br/>
+     cylinder to burn than the throttle body type.
+    </p>
+    <p>
+     The injectors in the TPI sit right in the intake manifold tho<br/>
+     and are subject to high heat and vibration . . .  Woe . .
+    </p>
+    <p>
+     Here's what I have in mind for the box under the workbench . .
+    </p>
+    <p>
+     It's the complete FI system from a '83 2 liter flat four.
+    </p>
+    <p>
+     I'm going to build a 1904 cc out of a type 1 and strap that<br/>
+     FI system on it.
+    </p>
+    <p>
+     I haven't checked the numbers but I think even the injectors<br/>
+     will work.
+    </p>
+    <p>
+     If they are too big, I'll get some smaller ones.
+    </p>
+    <p>
+     There is a table floating around on the net giving fuel qty and time<br/>
+     etc. with part numbers so it should be no big deal.
+    </p>
+    <p>
+     I mentioned the cheat on the O2 sensor, or was it the temp sensor?<br/>
+     I can use these to change any value in the system I want.<br/>
+     Stick a potentiometer in the line and have my way with it.
+    </p>
+    <p>
+      My intent is to leave the O2 sensor alone so it reads correct.<br/>
+     Using that value, I change the value of the temp sensor to read low<br/>
+     which tells the brain to give me longer bursts of fuel.
+    </p>
+    <p>
+     Might still have to dink with the O2 sensor if it gets to fighting<br/>
+     with me. I could still get an accurate reading . . . . .
+    </p>
+    <p>
+     I could rig this to read and be adjusted from the dash, same as one of<br/>
+     "Claudes Buggies"&amp; Performance. I don't want to.
+    </p>
+    <p>
+      I may have a gage on the O2 sense for a while till I get it<br/>
+     tweeked.
+    </p>
+    <p>
+     I need to think on this some more but basically I'd size the injectors<br/>
+     such that they would handle my highest rpm fuel requirement.<br/>
+     The idle has to be kept in mind also.
+    </p>
+    <p>
+     I just sneaked a peek at Bruce Bowlings Program for sizing injectors<br/>
+     and thats all that it does. He give the algorithim of the program<br/>
+     for us physicists. . :-)
+    </p>
+    <p>
+     Now if this guy who wanted to tweek his 1600 rig built a big<br/>
+     engine to go under his FI, he would have some slightly<br/>
+     different problems . . .
+    </p>
+    <p>
+     He has a system with an air box and throttle body for a 1600<br/>
+     engine . . . .
+    </p>
+    <p>
+     So he'd have to round up a bigger air box etc. . . . maybe . . .<br/>
+     Maybe just a bigger Throttle Valve which is really an air valve.
+    </p>
+    <p>
+     Sizing the throttle valve should be on the same order as sizing a venturi,<br/>
+     still have to pull a vacuum for various reasons.<br/>
+     Probably grab one off a 1.8 liter bus. . .
+    </p>
+    <p>
+     Also bigger injectors but he can size those off Bowling . .
+    </p>
+    <p>
+     I don't see any need to ever change out his Brain. . .
+    </p>
+    <p>
+     The brain gets it's main signal from the distributor/coil . . .
+    </p>
+    <p>
+     So he gets an air box off a 2 liter Pinto . . . . no biggy . .
+    </p>
+    <p>
+     As long as it uses a flapper with a potentiometer on it, it can<br/>
+     be adjusted. Or some similarity . . .
+    </p>
+    <p>
+     I'll stop here briefly and elucidate, whatever that means. . .
+    </p>
+    <p>
+     The flap on the air mass sensor or air box is tied to an arm which<br/>
+     sweeps across a potentiometer(variable resistor) and gives a reading<br/>
+     between 100 and 300 ohms. . .  just a ferinstance, ymmv. . .
+    </p>
+    <p>
+     This reading is piped over to the brain where it tells the brain in<br/>
+     voltage, how much air is coming thru there.<br/>
+     This number is averaged by the brain and sent on to the fuel pulse<br/>
+     sender. This pulse guy reads the value and adjusts the pulse to the<br/>
+     injectors to give the right amount of fuel for stoich. ratio.
+    </p>
+    <p>
+     The pulse guy is also tied to the coil, so he knows When to send the<br/>
+     fuel out. . . .
+    </p>
+    <p>
+     This is checked by the O2 sensor when the smoke comes out the tailpipe<br/>
+     and if it's good, it leaves things alone. If it's not so good, the<br/>
+     O2 sensor sends a signal back that is part of the value the brain<br/>
+     was averaging in the first place. . . the value is increased or decreased<br/>
+     and the new value is fed to the injector pulse guy. . .
+    </p>
+    <p>
+     So if you don't like the way things are working, you take the bull<br/>
+     by the tail and Lie to the brain . . . .  :-)
+    </p>
+    <p>
+     This particular lie is accomplished by putting a potentiometer in the<br/>
+     line to the brain from the flapper potentiometer.<br/>
+     Now you adjust the pot to tell the brain it isn't really getting that<br/>
+     much air or it's getting more than it really is, depending on which<br/>
+     way you want to go on this thing.<br/>
+     The brain accepts that value and adjusts accordingly. You dog, you!
+    </p>
+    <p>
+     Other lies may be told by doing a similar deed to the temp sense and<br/>
+     the O2 sensor. . . . .
+    </p>
+    <p>
+     You don't like the pinto air box, build your own, some percentage larger<br/>
+     from sheet or tube aluminum . . now we're starting to make it<br/>
+     pretty!<br/>
+      Stick a pot from Radio Shack on the thing and get whatever you like.<br/>
+     Same for that throttle body . . it's just a butterfly valve.<br/>
+     Nothing electric about it, unless you count the switch that cuts out<br/>
+     the EGR at full throttle. Has a small screw that lets you by-pass the<br/>
+     valve and bleed air thru for idle. . .
+    </p>
+    <p>
+     As mentioned before, we should be able to cop parts off other<br/>
+     makes of cars as long as we understand the principles.
+    </p>
+    <p>
+     Say this guy builds a 1776, probably still use the same cold-<br/>
+     start valve and auxilliary air valve  . . . .
+    </p>
+    <p>
+     Decel valve, probably still work, haven't looked into it . .
+    </p>
+    <p>
+     Fuel pressure would still be alright, at some point you might<br/>
+     need a bigger pump tho I've heard the bottle neck is the size<br/>
+     of the fuel lines themselves.
+    </p>
+    <p>
+     The "fuel ring", steel tubing that carries the fuel to the injectors<br/>
+     is usually a two piece thing so that would be no problem. . .
+    </p>
+    <p>
+     Saw a "bad" looking Electric Turbo-charger Fan the other day.<br/>
+     This could be incorporated. . . .   :-)
+    </p>
+    <p>
+     More performance stuff would be getting your injectors balanced.
+    </p>
+    <p>
+     I see an outfit on the net, you send them five or six and they<br/>
+     send you four of them back perfectly balanced for volume/pulse-<br/>
+     width or some such.   Hi teck stuff , , ,
+    </p>
+    <p>
+     There are also companies already out there that want to sell<br/>
+     you a better injector, better spray pattern they say. . . .
+    </p>
+    <p>
+     There is one possible problem with the Stock Brain, it may<br/>
+     have a limit on the rpm.  Like, it may not go to ten grand .
+    </p>
+    <p>
+     Me personally, I have to stay somewhat lower than that, I don't<br/>
+     have gears to really use that kind of horsepower which is rpm.
+    </p>
+    <p>
+     I'd need that 5 speed gear box.
+    </p>
+    <p>
+     At this point you could go to the CB Performance which uses a<br/>
+     programmable ROM chip. . . . big bucks but you're obviously a racer.
+    </p>
+    <p>
+     We probably better put the CDI ignition in too . . .you knew that . .
+    </p>
+    <p>
+     The FI systems are getting better performance if you can believe any<br/>
+     of the data that is out there. . .
+    </p>
+    <p>
+     I have no data on  TBI vs TPI but it stands to reason that "VE" is<br/>
+     a fact and that weighs heavy. . . .
+    </p>
+    <p>
+     The TPI, where the injectors are right in the header, looks to me<br/>
+     like it might eat injectors. . . put little finned heat sinks on 'em.
+    </p>
+    <p>
+     Get a shop coat and a tie and go around mumbling things like<br/>
+     "pulse width" and "laminar flow". . . .
+    </p>
+    <p>
+     That and a thick wallet will have the girls swarming. .  :-)
+    </p>
+    <p>
+     Now we need a chrome air filter . . . . . .
+    </p>
+    <p>
+     west     pushing back the dark  . . .
+    </p>
+    <p>
+      If you have comments like I'm totally wrong about some part of this<br/>
+     well lay them on me. I'll need to correct them anyway.  :-)
+    </p>
+    <p>
+     Hot-rodding the Fuel Injection
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/hfi">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>

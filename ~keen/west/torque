@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Re: RFC: Torque, and tools. and what not to do...
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Re: RFC: Torque, and tools. and what not to do...
+    </h1>
+    <p>
+     Posted by Mike West to the VintagVW, VintageBus, and Type2 lists
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>
+     Date
+    </dt>
+    <dd>
+     Sun, 21 Jun 1998 14:26:01 -0700
+    </dd>
+    <dt>
+     From
+    </dt>
+    <dd>
+     mwest_at_cdsnet_dot_net (Mike West)
+    </dd>
+    <dt>
+     To
+    </dt>
+    <dd>
+     VintagVW_at_listproc.sjsu_dot_edu
+    </dd>
+    <dt>
+     Cc
+    </dt>
+    <dd>
+     type2_at_type2_dot_com, Vintage Bus &lt;vintagebus_at_type2_dot_com&gt;
+    </dd>
+    <dt>
+     Subject
+    </dt>
+    <dd>
+     Re: RFC: Torque, and tools. and what not to do...
+    </dd>
+   </dl>
+   <article>
+    <section class="question">
+     <blockquote>
+      <p>
+       When I started working on VW's, I was told by a very competent mechanic that whenever one uses an extension on a torque wrench, to set the wrench to 5 lbs higher than you would normally. 5 lbs for each extension.
+      </p>
+      <p>
+       Later, I asked him about deepwell sockets. He looked at me for a minute, then said he saw no reason to change for them. The 5 pounds is not for the length, but for the flex that happens in each socket joint.
+      </p>
+      <p>
+       I've been using this for a few years now with no noticed problem...anyone have any comments?
+      </p>
+      <p class="sig">
+       david · keen_at_finally.atlasta_dot_net
+      </p>
+     </blockquote>
+    </section>
+    <section class="reply">
+      <p>
+       Raistrick put you guys up to this didn't he . . ?   :-)
+      </p>
+      <p>
+       First he goes by with the bait, then a couple of you throw rocks.
+      </p>
+      <p>
+       Then you get "physicsdude" AKA "thingguy" to light a smoke pot near my hole . .
+      </p>
+      <p>
+       OK . . . I'm awake and totally pissed off . . . !  :-)
+      </p>
+      <p>
+       That A/A+B = Torque is if you put a crows-foot on the end of the torque wrench . . . "old handle/new handle . . ? a ratio
+      </p>
+      <p>
+       Another example is the "slugging wrench" for the rear axle nuts. It has a 1/2" drive socket in it that is 3-1/2" from the center of the nut. . . . need to do that ratio thing that "thingguy" brought up . .
+      </p>
+      <p>
+       Assuming the 6" from "thingguys" example, a 200 ft-lb torque on a 6" extension would give you 285 ft-lbs . . . It's a way to get more torque from your wrench than it's rated for.
+      </p>
+      <p>
+       Putting an extension or "cheater bar" on the handle end is not the same . . for that, you continue to read the gauge . . (bad)
+      </p>
+      <p>
+       David, however, was talking about an extension for the socket . . That which gives you an offset position for the wrench from the socket . .
+      </p>
+      <p>
+       For that we would have a torque loss equation . . .
+      </p>
+      <p>
+       You apply 50 ft-lbs of torque to a six inch extension to the socket . . the extension is steel and steel is still the most "elastic" material we have . . . .
+      </p>
+      <p>
+       Elasticity is defined as the amount of load that can be applied to a material under certain constraints and the material will return to its original shape . . .
+      </p>
+      <p>
+       So that extension is a spring . . . in our case, it is a "torsion spring" . . .
+      </p>
+      <p>
+       When you apply your force, the "spring" starts to wind up . .
+      </p>
+      <p>
+       When the spring rate reaches equalibrium with the force required to move the nut, then torque will be applied to the nut . . As it gets harder to turn the nut the spring must first "wind up" or deflect radially until a new equalibrium is reached. . .
+      </p>
+      <p>
+       The amount exerted to the nut will always be "less the amount used to deflect the shaft around it's axis" . . .
+      </p>
+      <p>
+       The torsion spring rate is relative to material spring rate times the cross-section of the shaft times the length of the shaft. .
+      </p>
+      <p>
+       You notice this when you are trying to loosen a nut with a long extension . . you get a lot of angular movement before you get the damn thing wound up enough to break that nut loose. . . Makes it almost impossible to use an extension on a impact-wrench.
+      </p>
+      <p>
+       I have this friend who is a power tool freak . . he's pulling a tranny from a ford SUV . . . he's clear behind the car, with about a four foot extension made up of about five pieces and he'e got an impact wrench on it to break a bolt loose up on the tranny. . . :-) Might as well beat it with a flower . . . :-) He doesn't take well to criticism so I left him to it . . :-)
+      </p>
+      <p>
+       So the spring is relative to the material of the extension and the diameter of the shaft and the length of the shaft times the force.
+      </p>
+      <p>
+       Going thru the numbers for a standard 1/2" shaft and 6" long, 5 lbs might be a good number for the 50 lbs in . . .
+      </p>
+      <p>
+       Only when you apply ten pounds or 150 lbs . . the number needs to change . . .
+      </p>
+      <p>
+       Without resorting to math, I'll tell you how to figure the spring rate for your extension . .
+      </p>
+      <p>
+       For a 1/2" drive torque wrench, get a 1/2" bolt and nut . . Get some lock washers and flat washers, 2 or 3 . . . If you have a pipe spacer, throw that in too . . Get a bolt about as long as you can set in the jaws of your vise.
+      </p>
+      <p>
+       No vise . . ? well you're SOL aren't you . . ?   :-)
+      </p>
+      <p>
+       The idea of the longer bolt is that it's a spring when it's pulled too . . the longer it is the more movement for a given force . .
+      </p>
+      <p>
+       Put the nut in the vise . . thread all that garbage on the bolt, put a flat washer between each lock washer and the faces of the nut and bolt-head . . .
+      </p>
+      <p>
+       Get a pair of calipers and your 12" extension bar . .
+      </p>
+      <p>
+       Put the extension on the torque wrench and torque the bolt down to a good number for a 1/2 or 13mm bolt . . . 50-80 ft-lb . .
+      </p>
+      <p>
+       Now take a measurement over the head to nut with the calipers.
+      </p>
+      <p>
+       Take the extension off and using the same number for tightening, see if you move the nut . . . bets are you will . .
+      </p>
+      <p>
+       If you can't tell if it moves, mark it with an index mark, nut to bolt . . .
+      </p>
+      <p>
+       Also take another measurement over-all. . . it got shorter.
+      </p>
+      <p>
+       Now start adding a pound or five to the reading/extension and testing with the real number w/o extension till it stops moving . . the measurement stays the same . .
+      </p>
+      <p>
+       You will have to do a series of tests relative to the torque to work out a sliding scale you can use. As in "add a pound for each 20 lbs of torque" . . .
+      </p>
+      <p>
+       Let's forget the whole thing and go get big heavy extension.
+      </p>
+      <p>
+       I have this maybe six inch extension for wheel nuts, etc. . .
+      </p>
+      <p>
+       It's 3/4 inch and looks like a nose-tackle . . :-)
+      </p>
+      <p>
+       Then I got a 3/4 X 1/2 short adapter to get me to my socket.
+      </p>
+      <p>
+       Has a spring rate of about 150 lbs on an 8 ft cheater bar. .
+      </p>
+      <p>
+       Oh, the number of socket connections is just slop to a torque wrench, no big deal other than the thing wants to bend all which way . . To an impact wrench it would be important if the spring rate didn't already defeat its purpose . .
+      </p>
+      <p>
+       None of this could be categorized a "sin"  . .  A sin is if you cause another un-necessary pain . . causing yourself pain is just stupid.   :-)
+      </p>
+      <p>
+       west   :-)
+      </p>
+    </section>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/torque">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
