@@ -83,7 +83,7 @@ def render(catalog: dict) -> str:
     )
     parts.append(
         ".series-note { max-width: 760px; margin: 0 auto 24px; padding: 0 20px; "
-        "color: #4f535c; text-align: center; }"
+        "color: #4f535c; text-align: left; }"
     )
     parts.append(
         ".table-wrap { background: #fff; border: 1px solid rgba(0,0,0,0.08); "
@@ -112,8 +112,11 @@ def render(catalog: dict) -> str:
     parts.append("<p>All messages posted with permission or by request.</p>")
     parts.append("</header>")
     parts.append(
-        '<p class="series-note">Pushing Back the Darkness was Mike West\'s running '
-        "series posted to the type2, vintagebus, and VintagVW mailing lists in the late 1990s.</p>"
+        '<p class="series-note">Pushing Back the Darkness is Mike West\'s archive of '
+        "late-'90s technical emails about air-cooled VW buses, Beetles, and Type 2 engines. "
+        "It's his working notebook for welding magnesium VW cases, balancing VW crankshafts, "
+        "plumbing full-flow oil systems, fixing valve-train geometry, and testing every idea "
+        "before bolting it back into a bus.</p>"
     )
 
     parts.append("<main>")
