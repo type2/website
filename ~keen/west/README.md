@@ -15,5 +15,5 @@ Run the generator from this directory:
 ```
 
 The script reads `darkness_catalog.json`, renders the Bootstrap-styled
-page, and writes the result to `index.html`. No other build steps are
-required—serve the HTML as-is.
+page, and writes the result to both `index.html` and `darkness.html`.
+No other build steps are required—serve the HTML as-is.

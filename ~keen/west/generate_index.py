@@ -158,6 +158,7 @@ def main() -> None:
     catalog = load_catalog(Path("darkness_catalog.json"))
     html_text = render(catalog)
     Path("index.html").write_text(html_text, encoding="utf-8")
+    Path("darkness.html").write_text(html_text, encoding="utf-8")
 
 
 if __name__ == "__main__":
