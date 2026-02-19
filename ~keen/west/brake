@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Brake warning light wiring
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Brake warning light wiring
+    </h1>
+    <p>
+     Posted by Unknown
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <article>
+    <section class="question">
+     <blockquote>
+      <p>
+       In the braking system is a hydraulic/electrical switch device with a piston in it. It is fed brake fluid from both circuits to opposite ends of the piston. So while everything is working properly than you apply the brakes the pressure on both ends of the piston will be equal, and it will do nothing. If either brake circuit fails the pressure becomes unequal and the piston moves, completing the electric circuit and lighting the warning lamp.
+      </p>
+     </blockquote>
+    </section>
+    <section class="reply">
+     <p>
+      At least in my '72 Karmann Ghia (and I believe in most 2-circuit VW's), this is not the case.
+     </p>
+     <p>
+      There are two switches, one on each circuit. These switches are used to light the brake lights in the back, and also work to light the brake warning light when there's something wrong. Each switch has 3 prongs, the inside of the switch looks like:
+     </p>
+     <pre>1   ___        ___   2
+       \      /
+            /
+           /-----&lt;pressure&lt;--------
+          |
+          |
+          3</pre>
+     <p>
+      (note: these numbers are not meant to correspond with the numbers on the switch!)
+     </p>
+     <p>
+      When there is insufficient pressure on the switch, it connects 3&amp;2 together, when there is enough pressure it connects 3&amp;1 together. You want +12 on 1, the warning light on 2, and the brake lights on 3. This way, your brake lights come on when you have enough pressure (1&amp;3 are connected), and your warning light only comes on when one has enough pressure (1&amp;3 are connected) and the other doesn't (3&amp;2 are connected) so it completes the circuit to the warning light.
+     </p>
+     <pre>                       warning light
+                          |
+                          |
+                  ________|______________________________________
+                  |                                             |
++12 ___        ___|                         +12 ___          ___|
+       \      /                                    \        /
+         \                                                /
+          \  enough pressure                             / insuff. pressure
+           |                                            |
+           |                                            |
+           |____________________________________________|
+           |
+           | brake lt.</pre>
+     <p>
+      You can see how this circuit to the warning light connects fully to +12 only when one cylinder has sufficient pressure and another doesn't.
+     </p>
+     <p>
+      In 1972, VW added an automatic lamp test to the brake lamp, by splicing it off of the generator light. People often seem to want to rewire stuff so that the lamp test works but then stays on all the time, which might explain why your light was on all the time.
+     </p>
+    </section>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/brake">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>

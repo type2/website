@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Choosing a Cam Shaft
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Choosing a Cam Shaft
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Mon, 13 Jan 1997 20:02:35 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@cdsnet.net&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Choosing a Cam Shaft</dd>
+   </dl>
+   <article>
+    <section class="question">
+     <blockquote>
+      <p>
+       Mike. I read your reply to a camshaft question on the VW list and as you are obviously very knowledgable on the subject I hope you can help me. I have a stock 1600 Brazil engine in my bug and want to liven it up a bit. The only modifications so far is a Holley carb (copy of a downdraft Weber)and a 009 distributor, the only other planned mod is a free flow exhaust.<br/>
+       My aim is to pull the torque peak as low as possible, for town driving, have reasonable fuel consumption at normal freeway speeds and to have a top speed of about 85 (VERY alert traffic cops here in Pasadena).<br/>
+       Can you suggest a suitable cam profile?.<br/>
+       I have asked several people who profess to know what they are talking about and have had a different answer from all of them.<br/>
+       Many Thanks
+      </p>
+     </blockquote>
+    </section>
+    <section class="reply">
+     <p>
+      - - - - - - - - - - - - - -
+     </p>
+     <p>
+      I got a couple three of these. So I assume there are a dozen more who won't even ask.
+     </p>
+     <p>
+      The names have been changed to confuse everyone.  :-)
+     </p>
+     <p>
+      First you are wrong about me knowing about cam shafts.
+     </p>
+     <p>
+      Six months ago I couldn't spell "cam".  :-)
+     </p>
+     <p>
+      I am an ex-engineer who is trying to be a mechanic and has the gall to drag a bunch of you along as I learn the trade.
+     </p>
+     <p>
+      I do have a couple books tho and have read them in order to understand "what's haps" myself.
+     </p>
+     <p>
+      One of the books is Bill Fishers "How to hot-rod a vw engine".
+     </p>
+     <p>
+      That's where most of the data I feed you today comes from.
+     </p>
+     <p>
+      Ok, we'll cover the question.
+     </p>
+     <p>
+      You have a 1600 and want low end torque and 85 mph and good fuel economy.
+     </p>
+     <p>
+      First let me say I hope it's a dual port, if it's not then get some on it. Biggest single item you can add for horse power and top end.
+     </p>
+     <p>
+      Since you gave me no data on the car, I'll use mine.
+     </p>
+     <p>
+      I have a '70 bug with a final drive pinion of 4.375 and a fourth gear of .88:1 .
+     </p>
+     <p>
+      When it feels well, it does 73mph in third but the passengers start trying to eject. I still have to replace the "Jesus handle" from last time.  :-)
+     </p>
+     <p>
+      85 mph is about my top end. I run out of air or the valves are floating.
+     </p>
+     <p>
+      I think it's the valves. By the way this is a single port with the stock 30 pict 3.
+     </p>
+     <p>
+      Part of the time this car has to "creep" up hills.
+     </p>
+     <p>
+      The roads are so bad that only by getting it down to where it is actually going boom - boom with the pistons , can I make it up the hill.
+     </p>
+     <p>
+      And then the majority of the time, it's just a trip to town and back.
+     </p>
+     <p>
+      In town I get no mileage at all and I swear it's the damned 009 dizzy.
+     </p>
+     <p>
+      OK we'll get back to cams. 85mph huh? Well rpm = mph X gear ratio X 336 divided by the tire diameter.
+     </p>
+     <p>
+      Using my gear ratios (the lowest VW made) I have .88 X 4.375 = 3.85:1
+     </p>
+     <p>
+      So 85mph X3.85 X 336 /25 inches comes out to a little under 4400 rpm.
+     </p>
+     <p>
+      I needed that number to get the next: CFM equal Liters times rpm divided by 56.64 . So 1.6 X 4400/56.64 is 124 CFM.
+     </p>
+     <p>
+      Now we go look at Mr. Fishers "flow charts".
+     </p>
+     <p>
+      For the dual port, I can get that from a stock cam at .300 lift.
+     </p>
+     <p>
+      Gives 130 CFM on the intake. 92 on the exhaust but that's to give a bit of back pressure.
+     </p>
+     <p>
+      The stock cam gives me a .320 lift actually.
+     </p>
+     <p>
+      If I want to port and polish, you can get about 10% better flow.
+     </p>
+     <p>
+      It's no secret that the VW engineers did their homework.
+     </p>
+     <p>
+      The Carb will match the valves and the valves will match the CFM of the cylinder bore. The stock carb might be a little small to give economy.
+     </p>
+     <p>
+      It's also a fact that anything you gain on top end with a cam, you lose on the bottom end.
+     </p>
+     <p>
+      My recomendation is use the stock cam, until you put in bigger cylinders.
+     </p>
+     <p>
+      Let's go look at my single port tho.
+     </p>
+     <p>
+      The .300 lift only gets 94 CFM and the exhaust 93.
+     </p>
+     <p>
+      Doesn't seem to be my valves at all, I've just run out of air.  :-)
+     </p>
+     <p>
+      Still, the fact is,I'm exceeding these flow readings by 25% if I can turn 85mph and 124 CFM. Not too shabby.  :-)
+     </p>
+     <p>
+      One step you haven't made that is a big hp gain is the extractor type exhaust. Good for about ten horses.
+     </p>
+     <p>
+      Go down and buy this Bill Fisher book, He has a whole chapter on "bolt on horsepower".
+     </p>
+     <p>
+      The only data I have on after-market cams is also in that book and it lists "Racer Brown" cams (is he still in the biz?) and the "Engle" cams.
+     </p>
+     <p>
+      It starts at the 110 Engle and has a .429 lift with the 1.1 rocker.
+     </p>
+     <p>
+      I could use some data, guys! hint, hint.   :-)
+     </p>
+     <p>
+      Also need flow data on the bigger valved heads.
+     </p>
+     <p>
+      I hope I've answered the question and if you need more just give a yell.
+     </p>
+     <p>
+      There are several hi-performance guys on the list here also. Actually running bigger bores and higher cams etc.
+     </p>
+     <p>
+      They'll be glad to help too.
+     </p>
+     <p>
+      west
+     </p>
+    </section>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/cam">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
