@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Gauges, Accuracy
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Gauges, Accuracy
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Wed, 1 Jan 1997 08:54:19 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@cdsnet.net&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Gauges, Accuracy</dd>
+   </dl>
+   <article>
+    <p>
+     The accuracy of gauges.
+    </p>
+    <p>
+      One of the brothers recently pointed out some fairly cheap ways to get a gauge in the system.
+    </p>
+    <p>
+     Kudos to Mike Jones for bringing it up.
+    </p>
+    <p>
+     I want to cover another aspect of gauges tho, that has nothing to do with their price etc.
+    </p>
+    <p>
+     In the world at large, it is considered foolish to put a remote gauge in a system without a direct reading gauge right at the unit being measured to check it against.
+    </p>
+    <p>
+     This is where your life or the life of some expensive machinery is at risk.
+    </p>
+    <p>
+     So right along side that remote sending unit will be a big direct reading mercury thermometer. Or a Bourdon tube press. gauge.
+    </p>
+    <p>
+     VW engines don't really fall in that category unless you're poor like me. :-)
+    </p>
+    <p>
+     The gauges we use, ie. elect. sender to elect. gauge are remote gauges. It isn't too practical to put in a direct gauge as vibration will eat the thing.
+    </p>
+    <p>
+     The temp sender is alright as far as construction is concerned but the pressure sensor is a type called "Aneroid", a diaphragm chingadero. I was warned about those in grade school.
+    </p>
+    <p>
+     Ok, we use them and rely on them, I suppose.
+    </p>
+    <p>
+     Let's see what we can do here.
+    </p>
+    <p>
+     One more item of interest: all gauges read the most accurate at the 60% range. Which means if you want to read a 60 psi circuit you put in a 100 psi gauge and sender.
+    </p>
+    <p>
+     Now we look at calibration.
+    </p>
+    <p>
+     Temperature gauges are easy, we have two standards in our lives called "frozen" and "boiling".
+    </p>
+    <p>
+     Stick the sensor in ice water, (with cubes) to check the acurracy of that end and in boiling (just rolling) water to check the other.
+    </p>
+    <p>
+     We're not so lucky when it comes to standards to check a pressure sensor and gauge.
+    </p>
+    <p>
+     In the industry, there are 2 ways. One is against a master gauge. One that has been calibrated and is certified.
+    </p>
+    <p>
+     The second method is on a "dead-weight" tester, which is how the master gauge got calibrated.
+    </p>
+    <p>
+     A dead-weight tester is a one inch piston with fluid under it, and weights are stacked on it pushing the fluid into the gauge you're testing.
+    </p>
+    <p>
+     I wish I could pull a rabbit out of the hat and tell you how to whip one up out of cardboard but there is no chance.
+    </p>
+    <p>
+     Your best shot here would be to buy a very good bourdon tube gauge for a "master" and take it to a lab and have it calibrated.
+    </p>
+    <p>
+     Then you could test your sensors and other gauges against it.
+    </p>
+    <p>
+     I suppose I should mention that your gauges are reliant on a voltage source. Some more than others.
+    </p>
+    <p>
+     You have low voltage, I would expect your gauge to read low.
+    </p>
+    <p>
+     Since they work in the millivolt range I doubt that's a big issue.
+    </p>
+    <p>
+     Location of senders has already been covered by various members, no point in belaboring that again.
+    </p>
+    <p>
+     Recomendations? Don't count on your gauges too much.
+    </p>
+    <p>
+     Periodically check them against a standard.
+    </p>
+    <p>
+     Put in a fitting where you can take a direct reading to check them one against the other.
+    </p>
+    <p>
+     that's all, west :-)
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/gauges">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>

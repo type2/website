@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Dwell Meter/Tachometer, operation of.
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Dwell Meter/Tachometer, operation of.
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Sun, 5 Jan 1997 14:57:40 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@CDSNET.NET&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Dwell Meter/Tachometer, operation of.</dd>
+   </dl>
+   <article>
+    <p>
+     Since many found the article on the timing light useful, I have to assume there are more who haven't tried the dwell meter yet.
+    </p>
+    <p>
+     Personally, I can recall a guy having one but no instructions and what the hell am I supposed to do with that bar-looking connection?
+    </p>
+    <p>
+     Most of the dwell meters are called "Engine Analyzers".
+    </p>
+    <p>
+     Big smoke, little fire. Still, they do a number of things we need to know about.
+    </p>
+    <p>
+     Setting the points or reading the rpm are only two of the functions.
+    </p>
+    <p>
+     These things all look about the same. Box with a guage in it and wires hanging out of it. Couple of knobs to "do things" with.
+    </p>
+    <p>
+     Maybe six scales on the gauge face. Bit daunting to the neophite.
+    </p>
+    <p>
+     Let's look at those wires "a-dangling".
+    </p>
+    <p>
+     Power: some are 12 volt and some are plug in 110, I guess.
+    </p>
+    <p>
+     Mine is a 12 volt Sears job. Nothing but the best at my house. :-)
+    </p>
+    <p>
+     So it has two big alligator clips for power, Red and Black.
+    </p>
+    <p>
+     Red is positive 12 volt and the black is the negative or ground.
+    </p>
+    <p>
+     Just hook it to the battery or whatever you work out.
+    </p>
+    <p>
+     Now we might as well address the two wires with the metal bar between them.
+    </p>
+    <p>
+     Coil that up and put a rubber band around it.
+    </p>
+    <p>
+     It's for reading amps and we'll get to it later in the show.
+    </p>
+    <p>
+     That taken care of, we just have one loose wire left, with a small alligator clip.
+    </p>
+    <p>
+     Mine has a green insulator over it but yours may not.
+    </p>
+    <p>
+     Hook that one to the same place on the coil that the distributor is hooked to.
+    </p>
+    <p>
+     Now we get to "do things". :-) Knobs and levers time!
+    </p>
+    <p>
+     First we "calibrate" the gauge. If the gauge doesn't read zero right now, you see that little slotted screw head just below the face?
+    </p>
+    <p>
+     Get a screw driver that fits that slot and turn it till the gauge reads "zero". Hum a little mantra, "I hope this works", know the tune? :-)
+    </p>
+    <p>
+     Tell the bystanders in officious tones, "gotta keep these things calibrated".
+    </p>
+    <p>
+     Now the knobs: mine has a slide switch for "amps" and "other stuff".
+    </p>
+    <p>
+     First we'll check "Continuity of the Points System"
+    </p>
+    <p>
+     Yours may have a knob with a position for every function in which case you're screwed. Try the "volts".
+    </p>
+    <p>
+     Now that I have my switch on "other tests", I turn my attention to the knob and turn it to "points".
+    </p>
+    <p>
+     Here's where you pull the distributor cap and check the points visually.
+    </p>
+    <p>
+     Since I did a post on what points are supposed to look like in something called "points and dwell", we won't go into all the details again.
+    </p>
+    <p>
+     Let me just say they should be greyish with shiny contacts and set initially at .016" (.4mm).
+    </p>
+    <p>
+     Ok, it says put the cap back on tho I have no idea why.
+    </p>
+    <p>
+     Now pull the center tap out of the dizzy and lay it on the engine where it will "ground" out.
+    </p>
+    <p>
+     Now you turn the key on and take a look at the scale on the gauge for "points".
+    </p>
+    <p>
+     If it reads 1 volt, the points are open.
+    </p>
+    <p>
+     Crank the starter (have someone else) until it reads the lowest which will be with the points closed.
+    </p>
+    <p>
+     If it reads below .2 volts, all is well. If it reads above that, odds are you have a bad connection or the points themselves are bad.
+    </p>
+    <p>
+     This is kind of an "off the wall" way to check continuity of the points and connections thereof, but it's there, you might as well use it.
+    </p>
+    <p>
+     We finally get to the "Dwell":
+    </p>
+    <p>
+     With the same setup as above, meaning the connections and the center tap on the coil "grounded", you flip the knob on the "analyzer" over to "dwell". My slide switch stays on "other tests".
+    </p>
+    <p>
+     Using a remote starter or a partner you crank the engine while observing the scale for "4 cylinder dwell".
+    </p>
+    <p>
+     Dwell for new points is spec'ed at 44 to 50 degrees. Used points, 42 to 58 degrees.
+    </p>
+    <p>
+     If it's too long, open the point gap up and if too little, close them.
+    </p>
+    <p>
+     You can also check dwell with the engine running which is generally what I do if it's just a check.
+    </p>
+    <p>
+     Now with the center tap of the dizzy plugged in and the engine up and running, the same lead hooked to the same spot of the coil, ie. the spot where the points are hooked to the coil, you just flip the knob over to "4 cyl. rpm" and you can now read the rpm off the "rpm scale".
+    </p>
+    <p>
+     So now you are using it as a tachometer.
+    </p>
+    <p>
+     My scale for rpm only goes to 2000. Well bummer if you want the top end right? No problema, hermanos, flip the knob to "8 cylinder rpm and multiply by 2. Now you can read up to 4000 rpm.
+    </p>
+    <p>
+     Most of the time you're adjusting idle so 2000 rpm is ok.
+    </p>
+    <p>
+     Now we do a "Cranking Volts Test"
+    </p>
+    <p>
+     Same setup as before, green lead to the same tap as the distributor, center tap of the dizzy pulled and grounded on the engine, slide switch on "other tests", move the selector knob to "Volts".
+    </p>
+    <p>
+     One item, the engine should be warm and at operating temperature before making any electrical tests.
+    </p>
+    <p>
+     You'll be reading the Volts scale this time. It goes up to 16v.
+    </p>
+    <p>
+     Crank the starter for 10 seconds while watching the reading.
+    </p>
+    <p>
+     A steady reading above 9.6 volts indicates all is well.
+    </p>
+    <p>
+     A reading below that means you have a problem somewhere. Check all the connections before you start blaming the battery. Grounds, grounds, gr. .
+    </p>
+    <p>
+     If the reading fluctuates, you have a defect in the starter or one of the connections.
+    </p>
+    <p>
+     Now the "Charging System Volts":
+    </p>
+    <p>
+     Same setup as before except you get to plug the hi-volt lead back in the dizzy and start the car.
+    </p>
+    <p>
+     Run the engine at 1500-2000 rpm. Just flip the selector over to "rpm" if you want to read that.
+    </p>
+    <p>
+     Anyway with it back on "Volts" read the 0-16 volt scale.
+    </p>
+    <p>
+     The reading should be between 13.2 and 15.2, with or without the lights blowers, etc. That's from my instruction sheet.
+    </p>
+    <p>
+     VW is a little different. It says "no-load: 13.5-14.5 volts. Loaded: 12.8-13.8 volts. This is "regulator" cut-in, cut-out.
+    </p>
+    <p>
+     It then turns around in another section and tells me that if the battery voltage exceeds 15.5 volts, the the plates are sulfated and it should be replaced.
+    </p>
+    <p>
+     "Make it so", troops. :-)
+    </p>
+    <p>
+     We get to use the wires with the little bar now.
+    </p>
+    <p>
+     This is the "Amperage Test" of the Alternator.
+    </p>
+    <p>
+     Here is also a case where a little knowledge will wipe out your "sparky".
+    </p>
+    <p>
+     The little bar is called a "shunt" and it goes in place of the outlet cable on the gen/alternator.
+    </p>
+    <p>
+     The regular output cable is now hooked to the other side of the shunt and things go on as normal while the shunt, "shunts" power to both inputs.
+    </p>
+    <p>
+     The dial on mine will read up to 160 amps.
+    </p>
+    <p>
+     I won't go into this further except to say if you want to check this you "must" consult the Bentley manual for the proper hook-up.
+    </p>
+    <p>
+     There are tests you can do to a generator that you can't do to an alternator and obviously there are different ways to hook this up for both.
+    </p>
+    <p>
+     You're better off to pull the thing and take it to the Repair shop for the free test. Otherwise, get into the manual mentioned and do it right.
+    </p>
+    <p>
+     One last item, the "low voltage" gauge labeled "points" is also good for testing the "continuity" of any of your cables etc.
+    </p>
+    <p>
+     Use the green clip and the black "ground" clip. the red is not used.
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/tach">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
