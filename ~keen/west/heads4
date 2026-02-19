@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Re: Jug spacers and head alignment
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Re: Jug spacers and head alignment
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Thu, 26 Dec 1996 15:58:57 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@cdsnet.net&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Re: Jug spacers and head alignment</dd>
+   </dl>
+   <article>
+    <section class="question">
+     <blockquote>
+      <p>
+       Now for the question.
+      </p>
+      <p>
+       How far off can the total height of the two jugs be (i.e. crank center line to top of jug) before there is a problem with the heads not seating properly. I have never heard this referenced so I am guessing it is not a problem.
+      </p>
+      <p>
+       It seems logical that if there is any difference, the head would have to distort to seal the two jugs or there would be a wedge formed at the mating surfaces. Since there is no gasket, I am guessing that the head distorts to the mating surface as there are four studs around each cylinder.
+      </p>
+      <p>
+       Thanks<br/>
+       Dennis Farr
+      </p>
+     </blockquote>
+    </section>
+    <section class="reply">
+     <p>
+      Dennis, the center line of the crank ceases to be of any concern here. Just the height of the jugs, the flatness of the spigot faces to each other and the flatness and depth of the bores in the heads.
+     </p>
+     <p>
+      If the case is fly-cut on the spigot surface, it's done in one setup, so those are probably under .001" of being flat to each other.
+     </p>
+     <p>
+      If your heads are new the same is true there.
+     </p>
+     <p>
+      If they are not new then you do need some inspection in regards to depth of the bores and flatness to each other. Mainly the same depth.
+     </p>
+     <p>
+      This only leaves the height of the jugs themselves. And your spacers.
+     </p>
+     <p>
+      These have an apparent + - .005 tolerance, so they can be .010" different in height.
+     </p>
+     <p>
+      Out of four that I recently measured, I'll be able to get them within .002-.003" of each other. I just have to put the long with the long and vice versa.
+     </p>
+     <p>
+      From the factory, I would expect there can be some .015" difference and that the head is capable of standing that.
+     </p>
+     <p>
+      Still, you are right in that it throws a stress into the head when bolted down.
+     </p>
+     <p>
+      As an example of what can happen tho, I see a stress crack in one of the old heads I was playing with some time back, right thru the intake manifold, along a parting line of the mold.
+     </p>
+     <p>
+      Another thing that happens, is the torque we use to pull them down with is being used to warp that head instead of pulling the two sealing surfaces evenly into each other. Possible leaker there.
+     </p>
+     <p>
+      Bottom line: .015" (.4mm) max misalignment.
+     </p>
+     <p>
+      That also assumes you are building a stock engine and compression.
+     </p>
+     <p>
+      It's an easy number to keep under .005" and could be worth your while in the long run.
+     </p>
+     <p>
+      I will sacrifice CR balance before I'll put those heads in a bind.
+     </p>
+     <p>
+      west
+     </p>
+    </section>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/heads4">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
