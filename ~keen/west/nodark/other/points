@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Re: The Coil n' Points, Alternate version
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Re: The Coil n' Points, Alternate version
+    </h1>
+    <p>
+     Posted by Michael T Butler
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>
+     Date
+    </dt>
+    <dd>
+     Mon, 16 Dec 1996 23:13:48 -0500
+    </dd>
+    <dt>
+     From
+    </dt>
+    <dd>
+     Michael T Butler &lt;MTBANDCO@AOL.COM&gt;
+    </dd>
+    <dt>
+     Subject
+    </dt>
+    <dd>
+     Re: The Coil n' Points, Alternate version
+    </dd>
+   </dl>
+   <article>
+    <p>
+     I submit a slightly modified version of the function and interaction of coil, points, rotor and plugs.
+    </p>
+    <p>
+     1. The coil is similar to a transformer in that it has primary and secondary windings, and in that its purpose is to generate a very hi voltage/low amperage current by manipulating a relatively low voltage/hi amp current.
+    </p>
+    <p>
+     2. The primary winding has a few hundred turns of a relatively heavy wire to carry a relatively lo volt hi amp current. The secondary winding has many thousands of turns of a relatively fine wire to carry the hi volt lo amp current to the rotor thence to the correct plug. 2. The Hi volt Lo amp current in the secondary (which goes to the plugs, and across their gaps) is caused by induction, a phenomenon that occurs when there is relative motion between a magnetic field (caused by current flow in the primary windings) and a wire or coil of wire, namely the secondary windings.  In a simple generator this relative motion is brought about by mechanical motion; rotating the windings on a shaft through a field produced by permanent magnets. The faster the relative motion, the higher the voltage produced.  The more windings, the more amperage possible.
+    </p>
+    <p>
+     In a coil, this relative motion is brought about without mechanical motion by the extremely rapid collapse (near the speed of light) of the magnetic field induced by current flow in the primary winding, which collapse occurs when the points open and cut off power to the primary winding. The speed of collapse, the original intensity of the collapsing magnetic field combined with the longer length of the secondary windings is what gets you that nice blue zap at the gap of your plug. (I have always wondered why the field doesn't just disappear, instead of collapsing, but collapse it does.)
+    </p>
+    <p>
+     So the function of the points is to cut off current to the primary windings at precisely the right time (governed by the cam, cam follower and correct adjustment of the point gap) thus causing the hi speed collapse of the induced magnetic field through the secondary windings.
+    </p>
+    <p>
+     The function of the rotor is to direct that hi volt lo amp surge to the correct plug gap (across which it arcs) immediately above the piston just approaching completion of the compression stroke, at TDC.
+    </p>
+    <p>
+     The function of the condensor is to prevent or minimize arcing across the points as the primary field collapses.
+    </p>
+    <p>
+     The distributor shaft turns at half the speed of the crankshaft because a spark is not needed at TDC of the exhaust stroke.
+    </p>
+    <p>
+     Reference: Dept of the Army TM9-8000 /  Department of the Air force TO 36A-1-76,  Chapter 10,  Electrical Systems, Pages 151-210
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/nodark/other/points">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
