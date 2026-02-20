@@ -74,3 +74,10 @@ article p {
   color: #4f535c;
   font-style: italic;
 }
+pre.mono {
+  font-family: "Courier New", Courier, monospace;
+  white-space: pre-wrap;
+  margin: 1rem 0;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
