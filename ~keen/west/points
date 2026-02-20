@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Points and Dwell
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Points and Dwell
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Mon, 16 Dec 1996 21:50:20 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@cdsnet.net&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Points and Dwell</dd>
+   </dl>
+   <article>
+    <p>
+     Points and Gapping or "Dwell".
+    </p>
+    <p>
+     Thanks to Michael Butler for pointing out I'd glossed over this function a bit too fast in "Coils n' points"
+    </p>
+    <p>
+     The points control the field of the secondary winding in the coil and this could go on indefinitely within reason. Like burning up the points.
+    </p>
+    <p>
+     Here's the part I didn't mention, it's when the points open, that the coil gets desperate for a way out. There's no ground thru the points to bleed to.
+    </p>
+    <p>
+     In the micro or millisecond after the points open is when the coil fires the spark plug.
+    </p>
+    <p>
+     So, the length of time the points are closed is the length of time the field has to build it's charge.
+    </p>
+    <p>
+     Too much is not good for points, and too little is not good for building the fire with.
+    </p>
+    <p>
+     That length of time the points are closed and open is the "dwell" and is controlled by the gap in the points.
+    </p>
+    <p>
+     If the points are closed too long, they don't get the spark to the plug at the right time for the piston.
+    </p>
+    <p>
+     The spark shows up too late, well the piston left without it! :-)
+    </p>
+    <p>
+     Same as a too retarded timing on the dizzy spindle and low power to you.
+    </p>
+    <p>
+     If the points are gapped too much, the spark will get there too soon. Notice how pinging is often the result of the points gap?
+    </p>
+    <p>
+     So it might be worth your while to go check it, as long as you're out there changing oil anyway. :-)
+    </p>
+    <p>
+     west there's still more dark out there!
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/points">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
