@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Wire Ampacities and Kirchoff
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Wire Ampacities and Kirchoff
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Tue, 10 Dec 1996 22:49:21 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@CDSNET.NET&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Wire Ampacities and Kirchoff</dd>
+   </dl>
+   <article>
+    <p>
+     Roadkill Electronics or how we come to know Kirchoff.
+    </p>
+    <p>
+     I think this will be a new series on electrical stuff.
+    </p>
+    <p>
+     Ben Franklin, the dicoverer was our kind of guy.
+    </p>
+    <p>
+     You all know the story, he's out flying a damn kite in a lightning storm with the house key up the string.
+    </p>
+    <p>
+     That was to keep the housekeeper locked out, kind of mess with her mind thing.
+    </p>
+    <p>
+     Ben is humming something that faintly resembles "reach up... and touch the sky"
+    </p>
+    <p>
+     Zap! goes the lightning, Zing! goes Bens muscles, Whizz! goes the trousers trout, right down his leg.
+    </p>
+    <p>
+     Definitely a man ahead of his time.
+    </p>
+    <p>
+     The housekeeper quit, right then and there.
+    </p>
+    <p>
+     He was the Ambassador to Europe at the time, so he's hangin' with the guys at the old Savoy.
+    </p>
+    <p>
+     Some of the guys were Ohm, Ampere, and Count Etcha Volt.
+    </p>
+    <p>
+     He tells them the story and they all got a laugh.
+    </p>
+    <p>
+     I'm not sure whether Galvani was there or not.
+    </p>
+    <p>
+     So they all went home and played with it a while and wrote "papers" proclaiming their discovery and naming it after themselves.
+    </p>
+    <p>
+     None of them had "real" jobs.
+    </p>
+    <p>
+     Watt was an engineer and eventually had to clean up this mess and equate it to something real, like "horsepower".
+    </p>
+    <p>
+     Well enough frivolous history.
+    </p>
+    <p>
+     These numbers below are the ampacity of some of the wire sizes in our "small wonder" machines.
+    </p>
+    <p>
+     In your manuals, under schematics, you will see some small numbers alongside the wires. Those are the metric sizes of the wire used.
+    </p>
+    <p>
+     From that you can deduce what size fuse goes in your circuit.
+    </p>
+    <p>
+     No, it is not "cool" to have all red ones in there.
+    </p>
+    <p>
+     0.5mm: (.032") 5 amps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.0mm: (.063") 15 amps<br/>
+     0.75mm:(.029") 7 amps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.5mm: (.071") 17 amps<br/>
+     1.0mm: (.045") 9 amps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.0mm: (.110") 35 amps<br/>
+     1.5mm: (.055") 13 amps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25mm : (.225") 80 amps
+    </p>
+    <p>
+     Now we've done the academic thing we can get back to frivolity.
+    </p>
+    <p>
+     This is a hypothetical situation and never happens to V-dubs, but you might stumble over some guy with a Maseratti and have to play "good samaritan".
+    </p>
+    <p>
+     It's 2 a.m. in the middle of the corn-belt in Iowa, it's dark, it's raining and you're wearing sun glasses.
+    </p>
+    <p>
+     He's daintily poking around under the dash when you arrive and ask the question.
+    </p>
+    <p>
+     His windshield wipers are out.
+    </p>
+    <p>
+     You mosey back to the van and get your trouble light etc. Coffee can full of tools.
+    </p>
+    <p>
+     You poke up in there and do your magic act and come back out with the answer.
+    </p>
+    <p>
+     "Your wiper motor's shot, dude"
+    </p>
+    <p>
+     Can't drive in this rain without one so you offer a ride.
+    </p>
+    <p>
+     Won't leave his car in this terrible place.
+    </p>
+    <p>
+     Offers money... hmmm.
+    </p>
+    <p>
+     Over in the field is a '32 Packard, abandoned, so you wander over for a look.
+    </p>
+    <p>
+     It has a windshield wiper motor, might still work.
+    </p>
+    <p>
+     Back to the Maseratti and look at the physicals, hmmm, it's doable.
+    </p>
+    <p>
+     Still need a resistor for the six volt motor, hmmm.
+    </p>
+    <p>
+     Back over to the Packard where you do a dissection while you think about the other problem.
+    </p>
+    <p>
+     Suddenly a light goes on... and you remember Kirchoff.
+    </p>
+    <p>
+     Kirchoff was a heavy who did some work on series circuits based on Ohms Law.
+    </p>
+    <p>
+     <strong>Kirchoffs Laws</strong>
+    </p>
+    <p>
+     The resistance of a series combination is the sum of the resistance of the separate parts.
+    </p>
+    <p>
+     Current thru a series combination is the same as the current thru each part.
+    </p>
+    <p>
+     Voltage across a series combination is the sum of the voltages across the separate parts.
+    </p>
+    <p>
+     You chuckle a little and step back and look at the tail-lights.
+    </p>
+    <p>
+     Yes there's still one with a bulb. Looks ok.
+    </p>
+    <p>
+     You hang the wiper motor in with two bolts, fix the mis-aligning and different size shafts with a piece of fuel hose and hose clamps.
+    </p>
+    <p>
+     Now for the master-piece: you go back to the Packard and pull the tail-light socket and bulb and clean it up and wire it in series with the 6 volt motor.
+    </p>
+    <p>
+     The guy is moaning by now but you continue on like a man maddened.
+    </p>
+    <p>
+     Flip the power on and voila, wiper action. the wipers turn while the tail light burns.
+    </p>
+    <p>
+     The guy gets back in his car gingerly, and with dubiety, it's been fixed by a V-dubber after all, smiles wanly, and peels out of there!
+    </p>
+    <p>
+     You laugh hysterically for the next hundred miles. :-)
+    </p>
+    <p>
+     What Kirchoff says back there is if you stick 2 six volt loads in a 12 volt system they work just fine.
+    </p>
+    <p>
+     A tail light bulb will probably carry 4 amps, about the same as a wiper motor so we should be alright there.
+    </p>
+    <p>
+     The second law is the one that gives us the six volts.
+    </p>
+    <p>
+     The third law says the amperage will be what it should be.
+    </p>
+    <p class="sig">
+     west, this electricity is fun stuff!
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/wire">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>

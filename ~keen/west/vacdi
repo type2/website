@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Vacuum Gauge Diagnostics
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Vacuum Gauge Diagnostics
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Thu, 5 Dec 1996 21:49:41 -0800</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@CDSNET.NET&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Vacuum Gauge Diagnostics</dd>
+   </dl>
+   <article>
+    <p>
+     What a can of worms this subject turned out to be.
+    </p>
+    <p>
+     Diagnosing a sick pig using a vacuum gauge.
+    </p>
+    <p>
+     Someone, named Dave asked if I'd do one, he'd heard it was the Ultimundo of techniques. Not!
+    </p>
+    <p>
+     I suddenly remembered telling you to get a vacuum gauge for the fuel injection stuff and then I got to wiring in radio parts in the FI and was having so much fun I forgot.
+    </p>
+    <p>
+     The reason I said you needed one is logical enough, there's a vacuum influenced pressure regulator in the FI.
+    </p>
+    <p>
+     And then there's the vacuum operated or influenced distributor, and every once in a while you run across this note that says "check the vacuum".
+    </p>
+    <p>
+     You check the voltage before the components, right? Ought to be that way with vacuum.
+    </p>
+    <p>
+     I've got this old Clymers that we're going to peel some data out of and it says a fresh engine is pulling 18-22 in hg (inches of mercury) at idle rpm.
+    </p>
+    <p>
+     I wanted to double check and went looking.
+    </p>
+    <p>
+     VW will not say. They will tell you anything but.
+    </p>
+    <p>
+     Since they are working around it, we'll just work around the other way.
+    </p>
+    <p>
+     There are disclaimers in that book. "Vacuum gauge data is the easiest to read but the hardest to interpret".
+    </p>
+    <p>
+      What they are telling us there is that there is more than one way on an engine to affect the vacuum reading.
+    </p>
+    <p>
+      So you will have to use this data as a secondary clue.
+    </p>
+    <p>
+     Well let's see what it turns out like.
+    </p>
+    <p>
+     You plug this into the line with a tee on some hose from the intake manifold, as in the hose to your vacuum dizzy, or one of the lower ports on the carburetor.
+    </p>
+    <p>
+     Ok, 18-22"hg on a stock engine at idle.
+    </p>
+    <p>
+     I seem to recall a reading on my bug of 18"hg, just a stock 1600 SP.
+    </p>
+    <p>
+     The book says as low as 15 with a high lift cam and large overlap.
+    </p>
+    <p>
+     These will be steady readings, not big flutters.
+    </p>
+    <p>
+     The third and still a steady reading is late timing. 14"-17"hg that's with normal cam. At idle on these.
+    </p>
+    <p>
+     Here's where it gets hard. You have to put yourself in the engine.
+    </p>
+    <p>
+     Shades of John Muir! You must be one with the engine and it will repair itself, Grasshopper.
+    </p>
+    <p>
+     Visualize, the piston comes over the top and has already started down on the power stroke before the spark goes off, just milliseconds off the mark.
+    </p>
+    <p>
+     Incomplete burn, probably increased CO and HC.
+    </p>
+    <p>
+     Wow! I must have read my own stuff! advance the timing just a hair and see if it affects it.
+    </p>
+    <p>
+     Ok, give me another.
+    </p>
+    <p>
+     The next one is still a steady reading at idle, 8"-15"hg.
+    </p>
+    <p>
+     The cause here is late valve timing. Which mean the piston is there but the valves weren't opening yet.
+    </p>
+    <p>
+     Two answers on this one: 1) your valves need set. 2) your cam is slightly off and there's nothing you can do till re-build.
+    </p>
+    <p>
+     If I was getting the 8"hg reading, I might consider pulling it out soon.
+    </p>
+    <p>
+     By the way, I do know there are some vac distributors that need up to 13"hg but that's not at idle.
+    </p>
+    <p>
+     How else could I check that? Damned if I know. It would be a low power and I think hot engine condition on a new re-build maybe, after everything else was checked out.
+    </p>
+    <p>
+     So there are four ways you could have the same vacuum reading.
+    </p>
+    <p>
+     If this was to continue, I'd just throw up my hands and quit.
+    </p>
+    <p>
+     Still with little thought, you can use that data.
+    </p>
+    <p>
+     The next one is a steady but very low reading, shows a gauge with 4"hg and is an intake manifold leak.
+    </p>
+    <p>
+     That's an easy as that's where the vacuum is made. It could be a small leak and on an engine that used to pull 18"hg is now pulling 15". So now I have 5 ways to get the same reading at idle.
+    </p>
+    <p>
+     Still, with back-firing or high CO, you have another indication.
+    </p>
+    <p>
+     Here's another normal reading: The vacuum drops to 2"hg, then rises to 25"hg when the accelerator is rapidly depressed and then released.
+    </p>
+    <p>
+     For worn rings or diluted oil, the above will drop to 0"hg and rise to 22"hg.
+    </p>
+    <p>
+     The next condition is sticking valve: it will have a normally steady reading but will flick downward about 4"hg intermittently.
+    </p>
+    <p>
+     A regular drop of about 2" back and forth is a leaking valve.
+    </p>
+    <p>
+     A burned or warped valve is a regular down flicking of about 4"hg.
+    </p>
+    <p>
+     Worn valve guides is an oscillation from the steady reading of 2" above to 2"hg below.
+    </p>
+    <p>
+     Weak valve springs: violent oscillation of about 10"hg as rpm increases. Often steady at idle.
+    </p>
+    <p>
+     So I think we're getting some good out of this. :-)
+    </p>
+    <p>
+     Now for vacuum float which is a slow swing of the reading.
+    </p>
+    <p>
+     Improper idle mixture: floats between 13"-17"hg.
+    </p>
+    <p>
+     Small spark gap or defective points: slight float between 14-16"hg.
+    </p>
+    <p>
+     That would be a tough call but it would give you a place to look.
+    </p>
+    <p>
+     A head leak: it says it floats between 5"-19"hg.
+    </p>
+    <p>
+     Restricted exhaust system: Normal when started but drops to 0" as the rpm increases. May eventually rise to about 16"hg.
+    </p>
+    <p>
+     About all I can say on this subject is it gives you some new clues and a way to use that new vacuum gauge.
+    </p>
+    <p>
+     I would go get some readings while my engine was new and well and record them. Then it would be of some value.
+    </p>
+    <p>
+     On a strange engine of unknown starting point it would have less value except in cases of valves or springs.
+    </p>
+    <p>
+     Hope it's of some value to us all.
+    </p>
+    <p class="sig">
+     west — didn't get much light out of this.
+    </p>
+    <p>
+     anyone has additional data, let me know and we'll take another look at this.
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/vacdi">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>

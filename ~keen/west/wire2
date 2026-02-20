@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Re: Wire Ampacities and Kirchoff
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Re: Wire Ampacities and Kirchoff
+    </h1>
+    <p>
+     Posted by Jeff Diebolt
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Sat, 14 Dec 1996 16:02:10 -0500</dd>
+    <dt>From</dt>
+    <dd>Jeff Diebolt &lt;jdiebolt@UP.NET&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Re: Wire Ampacities and Kirchoff</dd>
+   </dl>
+   <section class="question">
+    <blockquote>
+     <p>
+      0.5mm: (.032") 5 amps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.0mm: (.063") 15 amps
+     </p>
+     <p>
+      0.75mm:(.029") 7 amps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.5mm: (.071") 17 amps
+     </p>
+     <p>
+      1.0mm: (.045") 9 amps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.0mm: (.110") 35 amps
+     </p>
+     <p>
+      1.5mm: (.055") 13 amps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25mm : (.225") 80 amps
+     </p>
+    </blockquote>
+   </section>
+   <section class="reply">
+    <p>
+     The inches above could cause some trouble. Especially the 25mm. As most of us know 1 inch is 25.4mm. So a wire with a .225" diameter would be toast at 80 amps. We also have the problem of buying wire sized with the American Wire Gauge (AWG) that is sized in circular mils (CM).
+    </p>
+    <p>
+     A circular mil is the cross sectional area of the conductor, A = diameter squared. A wire .005" in diameter is 5 mils, 5 x 5 is 25, the wire is 25 circular mils. So what the heck does that mean for metric?
+    </p>
+    <p>
+     We only need to concern ourselves with a few sizes. Auto makers don't use a large variety of wires sizes. Most currents aren't that great in automotive systems, except of course the starting and charging circuits.
+    </p>
+    <ul>
+     <li>10 gauge wire is 10381.0 CM or .10189" diameter, which is 2.59mm.</li>
+     <li>12 gauge wire is 6529.0 CM or .0808" diameter, which is 2.05mm.</li>
+     <li>14 gauge wire is 4106.8 CM or .06408" diameter, which is 1.63mm.</li>
+     <li>16 gauge wire is 2582.9 CM or .05082" diameter, which is 1.29mm.</li>
+     <li>18 gauge wire is 1624.3 CM or .0403" diameter, which is 1.02mm.</li>
+    </ul>
+    <p>
+     None of the sizes work out exact. Always choose a wire larger that the metric calls for. If the diagram calls for a 1.5mm wire use a 14 gauge wire, it is slightly larger. A simple rule of thumb for current to wire size is 10 gauge wire 30 amps, 12 gauge wire 20 amps and 14 gauge wire 15 amps.
+    </p>
+    <p>
+      When making wiring repairs we used to use 8 gauge for the charging circuit, 10 gauge for the power to the ignition switch and solenoid signal for the starter. 14 gauge for electric stuff, wiper motors and headlights etc. and 16 gauge for turn signals and running lights etc.
+    </p>
+    <p class="sig">
+     Greetings from Michigan's Upper Peninsula<br/>
+     Jeff &amp; Jean-Marie Diebolt<br/>
+     jdiebolt@up.net
+    </p>
+   </section>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/wire2">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>

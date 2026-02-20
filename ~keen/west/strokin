@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Strokin' and engines
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link rel="stylesheet" href="/~keen/west/west.css"/>
+ </head>
+ <body>
+  <div class="container">
+   <header>
+    <h1>
+     Strokin' and engines
+    </h1>
+    <p>
+     Posted by Mike West
+    </p>
+   </header>
+   <div class="nav">
+    <a href="/~keen/west/darkness.html">
+     ← Back to Pushing Back the Darkness
+    </a>
+   </div>
+   <dl class="meta">
+    <dt>Date</dt>
+    <dd>Sun, 8 Dec 1996 19:56:35 -0800 (PST)</dd>
+    <dt>From</dt>
+    <dd>Mike West &lt;mwest@cdsnet.net&gt;</dd>
+    <dt>Subject</dt>
+    <dd>Strokin' and engines</dd>
+   </dl>
+   <article>
+    <p>
+     I will tell you what I've turned and it fits Bobs description of 2 stroke 4 cycle. He can nod or ignore us as he is wont to do. :-)
+    </p>
+    <p>
+     The only place in engine calcs that stroke is a value is in Indicated Horsepower. ihp = PLAN/33,000.
+    </p>
+    <p>
+     Where:
+    </p>
+    <dl class="formula">
+     <dt>P</dt>
+     <dd>mean effective pressure of exploded gases in psi</dd>
+     <dt>L</dt>
+     <dd>length of stroke in feet</dd>
+     <dt>A</dt>
+     <dd>area of cylinder in square inches</dd>
+     <dt>N</dt>
+     <dd>number of power strokes per minute</dd>
+    </dl>
+    <p>
+     It goes on to say: In a four cycle engine an explosion takes place on alternate down strokes of each piston.
+    </p>
+    <p>
+     This means the crankshaft makes 2 revolutions for each power stroke.
+    </p>
+    <p>
+     Then if we are considering a four cylinder, four cycle engine, there will be 4 times 1/2 = 2 power strokes per revolution.
+    </p>
+    <p>
+     In an eight cylinder engine there will be 4 power strokes per rev. (end quote)
+    </p>
+    <p>
+     Nowhere else will a definition of stroke mean squat.
+    </p>
+    <p>
+     I know I have been in error, one that carries over from the 8 cylinder cars. They are truly 4 stroke.
+    </p>
+    <p>
+     Our favorite beastie is a 2 stroke 4 cycle in the engineering sense of the word. Knowing that I can calculate a value.
+    </p>
+    <p>
+     OTOH many of you will prefer to keep your definitions and that's OK by me.
+    </p>
+    <p class="sig">
+     west
+    </p>
+   </article>
+   <p style="margin-top:16px;font-size:0.85rem;color:#5e626a; text-align:right;">
+    <a href="/~keen/west/original/strokin">
+     Original message
+    </a>
+   </p>
+  </div>
+ </body>
+</html>
