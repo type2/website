@@ -64,6 +64,9 @@ def render(catalog: dict) -> str:
     parts.append("<head>")
     parts.append('<meta charset="utf-8">')
     parts.append("<title>Pushing Back the Darkness - Mike West Notes</title>")
+    parts.append(
+        '<meta name="description" content="Pushing Back the Darkness collects Mike West\'s late-90s Volkswagen Type 2 technical memos on welding, crank balancing, oiling mods, and diagnostics."/>'
+    )
     parts.append('<meta name="viewport" content="width=device-width, initial-scale=1">')
     parts.append('<link rel="stylesheet" href="/css/bootstrap.min.css">')
     parts.append("<style>")
