@@ -14,6 +14,202 @@
     {
       "source": "/airs/",
       "destination": "/airs/main/"
+    },
+    {
+      "source": "/library/body.htm",
+      "destination": "/library/type2/body.htm"
+    },
+    {
+      "source": "/library/Karl.htm",
+      "destination": "/library/type2/Karl.htm"
+    },
+    {
+      "source": "/library/brakes.htm",
+      "destination": "/library/type2/brakes.htm"
+    },
+    {
+      "source": "/library/camper.htm",
+      "destination": "/library/type2/camper.htm"
+    },
+    {
+      "source": "/library/chemicals.htm",
+      "destination": "/library/type2/chemicals.htm"
+    },
+    {
+      "source": "/library/cooling.htm",
+      "destination": "/library/type2/cooling.htm"
+    },
+    {
+      "source": "/library/drivetra.htm",
+      "destination": "/library/type2/drivetra.htm"
+    },
+    {
+      "source": "/library/electrip.htm",
+      "destination": "/library/type2/electrip.htm"
+    },
+    {
+      "source": "/library/electris.htm",
+      "destination": "/library/type2/electris.htm"
+    },
+    {
+      "source": "/library/engineg.htm",
+      "destination": "/library/type2/engineg.htm"
+    },
+    {
+      "source": "/library/enginem.htm",
+      "destination": "/library/type2/enginem.htm"
+    },
+    {
+      "source": "/library/exhaust.htm",
+      "destination": "/library/type2/exhaust.htm"
+    },
+    {
+      "source": "/library/exterior.htm",
+      "destination": "/library/type2/exterior.htm"
+    },
+    {
+      "source": "/library/fuel.htm",
+      "destination": "/library/type2/fuel.htm"
+    },
+    {
+      "source": "/library/heating.htm",
+      "destination": "/library/type2/heating.htm"
+    },
+    {
+      "source": "/library/identifi.htm",
+      "destination": "/library/type2/identifi.htm"
+    },
+    {
+      "source": "/library/interior.htm",
+      "destination": "/library/type2/interior.htm"
+    },
+    {
+      "source": "/library/library.htm",
+      "destination": "/library/type2/library.htm"
+    },
+    {
+      "source": "/library/mainten.htm",
+      "destination": "/library/type2/mainten.htm"
+    },
+    {
+      "source": "/library/misc.htm",
+      "destination": "/library/type2/misc.htm"
+    },
+    {
+      "source": "/library/parts.htm",
+      "destination": "/library/type2/parts.htm"
+    },
+    {
+      "source": "/library/reading.htm",
+      "destination": "/library/type2/reading.htm"
+    },
+    {
+      "source": "/library/suspens.htm",
+      "destination": "/library/type2/suspens.htm"
+    },
+    {
+      "source": "/library/tires.htm",
+      "destination": "/library/type2/tires.htm"
+    },
+    {
+      "source": "/library/",
+      "destination": "/library/type2/library.htm"
+    },
+    {
+      "source": "/library/index.html",
+      "destination": "/library/type2/library.htm"
+    },
+    {
+      "source": "/library/body/(.*)",
+      "destination": "/library/type2/body/$1"
+    },
+    {
+      "source": "/library/brakes/(.*)",
+      "destination": "/library/type2/brakes/$1"
+    },
+    {
+      "source": "/library/camper/(.*)",
+      "destination": "/library/type2/camper/$1"
+    },
+    {
+      "source": "/library/chemicals/(.*)",
+      "destination": "/library/type2/chemicals/$1"
+    },
+    {
+      "source": "/library/cooling/(.*)",
+      "destination": "/library/type2/cooling/$1"
+    },
+    {
+      "source": "/library/drivetra/(.*)",
+      "destination": "/library/type2/drivetra/$1"
+    },
+    {
+      "source": "/library/electrip/(.*)",
+      "destination": "/library/type2/electrip/$1"
+    },
+    {
+      "source": "/library/electris/(.*)",
+      "destination": "/library/type2/electris/$1"
+    },
+    {
+      "source": "/library/engineg/(.*)",
+      "destination": "/library/type2/engineg/$1"
+    },
+    {
+      "source": "/library/enginem/(.*)",
+      "destination": "/library/type2/enginem/$1"
+    },
+    {
+      "source": "/library/exhaust/(.*)",
+      "destination": "/library/type2/exhaust/$1"
+    },
+    {
+      "source": "/library/exterior/(.*)",
+      "destination": "/library/type2/exterior/$1"
+    },
+    {
+      "source": "/library/heat/(.*)",
+      "destination": "/library/type2/heat/$1"
+    },
+    {
+      "source": "/library/heating/(.*)",
+      "destination": "/library/type2/heating/$1"
+    },
+    {
+      "source": "/library/identifi/(.*)",
+      "destination": "/library/type2/identifi/$1"
+    },
+    {
+      "source": "/library/interior/(.*)",
+      "destination": "/library/type2/interior/$1"
+    },
+    {
+      "source": "/library/mainten/(.*)",
+      "destination": "/library/type2/mainten/$1"
+    },
+    {
+      "source": "/library/misc/(.*)",
+      "destination": "/library/type2/misc/$1"
+    },
+    {
+      "source": "/library/parts/(.*)",
+      "destination": "/library/type2/parts/$1"
+    },
+    {
+      "source": "/library/reading/(.*)",
+      "destination": "/library/type2/reading/$1"
+    },
+    {
+      "source": "/library/tires/(.*)",
+      "destination": "/library/type2/tires/$1"
+    },
+    {
+      "source": "/library/fuel/(.*)",
+      "destination": "/library/type2/fuel/$1"
+    },
+    {
+      "source": "/library/suspens/(.*)",
+      "destination": "/library/type2/suspens/$1"
     }
   ],
   "rewrites": [
