@@ -210,6 +210,10 @@
     {
       "source": "/library/suspens/(.*)",
       "destination": "/library/type2/suspens/$1"
+    },
+    {
+      "source": "/nesstek/(.*)",
+      "destination": "/library/nesstek/$1"
     }
   ],
   "rewrites": [
