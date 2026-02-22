@@ -220,12 +220,28 @@
       "destination": "/library/type2/images/$1"
     },
     {
+      "source": "/library.htm",
+      "destination": "/library/type2/library.htm"
+    },
+    {
       "source": "/lists/type2/listinfo",
       "destination": "/lists/type2/main"
     },
     {
       "source": "/lists/type2/listinfo/(.*)",
       "destination": "/lists/type2/main/$1"
+    },
+    {
+      "source": "/type2reflect",
+      "destination": "/lists/type2/archive/index.html"
+    },
+    {
+      "source": "/vintagebusreflect",
+      "destination": "/lists/vintagebus/archive/index.html"
+    },
+    {
+      "source": "/archives",
+      "destination": "/lists/type2/archive/index.html"
     },
     {
       "source": "/lists/vintagebus/listinfo",
