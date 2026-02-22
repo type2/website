@@ -214,6 +214,10 @@
     {
       "source": "/nesstek/(.*)",
       "destination": "/library/nesstek/$1"
+    },
+    {
+      "source": "/library/images/(.*)",
+      "destination": "/library/type2/images/$1"
     }
   ],
   "rewrites": [
