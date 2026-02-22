@@ -137,114 +137,101 @@
 <script>
 
 function displayPosition(position) {
-	console.log(position);
-	map.setView([position.coords.latitude, position.coords.longitude], 13);
-	map.on('dragend', 
-		function() { 
-			var center = map.getCenter();
-			console.log(center);
-			var position = { coords: { latitude: center.lat, longitude: center.lng } };
-			points.clearLayers();		
-			loadAIRS(position);
-			});
-	loadAIRS(position);
+  console.log(position);
+  map.setView([position.coords.latitude, position.coords.longitude], 13);
+  map.on('dragend',
+    function() {
+      var center = map.getCenter();
+      console.log(center);
+      var position = { coords: { latitude: center.lat, longitude: center.lng } };
+      points.clearLayers();
+      loadAIRS(position);
+      });
+  loadAIRS(position);
 }
 
 function getLocation() {
-	var geolocation = null;
-	console.log('getting location');
-	if (window.navigator && window.navigator.geolocation) {
-		geolocation = window.navigator.geolocation;
-	}
-	if ( geolocation ) {
-		console.log('I have a geo');
-		geolocation.getCurrentPosition(function(position) { console.log(position); displayPosition(position); });
-	} else {
-		console.log('tis no work');
-		x.innerHTML = "Geolocation is not supported by this browser.";
-	}
+  var geolocation = null;
+  console.log('getting location');
+  if (window.navigator && window.navigator.geolocation) {
+    geolocation = window.navigator.geolocation;
+  }
+  if ( geolocation ) {
+    console.log('I have a geo');
+    geolocation.getCurrentPosition(function(position) { console.log(position); displayPosition(position); });
+  } else {
+    console.log('tis no work');
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
 }
 
 function zipLookup() {
-	console.log($('#zipcode').val());
-	$.getJSON('/airs/zipcheck/' + $('#zipcode').val(), 
-		function (data) {
-			console.log(data);
-			var position = { coords: { latitude: data.info.lat, longitude: data.info.lon } };
-			displayPosition(position);
-		});
+  console.log($('#zipcode').val());
+  $.getJSON('/airs/zipcheck/' + $('#zipcode').val(),
+    function (data) {
+      console.log(data);
+      var position = { coords: { latitude: data.info.lat, longitude: data.info.lon } };
+      displayPosition(position);
+    });
 }
 
 function loadAIRS(position) {
-  $.getJSON('/airs/members/' + position.coords.latitude + 
-  	    '/' + position.coords.longitude,
-	    function (data) {
-		    console.log(data);
-		    points = 
-		    	L.geoJson(data, 
-				{ style: function(feature) {
-					    return { color: feature.properties.color };
-				},
-				  pointToLayer: function(feature, latlng) {
-					  var marker = L.AwesomeMarkers.icon({
-						  icon: 'ambulance',
-						  prefix: 'fa',
-						  markerColor: 'red'
-					  });
-					  if ( feature.properties.marker != 'airs' ) {
-						  marker = L.AwesomeMarkers.icon({
-							  icon: 'star',
-							  markerColor: 'green'
-						  });
-					  }
-					  return L.marker(latlng, { icon: marker });
-				  },
+  $.getJSON('/airs/members/' + position.coords.latitude +
+        '/' + position.coords.longitude,
+      function (data) {
+        console.log(data);
+        points =
+          L.geoJson(data,
+        { style: function(feature) {
+              return { color: feature.properties.color };
+        },
+          pointToLayer: function(feature, latlng) {
+            var marker = L.AwesomeMarkers.icon({
+              icon: 'ambulance',
+              prefix: 'fa',
+              markerColor: 'red'
+            });
+            if ( feature.properties.marker != 'airs' ) {
+              marker = L.AwesomeMarkers.icon({
+                icon: 'star',
+                markerColor: 'green'
+              });
+            }
+            return L.marker(latlng, { icon: marker });
+          },
 
-				  onEachFeature: onEachFeature,
+          onEachFeature: onEachFeature,
 
-				}).addTo(map);
-		    map.fitBounds(points.getBounds());
-	    }
-	    );
+        }).addTo(map);
+        map.fitBounds(points.getBounds());
+      }
+      );
 }
 
 function onEachFeature(feature, layer) {
-	var popupContent = "";
-	if ( feature.properties && feature.properties.popupContent ) {
-		popupContent += feature.properties.popupContent;
-	}
-	layer.bindPopup(popupContent);
+  var popupContent = "";
+  if ( feature.properties && feature.properties.popupContent ) {
+    popupContent += feature.properties.popupContent;
+  }
+  layer.bindPopup(popupContent);
 }
 
 $(document).ready( function () {
-	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?', { attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?', { attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
 ;
-	$('#searchgo').click( function () { zipLookup(); } );
-	getLocation();
-	$('#locateme').click(
-		function () {
-			getLocation();
+  $('#searchgo').click( function () { zipLookup(); } );
+  getLocation();
+  $('#locateme').click(
+    function () {
+      getLocation();
 
-		}
-		);
+    }
+    );
 }
 );
 var map = new L.Map('map');
 var points;
 </script>
-<!--
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- type2_main 
-<ins class="adsbygoogle"
-     style="display:block"
-          data-ad-client="ca-pub-3785913025356437"
-	       data-ad-slot="7516194300"
-	            data-ad-format="auto"></ins>
-		    <script>
-		    (adsbygoogle = window.adsbygoogle || []).push({});
-		    </script>
-<br/>
--->
 <div class="footer">
 <div class="container">
 <br/>
@@ -263,7 +250,7 @@ var points;
 <br/>
             For help with your Volkswagen Vanagon: <a href="http://gerry.vanagon.com/">vanagon.com</a>
 <br>A small army of volunteers help support type2.com. Want to help? <a href="/donate">Click Here</a> (temporarily paused)
-	<br>Site Design by Tyler Hardison
+  <br>Site Design by Tyler Hardison
         </br></br></p>
 </div>
 </div>
