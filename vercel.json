@@ -218,6 +218,22 @@
     {
       "source": "/library/images/(.*)",
       "destination": "/library/type2/images/$1"
+    },
+    {
+      "source": "/lists/type2/listinfo",
+      "destination": "/lists/type2/main"
+    },
+    {
+      "source": "/lists/type2/listinfo/(.*)",
+      "destination": "/lists/type2/main/$1"
+    },
+    {
+      "source": "/lists/vintagebus/listinfo",
+      "destination": "/lists/vintagebus/main"
+    },
+    {
+      "source": "/lists/vintagebus/listinfo/(.*)",
+      "destination": "/lists/vintagebus/main/$1"
     }
   ],
   "rewrites": [
