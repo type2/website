@@ -12,6 +12,41 @@ branch lineage (`master` = canonical, mirrored on host branches).
 Site URL history: type2.com → Vercel (dead) → statichost.page (partial) →
 **deploybase primary**.
 
+## Feature matrix: what works, what needed fixing
+
+Site quirks vs host behavior, all verified live 2026-11-20:
+
+| Feature | Vercel | statichost | deploybase |
+|---------|--------|------------|------------|
+| 62 redirects | `vercel.json` native | `_redirects` native | `_redirects` native |
+| Splat captures `/x/(.*)` | `(.*)` + `$1` | `/*` + `:splat` | `/*` + `:splat` |
+| Redirect-before-files | default | `301!` force | `301!` force |
+| 308 status | default | no (301/302 only) | ✅ supported |
+| Extensionless `/locate` | renders (header override) | renders (browser sniff, empty CT) | **octet-stream download** → fixed: build renames to `.html`, clean URLs render |
+| Symlink dirs `/bartnik/` | native | native (filesystem) | **dropped by builder** (output loses ~8k files) → fixed: `tar -ch` deref in build |
+| Trailing slash `/locate/` | native (`/x/` canonical) | native 308 → `/x` | none → fixed: 458 generated `/x/ → /x 301` lines |
+| Custom 404 | `404.html` | `404.html` | `404.html` |
+| Content-Type override | `vercel.json` headers | `_headers` file | **no feature** → rename workaround makes it moot |
+
+Result: one repo state (extensionless + symlinks intact, Vercel-compatible)
++ per-host configs. deploybase needs the build step; statichost and Vercel
+would work without it.
+
+## Why the build transform exists (deploybase only)
+
+1. deploybase clone follows `git clone` semantics; its uploader drops
+   symlinked dir contents from output (first deploy: 13,240 uploaded but
+   5,000 published). `tar -ch` dereferences into real dirs.
+2. deploybase sets Content-Type from file extension only — no override
+   feature at all. Renaming `locate` → `locate.html` + native clean URLs
+   (`/foo` serves `foo.html` as text/html) is the only render path.
+3. Rename creates new URL shape; generated redirect lines keep every old
+   slash-form URL working.
+
+Rename list source of truth: `vercel.json` header rules (458 paths).
+Regenerate: `python3 scripts/vercel-to-statichost.py` (writes `_redirects`
++ `_headers`; `rename-list.txt` from same source).
+
 ## Who reads what
 
 | File | Vercel | statichost | deploybase |
