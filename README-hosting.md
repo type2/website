@@ -47,6 +47,30 @@ Rename list source of truth: `vercel.json` header rules (458 paths).
 Regenerate: `python3 scripts/vercel-to-statichost.py` (writes `_redirects`
 + `_headers`; `rename-list.txt` from same source).
 
+## History
+
+Full raw history: [README-HISTORY.md](README-HISTORY.md). Cleaned essentials:
+
+- **Provenance**: this repo = 12/2022 wallflower static capture of the perl
+  site, assembled from purple.type2.com `public_html` filesystem, reflecting
+  how the webserver served it incl. homedirs. Dynamic parts dead in static
+  form (search, list archives interfaces).
+- **Overlay strategy**: newer content overlaid on old site, old URLs primary.
+  25 years of backlinks on both http and https must keep working — the core
+  constraint driving every migration decision.
+- **Six symlinks**: `bartnik`, `rvanness`, `rescue`, `archives`, `m-codes`,
+  `molenari`. `archives` = tracked elsewhere; not part of deploy content.
+- **Extensionless content-type battle** (per host, historical):
+  - Cloudflare Pages: no way to set content-types for un-extensioned files =
+    dead on arrival (previous attempt)
+  - Render: dashboard-defined headers only, broken clone since 12/2023
+  - Vercel: MIME from extension only (vercel/vercel#9498) → generated 458
+    header rules; dir paths without trailing slash broke relative links
+  - statichost: `_headers` file solves it
+  - deploybase: no override at all → build-time rename + clean URLs
+- **oldarchive**: +4 GB of archive content, breaks Vercel deployments, never
+  committed. Absent from all hosts.
+
 ## Who reads what
 
 | File | Vercel | statichost | deploybase |
