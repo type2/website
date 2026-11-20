@@ -9,7 +9,8 @@ mkdir -p out
 tar -ch --exclude=./.git --exclude=./out -cf - . | tar -xf - -C out
 cd out
 
-rm -f _headers build-static.sh rename-list.txt
+rm -f _headers build-static.sh rename-list.txt statichost.yml
+rm -rf scripts
 
 while IFS= read -r p; do
   [ -n "$p" ] || continue
