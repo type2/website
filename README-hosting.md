@@ -142,12 +142,12 @@ extensionless, symlinks stay symlinks. All transforms happen build-side.
 
 ## DNS / cutover
 
-- type2.com CNAME → `type2.statichost.page` (set 2026-11-20, provider has
-  no TTL control — propagation on their schedule)
-- **TODO deploybase cutover**: dashboard → domains → add `type2.com` +
-  `www`, follow DNS instructions, then remove/replace the statichost CNAME
-- Verify after cutover: same curl battery as
-  2026-11-20 (redirects/symlinks/extensionless/404)
+- **2026-11-20: `www.type2.com` → `deploybase-d-dbfeb1027e9e6429.b-cdn.net.`**
+  deploybase = production, live.
+- **Apex `type2.com`**: registrar redirect service (`64.98.135.108`) 302s
+  to `www.type2.com` — verified working, no action needed
+- statichost = warm backup (`type2.statichost.page`), not DNS-connected
+- Verify after apex fix: curl battery + `curl -I https://type2.com/`
 
 ## TODO
 
