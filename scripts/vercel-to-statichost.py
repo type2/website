@@ -43,7 +43,7 @@ print(f"_redirects: {len(vcfg.get('redirects', []))} rules")
 hlines = ["# generated from vercel.json by scripts/vercel-to-statichost.py"]
 n = 0
 for h in vcfg.get("headers", []):
-    path = h["source"]
+    path = h["source"].rstrip("/")  # statichost canonical = no trailing slash
     keys = {hh["key"] for hh in h["headers"]}
     if keys != {"Content-Type"}:
         print(f"SKIP non-Content-Type header: {path}")
